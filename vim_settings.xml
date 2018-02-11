@@ -15,11 +15,11 @@
         <mark key="^" line="5" column="53" />
         <mark key="." line="5" column="53" />
       </file>
-      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" timestamp="1518387499343">
+      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" timestamp="1518388455630">
         <mark key="'" line="29" column="16" />
-        <mark key="[" line="38" column="0" />
-        <mark key="]" line="38" column="0" />
-        <mark key="." line="38" column="0" />
+        <mark key="[" line="136" column="0" />
+        <mark key="]" line="136" column="0" />
+        <mark key="." line="136" column="0" />
       </file>
       <file name="$USER_HOME$/Sites/FlaskApp/templates/interactive.html" timestamp="1514787861252">
         <mark key="[" line="6" column="73" />
@@ -672,10 +672,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ZGIuY3VycmVudF9hcHBra2tra2tra2tra2tra2trCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>k</text>
       </register>
       <register name="/" type="4">
         <text>exc</text>
@@ -684,31 +684,31 @@
         <text encoding="base64">ICAgIHVwZGF0ZXMgPSBkYi5yZWxhdGlvbnNoaXAoJ0NvZGVVcGRhdGVMb2cnLCBiYWNrcmVmPSdzY2FubmVkX3N5c3RlbScsIGxhenk9J2R5bmFtaWMnLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICBmb3JlaWduX2tleXM9J0NvZGVVcGRhdGVMb2cuaWRfbm9kZScpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZGIuY3VycmVudF9hcHBra2tra2tra2tra2tra2trCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZGIuY3VycmVudF9hcHBra2tra2tra2tra2tra2trCg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IHN5cywganNvbiwgbG9nZ2luZywgdHJhY2ViYWNrLCBzb2NrZXQsIHJlCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZnJvbSBzcWxhbGNoZW15Lm9ybSBpbXBvcnQgYmFja3JlZgo=</text>
+        <text encoding="base64">aW1wb3J0IHN5cywganNvbiwgbG9nZ2luZywgdHJhY2ViYWNrLCBzb2NrZXQsIHJlCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZnJvbSBtb25pdG9yLmNvbmYgaW1wb3J0IHVzZXJfY29uZgo=</text>
+        <text encoding="base64">ZnJvbSBzcWxhbGNoZW15Lm9ybSBpbXBvcnQgYmFja3JlZgo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ZnJvbSBtb25pdG9yLmNvbmYgaW1wb3J0IHVzZXJfY29uZgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZnJvbSAubW9kZWxzIGltcG9ydCBVc2VyCg==</text>
+        <text encoding="base64">ZnJvbSBtb25pdG9yLmNvbmYgaW1wb3J0IHVzZXJfY29uZgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnJvbSAubW9kZWxzIGltcG9ydCBVc2VyCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
