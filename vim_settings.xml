@@ -79,12 +79,11 @@
         <mark key="^" line="46" column="31" />
         <mark key="." line="46" column="31" />
       </file>
-      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/ess_users/routes.py" timestamp="1518389947885">
+      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/ess_users/routes.py" timestamp="1518391103018">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="95" column="44" />
-        <mark key="]" line="96" column="37" />
-        <mark key="^" line="96" column="37" />
-        <mark key="." line="96" column="37" />
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="33" column="0" />
+        <mark key="." line="33" column="0" />
       </file>
       <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/mod_node/node.py" timestamp="1515521396191">
         <mark key="'" line="0" column="0" />
@@ -689,28 +688,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZGVmIGFkZF9nYXRld2F5Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICMgZGIuc2Vzc2lvbi5yb2xsYmFjaygpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICMgZGIuc2Vzc2lvbi5mbHVzaCgpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGxhc3RfbmFtZSA9IHVzZXJfYWRkX2Zvcm0ubGFzdF9uYW1lLmRhdGEK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICMgZGIuc2Vzc2lvbi5hZGQodXNlcikK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGZpcnN0X25hbWUgPSB1c2VyX2FkZF9mb3JtLmZpcnN0X25hbWUuZGF0YQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHVzZXJfYWRkX2Zvcm0uCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICMgICAgIHNlc3Npb24uYWRkKHVzZXIpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICMgd2l0aCBzZXNzaW9uX3Njb3BlKCkgYXMgc2Vzc2lvbjoK</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICMgdXNlcl9hZGRfZm9ybS5wb3B1bGF0ZV9vYmoodXNlcikK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
