@@ -15,8 +15,8 @@
         <mark key="^" line="5" column="53" />
         <mark key="." line="5" column="53" />
       </file>
-      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" timestamp="1518419175454">
-        <mark key="'" line="118" column="8" />
+      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" timestamp="1518421591256">
+        <mark key="'" line="457" column="4" />
         <mark key="[" line="336" column="77" />
         <mark key="]" line="336" column="85" />
         <mark key="." line="336" column="85" />
@@ -582,13 +582,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="6" column="39" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/app.py" />
-      <jump line="31" column="17" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/app.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/app.py" />
-      <jump line="34" column="18" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/app.py" />
-      <jump line="94" column="17" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/app.py" />
-      <jump line="96" column="47" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/app.py" />
-      <jump line="161" column="17" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/utilities.py" />
       <jump line="162" column="16" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/utilities.py" />
       <jump line="4" column="22" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/utilities.py" />
       <jump line="86" column="39" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/utilities.py" />
@@ -678,10 +671,17 @@
       <jump line="0" column="0" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess_users/models.py" />
       <jump line="130" column="12" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" />
       <jump line="164" column="17" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" />
       <jump line="32" column="34" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" />
       <jump line="41" column="6" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" />
       <jump line="118" column="8" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" />
+      <jump line="351" column="33" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" />
+      <jump line="354" column="60" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" />
+      <jump line="356" column="11" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" />
+      <jump line="357" column="66" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" />
+      <jump line="361" column="56" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" />
+      <jump line="454" column="8" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" />
+      <jump line="457" column="4" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -691,7 +691,7 @@
         <text>#</text>
       </register>
       <register name="/" type="4">
-        <text>Unknown</text>
+        <text>scan</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgI3JldHVybiB0dXBsZShyZXN1bHQuc3Rkb3V0LnNwbGl0KClbMDoyXSkK</text>
@@ -724,13 +724,13 @@
         <text encoding="base64">ICAgICAgICByYWlzZSBWYWx1ZUVycm9yCg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>$</text>
       </register>
     </registers>
     <search>
-      <last-search>Unknown</last-search>
+      <last-search>scan</last-search>
       <last-offset />
-      <last-pattern>Unknown</last-pattern>
+      <last-pattern>scan</last-pattern>
       <last-replace encoding="base64">dGQ+</last-replace>
       <last-substitute encoding="base64">dGg+</last-substitute>
       <last-dir>1</last-dir>
@@ -738,7 +738,6 @@
     </search>
     <history>
       <history-search>
-        <entry>login_user</entry>
         <entry>fqdn</entry>
         <entry>error</entry>
         <entry>Error</entry>
@@ -758,6 +757,7 @@
         <entry>add_node</entry>
         <entry>logger</entry>
         <entry>Unknown</entry>
+        <entry>scan</entry>
       </history-search>
       <history-cmd>
         <entry>189</entry>
@@ -769,7 +769,6 @@
         <entry>q</entry>
         <entry>31</entry>
         <entry encoding="base64">JzwsJz53</entry>
-        <entry>$</entry>
         <entry>142</entry>
         <entry>307</entry>
         <entry>145</entry>
@@ -777,9 +776,10 @@
         <entry>126</entry>
         <entry>133</entry>
         <entry>132</entry>
-        <entry>0</entry>
         <entry>336</entry>
         <entry>w</entry>
+        <entry>$</entry>
+        <entry>0</entry>
       </history-cmd>
       <history-expr />
       <history-input />
