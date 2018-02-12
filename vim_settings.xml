@@ -15,12 +15,12 @@
         <mark key="^" line="5" column="53" />
         <mark key="." line="5" column="53" />
       </file>
-      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" timestamp="1518401094360">
-        <mark key="'" line="165" column="17" />
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="26" column="0" />
-        <mark key="^" line="302" column="79" />
-        <mark key="." line="26" column="0" />
+      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" timestamp="1518402249323">
+        <mark key="'" line="107" column="16" />
+        <mark key="[" line="306" column="56" />
+        <mark key="]" line="306" column="56" />
+        <mark key="." line="306" column="56" />
+        <mark key="^" line="306" column="56" />
       </file>
       <file name="$USER_HOME$/Sites/FlaskApp/templates/interactive.html" timestamp="1514787861252">
         <mark key="[" line="6" column="73" />
@@ -673,65 +673,65 @@
       <jump line="301" column="12" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" />
       <jump line="116" column="8" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" />
       <jump line="131" column="20" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" />
-      <jump line="106" column="12" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" />
       <jump line="136" column="22" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" />
       <jump line="2" column="0" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" />
       <jump line="29" column="98" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" />
-      <jump line="107" column="8" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" />
       <jump line="118" column="13" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" />
       <jump line="94" column="9" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" />
       <jump line="168" column="14" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" />
       <jump line="0" column="0" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" />
       <jump line="166" column="17" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" />
+      <jump line="106" column="12" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" />
+      <jump line="107" column="16" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ZnJvbSBtb25pdG9yLmNvbmYuYXBwX2NvbmZpZyBpbXBvcnQgbG9jYWxfaW5ldF9saXN0Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="-" type="4">
-        <text>hostname</text>
+        <text>orig</text>
       </register>
       <register name="/" type="4">
-        <text>Integri</text>
+        <text>HostNameNot</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZnFkbiA9IHNvY2tldC5nZXRmcWRuKGhvc3RuYW1lKQo=</text>
+        <text encoding="base64">ICAgIDpyYWlzZXM6IEhvc3ROYW1lTm90Rm91bmRFcnJvciBpZiBuYW1lIHJlc29sdXRpb24gZmFpbHMKICAgIDpyYWlzZXM6IEhvc3ROYW1lSXBNaXNtYXRjaEVycm9yIGlmIGhvc3RuYW1lIHByb3ZpZGVkIGlzIGFuIElQIGFuZCBkb2VzIG5vdCBtYXRjaCB0aGUgc3VwcGxpZWQgSVAK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZnJvbSBtb25pdG9yLmNvbmYuYXBwX2NvbmZpZyBpbXBvcnQgbG9jYWxfaW5ldF9saXN0Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIDpyYWlzZXM6IEhvc3ROYW1lSXBNaXNtYXRjaEVycm9yIGlmIGhvc3RuYW1lIHByb3ZpZGVkIGlzIGFuIElQIGFuZCBkb2VzIG5vdCBtYXRjaCB0aGUgc3VwcGxpZWQgSVAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIDpyYWlzZXM6IEhvc3ROYW1lTm90Rm91bmRFcnJvciBpZiBuYW1lIHJlc29sdXRpb24gZmFpbHMK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIDpyYWlzZXM6IAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaG9zdG5hbWUgPSBub2RlX2FkZF9mb3JtLmhvc3RuYW1lLmRhdGEK</text>
+        <text encoding="base64">ZnJvbSBtb25pdG9yLmNvbmYuYXBwX2NvbmZpZyBpbXBvcnQgbG9jYWxfaW5ldF9saXN0Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgaXAgPSBub2RlX2FkZF9mb3JtLmFjY2Vzc19pcC5kYXRhCiAgICAgICAgICAgIGZxZG4gPSBzb2NrZXQuZ2V0ZnFkbihob3N0bmFtZSkKICAgICAgICAgICAgZ2F0ZXdheSA9IG5vZGVfYWRkX2Zvcm0uZ2F0ZXdheS5kYXRhCiAgICAgICAgICAgIGxvZ2luX3VzZXIgPSBub2RlX2FkZF9mb3JtLmxvZ2luX3VzZXIuZGF0YQogICAgICAgICAgICBsb2dpbl9wYXNzd29yZCA9IG5vZGVfYWRkX2Zvcm0ubG9naW5fcGFzc3dvcmQuZGF0YQogICAgICAgICAgICBsb2NhdGlvbiA9IG5vZGVfYWRkX2Zvcm0ubG9jYXRpb24uZGF0YQogICAgICAgICAgICBwcmlfb3duZXIgPSBub2RlX2FkZF9mb3JtLnByaV9vd25lci5kYXRhCiAgICAgICAgICAgIGJrX293bmVyID0gbm9kZV9hZGRfZm9ybS5ia19vd25lci5kYXRhCiAgICAgICAgICAgIHJvbGVfY29kZSA9IG5vZGVfYWRkX2Zvcm0ucm9sZV9jb2RlLmRhdGEKICAgICAgICAgICAgbm90ZXMgPSBub2RlX2FkZF9mb3JtLm5vdGVzLmRhdGE=</text>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGRiLnNlc3Npb24uY29tbWl0KCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGRiLnNlc3Npb24ucm9sbGJhY2soKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBkYi5zZXNzaW9uLmZsdXNoKCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaG9zdG5hbWUgPSBub2RlX2FkZF9mb3JtLmhvc3RuYW1lLmRhdGEK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>Integri</last-search>
+      <last-search>HostNameNot</last-search>
       <last-offset />
-      <last-pattern>Integri</last-pattern>
+      <last-pattern>HostNameNot</last-pattern>
       <last-replace encoding="base64">dGQ+</last-replace>
       <last-substitute encoding="base64">dGg+</last-substitute>
       <last-dir>1</last-dir>
@@ -739,7 +739,6 @@
     </search>
     <history>
       <history-search>
-        <entry>add_user</entry>
         <entry>scan_msg</entry>
         <entry>ignore_error</entry>
         <entry>backref</entry>
@@ -759,10 +758,9 @@
         <entry>raise</entry>
         <entry>add_node</entry>
         <entry>Integri</entry>
+        <entry>HostNameNot</entry>
       </history-search>
       <history-cmd>
-        <entry>317</entry>
-        <entry>604</entry>
         <entry>556</entry>
         <entry>16</entry>
         <entry>17</entry>
@@ -779,7 +777,9 @@
         <entry>31</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>$</entry>
+        <entry>142</entry>
         <entry>0</entry>
+        <entry>307</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
