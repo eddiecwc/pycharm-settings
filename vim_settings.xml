@@ -15,12 +15,12 @@
         <mark key="^" line="5" column="53" />
         <mark key="." line="5" column="53" />
       </file>
-      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" timestamp="1518398289686">
-        <mark key="'" line="143" column="98" />
-        <mark key="[" line="153" column="39" />
-        <mark key="]" line="153" column="39" />
-        <mark key="." line="153" column="39" />
-        <mark key="^" line="153" column="39" />
+      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" timestamp="1518399388801">
+        <mark key="'" line="69" column="29" />
+        <mark key="[" line="113" column="0" />
+        <mark key="]" line="113" column="0" />
+        <mark key="^" line="111" column="3" />
+        <mark key="." line="113" column="0" />
       </file>
       <file name="$USER_HOME$/Sites/FlaskApp/templates/interactive.html" timestamp="1514787861252">
         <mark key="[" line="6" column="73" />
@@ -577,18 +577,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="224" column="8" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" />
-      <jump line="241" column="4" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" />
-      <jump line="259" column="12" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" />
-      <jump line="510" column="12" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" />
-      <jump line="551" column="24" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" />
-      <jump line="560" column="24" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" />
-      <jump line="579" column="10" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" />
-      <jump line="584" column="14" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" />
-      <jump line="597" column="10" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" />
-      <jump line="602" column="14" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" />
-      <jump line="612" column="10" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" />
-      <jump line="621" column="14" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" />
       <jump line="627" column="18" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" />
       <jump line="630" column="14" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" />
       <jump line="932" column="4" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" />
@@ -656,7 +644,6 @@
       <jump line="59" column="7" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess_users/routes.py" />
       <jump line="32" column="11" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess_users/routes.py" />
       <jump line="0" column="0" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess_users/routes.py" />
-      <jump line="229" column="24" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" />
       <jump line="36" column="0" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" />
       <jump line="75" column="35" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" />
       <jump line="14" column="27" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" />
@@ -668,7 +655,6 @@
       <jump line="255" column="0" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" />
       <jump line="112" column="0" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" />
       <jump line="135" column="12" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" />
       <jump line="2" column="0" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/conf/app_config.py" />
       <jump line="5" column="0" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/conf/app_config.py" />
       <jump line="2" column="0" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" />
@@ -677,55 +663,69 @@
       <jump line="31" column="15" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" />
       <jump line="142" column="25" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" />
       <jump line="143" column="98" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" />
+      <jump line="484" column="12" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" />
+      <jump line="94" column="2" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" />
+      <jump line="225" column="0" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" />
+      <jump line="229" column="13" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" />
+      <jump line="248" column="29" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" />
+      <jump line="250" column="36" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" />
+      <jump line="256" column="23" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" />
+      <jump line="258" column="27" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" />
+      <jump line="104" column="39" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" />
+      <jump line="127" column="15" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" />
+      <jump line="223" column="39" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" />
+      <jump line="64" column="15" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" />
+      <jump line="69" column="29" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>\</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>\</text>
+        <text>p</text>
       </register>
       <register name="/" type="4">
-        <text>gateway.ip</text>
+        <text>login_user</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">bG9jYWxfaW5ldF9saXN0ID0gbG9jYWwoImlmY29uZmlnIHwgZ3JlcCBpbmV0IHwgYXdrICd7cHJpbnQgJDJ9JyIsIGNhcHR1cmU9VHJ1ZSkuc3BsaXQoKQo=</text>
+      <register name="0" type="4">
+        <text encoding="base64">ICAgICAgICAgICAgZXJyb3IgPSBGYWxzZQoKICAgICAgICAgICAgbWF0Y2ggPSByZV9pcHY0Lm1hdGNoKGhvc3RuYW1lKQogICAgICAgICAgICBpZiBub3QgbWF0Y2ggYW5kIG5vdCBpcDoKICAgICAgICAgICAgICAgIGxvZ2dlci5kZWJ1ZygiSVAgd2FzIG5vdCBwcm92aWRlZC4gUHJvY2VlZGluZyB3aXRoIElQIGxvb2t1cCIpCiAgICAgICAgICAgICAgICAjIFRPRE8gdmVyaWZ5IHRoYXQgcHJvdmlkZWQgSVAgYW5kIElQIGZyb20gaG9zdG5hbWUgcmVzb2x1dGlvbiBtYXRjaD8KCiAgICAgICAgICAgICAgICAjIGhvc3RuYW1lIGdpdmVuIGlzIG5vdCBhbiBJUCwgYnV0IGFuIGFjdHVhbCBJUCB3YXMgbm90IHByb3ZpZGVkLiBQcm9jZWVkIHdpdGggbG9va3VwCiAgICAgICAgICAgICAgICAjIGlmIG5vIGdhdGV3YXkgaXMgcHJvdmlkZWQgdGhlbiBsb29rdXAgZGlyZWN0bHkuIE90aGVyd2lzZSBsb29rdXAgZnJvbSB0aGUgZ2F0ZXdheQogICAgICAgICAgICAgICAgaWYgaXNfbG9jYWwoZ2F0ZXdheS5pcCk6CiAgICAgICAgICAgICAgICAgICAgaXAgPSBzb2NrZXQuZ2V0aG9zdGJ5bmFtZShmcWRuKQogICAgICAgICAgICAgICAgZWxzZToKICAgICAgICAgICAgICAgICAgICB0cnk6CgogICAgICAgICAgICAgICAgICAgICAgICBpcCA9IHJlc29sdmVfaXBfZnJvbV9nYXRld2F5KGhvc3RuYW1lPWhvc3RuYW1lLCBnYXRld2F5PWdhdGV3YXkuaXAsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZ3dfdXNlcj1nYXRld2F5LnVzZXIsIGd3X3Bhc3N3b3JkPWdhdGV3YXkucGFzc3dvcmQpCiAgICAgICAgICAgICAgICAgICAgICAgIGxvZ2dlci5kZWJ1ZygiSVAgTG9va3VwIGZvciBob3N0ICVzIHRocm91Z2ggZ2F0ZXdheSBzdWNjZXNzZnVsIiAlIGhvc3RuYW1lKQogICAgICAgICAgICAgICAgICAgIGV4Y2VwdCBIb3N0TmFtZU5vdEZvdW5kRXJyb3I6CiAgICAgICAgICAgICAgICAgICAgICAgIGVycm9yID0gVHJ1ZQogICAgICAgICAgICAgICAgICAgICAgICBtc2cgPSAiSG9zdG5hbWUge30gY2Fubm90IGJlIHJlc29sdmVkIGFuZCBJUCBmaWVsZCBpcyBtaXNzaW5nIi5mb3JtYXQoaG9zdG5hbWUpCiAgICAgICAgICAgICAgICAgICAgICAgIGxvZ2dlci5leGNlcHRpb24obXNnKQogICAgICAgICAgICAgICAgICAgICAgICBmbGFzaChtc2csICdlcnJvcicpCgogICAgICAgICAgICBlbGlmIG1hdGNoOgogICAgICAgICAgICAgICAgIyBob3N0bmFtZSBnaXZlbiBpcyBhY3R1YWxseSBhbiBJUC4gTWFrZSBzdXJlIGl0J3Mgbm90IGRpZmZlcmVudCB3aXRoIGdpdmVuIElQCiAgICAgICAgICAgICAgICBsb2dnZXIuZGVidWcoImhvc3RuYW1lIHByb3ZpZGVkICVzIGlzIGluIElQIGZvcm1hdCIgJSBob3N0bmFtZSkKICAgICAgICAgICAgICAgIGlmIGlwIGFuZCBob3N0bmFtZSAhPSBpcDoKICAgICAgICAgICAgICAgICAgICBlcnJvciA9IFRydWUKICAgICAgICAgICAgICAgICAgICBtc2cgPSAiSG9zdG5hbWUgaXMgaW4gSVAgZm9ybSBhbmQgZGlmZmVycyBmcm9tIHByb3ZpZGVkIElQIgogICAgICAgICAgICAgICAgICAgIGxvZ2dlci5lcnJvcihtc2cpCiAgICAgICAgICAgICAgICAgICAgZmxhc2gobXNnLCAnZXJyb3InKQogICAgICAgICAgICAgICAgZWxzZToKICAgICAgICAgICAgICAgICAgICAjIHN0b3JlIHRoZSBob3N0bmFtZSBhcyBJUCBhbnl3YXkgc2luY2UgSVAgbWF5IG5vdCBoYXZlIGJlZW4gcHJvdmlkZWQgb3IgaXMgdGhlIHNhbWUgYXMgaG9zdG5hbWUKICAgICAgICAgICAgICAgICAgICBpcCA9IGhvc3RuYW1lCiAgICAgICAgICAgICAgICAgICAgIyByZXBsYWNlIGhvc3RuYW1lIHdpdGggYWN0dWFsIGhvc3RuYW1lCiAgICAgICAgICAgICAgICAgICAgaG9zdG5hbWUgPSBzb2NrZXQuZ2V0aG9zdGJ5YWRkcihpcClbMF0KCiAgICAgICAgICAgIGxvZ2dlci5kZWJ1ZygiTmV3IEhvc3Q6IGhvc3RuYW1lKHtob3N0bmFtZX0pLCBpcCh7aXB9KSwgZnFkbih7ZnFkbn0pLCBnYXRld2F5KHtnYXRld2F5fSksICIKICAgICAgICAgICAgICAgICAgICAgICAgICJsb2dpbl91c2VyKHtsb2dpbl91c2VyfSksIGxvZ2luX3Bhc3N3b3JkKHtsb2dpbl9wYXNzd29yZH0pLCBsb2NhdGlvbih7bG9jYXRpb259KSwgIgogICAgICAgICAgICAgICAgICAgICAgICAgInByaV9vd25lcih7cHJpX293bmVyfSksIGJrX293bmVyKHtia19vd25lcn0pLCByb2xlX2NvZGUoe3JvbGVfY29kZX0pLCAiCiAgICAgICAgICAgICAgICAgICAgICAgICAibm90ZXMoe25vdGVzfSkiLmZvcm1hdChob3N0bmFtZT1ob3N0bmFtZSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGlwPWlwLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZnFkbj1mcWRuLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZ2F0ZXdheT1nYXRld2F5LmlwLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgbG9naW5fdXNlcj1sb2dpbl91c2VyLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgbG9naW5fcGFzc3dvcmQ9bG9naW5fcGFzc3dvcmQsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBsb2NhdGlvbj1sb2NhdGlvbiwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHByaV9vd25lcj1wcmlfb3duZXIsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBia19vd25lcj1ia19vd25lciwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHJvbGVfY29kZT1yb2xlX2NvZGUsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBub3Rlcz1ub3RlcwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgKSkKICAgICAgICAgICAgaWYgbm90IGVycm9yOgogICAgICAgICAgICAgICAgdHJ5OgogICAgICAgICAgICAgICAgICAgIG5vZGUgPSBOb2RlLmNyZWF0ZShob3N0bmFtZT1ob3N0bmFtZSwgYWNjZXNzX2lwPWlwLCBmcWRuPWZxZG4sIGdhdGV3YXk9Z2F0ZXdheSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgbG9naW5fdXNlcj1sb2dpbl91c2VyLCBsb2dpbl9wYXNzd29yZD1sb2dpbl9wYXNzd29yZCwgbG9jYXRpb249bG9jYXRpb24sCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHByaV9vd25lcj1wcmlfb3duZXIsIGJrX293bmVyPWJrX293bmVyLCByb2xlX2NvZGU9cm9sZV9jb2RlLCBub3Rlcz1ub3RlcykKICAgICAgICAgICAgICAgICAgICBsb2dnZXIuZGVidWcoIkF0dGVtcHRpbmcgdG8gYWRkIG5vZGUgJXMiICUgaG9zdG5hbWUpCiAgICAgICAgICAgICAgICAgICAgZGIuc2Vzc2lvbi5hZGQobm9kZSkKICAgICAgICAgICAgICAgICAgICBkYi5zZXNzaW9uLmZsdXNoKCkKICAgICAgICAgICAgICAgIGV4Y2VwdCBleGMuSW50ZWdyaXR5RXJyb3IgYXMgZToKICAgICAgICAgICAgICAgICAgICBkYi5zZXNzaW9uLnJvbGxiYWNrKCkKICAgICAgICAgICAgICAgICAgICBtc2cgPSAiRmFpbGVkIHRvIGFkZCBub2RlICVzLiBDb25mbGljdCBkZXRlY3RlZC4gJXMiICUgKGhvc3RuYW1lLCBlLm9yaWcpCiAgICAgICAgICAgICAgICAgICAgbG9nZ2VyLmV4Y2VwdGlvbihtc2cpCiAgICAgICAgICAgICAgICAgICAgZmxhc2goZS5vcmlnLCAnZXJyb3InKQogICAgICAgICAgICAgICAgZWxzZToKICAgICAgICAgICAgICAgICAgICBkYi5zZXNzaW9uLmNvbW1pdCgpCiAgICAgICAgICAgICAgICAgICAgbXNnID0gIk5vZGUgJXMgYWRkZWQgc3VjY2Vzc2Z1bGx5IiAlIGhvc3RuYW1lCiAgICAgICAgICAgICAgICAgICAgbG9nZ2VyLmluZm8obXNnKQogICAgICAgICAgICAgICAgICAgIGZsYXNoKG1zZywgJ3N1Y2Nlc3MnKQogICAgICAgICAgICAgICAgICAgIHJldHVybiByZWRpcmVjdCh1cmxfZm9yKCJlc3MubGlzdF9ub2RlcyIpKQoKICAgICAgICBlbHNlOgogICAgICAgICAgICBtc2cgPSAiRGV0ZWN0ZWQgSW52YWxpZCBJbnB1dC4iCiAgICAgICAgICAgIGxvZ2dlci53YXJuKG1zZykKICAgICAgICAgICAgZmxhc2gobXNnKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZ2F0ZXdheS5pcCBub3QgaW4gbG9jYWxfaW5ldF9saXN0Ogo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Iwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZnJvbSBmYWJyaWMuYXBpIGltcG9ydCBsb2NhbAo=</text>
+        <text encoding="base64">IyAgICAgcHJpbWFyeV9vd25lcl9lbWFpbCA9IHByaW1hcnlfb3duZXJfZW1haWwgb3IgdGVzdF9jb25maWcucHJpbWFyeV9vd25lcgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyAgICAgYmFja3VwX293bmVyX2VtYWlsID0gYmFja3VwX293bmVyX2VtYWlsIG9yIHRlc3RfY29uZmlnLmJhY2t1cF9vd25lcgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyAgICAgZ2F0ZXdheV9pcCA9IGdhdGV3YXlfaXAgb3IgdGVzdF9jb25maWcuZ2F0ZXdheQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZnJvbSBtb25pdG9yLmNvbmYuYXBwX2NvbmZpZyBpbXBvcnQgbG9jYWxfaW5ldF9saXN0Cg==</text>
+        <text encoding="base64">IyAgICAgcGFzc3dvcmQgPSBwYXNzd29yZCBvciB0ZXN0X2NvbmZpZy5kZWZhdWx0X3Bhc3N3b3JkCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">bG9jYWxfaW5ldF9saXN0ID0gbG9jYWwoImlmY29uZmlnIHwgZ3JlcCBpbmV0IHwgYXdrICd7cHJpbnQgJDJ9JyIsIGNhcHR1cmU9VHJ1ZSkuc3BsaXQoKQo=</text>
+        <text encoding="base64">IyAgICAgdXNlciA9IHVzZXIgb3IgdGVzdF9jb25maWcuZGVmYXVsdF91c2VyCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIDpwYXJhbSB0ZXN0X2NvbmZpZzogZW52aXJvbm1lbnQgY29uZmlndXJhdGlvbiBzZXQgZGVmaW5lZCBpbiBjb25maWcucHkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>gateway.ip</last-search>
+      <last-search>login_user</last-search>
       <last-offset />
-      <last-pattern>gateway.ip</last-pattern>
+      <last-pattern>login_user</last-pattern>
       <last-replace encoding="base64">dGQ+</last-replace>
       <last-substitute encoding="base64">dGg+</last-substitute>
       <last-dir>1</last-dir>
@@ -733,10 +733,6 @@
     </search>
     <history>
       <history-search>
-        <entry>create</entry>
-        <entry>try</entry>
-        <entry>lazy</entry>
-        <entry>db</entry>
         <entry>Session</entry>
         <entry>Clause</entry>
         <entry>exc</entry>
@@ -753,6 +749,10 @@
         <entry>local_inet</entry>
         <entry>utili</entry>
         <entry>gateway.ip</entry>
+        <entry>_api</entry>
+        <entry encoding="base64">XDxkZWZcPg==</entry>
+        <entry>error</entry>
+        <entry>login_user</entry>
       </history-search>
       <history-cmd>
         <entry>317</entry>
@@ -773,8 +773,8 @@
         <entry>31</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>$</entry>
-        <entry>0</entry>
         <entry>w</entry>
+        <entry>0</entry>
       </history-cmd>
       <history-expr />
       <history-input />
