@@ -15,12 +15,10 @@
         <mark key="^" line="5" column="53" />
         <mark key="." line="5" column="53" />
       </file>
-      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" timestamp="1518395061604">
-        <mark key="'" line="26" column="24" />
-        <mark key="[" line="85" column="13" />
-        <mark key="]" line="84" column="94" />
-        <mark key="^" line="84" column="94" />
-        <mark key="." line="84" column="94" />
+      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" timestamp="1518396971638">
+        <mark key="[" line="141" column="0" />
+        <mark key="]" line="141" column="0" />
+        <mark key="." line="141" column="0" />
       </file>
       <file name="$USER_HOME$/Sites/FlaskApp/templates/interactive.html" timestamp="1514787861252">
         <mark key="[" line="6" column="73" />
@@ -572,10 +570,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="156" column="0" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/utilities.py" />
-      <jump line="158" column="31" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/utilities.py" />
-      <jump line="48" column="27" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" />
-      <jump line="184" column="4" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" />
       <jump line="203" column="60" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" />
       <jump line="207" column="8" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" />
       <jump line="213" column="4" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" />
@@ -585,7 +579,6 @@
       <jump line="222" column="21" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" />
       <jump line="224" column="8" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" />
       <jump line="241" column="4" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" />
-      <jump line="255" column="12" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" />
       <jump line="259" column="12" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" />
       <jump line="510" column="12" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" />
       <jump line="551" column="24" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" />
@@ -634,7 +627,6 @@
       <jump line="8" column="0" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/app.py" />
       <jump line="17" column="20" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/app.py" />
       <jump line="0" column="10" filename="$USER_HOME$/Sites/ESS-Monitor/run.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" />
       <jump line="0" column="0" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/conf/app_config.py" />
       <jump line="43" column="106" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" />
       <jump line="13" column="0" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess_users/routes.py" />
@@ -666,61 +658,67 @@
       <jump line="59" column="7" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess_users/routes.py" />
       <jump line="32" column="11" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess_users/routes.py" />
       <jump line="0" column="0" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess_users/routes.py" />
-      <jump line="232" column="39" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" />
       <jump line="229" column="24" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" />
       <jump line="36" column="0" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" />
       <jump line="75" column="35" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" />
       <jump line="14" column="27" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" />
       <jump line="26" column="24" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" />
+      <jump line="89" column="0" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" />
+      <jump line="231" column="79" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" />
+      <jump line="85" column="4" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" />
+      <jump line="232" column="76" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" />
+      <jump line="255" column="0" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" />
+      <jump line="112" column="0" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>[</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="-" type="4">
-        <text>[</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA=</text>
       </register>
       <register name="/" type="4">
-        <text>config</text>
+        <text>add_node_</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">ICAgICIiIgogICAgbWV0aG9kIGZvciBhZGRpbmcgdXNlcnMgZnJvbSB3ZWIKICAgIDpHRVQ6IGZvcm0gZm9yIGFkZGluZyB1c2VycwogICAgOlBPU1Q6IHVzZXIgaXMgYWRkZWQgdG8gZGF0YWJhc2UgYW5kIHJlZGlyZWN0IHRvIHVzZXIgdGFibGUKICAgICIiIg==</text>
+        <text encoding="base64">ICAgICIiIgogICAgQ3JlYXRlcyBhIG5ldyBOb2RlIGluIERCIGZyb20gYSBzZXQgb2Ygb3B0aW9ucy4gQ291bGQgYmUgYSBjbHVzdGVyIG5vZGUgb3IgZ2F0ZXdheQogICAgOnBhcmFtIGhvc3RuYW1lOiBob3N0bmFtZSBvciBJUCBvZiB0aGUgbm9kZS4gSWYgSVAgaXMgZ2l2ZW4sIGl0IHdpbGwgYmUgYXV0b21hdGljYWxseSB0cmFuc2xhdGVkIHRvIGhvc3RuYW1lCiAgICA6cGFyYW0gaXA6IGFjY2VzcyBJUCBvZiB0aGUgbm9kZS4gU2hvdWxkIGJlIHJlYWNoYWJsZSBieSB0aGUgbW9uaXRvciBzZXJ2ZXIgZGlyZWN0bHkgb3IgdGhyb3VnaCBhIHNpbmdsZSBnYXRld2F5CiAgICA6cGFyYW0gZ2F0ZXdheV9pcDogZ2F0ZXdheSBzeXN0ZW0gdG8gcmVhY2ggdGhlIG5vZGUgZnJvbSB0aGUgbW9uaXRvciBzZXJ2ZXIKICAgIDpwYXJhbSB0ZXN0X2NvbmZpZzogZW52aXJvbm1lbnQgY29uZmlndXJhdGlvbiBzZXQgZGVmaW5lZCBpbiBjb25maWcucHkKICAgIDpwYXJhbSB1c2VyOiB1c2VyIGZvciBub2RlIGxvZ2luLiBEZWZhdWx0IGlzIGRlZmluZWQgaW4gY29uZmlnLnB5IGZvciB0aGUgY29uZmlndXJhdGlvbiBzZXQKICAgIDpwYXJhbSBwYXNzd29yZDogcGFzc3dvcmQgZm9yIG5vZGUgbG9naW4uIERlZmF1bHQgaXMgZGVmaW5lZCBpbiBjb25maWcucHkgZm9yIHRoZSBjb25maWd1cmF0aW9uIHNldAogICAgOnBhcmFtIHByaW1hcnlfb3duZXJfZW1haWw6IERlZmF1bHQgaXMgZGVmaW5lZCBpbiBjb25maWcucHkgZm9yIHRoZSBjb25maWd1cmF0aW9uIHNldAogICAgOnBhcmFtIGJhY2t1cF9vd25lcl9lbWFpbDogRGVmYXVsdCBpcyBkZWZpbmVkIGluIGNvbmZpZy5weSBmb3IgdGhlIGNvbmZpZ3VyYXRpb24gc2V0CiAgICA6cmV0dXJuczoKICAgIDpyYWlzZXM6IFZhbHVlRXJyb3IgaWYgd2hlbiBib3RoIGhvc3RuYW1lIGFuZCBJUCBhcmUgc3BlY2lmaWVkLCB0aGUgaG9zdG5hbWUgaXMgaW4gZm9ybSBvZiBJUCBhbmQgZGlmZmVycyBmcm9tIGl0CiAgICA6cmFpc2VzOiBOYW1lRXJyb3IgaWYgbmFtZSByZXNvbHV0aW9uIGZhaWxzCiAgICA6cmFpc2VzOiBleGNlcHRpb25zIGZyb20gc29ja2V0IHdoZW4gbG9va3VwIGZhaWxzCiAgICAiIiIK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIDpyYWlzZXM6Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIDpyZXR1cm46IAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGdhdGV3YXlfaXAgPSBzb2NrZXQuZ2V0aG9zdGJ5bmFtZShzb2NrZXQuZ2V0ZnFkbihnYXRld2F5LmlwKSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIDpyZXR1cm5zOgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIDpwYXJhbSBiYWNrdXBfb3duZXJfZW1haWw6IERlZmF1bHQgaXMgZGVmaW5lZCBpbiBjb25maWcucHkgZm9yIHRoZSBjb25maWd1cmF0aW9uIHNldAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIDpwYXJhbSBwcmltYXJ5X293bmVyX2VtYWlsOiBEZWZhdWx0IGlzIGRlZmluZWQgaW4gY29uZmlnLnB5IGZvciB0aGUgY29uZmlndXJhdGlvbiBzZXQK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIDpwYXJhbSBwYXNzd29yZDogcGFzc3dvcmQgZm9yIG5vZGUgbG9naW4uIERlZmF1bHQgaXMgZGVmaW5lZCBpbiBjb25maWcucHkgZm9yIHRoZSBjb25maWd1cmF0aW9uIHNldAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIDpwYXJhbSB1c2VyOiB1c2VyIGZvciBub2RlIGxvZ2luLiBEZWZhdWx0IGlzIGRlZmluZWQgaW4gY29uZmlnLnB5IGZvciB0aGUgY29uZmlndXJhdGlvbiBzZXQK</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">IiIiCkV4ZWN1dGVzIHRoZSBnaXZlbiBjb21tYW5kIHdpdGggdXRpbGl0aWVzLnJ1bmNtZCBhbmQgcmV0dXJuIHRoZSByZXN1bHQuCjpwYXJhbSBob3N0bmFtZTogaG9zdG5hbWUgb2YgdGhlIG5vZGUgdGhhdCBuZWVkcyB0byBiZSBzY2FubmVkIAo6cGFyYW0gY29tbWFuZDogdG8gZXhlY3V0ZSBvbiB0aGUgbm9kZQo6cmV0dXJuczogcmVzdWx0IGZyb20gdGhlIGV4ZWN1dGlvbiBpbmNsdWRpbmcgb3V0cHV0LCByYywgY21kIGV4ZWN1dGVkLCB0YXNrIHN0YXR1cwoiIiIK</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIDpwYXJhbSB0ZXN0X2NvbmZpZzogZW52aXJvbm1lbnQgY29uZmlndXJhdGlvbiBzZXQgZGVmaW5lZCBpbiBjb25maWcucHkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIDpwYXJhbSBnYXRld2F5X2lwOiBnYXRld2F5IHN5c3RlbSB0byByZWFjaCB0aGUgbm9kZSBmcm9tIHRoZSBtb25pdG9yIHNlcnZlcgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>config</last-search>
+      <last-search>add_node_</last-search>
       <last-offset />
-      <last-pattern>config</last-pattern>
+      <last-pattern>add_node_</last-pattern>
       <last-replace encoding="base64">dGQ+</last-replace>
       <last-substitute encoding="base64">dGg+</last-substitute>
       <last-dir>1</last-dir>
@@ -728,9 +726,6 @@
     </search>
     <history>
       <history-search>
-        <entry>gen</entry>
-        <entry>user_logger</entry>
-        <entry>logger</entry>
         <entry>constant</entry>
         <entry>logging</entry>
         <entry>Stream</entry>
@@ -748,6 +743,9 @@
         <entry>ignore_error</entry>
         <entry>backref</entry>
         <entry>config</entry>
+        <entry>get_config_dict</entry>
+        <entry>add_node</entry>
+        <entry>add_node_</entry>
       </history-search>
       <history-cmd>
         <entry>317</entry>
