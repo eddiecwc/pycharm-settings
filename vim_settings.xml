@@ -725,7 +725,7 @@
         <text encoding="base64">ICAgICAgICAgICAgaG9zdG5hbWUgPSBub2RlX2FkZF9mb3JtLmhvc3RuYW1lLmRhdGEK</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>145</text>
       </register>
     </registers>
     <search>
@@ -761,7 +761,6 @@
         <entry>HostNameNot</entry>
       </history-search>
       <history-cmd>
-        <entry>556</entry>
         <entry>16</entry>
         <entry>17</entry>
         <entry>45</entry>
@@ -781,6 +780,7 @@
         <entry>0</entry>
         <entry>307</entry>
         <entry>w</entry>
+        <entry>145</entry>
       </history-cmd>
       <history-expr />
       <history-input />
