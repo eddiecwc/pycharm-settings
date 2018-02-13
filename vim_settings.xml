@@ -15,12 +15,12 @@
         <mark key="^" line="5" column="53" />
         <mark key="." line="5" column="53" />
       </file>
-      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" timestamp="1518539023348">
-        <mark key="'" line="31" column="61" />
-        <mark key="[" line="305" column="0" />
-        <mark key="]" line="305" column="3" />
-        <mark key="." line="305" column="3" />
-        <mark key="^" line="305" column="3" />
+      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" timestamp="1518541151534">
+        <mark key="'" line="304" column="18" />
+        <mark key="[" line="367" column="24" />
+        <mark key="]" line="368" column="43" />
+        <mark key="." line="368" column="43" />
+        <mark key="^" line="368" column="43" />
       </file>
       <file name="$USER_HOME$/Sites/FlaskApp/templates/interactive.html" timestamp="1514787861252">
         <mark key="[" line="6" column="73" />
@@ -279,12 +279,12 @@
         <mark key="^" line="35" column="19" />
         <mark key="." line="35" column="19" />
       </file>
-      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/utilities.py" timestamp="1518539297544">
+      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/utilities.py" timestamp="1518540969932">
         <mark key="'" line="45" column="14" />
-        <mark key="[" line="163" column="0" />
-        <mark key="]" line="163" column="38" />
-        <mark key="." line="163" column="0" />
-        <mark key="^" line="179" column="32" />
+        <mark key="[" line="165" column="0" />
+        <mark key="]" line="165" column="71" />
+        <mark key="." line="166" column="0" />
+        <mark key="^" line="179" column="22" />
       </file>
       <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/mixin.py" timestamp="1518389847648">
         <mark key="'" line="4" column="30" />
@@ -583,7 +583,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="64" column="15" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" />
       <jump line="69" column="29" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" />
       <jump line="99" column="23" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" />
       <jump line="121" column="38" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" />
@@ -683,55 +682,56 @@
       <jump line="171" column="11" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/utilities.py" />
       <jump line="42" column="6" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/utilities.py" />
       <jump line="45" column="14" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/utilities.py" />
+      <jump line="304" column="18" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbGFzdF9zY2FubmVkID0gdGltZXN0YW1wKCkK</text>
+      <register name="&quot;" type="4">
+        <text>,</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICAgIA==</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
-        <text>RemoteEx</text>
+        <text>run_remote</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgICA8bGkgY2xhc3M9Im5hdi1pdGVtIiBkYXRhLXRvZ2dsZT0idG9vbHRpcCIgZGF0YS1wbGFjZW1lbnQ9InJpZ2h0IiB0aXRsZT0iUHJvZHVjdHMiPgogICAgICAgICAgICAgICAgPGEgY2xhc3M9Im5hdi1saW5rIiBocmVmPSIvcHJvZHVjdC8iPgogICAgICAgICAgICAgICAgICAgIDxpIGNsYXNzPSJmYSBmYS1mdyBmYS11c2VycyI+PC9pPgogICAgICAgICAgICAgICAgICAgIDxzcGFuIGNsYXNzPSJuYXYtbGluay10ZXh0Ij5Qcm9kdWN0czwvc3Bhbj4KICAgICAgICAgICAgICAgIDwvYT4KICAgICAgICAgICAgPC9saT4=</text>
+      <register name="0" type="2">
+        <text encoding="base64">IyAgICAgICAgICAgIGxhc3Rfc2Nhbm5lZCA9IGRhdGV0aW1lLm5vdygpLmlzb2Zvcm1hdCgnICcpLnNwbGl0KCcuJylbMF0K</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgbGFzdF9zY2FubmVkID0gdGltZXN0YW1wKCkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZXhjZXB0ICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgbGFzdF9zY2FubmVkID0gdGltZXN0YW1wKCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdHJ5Ogo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZXhjZXB0ICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHRyeToK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdHJ5Ogo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGV4Y2VwdCAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgIHRyeToK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPC9saT4K</text>
+        <text encoding="base64">ICAgIGV4Y2VwdCAgICAgICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDwvYT4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgPC9saT4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8c3BhbiBjbGFzcz0ibmF2LWxpbmstdGV4dCI+VGFibGVzPC9zcGFuPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDwvYT4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8aSBjbGFzcz0iZmEgZmEtZncgZmEtdGFibGUiPjwvaT4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8c3BhbiBjbGFzcz0ibmF2LWxpbmstdGV4dCI+VGFibGVzPC9zcGFuPgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>RemoteEx</last-search>
+      <last-search>run_remote</last-search>
       <last-offset />
-      <last-pattern>RemoteEx</last-pattern>
+      <last-pattern>run_remote</last-pattern>
       <last-replace encoding="base64">dGQ+</last-replace>
       <last-substitute encoding="base64">dGg+</last-substitute>
       <last-dir>1</last-dir>
@@ -757,8 +757,8 @@
         <entry>Product</entry>
         <entry>prouct_</entry>
         <entry>product</entry>
-        <entry>run_remote</entry>
         <entry>RemoteEx</entry>
+        <entry>run_remote</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5ncy90aD4vdGQ+Lw==</entry>
