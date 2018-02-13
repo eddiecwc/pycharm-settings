@@ -15,12 +15,12 @@
         <mark key="^" line="5" column="53" />
         <mark key="." line="5" column="53" />
       </file>
-      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" timestamp="1518491544475">
+      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" timestamp="1518539023348">
         <mark key="'" line="31" column="61" />
-        <mark key="[" line="368" column="0" />
-        <mark key="]" line="368" column="0" />
-        <mark key="." line="368" column="0" />
-        <mark key="^" line="389" column="19" />
+        <mark key="[" line="305" column="0" />
+        <mark key="]" line="305" column="3" />
+        <mark key="." line="305" column="3" />
+        <mark key="^" line="305" column="3" />
       </file>
       <file name="$USER_HOME$/Sites/FlaskApp/templates/interactive.html" timestamp="1514787861252">
         <mark key="[" line="6" column="73" />
@@ -279,12 +279,12 @@
         <mark key="^" line="35" column="19" />
         <mark key="." line="35" column="19" />
       </file>
-      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/utilities.py" timestamp="1518486008104">
-        <mark key="'" line="128" column="14" />
-        <mark key="[" line="131" column="7" />
-        <mark key="]" line="131" column="14" />
-        <mark key="." line="131" column="14" />
-        <mark key="^" line="131" column="14" />
+      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/utilities.py" timestamp="1518539297544">
+        <mark key="'" line="45" column="14" />
+        <mark key="[" line="163" column="0" />
+        <mark key="]" line="163" column="38" />
+        <mark key="." line="163" column="0" />
+        <mark key="^" line="179" column="32" />
       </file>
       <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/mixin.py" timestamp="1518389847648">
         <mark key="'" line="4" column="30" />
@@ -500,12 +500,12 @@
         <mark key="." line="51" column="55" />
         <mark key="^" line="51" column="55" />
       </file>
-      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/templates/ess/node_list.html" timestamp="1517386706053">
+      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/templates/ess/node_list.html" timestamp="1518538852865">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="40" column="0" />
-        <mark key="]" line="40" column="0" />
-        <mark key="^" line="43" column="34" />
-        <mark key="." line="40" column="0" />
+        <mark key="[" line="28" column="32" />
+        <mark key="]" line="28" column="36" />
+        <mark key="^" line="28" column="36" />
+        <mark key="." line="28" column="36" />
       </file>
       <file name="$USER_HOME$/Sites/flask_movie/templates/layouts/layout1.html" timestamp="1513935198698">
         <mark key="'" line="10" column="41" />
@@ -583,13 +583,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="229" column="13" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" />
-      <jump line="248" column="29" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" />
-      <jump line="250" column="36" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" />
-      <jump line="256" column="23" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" />
-      <jump line="258" column="27" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" />
-      <jump line="104" column="39" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" />
-      <jump line="223" column="39" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" />
       <jump line="64" column="15" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" />
       <jump line="69" column="29" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" />
       <jump line="99" column="23" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" />
@@ -658,7 +651,6 @@
       <jump line="275" column="47" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" />
       <jump line="303" column="0" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" />
       <jump line="276" column="18" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/utilities.py" />
       <jump line="290" column="8" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" />
       <jump line="42" column="0" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" />
       <jump line="128" column="14" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/utilities.py" />
@@ -683,55 +675,63 @@
       <jump line="395" column="38" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/models.py" />
       <jump line="396" column="49" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/models.py" />
       <jump line="401" column="69" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/models.py" />
+      <jump line="51" column="10" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/utilities.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/utilities.py" />
+      <jump line="133" column="62" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/utilities.py" />
+      <jump line="140" column="13" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/utilities.py" />
+      <jump line="154" column="32" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/utilities.py" />
+      <jump line="171" column="11" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/utilities.py" />
+      <jump line="42" column="6" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/utilities.py" />
+      <jump line="45" column="14" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/utilities.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPC9saT4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgbGFzdF9zY2FubmVkID0gdGltZXN0YW1wKCkK</text>
       </register>
       <register name="-" type="4">
-        <text>users</text>
+        <text encoding="base64">ICAgIA==</text>
       </register>
       <register name="/" type="4">
-        <text>product</text>
+        <text>RemoteEx</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">ICAgICAgICAgICAgICA8bGkgY2xhc3M9Im5hdi1pdGVtIiBkYXRhLXRvZ2dsZT0idG9vbHRpcCIgZGF0YS1wbGFjZW1lbnQ9InJpZ2h0IiB0aXRsZT0iUHJvZHVjdHMiPgogICAgICAgICAgICAgICAgPGEgY2xhc3M9Im5hdi1saW5rIiBocmVmPSIvcHJvZHVjdC8iPgogICAgICAgICAgICAgICAgICAgIDxpIGNsYXNzPSJmYSBmYS1mdyBmYS11c2VycyI+PC9pPgogICAgICAgICAgICAgICAgICAgIDxzcGFuIGNsYXNzPSJuYXYtbGluay10ZXh0Ij5Qcm9kdWN0czwvc3Bhbj4KICAgICAgICAgICAgICAgIDwvYT4KICAgICAgICAgICAgPC9saT4=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPC9saT4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgbGFzdF9zY2FubmVkID0gdGltZXN0YW1wKCkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDwvYT4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgZXhjZXB0ICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8c3BhbiBjbGFzcz0ibmF2LWxpbmstdGV4dCI+VGFibGVzPC9zcGFuPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdHJ5Ogo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8aSBjbGFzcz0iZmEgZmEtZncgZmEtdGFibGUiPjwvaT4K</text>
+        <text encoding="base64">ICAgIHRyeToK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxhIGNsYXNzPSJuYXYtbGluayIgaHJlZj0idGFibGVzLmh0bWwiPgo=</text>
+        <text encoding="base64">ICAgIGV4Y2VwdCAgICAgICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGxpIGNsYXNzPSJuYXYtaXRlbSIgZGF0YS10b2dnbGU9InRvb2x0aXAiIGRhdGEtcGxhY2VtZW50PSJyaWdodCIgdGl0bGU9IlRhYmxlcyI+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPC9saT4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDwvYT4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGRlZiBfX3JlcHJfXyhzZWxmKToKICAgICAgICByZXR1cm4gIiVzIC0gJXMiICUgKCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8c3BhbiBjbGFzcz0ibmF2LWxpbmstdGV4dCI+VGFibGVzPC9zcGFuPgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoInZhbDoiLCB2YWwpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8aSBjbGFzcz0iZmEgZmEtZncgZmEtdGFibGUiPjwvaT4K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>product</last-search>
+      <last-search>RemoteEx</last-search>
       <last-offset />
-      <last-pattern>product</last-pattern>
+      <last-pattern>RemoteEx</last-pattern>
       <last-replace encoding="base64">dGQ+</last-replace>
       <last-substitute encoding="base64">dGg+</last-substitute>
       <last-dir>1</last-dir>
@@ -739,7 +739,6 @@
     </search>
     <history>
       <history-search>
-        <entry>resolve_name</entry>
         <entry>resolve</entry>
         <entry>from_gateway</entry>
         <entry>add_node</entry>
@@ -749,7 +748,6 @@
         <entry>skip_add</entry>
         <entry>node</entry>
         <entry>connection para</entry>
-        <entry>run_remote</entry>
         <entry>runcmd</entry>
         <entry>strip</entry>
         <entry>my_strip</entry>
@@ -759,10 +757,10 @@
         <entry>Product</entry>
         <entry>prouct_</entry>
         <entry>product</entry>
+        <entry>run_remote</entry>
+        <entry>RemoteEx</entry>
       </history-search>
       <history-cmd>
-        <entry>53</entry>
-        <entry>153</entry>
         <entry encoding="base64">JzwsJz5ncy90aD4vdGQ+Lw==</entry>
         <entry encoding="base64">JzwsJz5zL3RoPi90ZD4vZw==</entry>
         <entry>158</entry>
@@ -770,7 +768,6 @@
         <entry>31</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>142</entry>
-        <entry>307</entry>
         <entry>145</entry>
         <entry>35</entry>
         <entry>126</entry>
@@ -779,6 +776,9 @@
         <entry>336</entry>
         <entry>$</entry>
         <entry>285</entry>
+        <entry>306</entry>
+        <entry>347</entry>
+        <entry>307</entry>
         <entry>0</entry>
         <entry>w</entry>
       </history-cmd>
