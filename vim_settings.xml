@@ -15,12 +15,12 @@
         <mark key="^" line="5" column="53" />
         <mark key="." line="5" column="53" />
       </file>
-      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" timestamp="1518485272564">
-        <mark key="'" line="42" column="0" />
-        <mark key="[" line="31" column="70" />
-        <mark key="]" line="31" column="80" />
-        <mark key="." line="31" column="80" />
-        <mark key="^" line="31" column="80" />
+      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" timestamp="1518486131058">
+        <mark key="'" line="31" column="61" />
+        <mark key="[" line="390" column="44" />
+        <mark key="]" line="390" column="44" />
+        <mark key="." line="390" column="44" />
+        <mark key="^" line="386" column="38" />
       </file>
       <file name="$USER_HOME$/Sites/FlaskApp/templates/interactive.html" timestamp="1514787861252">
         <mark key="[" line="6" column="73" />
@@ -279,8 +279,8 @@
         <mark key="^" line="35" column="19" />
         <mark key="." line="35" column="19" />
       </file>
-      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/utilities.py" timestamp="1518485246326">
-        <mark key="'" line="0" column="0" />
+      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/utilities.py" timestamp="1518486008104">
+        <mark key="'" line="128" column="14" />
         <mark key="[" line="131" column="7" />
         <mark key="]" line="131" column="14" />
         <mark key="." line="131" column="14" />
@@ -583,7 +583,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess_users/routes.py" />
       <jump line="36" column="0" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" />
       <jump line="75" column="35" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" />
       <jump line="14" column="27" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" />
@@ -673,26 +672,27 @@
       <jump line="345" column="65" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" />
       <jump line="359" column="90" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" />
       <jump line="363" column="91" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" />
-      <jump line="31" column="67" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" />
       <jump line="273" column="20" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" />
       <jump line="275" column="47" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" />
       <jump line="303" column="0" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" />
       <jump line="276" column="18" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" />
       <jump line="0" column="0" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/utilities.py" />
       <jump line="290" column="8" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" />
       <jump line="42" column="0" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" />
       <jump line="0" column="0" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/models.py" />
+      <jump line="128" column="14" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/utilities.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" />
+      <jump line="31" column="61" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>\</text>
+        <text>__dict__</text>
       </register>
       <register name="-" type="4">
-        <text>\</text>
+        <text>__dict__</text>
       </register>
       <register name="/" type="4">
-        <text>runcmd</text>
+        <text>my_strip</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgI3JldHVybiB0dXBsZShyZXN1bHQuc3Rkb3V0LnNwbGl0KClbMDoyXSkK</text>
@@ -729,9 +729,9 @@
       </register>
     </registers>
     <search>
-      <last-search>runcmd</last-search>
+      <last-search>my_strip</last-search>
       <last-offset />
-      <last-pattern>runcmd</last-pattern>
+      <last-pattern>my_strip</last-pattern>
       <last-replace encoding="base64">dGQ+</last-replace>
       <last-substitute encoding="base64">dGg+</last-substitute>
       <last-dir>1</last-dir>
@@ -739,8 +739,6 @@
     </search>
     <history>
       <history-search>
-        <entry>HostNameNot</entry>
-        <entry>gethost</entry>
         <entry>is_local</entry>
         <entry>ipv4</entry>
         <entry>utilit</entry>
@@ -759,6 +757,8 @@
         <entry>connection para</entry>
         <entry>run_remote</entry>
         <entry>runcmd</entry>
+        <entry>strip</entry>
+        <entry>my_strip</entry>
       </history-search>
       <history-cmd>
         <entry>53</entry>
