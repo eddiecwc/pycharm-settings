@@ -361,6 +361,12 @@
         <mark key="." line="61" column="32" />
         <mark key="^" line="61" column="32" />
       </file>
+      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/ess_systems/models.py" timestamp="1517285819158">
+        <mark key="'" line="49" column="28" />
+        <mark key="[" line="137" column="0" />
+        <mark key="]" line="139" column="40" />
+        <mark key="." line="444" column="38" />
+      </file>
       <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/ess_users/models.py" timestamp="1518485319601">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="18" column="49" />
@@ -507,12 +513,11 @@
         <mark key="." line="221" column="12" />
         <mark key="^" line="221" column="12" />
       </file>
-      <file name="$USER_HOME$/Sites/ESS-Monitor/run.py" timestamp="1518937840063">
+      <file name="$USER_HOME$/Sites/ESS-Monitor/run.py" timestamp="1518946383123">
         <mark key="'" line="0" column="10" />
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
-        <mark key="^" line="14" column="0" />
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="." line="22" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/playground/first.py" timestamp="1510732076473">
         <mark key="[" line="66" column="71" />
@@ -705,7 +710,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ZnJvbSAK</text>
+        <text encoding="base64">ZnJvbSBtb25pdG9yLmFwcCBpbXBvcnQgY2UK</text>
       </register>
       <register name="-" type="4">
         <text>d</text>
@@ -717,31 +722,31 @@
         <text encoding="base64">ICAgIG5vZGUgPSBOb2RlLnF1ZXJ5LmZpbHRlcl9ieShob3N0bmFtZT1ob3N0bmFtZSkuZmlyc3QoKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZnJvbSAK</text>
+        <text encoding="base64">ZnJvbSBtb25pdG9yLmFwcCBpbXBvcnQgY2UK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZnJvbSBtb25pdG9yIGltcG9ydCBhcHAK</text>
+        <text encoding="base64">ZnJvbSAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">bSAK</text>
+        <text encoding="base64">ZnJvbSBtb25pdG9yIGltcG9ydCBhcHAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZnJvbSBtb25pdG9yLmVzcy5yb3V0Cg==</text>
+        <text encoding="base64">bSAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">IyAgICBub2RlID0gTm9kZS5xdWVyeS5maWx0ZXJfYnkoaG9zdG5hbWU9aG9zdG5hbWUpLmZpcnN0KCkK</text>
+        <text encoding="base64">ZnJvbSBtb25pdG9yLmVzcy5yb3V0Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyAgICBub2RlID0gTm9kZS5xdWVyeS5maWx0ZXJfYnkoaG9zdG5hbWU9aG9zdG5hbWUpLmZpcnN0KCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">OjAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaW50KGNlLikK</text>
+        <text encoding="base64">OjAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">cHJpbnQoQ0VMRVJZX05BTUUsIF9fbmFtZV9fKQo=</text>
+        <text encoding="base64">ICAgIHByaW50KGNlLikK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
