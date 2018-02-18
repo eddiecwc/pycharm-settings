@@ -143,11 +143,11 @@
         <mark key="^" line="3" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/app.py" timestamp="1518385130322">
+      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/app.py" timestamp="1518932448944">
         <mark key="'" line="20" column="0" />
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/Sites/flask_movie/main.py" timestamp="1513933434536">
         <mark key="'" line="7" column="0" />
@@ -435,6 +435,13 @@
         <mark key="." line="417" column="27" />
         <mark key="^" line="417" column="27" />
       </file>
+      <file name="$USER_HOME$/Sites/ESS-Monitor/run.py" timestamp="1518932768391">
+        <mark key="'" line="0" column="10" />
+        <mark key="[" line="18" column="45" />
+        <mark key="]" line="18" column="44" />
+        <mark key="^" line="18" column="44" />
+        <mark key="." line="18" column="44" />
+      </file>
       <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/mod_tester/__init__.py" timestamp="1515867144650">
         <mark key="[" line="0" column="26" />
         <mark key="]" line="0" column="39" />
@@ -685,53 +692,53 @@
       <jump line="0" column="0" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IyA=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IyA=</text>
       </register>
       <register name="/" type="4">
-        <text>POST</text>
+        <text>celery</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBvYmosIGNyZWF0ZWQgPSBQcm9kdWN0LmdldF9vcl9jcmVhdGUobmFtZT1uYW1lLCBjYXRlZ29yeT0ic2VydmVyIiwgcGFydF9udW1iZXI9cGFydF9udW1iZXIpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">QG1vZF9lc3Mucm91dGUoJy9ub2RlL2FkZC8nLCBtZXRob2RzPVsiR0VUIiwgIlBPU1QiXSkK</text>
-      </register>
-      <register name="2" type="4">
-        <text encoding="base64">IyBFcnJvciBIYW5kbGVycwoKCkBtb2RfZXNzLmVycm9yaGFuZGxlcig0MDQpCmRlZiBwYWdlX25vdF9mb3VuZChlKToKICAgIHJldHVybiByZW5kZXJfdGVtcGxhdGUoImVycm9ycy80MDQuaHRtbCIpCgo=</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="4">
+        <text encoding="base64">Y2VsZXJ5X3dvcmtlciA9IHdvcmtlci53b3JrZXIoYXBwPWVzc19tb25pdG9yKQp3b3JrZXJfb3B0aW9ucyA9IHsKICAgICdicm9rZXInOiAnYW1xcDovL2d1ZXN0Omd1ZXN0QGxvY2FsaG9zdDo1NjcyLy8nLAogICAgJ2xvZ2xldmVsJzogJ0lORk8nLAogICAgJ3RyYWNlYmFjayc6IFRydWUsCn0KCndvcmtlci5ydW4oKip3b3JrZXJfb3B0aW9ucykK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">IiIiClNjYW5zIG5ldHdvcmsgZGV2aWNlcyBvbiBzeXN0ZW0KIiIiCg==</text>
+        <text encoding="base64">ZnJvbSBjZWxlcnkuYmluIGltcG9ydCB3b3JrZXIK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">IiIiClNjYW5zIHN5c3RlbSBmdyAocG5vci9ibWMgZm9yIG9wZW4tcG93ZXIsIGdmdyBmb3IgcG93ZXIpCiIiIgo=</text>
+        <text encoding="base64">QG1vZF9lc3Mucm91dGUoJy9ub2RlL2FkZC8nLCBtZXRob2RzPVsiR0VUIiwgIlBPU1QiXSkK</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">IiIiClNjYW5zIGxpbnV4IHZtY29yZXMKIiIiCg==</text>
+      <register name="7" type="4">
+        <text encoding="base64">IyBFcnJvciBIYW5kbGVycwoKCkBtb2RfZXNzLmVycm9yaGFuZGxlcig0MDQpCmRlZiBwYWdlX25vdF9mb3VuZChlKToKICAgIHJldHVybiByZW5kZXJfdGVtcGxhdGUoImVycm9ycy80MDQuaHRtbCIpCgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">IiIiClNjYW5zIGluc3RhbGwgZGF0ZQoiIiIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">IiIiClNjYW5zIHN5c3RlbWQgdmVyc2lvbgoiIiIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>POST</last-search>
+      <last-search>celery</last-search>
       <last-offset />
-      <last-pattern>POST</last-pattern>
+      <last-pattern>celery</last-pattern>
       <last-replace encoding="base64">dGQ+</last-replace>
       <last-substitute encoding="base64">dGg+</last-substitute>
       <last-dir>1</last-dir>
@@ -739,7 +746,6 @@
     </search>
     <history>
       <history-search>
-        <entry>prouct_</entry>
         <entry>product</entry>
         <entry>RemoteEx</entry>
         <entry>run_remote</entry>
@@ -759,6 +765,7 @@
         <entry>add</entry>
         <entry>User</entry>
         <entry>POST</entry>
+        <entry>celery</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL3RoPi90ZD4vZw==</entry>
@@ -779,8 +786,8 @@
         <entry>307</entry>
         <entry>39</entry>
         <entry>$</entry>
-        <entry>0</entry>
         <entry>w</entry>
+        <entry>0</entry>
       </history-cmd>
       <history-expr />
       <history-input />
