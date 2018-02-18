@@ -143,11 +143,11 @@
         <mark key="." line="18" column="39" />
         <mark key="^" line="18" column="39" />
       </file>
-      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/conf/app_config.py" timestamp="1518933981125">
-        <mark key="[" line="19" column="4" />
-        <mark key="]" line="19" column="5" />
-        <mark key="." line="19" column="5" />
-        <mark key="^" line="19" column="5" />
+      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/conf/app_config.py" timestamp="1518934963763">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="18" column="24" />
+        <mark key="^" line="18" column="24" />
+        <mark key="." line="18" column="24" />
       </file>
       <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/app.py" timestamp="1518933689819">
         <mark key="'" line="48" column="11" />
@@ -700,7 +700,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICdicm9rZXInOiAnYW1xcDovL2d1ZXN0Omd1ZXN0QGxvY2FsaG9zdDo1NjcyLy8nLAo=</text>
+        <text encoding="base64">ICAgICd0cmFjZWJhY2snOiBUcnVlLAo=</text>
       </register>
       <register name="-" type="4">
         <text>myvhost</text>
@@ -712,31 +712,31 @@
         <text encoding="base64">ICAgICdicm9rZXInOiAnYW1xcDovL2d1ZXN0Omd1ZXN0QGxvY2FsaG9zdDo1NjcyLy8nLAogICAgJ2xvZ2xldmVsJzogJ0lORk8nLAogICAgJ3RyYWNlYmFjayc6IFRydWUsCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICdicm9rZXInOiAnYW1xcDovL2d1ZXN0Omd1ZXN0QGxvY2FsaG9zdDo1NjcyLy8nLAo=</text>
+        <text encoding="base64">ICAgICd0cmFjZWJhY2snOiBUcnVlLAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICdhbXFwOi8vbXl1c2VyOm15cGFzc3dvcmRAbG9jYWxob3N0OjU2NzIvbXl2aG9zdCcK</text>
+        <text encoding="base64">ICAgICdsb2dsZXZlbCc6ICdJTkZPJywK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIG15dXNlcjogbXlwYXNzd29yZAo=</text>
+        <text encoding="base64">ICAgICdicm9rZXInOiAnYW1xcDovL2d1ZXN0Omd1ZXN0QGxvY2FsaG9zdDo1NjcyLy8nLAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGsK</text>
+        <text encoding="base64">ICAgICdhbXFwOi8vbXl1c2VyOm15cGFzc3dvcmRAbG9jYWxob3N0OjU2NzIvbXl2aG9zdCcK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIG15dXNlcjogbXlwYXNzd29yZAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZnJvbSBjZWxlcnkgaW1wb3J0IENlbGVyeQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnJvbSBjZWxlcnkgaW1wb3J0IENlbGVyeQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -793,8 +793,8 @@
         <entry>307</entry>
         <entry>39</entry>
         <entry>$</entry>
-        <entry>w</entry>
         <entry>0</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
