@@ -22,12 +22,12 @@
         <mark key="^" line="5" column="53" />
         <mark key="." line="5" column="53" />
       </file>
-      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" timestamp="1519363206216">
+      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" timestamp="1519455068717">
         <mark key="'" line="120" column="8" />
-        <mark key="[" line="409" column="8" />
-        <mark key="]" line="409" column="9" />
-        <mark key="^" line="409" column="9" />
-        <mark key="." line="409" column="9" />
+        <mark key="[" line="295" column="31" />
+        <mark key="]" line="295" column="36" />
+        <mark key="^" line="295" column="36" />
+        <mark key="." line="295" column="36" />
       </file>
       <file name="$USER_HOME$/Sites/FlaskApp/templates/interactive.html" timestamp="1514787861252">
         <mark key="[" line="6" column="73" />
@@ -515,11 +515,12 @@
         <mark key="." line="221" column="12" />
         <mark key="^" line="221" column="12" />
       </file>
-      <file name="$USER_HOME$/Sites/ESS-Monitor/run.py" timestamp="1518994619738">
+      <file name="$USER_HOME$/Sites/ESS-Monitor/run.py" timestamp="1519454699890">
         <mark key="'" line="0" column="10" />
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="0" />
-        <mark key="." line="15" column="0" />
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="15" column="23" />
+        <mark key="." line="15" column="23" />
+        <mark key="^" line="15" column="23" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/playground/first.py" timestamp="1510732076473">
         <mark key="[" line="66" column="71" />
@@ -715,10 +716,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">cmVzdWx0cyA=</text>
+        <text>delay</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">cmVzdWx0cyA=</text>
+        <text>delay</text>
       </register>
       <register name="/" type="4">
         <text>scan_type</text>
