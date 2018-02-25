@@ -22,12 +22,12 @@
         <mark key="^" line="5" column="53" />
         <mark key="." line="5" column="53" />
       </file>
-      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" timestamp="1519517733237">
+      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" timestamp="1519523743285">
         <mark key="'" line="120" column="8" />
-        <mark key="[" line="296" column="45" />
-        <mark key="]" line="296" column="45" />
-        <mark key="^" line="299" column="31" />
-        <mark key="." line="296" column="45" />
+        <mark key="[" line="439" column="4" />
+        <mark key="]" line="439" column="10" />
+        <mark key="^" line="439" column="10" />
+        <mark key="." line="439" column="10" />
       </file>
       <file name="$USER_HOME$/Sites/FlaskApp/templates/interactive.html" timestamp="1514787861252">
         <mark key="[" line="6" column="73" />
@@ -716,10 +716,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>,</text>
+        <text encoding="base64">IyA=</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text encoding="base64">IyA=</text>
       </register>
       <register name="/" type="4">
         <text>session</text>
