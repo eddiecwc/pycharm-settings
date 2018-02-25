@@ -22,12 +22,12 @@
         <mark key="^" line="5" column="53" />
         <mark key="." line="5" column="53" />
       </file>
-      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" timestamp="1519523743285">
+      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" timestamp="1519525844690">
         <mark key="'" line="120" column="8" />
-        <mark key="[" line="439" column="4" />
-        <mark key="]" line="439" column="10" />
+        <mark key="[" line="297" column="30" />
+        <mark key="]" line="297" column="30" />
         <mark key="^" line="439" column="10" />
-        <mark key="." line="439" column="10" />
+        <mark key="." line="297" column="30" />
       </file>
       <file name="$USER_HOME$/Sites/FlaskApp/templates/interactive.html" timestamp="1514787861252">
         <mark key="[" line="6" column="73" />
@@ -171,12 +171,12 @@
         <mark key="." line="166" column="0" />
         <mark key="^" line="179" column="22" />
       </file>
-      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/mixin.py" timestamp="1519494555573">
+      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/mixin.py" timestamp="1519525703444">
         <mark key="'" line="6" column="0" />
-        <mark key="[" line="53" column="34" />
-        <mark key="]" line="54" column="44" />
-        <mark key="." line="54" column="44" />
-        <mark key="^" line="54" column="44" />
+        <mark key="[" line="58" column="0" />
+        <mark key="]" line="58" column="0" />
+        <mark key="." line="58" column="0" />
+        <mark key="^" line="55" column="44" />
       </file>
       <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/mod_device/device.py" timestamp="1516579356573">
         <mark key="'" line="0" column="0" />
@@ -716,10 +716,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IyA=</text>
+        <text>delay</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IyA=</text>
+        <text>delay</text>
       </register>
       <register name="/" type="4">
         <text>session</text>
@@ -728,31 +728,31 @@
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGluc3RhbmNlLCBGYWxzZQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIF0pLmFwcGx5X2FzeW5jKCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZWxzZToK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGdyb3VwKFsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGRiLnNlc3Npb24uZmx1c2goKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHNjYW5fcmVzdWx0cyA9IHNjYW5fam9icy5hcHBseV9hc3luYygpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGRiLnNlc3Npb24uY29tbWl0KCkKICAgICAgICAgICAgICAgIHJldHVybiBpbnN0YW5jZSwgVHJ1ZQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIF0pLmFwcGx5X2FzeW5jKCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGdyb3VwKFsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBzZW5kX2V4Y2VwdGlvbigne30gZXhjZXB0aW9uIGluIHt9Jy5mb3JtYXQoZXhjZXB0aW9uX25hbWUsIHRhc2tfbW9kdWxlKSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHNjYW5fcmVzdWx0cyA9IHNjYW5fam9icy5hcHBseV9hc3luYygpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBzZW5kX2V4Y2VwdGlvbigne30gZXhjZXB0aW9uIGluIHt9Jy5mb3JtYXQoZXhjZXB0aW9uX25hbWUsIHRhc2tfbW9kdWxlKSkK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBzZW5kX2V4Y2VwdGlvbigne30gZXhjZXB0aW9uIGluIHt9Jy5mb3JtYXQoZXhjZXB0aW9uX25hbWUsIHRhc2tfbW9kdWxlKSkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
