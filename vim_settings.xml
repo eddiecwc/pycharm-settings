@@ -22,12 +22,12 @@
         <mark key="^" line="5" column="53" />
         <mark key="." line="5" column="53" />
       </file>
-      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" timestamp="1519530558131">
-        <mark key="'" line="120" column="8" />
-        <mark key="[" line="297" column="30" />
-        <mark key="]" line="297" column="35" />
-        <mark key="^" line="297" column="35" />
-        <mark key="." line="297" column="35" />
+      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" timestamp="1519637107544">
+        <mark key="'" line="398" column="16" />
+        <mark key="[" line="436" column="8" />
+        <mark key="]" line="436" column="9" />
+        <mark key="^" line="436" column="9" />
+        <mark key="." line="436" column="9" />
       </file>
       <file name="$USER_HOME$/Sites/FlaskApp/templates/interactive.html" timestamp="1514787861252">
         <mark key="[" line="6" column="73" />
@@ -100,12 +100,12 @@
         <mark key="." line="18" column="39" />
         <mark key="^" line="18" column="39" />
       </file>
-      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/app.py" timestamp="1519633994436">
+      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/app.py" timestamp="1519636483009">
         <mark key="'" line="34" column="15" />
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="60" />
-        <mark key="." line="6" column="0" />
-        <mark key="^" line="34" column="5" />
+        <mark key="[" line="205" column="70" />
+        <mark key="]" line="205" column="71" />
+        <mark key="." line="205" column="71" />
+        <mark key="^" line="205" column="71" />
       </file>
       <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/decorators.py" timestamp="1518397790247">
         <mark key="[" line="13" column="0" />
@@ -619,12 +619,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="395" column="38" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/models.py" />
-      <jump line="396" column="49" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/models.py" />
-      <jump line="401" column="69" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/models.py" />
-      <jump line="51" column="10" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/utilities.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/utilities.py" />
-      <jump line="133" column="62" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/utilities.py" />
       <jump line="140" column="13" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/utilities.py" />
       <jump line="154" column="32" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/utilities.py" />
       <jump line="171" column="11" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/utilities.py" />
@@ -695,7 +689,6 @@
       <jump line="371" column="31" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" />
       <jump line="376" column="17" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" />
       <jump line="377" column="26" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" />
       <jump line="120" column="8" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" />
       <jump line="6" column="0" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/mixin.py" />
       <jump line="14" column="0" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/app.py" />
@@ -719,55 +712,62 @@
       <jump line="106" column="27" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/app.py" />
       <jump line="0" column="19" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/app.py" />
       <jump line="34" column="15" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/app.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" />
+      <jump line="127" column="8" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" />
+      <jump line="189" column="23" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" />
+      <jump line="178" column="41" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" />
+      <jump line="192" column="14" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" />
+      <jump line="194" column="20" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" />
+      <jump line="398" column="16" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ZnJvbSBtb25pdG9yIGltcG9ydCBjZWxlcnlfd29ya2Vycwo=</text>
+        <text encoding="base64">ICAgICAgICAjIG9iaiwgY3JlYXRlZCA9IFByb2R1Y3QuZ2V0X29yX2NyZWF0ZShwYXJ0X251bWJlcj1wYXJ0X251bWJlcikK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IyA=</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>celery</text>
+        <text>commit</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ZnJvbSBjZWxlcnkuc2lnbmFscyBpbXBvcnQgd29ya2VyX3Byb2Nlc3NfaW5pdCwgdGFza19mYWlsdXJlCg==</text>
+        <text encoding="base64">ICAgICAgICAjIExPRy5kZWJ1ZygnSW5pdGlhbGl6aW5nIFNRTEFsY2hlbXkgZm9yIFBJRCB7fS4nLmZvcm1hdChvcy5nZXRwaWQoKSkpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZnJvbSBtb25pdG9yIGltcG9ydCBjZWxlcnlfd29ya2Vycwo=</text>
+        <text encoding="base64">ICAgICAgICAjIG9iaiwgY3JlYXRlZCA9IFByb2R1Y3QuZ2V0X29yX2NyZWF0ZShwYXJ0X251bWJlcj1wYXJ0X251bWJlcikK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Y2VsZXJ5TG9nRmlsZSA9ICdjZWxlcnkubG9nJwo=</text>
+        <text encoding="base64">ICAgICAgICBjZQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Y2VsZXJ5TG9nTGV2ZWwgPSBsb2dnaW5nLkRFQlVHCg==</text>
+        <text encoding="base64">ZnJvbSBtb25pdG9yIGltcG9ydCBjZWxlcnlfd29ya2Vycwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y2VsZXJ5TG9nRmlsZSA9ICdjZWxlcnkubG9nJwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">bG9nX2ZpbGUgPSBvcy5wYXRoLmpvaW4oYXBwLmNvbmZpZ1snTE9HX0ZPTERFUiddLCBjZWxlcnlMb2dGaWxlKQpsb2dnZXIgPSBtYWtlX2xvZ2dlcihuYW1lPV9fbmFtZV9fLCBsb2dfZmlsZV9uYW1lPWxvZ19maWxlLCBsb2dfbGV2ZWw9Y2VsZXJ5TG9nTGV2ZWwpCg==</text>
+        <text encoding="base64">Y2VsZXJ5TG9nTGV2ZWwgPSBsb2dnaW5nLkRFQlVHCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZnJvbSBtb25pdG9yIGltcG9ydCBhcHAK</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">bG9nX2ZpbGUgPSBvcy5wYXRoLmpvaW4oYXBwLmNvbmZpZ1snTE9HX0ZPTERFUiddLCBjZWxlcnlMb2dGaWxlKQpsb2dnZXIgPSBtYWtlX2xvZ2dlcihuYW1lPV9fbmFtZV9fLCBsb2dfZmlsZV9uYW1lPWxvZ19maWxlLCBsb2dfbGV2ZWw9Y2VsZXJ5TG9nTGV2ZWwpCg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHRhc2tfbW9kdWxlID0gc2VuZGVyLm5hbWUK</text>
+        <text encoding="base64">ZnJvbSBtb25pdG9yIGltcG9ydCBhcHAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>celery</last-search>
+      <last-search>commit</last-search>
       <last-offset />
-      <last-pattern>celery</last-pattern>
+      <last-pattern>commit</last-pattern>
       <last-replace encoding="base64">dGQ+</last-replace>
       <last-substitute encoding="base64">dGg+</last-substitute>
       <last-dir>1</last-dir>
@@ -775,8 +775,6 @@
     </search>
     <history>
       <history-search>
-        <entry>125</entry>
-        <entry>app_config</entry>
         <entry>delay</entry>
         <entry>scan_thpe_mode</entry>
         <entry>time</entry>
@@ -795,9 +793,10 @@
         <entry>celery_worker</entry>
         <entry>logger</entry>
         <entry>celery</entry>
+        <entry>_add_node</entry>
+        <entry>commit</entry>
       </history-search>
       <history-cmd>
-        <entry>126</entry>
         <entry>133</entry>
         <entry>132</entry>
         <entry>336</entry>
@@ -814,8 +813,9 @@
         <entry>449</entry>
         <entry>406</entry>
         <entry>wq</entry>
-        <entry>$</entry>
         <entry>0</entry>
+        <entry>$</entry>
+        <entry>437</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
