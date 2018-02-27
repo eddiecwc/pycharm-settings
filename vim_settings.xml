@@ -100,6 +100,12 @@
         <mark key="." line="18" column="39" />
         <mark key="^" line="18" column="39" />
       </file>
+      <file name="$USER_HOME$/Sites/ESS-Monitor/README.md" timestamp="1519749399747">
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="34" column="32" />
+        <mark key="^" line="34" column="32" />
+        <mark key="." line="34" column="32" />
+      </file>
       <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/app.py" timestamp="1519748208910">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="213" column="8" />
@@ -163,13 +169,6 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/utilities.py" timestamp="1518540969932">
-        <mark key="'" line="45" column="14" />
-        <mark key="[" line="165" column="0" />
-        <mark key="]" line="165" column="71" />
-        <mark key="." line="166" column="0" />
-        <mark key="^" line="179" column="22" />
       </file>
       <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/mixin.py" timestamp="1519722796386">
         <mark key="'" line="51" column="12" />
@@ -761,7 +760,7 @@
         <text encoding="base64">ICAgIGVsc2U6Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wq</text>
       </register>
     </registers>
     <search>
@@ -812,11 +811,11 @@
         <entry>406</entry>
         <entry>399</entry>
         <entry>437</entry>
-        <entry>wq</entry>
         <entry>516</entry>
         <entry>0</entry>
         <entry>$</entry>
         <entry>w</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
