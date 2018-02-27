@@ -100,12 +100,12 @@
         <mark key="." line="18" column="39" />
         <mark key="^" line="18" column="39" />
       </file>
-      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/app.py" timestamp="1519707556104">
+      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/app.py" timestamp="1519710556921">
         <mark key="'" line="105" column="12" />
-        <mark key="[" line="221" column="8" />
-        <mark key="]" line="221" column="23" />
-        <mark key="." line="221" column="23" />
-        <mark key="^" line="221" column="23" />
+        <mark key="[" line="208" column="37" />
+        <mark key="]" line="208" column="46" />
+        <mark key="." line="208" column="46" />
+        <mark key="^" line="208" column="46" />
       </file>
       <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/decorators.py" timestamp="1518397790247">
         <mark key="[" line="13" column="0" />
@@ -722,10 +722,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>print</text>
+        <text>(</text>
       </register>
       <register name="-" type="4">
-        <text>print</text>
+        <text>(</text>
       </register>
       <register name="/" type="4">
         <text>os</text>
