@@ -106,12 +106,12 @@
         <mark key="^" line="34" column="32" />
         <mark key="." line="34" column="32" />
       </file>
-      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/app.py" timestamp="1519844790620">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="187" column="0" />
-        <mark key="]" line="188" column="0" />
-        <mark key="." line="188" column="0" />
-        <mark key="^" line="188" column="0" />
+      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/app.py" timestamp="1519857442613">
+        <mark key="'" line="46" column="0" />
+        <mark key="[" line="61" column="21" />
+        <mark key="]" line="62" column="7" />
+        <mark key="." line="62" column="7" />
+        <mark key="^" line="62" column="7" />
       </file>
       <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/decorators.py" timestamp="1518397790247">
         <mark key="[" line="13" column="0" />
@@ -151,12 +151,12 @@
         <mark key="^" line="86" column="66" />
         <mark key="." line="86" column="66" />
       </file>
-      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/conf/log_cfg.py" timestamp="1519856869119">
-        <mark key="'" line="1" column="7" />
-        <mark key="[" line="134" column="0" />
-        <mark key="]" line="134" column="0" />
-        <mark key="^" line="32" column="39" />
-        <mark key="." line="134" column="0" />
+      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/conf/log_cfg.py" timestamp="1519857204632">
+        <mark key="'" line="0" column="7" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="31" column="39" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/schemas.py" timestamp="1517336421879">
         <mark key="'" line="117" column="6" />
@@ -533,12 +533,12 @@
         <mark key="." line="221" column="12" />
         <mark key="^" line="221" column="12" />
       </file>
-      <file name="$USER_HOME$/Sites/ESS-Monitor/run.py" timestamp="1519695879267">
-        <mark key="'" line="7" column="0" />
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
-        <mark key="^" line="3" column="33" />
+      <file name="$USER_HOME$/Sites/ESS-Monitor/run.py" timestamp="1519857619096">
+        <mark key="'" line="7" column="14" />
+        <mark key="[" line="6" column="50" />
+        <mark key="]" line="6" column="64" />
+        <mark key="." line="6" column="64" />
+        <mark key="^" line="6" column="64" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/playground/first.py" timestamp="1510732076473">
         <mark key="[" line="66" column="71" />
@@ -631,16 +631,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="106" column="27" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/app.py" />
-      <jump line="127" column="8" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" />
-      <jump line="189" column="23" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" />
-      <jump line="178" column="41" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" />
-      <jump line="192" column="14" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" />
-      <jump line="194" column="20" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" />
-      <jump line="398" column="16" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" />
-      <jump line="378" column="4" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" />
-      <jump line="95" column="4" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" />
-      <jump line="38" column="33" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" />
       <jump line="435" column="13" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" />
       <jump line="10" column="0" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" />
       <jump line="37" column="34" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" />
@@ -656,7 +646,6 @@
       <jump line="301" column="58" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" />
       <jump line="6" column="0" filename="$USER_HOME$/Sites/ESS-Monitor/run.py" />
       <jump line="1" column="36" filename="$USER_HOME$/Sites/ESS-Monitor/run.py" />
-      <jump line="7" column="0" filename="$USER_HOME$/Sites/ESS-Monitor/run.py" />
       <jump line="422" column="0" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" />
       <jump line="446" column="15" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" />
       <jump line="467" column="11" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" />
@@ -688,22 +677,18 @@
       <jump line="373" column="0" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" />
       <jump line="385" column="0" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" />
       <jump line="413" column="15" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" />
-      <jump line="108" column="0" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/app.py" />
       <jump line="125" column="37" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/app.py" />
       <jump line="6" column="5" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/app.py" />
       <jump line="8" column="29" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/app.py" />
       <jump line="73" column="24" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/app.py" />
       <jump line="74" column="15" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/app.py" />
-      <jump line="83" column="45" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/app.py" />
       <jump line="87" column="28" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/app.py" />
-      <jump line="13" column="21" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/app.py" />
       <jump line="24" column="11" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/app.py" />
       <jump line="55" column="12" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/app.py" />
       <jump line="0" column="8" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/conf/log_cfg.py" />
       <jump line="5" column="14" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/conf/log_cfg.py" />
       <jump line="1" column="7" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/conf/log_cfg.py" />
       <jump line="45" column="7" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/app.py" />
-      <jump line="40" column="18" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/app.py" />
       <jump line="132" column="37" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/app.py" />
       <jump line="135" column="19" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/app.py" />
       <jump line="71" column="0" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" />
@@ -712,7 +697,6 @@
       <jump line="0" column="0" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/models.py" />
       <jump line="34" column="76" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/models.py" />
       <jump line="0" column="0" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess_users/models.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/app.py" />
       <jump line="43" column="0" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" />
       <jump line="296" column="68" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" />
       <jump line="297" column="60" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" />
@@ -731,77 +715,71 @@
       <jump line="22" column="38" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" />
       <jump line="25" column="20" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" />
       <jump line="46" column="9" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" />
+      <jump line="11" column="13" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/app.py" />
+      <jump line="29" column="4" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/app.py" />
+      <jump line="83" column="32" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/app.py" />
+      <jump line="84" column="34" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/app.py" />
+      <jump line="85" column="36" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/app.py" />
+      <jump line="108" column="4" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/app.py" />
+      <jump line="86" column="38" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/app.py" />
+      <jump line="3" column="0" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/app.py" />
+      <jump line="12" column="7" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/app.py" />
+      <jump line="13" column="7" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/app.py" />
+      <jump line="131" column="4" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/app.py" />
+      <jump line="39" column="7" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/app.py" />
+      <jump line="40" column="16" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/app.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/app.py" />
+      <jump line="46" column="0" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/app.py" />
+      <jump line="7" column="14" filename="$USER_HOME$/Sites/ESS-Monitor/run.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICMgY29uZmlndXJlX2NlbGVyeV93b3JrZXJzKGFwcCkK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IyA=</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>log</text>
+        <text>create_app</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIG15X2xvZ2dlci5kZWJ1ZygiU3RhcnQgc2Nhbm5pbmcgbm9kZSB0eXBlL21vZGVsIikK</text>
+        <text encoding="base64">ICAgIGRiLmRyb3BfYWxsKCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICMgY29uZmlndXJlX2NlbGVyeV93b3JrZXJzKGFwcCkK</text>
       </register>
-      <register name="2" type="4">
-        <text>#
-# def make_logger(name=__name__, log_file_name=&quot;{}/misc.log&quot;.format(gen_instance_dir()), log_level=logging.INFO):
-#     &quot;&quot;&quot;
-#     Sets up logger for the module
-#     &quot;&quot;&quot;
-#
-#     from logging.handlers import RotatingFileHandler
-#
-#     my_logger = logging.getLogger(name)
-#     my_logger.setLevel(log_level)
-#     formatter = logging.Formatter(LOG_FORMAT)
-#
-#     file_handler = RotatingFileHandler(log_file_name, maxBytes=100000000, backupCount=10)
-#     file_handler.setFormatter(formatter)
-#     file_handler.setLevel(log_level)
-#
-#     stream_handler = logging.StreamHandler()
-#     stream_handler.setLevel(logging.ERROR)
-#
-#     my_logger.addHandler(file_handler)
-#     my_logger.addHandler(stream_handler)
-#     my_logger.propagate = False
-#     return my_logger</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBkYi5kcm9wX2FsbCgpCg==</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICMgc2Nhbl90eXBlX21vZGVsLmRlbGF5KG5vZGUuaWQsIGlzX3Rhc2s9VHJ1ZSkKICAgICAgICAgICAgICAgICMgc2Nhbl9zZXJpYWwuZGVsYXkobm9kZS5pZCwgaXNfdGFzaz1UcnVlKQogICAgICAgICAgICAgICAgIyBzY2FuX3RvdGFsX2NwdS5kZWxheShub2RlLmlkLCBpc190YXNrPVRydWUpCiAgICAgICAgICAgICAgICAjIHNjYW5fdG90YWxfbWVtLmRlbGF5KG5vZGUuaWQsIGlzX3Rhc2s9VHJ1ZSkK</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIGlmIHJlc2V0X2RiOgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">IyBsb2dnZXIgPSBtYWtlX2xvZ2dlcihuYW1lPV9fbmFtZV9fLCBsb2dfZmlsZV9uYW1lPWxvZ19maWxlLCBsb2dfbGV2ZWw9dXNlcl9jb25mLmVzc0xvZ0xldmVsKQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">IyBsb2dfZmlsZSA9IG9zLnBhdGguam9pbihhcHAuY29uZmlnWydMT0dfRk9MREVSJ10sIHVzZXJfY29uZi5lc3NMb2dGaWxlKQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGxvZ2dpbmcK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">IyBsb2dnZXIgPSBtYWtlX2xvZ2dlcihuYW1lPV9fbmFtZV9fLCBsb2dfZmlsZV9uYW1lPWxvZ19maWxlLCBsb2dfbGV2ZWw9dXNlckxvZ0xldmVsKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">IyBsb2dfZmlsZSA9IG9zLnBhdGguam9pbihhcHAuY29uZmlnWydMT0dfRk9MREVSJ10sIHVzZXJMb2dGaWxlKQo=</text>
+        <text encoding="base64">ZnJvbSBmbGFza19tYXJzaG1hbGxvdyBpbXBvcnQgTWFyc2htYWxsb3cK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>log</last-search>
+      <last-search>create_app</last-search>
       <last-offset />
-      <last-pattern>log</last-pattern>
+      <last-pattern>create_app</last-pattern>
       <last-replace encoding="base64">dGQ+</last-replace>
       <last-substitute encoding="base64">dGg+</last-substitute>
       <last-dir>1</last-dir>
@@ -809,11 +787,6 @@
     </search>
     <history>
       <history-search>
-        <entry>WARNING</entry>
-        <entry>WARN</entry>
-        <entry>warn</entry>
-        <entry>celery</entry>
-        <entry>Logging</entry>
         <entry>user</entry>
         <entry>app.config</entry>
         <entry>logging.config</entry>
@@ -822,13 +795,18 @@
         <entry>get_logger</entry>
         <entry>log_cfg.py</entry>
         <entry>log_cfg</entry>
-        <entry>logging</entry>
         <entry>logger</entry>
         <entry>logg</entry>
         <entry>LOG_FORMAT</entry>
         <entry>CELERY</entry>
         <entry>task</entry>
         <entry>log</entry>
+        <entry>import</entry>
+        <entry>logging</entry>
+        <entry>drop_all</entry>
+        <entry>db.drop</entry>
+        <entry>extensions</entry>
+        <entry>create_app</entry>
       </history-search>
       <history-cmd>
         <entry>306</entry>
@@ -846,9 +824,9 @@
         <entry>437</entry>
         <entry>516</entry>
         <entry>201</entry>
-        <entry>$</entry>
         <entry>q</entry>
         <entry>wq</entry>
+        <entry>$</entry>
         <entry>0</entry>
         <entry>w</entry>
       </history-cmd>
