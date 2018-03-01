@@ -22,12 +22,19 @@
         <mark key="^" line="5" column="53" />
         <mark key="." line="5" column="53" />
       </file>
-      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" timestamp="1519889969313">
+      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" timestamp="1519890651949">
         <mark key="'" line="26" column="16" />
-        <mark key="[" line="536" column="0" />
-        <mark key="]" line="536" column="0" />
-        <mark key="^" line="520" column="3" />
-        <mark key="." line="536" column="0" />
+        <mark key="[" line="550" column="0" />
+        <mark key="]" line="550" column="16" />
+        <mark key="^" line="550" column="16" />
+        <mark key="." line="550" column="16" />
+      </file>
+      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/templates/ess/node_table_headers.html" timestamp="1519890986097">
+        <mark key="'" line="23" column="14" />
+        <mark key="[" line="23" column="14" />
+        <mark key="]" line="23" column="14" />
+        <mark key="^" line="23" column="14" />
+        <mark key="." line="23" column="14" />
       </file>
       <file name="$USER_HOME$/Sites/FlaskApp/templates/interactive.html" timestamp="1514787861252">
         <mark key="[" line="6" column="73" />
@@ -197,9 +204,6 @@
         <mark key="]" line="215" column="0" />
         <mark key="^" line="190" column="24" />
         <mark key="." line="215" column="0" />
-      </file>
-      <file name="/Python Console" timestamp="1518948761501">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/mod_support/product_number.py" timestamp="1516348109317">
         <mark key="'" line="47" column="10" />
@@ -632,7 +636,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="467" column="11" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" />
       <jump line="485" column="11" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" />
       <jump line="499" column="11" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" />
       <jump line="369" column="4" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" />
@@ -732,49 +735,50 @@
       <jump line="3" column="65" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" />
       <jump line="11" column="0" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" />
       <jump line="26" column="16" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" />
+      <jump line="23" column="14" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/templates/ess/node_table_headers.html" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICMgbm9kZSA9IE5vZGUucXVlcnkuZ2V0KG5vZGVfaWQpCg==</text>
+      <register name="&quot;" type="4">
+        <text>i</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>i</text>
       </register>
       <register name="/" type="4">
         <text>uti</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGlmIG5vdCBub2RlOgogICAgICAgIHJhaXNlIE5vZGVEYXRhTWlzc2luZ0Vycm9yCg==</text>
+        <text encoding="base64">ICAgIG15X2xvZ2dlci5pbmZvKCJGaW5pc2hlZCBzY2FubmluZyBub2RlICVzIHNlcmlhbCBudW1iZXI6ICVzIiAlIChub2RlLmhvc3RuYW1lLCByZXN1bHQpKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICMgbm9kZSA9IE5vZGUucXVlcnkuZ2V0KG5vZGVfaWQpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICMgbm9kZSA9IE5vZGUucXVlcnkuZ2V0KG5vZGVfaWQpCg==</text>
+        <text encoding="base64">ICAgIG15X2xvZ2dlci5pbmZvCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIG5vZGUuaG9zdG5hbWVub2RlLmhvc3RuYW1lbm9kZS5ob3N0bmFtZSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICMgbm9kZSA9IE5vZGUucXVlcnkuZ2V0KG5vZGVfaWQpCg==</text>
+        <text encoding="base64">ICAgIG15X2xvZ2dlci5kZWJ1Zygibm9kZTogJXMgIiAlIG5vZGUuaG9zdG5hbWUpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIG15X2xvZ2dlci5kZWJ1Zygibm9kZTogJXMgIiAlIG5vZGUuaG9zdG5hbWUpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICMgbm9kZSA9IE5vZGUucXVlcnkuZ2V0KG5vZGVfaWQpCg==</text>
+        <text encoding="base64">ICAgIG15X2xvZ2dlci5pbmZvKCJTdGFydCBzY2FubmluZyBub2RlICVzIHR5cGUvbW9kZWwiICUgKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGxvZ2dlci5leGNlcHRpb24oIiVzLiAlcyIgJShtc2csIGUuX19jbGFzc19fLl9fbmFtZV9fKSkK</text>
+        <text encoding="base64">ICAgICMgbm9kZSA9IE5vZGUucXVlcnkuZ2V0KG5vZGVfaWQpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGxvZ2dlci5leGNlcHRpb24obXNnKQo=</text>
+        <text encoding="base64">ICAgICMgbm9kZSA9IE5vZGUucXVlcnkuZ2V0KG5vZGVfaWQpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Z2V0Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wq</text>
       </register>
     </registers>
     <search>
@@ -827,9 +831,9 @@
         <entry>201</entry>
         <entry>q</entry>
         <entry>$</entry>
-        <entry>wq</entry>
         <entry>0</entry>
         <entry>w</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
