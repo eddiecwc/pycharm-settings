@@ -336,11 +336,11 @@
         <mark key="." line="2" column="0" />
         <mark key="^" line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/extensions.py" timestamp="1519896578989">
-        <mark key="[" line="13" column="36" />
-        <mark key="]" line="13" column="36" />
-        <mark key="." line="13" column="36" />
-        <mark key="^" line="13" column="36" />
+      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/extensions.py" timestamp="1519899352185">
+        <mark key="[" line="16" column="43" />
+        <mark key="]" line="17" column="3" />
+        <mark key="." line="17" column="3" />
+        <mark key="^" line="17" column="3" />
       </file>
       <file name="$USER_HOME$/Sites/ESS-Monitor/scripts/config.py" timestamp="1514326803244">
         <mark key="[" line="16" column="23" />
@@ -369,6 +369,12 @@
       <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/ess_systems/ARCHIVE/node.py" timestamp="1516698046716">
         <mark key="'" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Sites/ESS-Monitor/tasks.py" timestamp="1519899651553">
+        <mark key="[" line="7" column="22" />
+        <mark key="]" line="9" column="0" />
+        <mark key="^" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+      </file>
       <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/templates/errors/404.html" timestamp="1516871560493">
         <mark key="[" line="2" column="9" />
         <mark key="]" line="2" column="15" />
@@ -382,11 +388,11 @@
         <mark key="." line="116" column="60" />
         <mark key="^" line="116" column="60" />
       </file>
-      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/conf/app_config.py" timestamp="1519898408085">
-        <mark key="[" line="31" column="5" />
-        <mark key="]" line="31" column="5" />
-        <mark key="^" line="31" column="5" />
-        <mark key="." line="31" column="5" />
+      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/conf/app_config.py" timestamp="1519899414774">
+        <mark key="[" line="7" column="4" />
+        <mark key="]" line="7" column="18" />
+        <mark key="." line="7" column="18" />
+        <mark key="^" line="7" column="18" />
       </file>
       <file name="$USER_HOME$/Sites/flask_movie/main.py" timestamp="1513933434536">
         <mark key="'" line="7" column="0" />
@@ -576,9 +582,6 @@
         <mark key="^" line="12" column="11" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1519517866644">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Sites/ESS-Monitor/scripts/collectLinuxNodeInfo.py" timestamp="1514356709242">
         <mark key="'" line="34" column="14" />
         <mark key="[" line="139" column="63" />
@@ -751,43 +754,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>)</text>
+        <text encoding="base64">Q0VMRVJZX1JFU1VMVF9CQUNLRU5EIA==</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text encoding="base64">Q0VMRVJZX1JFU1VMVF9CQUNLRU5EIA==</text>
       </register>
       <register name="/" type="4">
         <text>password</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIGNlbGVyeSA9IENlbGVyeShhcHAuaW1wb3J0X25hbWUsIGJhY2tlbmQ9YXBwLmNvbmZpZ1snQ0VMRVJZX1JFU1VMVF9CQUNLRU5EJ10sCiAgICAgICAgICAgICAgICAgICAgYnJva2VyPWFwcC5jb25maWdbJ0NFTEVSWV9CUk9LRVJfVVJMJ10pCg==</text>
+      <register name="0" type="4">
+        <text encoding="base64">ICAgICMgY2VsZXJ5IGNvbmZpZ3VyYXRpb24KICAgIENFTEVSWV9CUk9LRVJfVVJMID0gJ2FtcXA6Ly9ndWVzdDpndWVzdEBsb2NhbGhvc3Q6NTY3Mi8vJwogICAgQ0VMRVJZX1JFU1VMVF9CQUNLRU5EID0gJ3JlZGlzOi8vbG9jYWxob3N0OjYzNzkvMCcKICAgICMgcmVzdWx0X2JhY2tlbmQgPSAncmVkaXM6Ly9sb2NhbGhvc3Q6NjM3OS8wJwoKICAgICMgQ0VMRVJZX0xPR19GSUxFID0gb3MucGF0aC5qb2luKExPR19GT0xERVIsICdjZWxlcnkubG9nJykKICAgICMgYWRkaXRpb25hbCBjZWxlcnkgY29uZmlnCiAgICB3b3JrZXJfaGlqYWNrX3Jvb3RfbG9nZ2VyID0gRmFsc2UKICAgICMgaGFyZCB0aW1lIGxpbWl0IGluIHNlY29uZHMgLSB3aGVuIHRhc2sgaXMga2lsbGVkCiAgICB0YXNrX3RpbWVfbGltaXQgPSA3MjAKICAgICMgc29mdCB0aW1lIGxpbWl0IGluIHNlY29uZHMgLSB3aGVuIGNlbGVyeS5leGNlcHRpb25zLlNvZnRUaW1lTGltaXRFeGNlZWRlZCBpcyByYWlzZWQKICAgICMgY2FuIGJlIGNhdWdodCBhbmQgdHJhbnNpdGlvbiB0byBjbGVhbnVwIHdvcmsgYmVmb3JlIGhhcmQgdGltZSBsaW1pdAogICAgdGFza19zb2Z0X3RpbWVfbGltaXQgPSA2MDA=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJlc3VsdHMgPSB0YXNrX2dyb3VwLmFwcGx5X2FzeW5jKCkK</text>
+        <text encoding="base64">ICAgIGNlbGVyeS5jb25mLnVwZGF0ZSgpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBdKQo=</text>
+        <text encoding="base64">Y2xhc3MgQ2VsZXJ5Q29uZmlnCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBzY2FuX3RvdGFsX21lbS5zKG5vZGUuaWQsIGlzX3Rhc2s9VHJ1ZSksCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJlc3VsdHMgPSB0YXNrX2dyb3VwLmFwcGx5X2FzeW5jKCkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBzY2FuX3RvdGFsX2NwdS5zKG5vZGUuaWQsIGlzX3Rhc2s9VHJ1ZSksCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBdKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBzY2FuX3NlcmlhbC5zKG5vZGUuaWQsIGlzX3Rhc2s9VHJ1ZSksCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBzY2FuX3RvdGFsX21lbS5zKG5vZGUuaWQsIGlzX3Rhc2s9VHJ1ZSksCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBzY2FuX3R5cGVfbW9kZWwucyhub2RlLmlkLCBpc190YXNrPVRydWUpLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBzY2FuX3RvdGFsX2NwdS5zKG5vZGUuaWQsIGlzX3Rhc2s9VHJ1ZSksCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRhc2tfZ3JvdXAgPSBncm91cChbCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBzY2FuX3NlcmlhbC5zKG5vZGUuaWQsIGlzX3Rhc2s9VHJ1ZSksCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KHJlc3VsdHMuZ2V0KCkpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBzY2FuX3R5cGVfbW9kZWwucyhub2RlLmlkLCBpc190YXNrPVRydWUpLAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRhc2tfZ3JvdXAgPSBncm91cChbCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -841,10 +844,10 @@
         <entry>516</entry>
         <entry>201</entry>
         <entry>$</entry>
-        <entry>0</entry>
         <entry>wq</entry>
         <entry>q</entry>
         <entry encoding="base64">dyA=</entry>
+        <entry>0</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
