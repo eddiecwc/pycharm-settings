@@ -373,11 +373,11 @@
         <mark key="." line="116" column="60" />
         <mark key="^" line="116" column="60" />
       </file>
-      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/conf/app_config.py" timestamp="1519880396638">
-        <mark key="[" line="51" column="0" />
-        <mark key="]" line="51" column="64" />
-        <mark key="^" line="85" column="63" />
-        <mark key="." line="51" column="0" />
+      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/conf/app_config.py" timestamp="1519891801179">
+        <mark key="[" line="43" column="0" />
+        <mark key="]" line="44" column="0" />
+        <mark key="^" line="44" column="0" />
+        <mark key="." line="44" column="0" />
       </file>
       <file name="$USER_HOME$/Sites/flask_movie/main.py" timestamp="1513933434536">
         <mark key="'" line="7" column="0" />
@@ -738,11 +738,11 @@
       <jump line="23" column="14" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/templates/ess/node_table_headers.html" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>i</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>i</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text>uti</text>
@@ -754,31 +754,31 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIG15X2xvZ2dlci5pbmZvCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIG5vZGUuaG9zdG5hbWVub2RlLmhvc3RuYW1lbm9kZS5ob3N0bmFtZSkK</text>
+        <text encoding="base64">ICAgIG15X2xvZ2dlci5pbmZvCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIG15X2xvZ2dlci5kZWJ1Zygibm9kZTogJXMgIiAlIG5vZGUuaG9zdG5hbWUpCg==</text>
+        <text encoding="base64">ICAgIG5vZGUuaG9zdG5hbWVub2RlLmhvc3RuYW1lbm9kZS5ob3N0bmFtZSkK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAgIG15X2xvZ2dlci5kZWJ1Zygibm9kZTogJXMgIiAlIG5vZGUuaG9zdG5hbWUpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIG15X2xvZ2dlci5pbmZvKCJTdGFydCBzY2FubmluZyBub2RlICVzIHR5cGUvbW9kZWwiICUgKQo=</text>
+        <text encoding="base64">ICAgIG15X2xvZ2dlci5kZWJ1Zygibm9kZTogJXMgIiAlIG5vZGUuaG9zdG5hbWUpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICMgbm9kZSA9IE5vZGUucXVlcnkuZ2V0KG5vZGVfaWQpCg==</text>
+        <text encoding="base64">ICAgIG15X2xvZ2dlci5pbmZvKCJTdGFydCBzY2FubmluZyBub2RlICVzIHR5cGUvbW9kZWwiICUgKQo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">ICAgICMgbm9kZSA9IE5vZGUucXVlcnkuZ2V0KG5vZGVfaWQpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICMgbm9kZSA9IE5vZGUucXVlcnkuZ2V0KG5vZGVfaWQpCg==</text>
       </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -832,8 +832,8 @@
         <entry>q</entry>
         <entry>$</entry>
         <entry>0</entry>
-        <entry>w</entry>
         <entry>wq</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
