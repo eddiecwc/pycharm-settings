@@ -22,12 +22,12 @@
         <mark key="^" line="5" column="53" />
         <mark key="." line="5" column="53" />
       </file>
-      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" timestamp="1519927747188">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="58" column="41" />
-        <mark key="]" line="58" column="47" />
-        <mark key="^" line="58" column="47" />
-        <mark key="." line="58" column="47" />
+      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" timestamp="1519929952489">
+        <mark key="'" line="91" column="4" />
+        <mark key="[" line="58" column="0" />
+        <mark key="]" line="58" column="0" />
+        <mark key="^" line="57" column="1" />
+        <mark key="." line="58" column="0" />
       </file>
       <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/templates/ess/node_table_headers.html" timestamp="1519890986097">
         <mark key="'" line="23" column="14" />
@@ -658,7 +658,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="115" column="5" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" />
       <jump line="143" column="20" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" />
       <jump line="149" column="16" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" />
       <jump line="34" column="0" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/app.py" />
@@ -758,55 +757,56 @@
       <jump line="43" column="17" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" />
       <jump line="49" column="57" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" />
       <jump line="0" column="0" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" />
+      <jump line="91" column="4" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>__dict__</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>__dict__</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>ce</text>
+        <text>group</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIGxvZ2dlci5kZWJ1ZygiQmFja2VuZCBhZnRlciBkaXNwYXRjaDogJXMiLCBjZS5iYWNrZW5kKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbmZpZ3VyZV9leHRlbnNpb25zKGFwcCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGZyb20gY2VsZXJ5IGltcG9ydCBjdXJyZW50X2FwcCBhcyBjZQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">cHJpbnQoY2VsZXJ5Ll9fZGljdF9fKQo=</text>
+        <text encoding="base64">ZnJvbSBjZWxlcnkgaW1wb3J0IGN1cnJlbnRfYXBwIGFzIGNlCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">cHJpbnQoZGlyKGNlbGVyeSkpCg==</text>
+        <text encoding="base64">ICAgIGNvbmZpZ3VyZV9leHRlbnNpb25zKGFwcCkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">bG9nZ2VyLmluZm8oInRvcCBvZiBlc3MgbW9kdWxlLCBiYWNrZW5kID0gJXMiICUgY2UuYmFja2VuZCkK</text>
+        <text encoding="base64">cHJpbnQoY2VsZXJ5Ll9fZGljdF9fKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIG15X2xvZ2dlci5kZWJ1ZygiYmFja2VuZCBpcyIpCg==</text>
+        <text encoding="base64">cHJpbnQoZGlyKGNlbGVyeSkpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">cHJpbnQoY2VsZXJ5LmNvbmYpCg==</text>
+        <text encoding="base64">bG9nZ2VyLmluZm8oInRvcCBvZiBlc3MgbW9kdWxlLCBiYWNrZW5kID0gJXMiICUgY2UuYmFja2VuZCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICMgY2VsZXJ5LmNvbmYudXBkYXRlKGFwcC5jb25maWcpCg==</text>
+        <text encoding="base64">ICAgIG15X2xvZ2dlci5kZWJ1ZygiYmFja2VuZCBpcyIpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGJyb2tlcl91cmwgPSAnYW1xcDovL2d1ZXN0Omd1ZXN0QGxvY2FsaG9zdDo1NjcyLy8nCiAgICByZXN1bHRfYmFja2VuZCA9ICdyZWRpczovL2xvY2FsaG9zdDo2Mzc5LzAnCg==</text>
+        <text encoding="base64">cHJpbnQoY2VsZXJ5LmNvbmYpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICMgY2VsZXJ5LmNvbmYudXBkYXRlKGFwcC5jb25maWcpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>ce</last-search>
+      <last-search>group</last-search>
       <last-offset />
-      <last-pattern>ce</last-pattern>
+      <last-pattern>group</last-pattern>
       <last-replace encoding="base64">dGQ+</last-replace>
       <last-substitute encoding="base64">dGg+</last-substitute>
       <last-dir>1</last-dir>
@@ -814,7 +814,6 @@
     </search>
     <history>
       <history-search>
-        <entry>import</entry>
         <entry>logging</entry>
         <entry>db.drop</entry>
         <entry>extensions</entry>
@@ -834,6 +833,7 @@
         <entry>password</entry>
         <entry>current</entry>
         <entry>ce</entry>
+        <entry>group</entry>
       </history-search>
       <history-cmd>
         <entry>347</entry>
