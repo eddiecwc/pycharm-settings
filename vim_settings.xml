@@ -22,12 +22,12 @@
         <mark key="^" line="5" column="53" />
         <mark key="." line="5" column="53" />
       </file>
-      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" timestamp="1519975890512">
-        <mark key="'" line="58" column="11" />
-        <mark key="[" line="400" column="21" />
-        <mark key="]" line="400" column="27" />
-        <mark key="^" line="400" column="27" />
-        <mark key="." line="400" column="27" />
+      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" timestamp="1519977576562">
+        <mark key="'" line="454" column="15" />
+        <mark key="[" line="454" column="0" />
+        <mark key="]" line="454" column="0" />
+        <mark key="^" line="457" column="46" />
+        <mark key="." line="454" column="0" />
       </file>
       <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/templates/ess/node_table_headers.html" timestamp="1519890986097">
         <mark key="'" line="23" column="14" />
@@ -647,9 +647,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="24" column="11" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/app.py" />
-      <jump line="0" column="8" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/conf/log_cfg.py" />
-      <jump line="5" column="14" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/conf/log_cfg.py" />
       <jump line="1" column="7" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/conf/log_cfg.py" />
       <jump line="132" column="37" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/app.py" />
       <jump line="135" column="19" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/app.py" />
@@ -747,55 +744,58 @@
       <jump line="0" column="0" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" />
       <jump line="24" column="21" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" />
       <jump line="58" column="11" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" />
+      <jump line="395" column="53" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" />
+      <jump line="405" column="59" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" />
+      <jump line="454" column="15" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">b2JqZWN0IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAjIC0gc2tpcF9hZGQgaXMgRmFsc2UK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">b2JqZWN0IA==</text>
+        <text encoding="base64">VHJ1ZSA=</text>
       </register>
       <register name="/" type="4">
-        <text>print</text>
+        <text>fail_val</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIG5vZGUgPSBkYi5zZXNzaW9uLnF1ZXJ5KE5vZGUpLndpdGhfZm9yX3VwZGF0ZSgpLmZpbHRlcl9ieShpZD1ub2RlX2lkKS5maXJzdCgpCiAgICBpZiBub3Qgbm9kZToKICAgICAgICByYWlzZSBOb2RlRGF0YU1pc3NpbmdFcnJvcgo=</text>
+        <text encoding="base64">IyAgICBub2RlID0gZGIuc2Vzc2lvbi5xdWVyeShOb2RlKS53aXRoX2Zvcl91cGRhdGUoKS5maWx0ZXJfYnkoaG9zdG5hbWU9aG9zdG5hbWUpLmZpcnN0KCkKIyAgICBpZiBub3Qgbm9kZToKIyAgICAgICAgcmFpc2UgTm9kZURhdGFNaXNzaW5nRXJyb3IK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAjIC0gc2tpcF9hZGQgaXMgRmFsc2UK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGRiLnNlc3Npb24uY29tbWl0KCkK</text>
+        <text encoding="base64">ICAgICAgICAjIC0gYW4gYWx0ZXJuYXRlIGZhaWx1cmUgdmFsdWUgaXMgcHJvdmlkZWQgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGtlcm5lbF92ZXIgPSByZXN1bHRbJ3VuYW1lJ10uc3BsaXQoKVsyXQo=</text>
+        <text encoding="base64">ICAgICAgICAjIC0gaWYgbm90IHVwZGF0ZV9pc19taXNzaW5nID0+IHVwZGF0ZSAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAjIC0gaWYgdXBkYXRlX2lzX21pc3NpbmcgPT4gb25seSB1cGRhdGUgaWYgbm90IGdldGF0dHIK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">dXBkYXRlX2lmX21pc3NpbmcK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHJldHVybiByZXN1bHQK</text>
+        <text encoding="base64">aGFzYXR0ciAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgWUVTICAgICBOTwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHJlc3VsdCA9IHNjYW5fYXR0cihjbWQsICJteV9zdHJpcChPVVRQVVQpIiwgJ2N1cnJlbnRfdGltZScsIG15X2xvZ2dlcj1teV9sb2dnZXIpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIG5vdCBza2lwX2FkZDoK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>print</last-search>
+      <last-search>fail_val</last-search>
       <last-offset />
-      <last-pattern>print</last-pattern>
+      <last-pattern>fail_val</last-pattern>
       <last-replace encoding="base64">dGQ+</last-replace>
       <last-substitute encoding="base64">dGg+</last-substitute>
       <last-dir>1</last-dir>
@@ -803,7 +803,6 @@
     </search>
     <history>
       <history-search>
-        <entry>configure_extensions</entry>
         <entry>drop_all</entry>
         <entry>logger</entry>
         <entry>reset_db</entry>
@@ -823,6 +822,7 @@
         <entry>ce\.</entry>
         <entry>group</entry>
         <entry>print</entry>
+        <entry>fail_val</entry>
       </history-search>
       <history-cmd>
         <entry>347</entry>
