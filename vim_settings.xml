@@ -22,12 +22,12 @@
         <mark key="^" line="5" column="53" />
         <mark key="." line="5" column="53" />
       </file>
-      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" timestamp="1519979990766">
-        <mark key="'" line="613" column="19" />
-        <mark key="[" line="628" column="0" />
-        <mark key="]" line="628" column="0" />
-        <mark key="^" line="609" column="20" />
-        <mark key="." line="628" column="0" />
+      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" timestamp="1519981988764">
+        <mark key="'" line="663" column="38" />
+        <mark key="[" line="725" column="47" />
+        <mark key="]" line="725" column="53" />
+        <mark key="^" line="725" column="53" />
+        <mark key="." line="725" column="53" />
       </file>
       <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/templates/ess/node_table_headers.html" timestamp="1519890986097">
         <mark key="'" line="23" column="14" />
@@ -647,12 +647,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="297" column="60" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" />
-      <jump line="298" column="63" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" />
-      <jump line="302" column="50" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" />
-      <jump line="304" column="49" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" />
-      <jump line="305" column="49" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess_users/routes.py" />
       <jump line="2" column="24" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess_users/routes.py" />
       <jump line="10" column="7" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess_users/routes.py" />
       <jump line="20" column="9" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess_users/routes.py" />
@@ -732,7 +726,6 @@
       <jump line="323" column="57" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" />
       <jump line="486" column="40" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" />
       <jump line="764" column="62" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" />
       <jump line="24" column="21" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" />
       <jump line="58" column="11" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" />
       <jump line="395" column="53" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" />
@@ -747,55 +740,62 @@
       <jump line="365" column="20" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" />
       <jump line="371" column="60" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" />
       <jump line="613" column="19" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" />
+      <jump line="501" column="17" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" />
+      <jump line="503" column="39" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" />
+      <jump line="576" column="29" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" />
+      <jump line="580" column="38" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" />
+      <jump line="653" column="25" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" />
+      <jump line="663" column="38" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBub2RlLmtlcm5lbF92ZXIgPSByZXN1bHRfZGljdFsna2VybmVsX3ZlciddCg==</text>
+      <register name="&quot;" type="4">
+        <text>libvirt</text>
       </register>
       <register name="-" type="4">
-        <text>[</text>
+        <text>libvirt</text>
       </register>
       <register name="/" type="4">
-        <text>result</text>
+        <text>post_func</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBub2RlLmFyY2ggPSBrZXJuZWxfdmVyLnNwbGl0KCcuJylbLTFdCg==</text>
+        <text encoding="base64">ICAgIHJlc3VsdCA9IHNjYW5fYXR0cihob3N0bmFtZSwgY21kLCBwb3N0X2Z1bmMsICdsaWJ2ZXJ0X3ZlcicsIGZhaWxfdmFsPScnLCBteV9sb2dnZXI9bXlfbG9nZ2VyKQoKICAgIG15X2xvZ2dlci5kZWJ1ZygiRmluaXNoZWQgc2Nhbm5pbmcgbm9kZSAlcyBsaWJ2aXJ0OiAlcyIgJSAoaG9zdG5hbWUsIHJlc3VsdCkpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBub2RlLmtlcm5lbF92ZXIgPSByZXN1bHRfZGljdFsna2VybmVsX3ZlciddCg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gcmVzdWx0Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIGVsc2U6Cg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIHJlc3VsdCA9IHNjYW5fYXR0cihob3N0bmFtZSwgY21kLCBwb3N0X2Z1bmMsICdsaWJ2ZXJ0X3ZlcicsIGZhaWxfdmFsPScnLCBteV9sb2dnZXI9bXlfbG9nZ2VyKQo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIGRlZiBwb3N0X2Z1bmMoc3lzdGVtZCk6Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIG15X2xvZ2dlciA9IGNob29zZV9sb2dnZXIoaXNfdGFzaykK</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gcmVzdWx0Cg==</text>
+        <text encoding="base64">ICAgIGRkCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBub2RlLmFyY2ggPSBrZXJuZWxfdmVyLnNwbGl0KCcuJylbLTFdCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBhcmNoID0K</text>
+        <text encoding="base64">ICAgIHJlc3VsdCA9IHNjYW5fYXR0cihob3N0bmFtZSwgY21kLCBwb3N0X2Z1bmMsICdvc192ZXInLCBmYWlsX3ZhbD0nJywgbXlfbG9nZ2VyPW15X2xvZ2dlcikK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByYWlzZSBOb2RlRGF0YU1pc3NpbmdFcnJvcgo=</text>
+        <text encoding="base64">ICAgICIiIgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>result</last-search>
+      <last-search>post_func</last-search>
       <last-offset />
-      <last-pattern>result</last-pattern>
+      <last-pattern>post_func</last-pattern>
       <last-replace encoding="base64">dGQ+</last-replace>
       <last-substitute encoding="base64">dGg+</last-substitute>
       <last-dir>1</last-dir>
@@ -803,7 +803,6 @@
     </search>
     <history>
       <history-search>
-        <entry>reset_db</entry>
         <entry>return</entry>
         <entry>logger.warn</entry>
         <entry>jsonify</entry>
@@ -823,6 +822,7 @@
         <entry>fail_val</entry>
         <entry>node</entry>
         <entry>result</entry>
+        <entry>post_func</entry>
       </history-search>
       <history-cmd>
         <entry>307</entry>
