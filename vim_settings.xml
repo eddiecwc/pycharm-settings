@@ -22,12 +22,12 @@
         <mark key="^" line="5" column="53" />
         <mark key="." line="5" column="53" />
       </file>
-      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" timestamp="1520074465675">
+      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" timestamp="1520075801489">
         <mark key="'" line="593" column="38" />
-        <mark key="[" line="710" column="58" />
-        <mark key="]" line="710" column="58" />
-        <mark key="." line="710" column="58" />
-        <mark key="^" line="710" column="58" />
+        <mark key="[" line="738" column="31" />
+        <mark key="]" line="738" column="31" />
+        <mark key="." line="738" column="31" />
+        <mark key="^" line="738" column="31" />
       </file>
       <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/templates/ess/node_table_headers.html" timestamp="1519890986097">
         <mark key="'" line="23" column="14" />
@@ -752,43 +752,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>r</text>
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>r</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>post_func</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHZlcnNpb24gPSByZXN1bHRbJ29zX3ZlciddLmNvZGVfdmVyc2lvbgogICAgbXlfbG9nZ2VyLmRlYnVnKCJGaW5pc2hlZCBzY2FubmluZyBub2RlICVzIG9zIHZlcnNpb246ICVzIiAlIChob3N0bmFtZSwgdmVyc2lvbikpCiAgICByZXR1cm4ganNvbi5kdW1wcyh7J29zX3Zlcic6IHZlcnNpb259KQo=</text>
+        <text encoding="base64">ICAgIHZlcnNpb24gPSBqc29uLmxvYWRzKHJlc3VsdClbJ2xpYnZlcnRfdmVyJ10K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGRlZgo=</text>
+        <text encoding="base64">ICAgIHZlcnNpb24gPSBqc29uLmxvYWRzKHJlc3VsdClbJ2xpYnZlcnRfdmVyJ10K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIG0K</text>
+        <text encoding="base64">ICAgIHZlcnNpb24gPSBqc29uLmxvYWRzKHJlc3VsdClbJ2lucyddCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHJldHVybiByZXN1bHQK</text>
+        <text encoding="base64">ICAgIG15X2xvZ2dlci5kZWJ1ZygicmVzdWx0OiAlcywgdHlwZSA9ICVzIiAlIChqc29uLmxvYWRzKHJlc3VsdClbJ2xpYnZlcnRfdmVyJ10sIHR5cGUoanNvbi5sb2FkcyhyZXN1bHQpWydsaWJ2ZXJ0X3ZlciddKSkpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIG15X2xvZ2dlci5kZWJ1ZygiRmluaXNoZWQgc2Nhbm5pbmcgbm9kZSAlcyBvcyB2ZXJzaW9uOiAlcyIgJSAoaG9zdG5hbWUsIHZlcnNpb24pKQo=</text>
+        <text encoding="base64">ICAgIGRlZgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBqc29uLmR1bXBzKHsnb3NfdmVyJzogdmVyc2lvbn0pCg==</text>
+        <text encoding="base64">ICAgIG0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHZlcnNpb24gPSByZXN1bHRbJ29zX3ZlciddLmNvZGVfdmVyc2lvbgo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">ICAgIHJldHVybiByZXN1bHQK</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIG15X2xvZ2dlci5kZWJ1ZygiRmluaXNoZWQgc2Nhbm5pbmcgbm9kZSAlcyBvcyB2ZXJzaW9uOiAlcyIgJSAoaG9zdG5hbWUsIHZlcnNpb24pKQo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHJldHVybiBqc29uLmR1bXBzKHsnb3NfdmVyJzogdmVyc2lvbn0pCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgKGhvc3RuYW1lLCBub2RlLnN5c19md192ZXIuY29kZV92ZXJzaW9uLCBub2RlLnNwX2Z3X3Zlci5jb2RlX3ZlcnNpb24pKQo=</text>
+        <text encoding="base64">ICAgIHZlcnNpb24gPSByZXN1bHRbJ29zX3ZlciddLmNvZGVfdmVyc2lvbgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
