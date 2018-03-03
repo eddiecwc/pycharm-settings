@@ -22,12 +22,11 @@
         <mark key="^" line="5" column="53" />
         <mark key="." line="5" column="53" />
       </file>
-      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" timestamp="1520112047312">
-        <mark key="'" line="853" column="33" />
-        <mark key="[" line="840" column="25" />
-        <mark key="]" line="840" column="27" />
-        <mark key="." line="840" column="27" />
-        <mark key="^" line="840" column="27" />
+      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" timestamp="1520115025768">
+        <mark key="'" line="855" column="33" />
+        <mark key="[" line="872" column="0" />
+        <mark key="]" line="872" column="0" />
+        <mark key="." line="872" column="0" />
       </file>
       <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/templates/ess/node_table_headers.html" timestamp="1519890986097">
         <mark key="'" line="23" column="14" />
@@ -72,13 +71,6 @@
         <mark key="]" line="46" column="31" />
         <mark key="^" line="46" column="31" />
         <mark key="." line="46" column="31" />
-      </file>
-      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/ess_users/routes.py" timestamp="1519845286698">
-        <mark key="'" line="20" column="9" />
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="0" />
-        <mark key="^" line="14" column="1" />
-        <mark key="." line="20" column="0" />
       </file>
       <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/mod_node/node.py" timestamp="1515521396191">
         <mark key="'" line="0" column="0" />
@@ -158,13 +150,6 @@
         <mark key="]" line="86" column="66" />
         <mark key="^" line="86" column="66" />
         <mark key="." line="86" column="66" />
-      </file>
-      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/conf/log_cfg.py" timestamp="1519880442199">
-        <mark key="'" line="0" column="7" />
-        <mark key="[" line="147" column="11" />
-        <mark key="]" line="147" column="20" />
-        <mark key="^" line="147" column="20" />
-        <mark key="." line="147" column="20" />
       </file>
       <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/schemas.py" timestamp="1517336421879">
         <mark key="'" line="117" column="6" />
@@ -588,13 +573,6 @@
         <mark key="^" line="139" column="63" />
         <mark key="." line="139" column="63" />
       </file>
-      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/templates/header.html" timestamp="1518537793016">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="47" column="0" />
-        <mark key="]" line="47" column="0" />
-        <mark key="^" line="31" column="47" />
-        <mark key="." line="47" column="0" />
-      </file>
       <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/templates/layouts/layout.html" timestamp="1517346104518">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="51" column="52" />
@@ -634,13 +612,6 @@
         <mark key="]" line="89" column="98" />
         <mark key="." line="91" column="57" />
         <mark key="^" line="91" column="57" />
-      </file>
-      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/forms.py" timestamp="1519880807949">
-        <mark key="'" line="74" column="81" />
-        <mark key="[" line="48" column="13" />
-        <mark key="]" line="48" column="24" />
-        <mark key="." line="48" column="24" />
-        <mark key="^" line="48" column="24" />
       </file>
       <file name="$USER_HOME$/Sites/virtualenv/ESS-Monitor/lib/python3.6/site-packages/sqlalchemy/ext/declarative/base.py" timestamp="1520065467445">
         <mark key="[" line="699" column="0" />
@@ -751,44 +722,44 @@
       <jump line="853" column="33" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>stdout</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBteV9sb2dnZXIuaW5mbygibm9kZSAlcyBmdyBzY2FuIGNvbXBsZXRlLiBzeXMgPSAlcywgZncgPSAlcyIgJSAoaG9zdG5hbWUsICkpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>stdout</text>
+        <text encoding="base64">UE5PUiA=</text>
       </register>
       <register name="/" type="4">
         <text>out</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBmaWxlcyA9IHJlLnNwbGl0KHIiW1xyXG5cc10rIiwgbGlzdGluZykK</text>
+        <text encoding="base64">ICAgICAgICAgICAgbXlfbG9nZ2VyLmRlYnVnKCJub2RlICVzIGlzIGEgU1VQRVJNSUNSTyBzeXN0ZW0uIEZvdW5kIFBOT1IgdmVyc2lvbiAlcyIgJSAoaG9zdG5hbWUsIGZ3X3ZlcikpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIG15X2xvZ2dlci5kZWJ1Zygibm9kZSAlcyByZW1vdGUgY29tbWFuZCBmdyBzY2FuIG91dHB1dDogJXMiICUgKGhvc3RuYW1lLCBvdXQuc3Rkb3V0KSkK</text>
+        <text encoding="base64">ICAgICAgICBteV9sb2dnZXIuaW5mbygibm9kZSAlcyBmdyBzY2FuIGNvbXBsZXRlLiBzeXMgPSAlcywgZncgPSAlcyIgJSAoaG9zdG5hbWUsICkpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHZlcnNpb24gPSBqc29uLmxvYWRzKHJlc3VsdClbJ2xpYnZlcnRfdmVyJ10K</text>
+        <text encoding="base64">ICAgICAgICAgICAgbXlfbG9nZ2VyLmluZm8oIm5vZGUgJXMgZncgc2NhbiBjb21wbGV0ZS4gc3lzID0gJXMsIGZ3ID0gJXMiICUgKGhvc3RuYW1lLCApKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHZlcnNpb24gPSBqc29uLmxvYWRzKHJlc3VsdClbJ2lucyddCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbXlfbG9nZ2VyLmRlYnVnKCJub2RlICVzIGlzIGEgUE9XRVIgc3lzdGVtLiBGb3VuZCBHRlcgdmVyc2lvbiAlcyIgJSAoaG9zdG5hbWUsIGZ3X3ZlcikpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIG15X2xvZ2dlci5kZWJ1ZygicmVzdWx0OiAlcywgdHlwZSA9ICVzIiAlIChqc29uLmxvYWRzKHJlc3VsdClbJ2xpYnZlcnRfdmVyJ10sIHR5cGUoanNvbi5sb2FkcyhyZXN1bHQpWydsaWJ2ZXJ0X3ZlciddKSkpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbXlfbG9nZ2VyLmRlYnVnKCJub2RlICVzIGlzIGEgUE9XRVIgc3lzdGVtLiBFeHRyYWN0aW5nIEdGVyB2ZXJzaW9uIikK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGRlZgo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIG0K</text>
+        <text encoding="base64">ICAgIG15X2xvZ2dlci5kZWJ1Zygibm9kZSAlcyByZW1vdGUgY29tbWFuZCBmdyBzY2FuIG91dHB1dDogJXMiICUgKGhvc3RuYW1lLCBvdXQuc3Rkb3V0KSkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHJldHVybiByZXN1bHQK</text>
+        <text encoding="base64">ICAgIHZlcnNpb24gPSBqc29uLmxvYWRzKHJlc3VsdClbJ2xpYnZlcnRfdmVyJ10K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIG15X2xvZ2dlci5kZWJ1ZygiRmluaXNoZWQgc2Nhbm5pbmcgbm9kZSAlcyBvcyB2ZXJzaW9uOiAlcyIgJSAoaG9zdG5hbWUsIHZlcnNpb24pKQo=</text>
+        <text encoding="base64">ICAgIHZlcnNpb24gPSBqc29uLmxvYWRzKHJlc3VsdClbJ2lucyddCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBqc29uLmR1bXBzKHsnb3NfdmVyJzogdmVyc2lvbn0pCg==</text>
+        <text encoding="base64">ICAgIG15X2xvZ2dlci5kZWJ1ZygicmVzdWx0OiAlcywgdHlwZSA9ICVzIiAlIChqc29uLmxvYWRzKHJlc3VsdClbJ2xpYnZlcnRfdmVyJ10sIHR5cGUoanNvbi5sb2FkcyhyZXN1bHQpWydsaWJ2ZXJ0X3ZlciddKSkpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
