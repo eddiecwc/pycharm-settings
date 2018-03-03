@@ -22,12 +22,12 @@
         <mark key="^" line="5" column="53" />
         <mark key="." line="5" column="53" />
       </file>
-      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" timestamp="1520070575344">
+      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" timestamp="1520072033066">
         <mark key="'" line="783" column="0" />
-        <mark key="[" line="865" column="0" />
-        <mark key="]" line="865" column="0" />
-        <mark key="^" line="864" column="6" />
-        <mark key="." line="865" column="0" />
+        <mark key="[" line="327" column="47" />
+        <mark key="]" line="327" column="48" />
+        <mark key="^" line="327" column="48" />
+        <mark key="." line="327" column="48" />
       </file>
       <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/templates/ess/node_table_headers.html" timestamp="1519890986097">
         <mark key="'" line="23" column="14" />
