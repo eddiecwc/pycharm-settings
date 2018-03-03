@@ -22,12 +22,12 @@
         <mark key="^" line="5" column="53" />
         <mark key="." line="5" column="53" />
       </file>
-      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" timestamp="1520073640432">
+      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" timestamp="1520074465675">
         <mark key="'" line="593" column="38" />
-        <mark key="[" line="711" column="31" />
-        <mark key="]" line="711" column="31" />
-        <mark key="^" line="711" column="31" />
-        <mark key="." line="711" column="31" />
+        <mark key="[" line="710" column="58" />
+        <mark key="]" line="710" column="58" />
+        <mark key="." line="710" column="58" />
+        <mark key="^" line="710" column="58" />
       </file>
       <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/templates/ess/node_table_headers.html" timestamp="1519890986097">
         <mark key="'" line="23" column="14" />
@@ -259,12 +259,12 @@
         <mark key="." line="10" column="35" />
       </file>
       <file name="$USER_HOME$/Sites/virtualenv/ESS-Monitor/lib/python3.6/site-packages/celery/app/base.py" timestamp="1519925500086" />
-      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/models.py" timestamp="1520065039892">
+      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/models.py" timestamp="1520074669070">
         <mark key="'" line="2" column="39" />
-        <mark key="[" line="342" column="0" />
-        <mark key="]" line="342" column="0" />
-        <mark key="^" line="334" column="28" />
-        <mark key="." line="342" column="0" />
+        <mark key="[" line="287" column="10" />
+        <mark key="]" line="287" column="13" />
+        <mark key="." line="287" column="13" />
+        <mark key="^" line="287" column="13" />
       </file>
       <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/mod_tester/__init__.py" timestamp="1515867144650">
         <mark key="[" line="0" column="26" />
@@ -752,10 +752,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>.</text>
+        <text>r</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>r</text>
       </register>
       <register name="/" type="4">
         <text>post_func</text>
@@ -764,31 +764,31 @@
         <text encoding="base64">ICAgIHZlcnNpb24gPSByZXN1bHRbJ29zX3ZlciddLmNvZGVfdmVyc2lvbgogICAgbXlfbG9nZ2VyLmRlYnVnKCJGaW5pc2hlZCBzY2FubmluZyBub2RlICVzIG9zIHZlcnNpb246ICVzIiAlIChob3N0bmFtZSwgdmVyc2lvbikpCiAgICByZXR1cm4ganNvbi5kdW1wcyh7J29zX3Zlcic6IHZlcnNpb259KQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHJldHVybiByZXN1bHQK</text>
+        <text encoding="base64">ICAgIGRlZgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIG15X2xvZ2dlci5kZWJ1ZygiRmluaXNoZWQgc2Nhbm5pbmcgbm9kZSAlcyBvcyB2ZXJzaW9uOiAlcyIgJSAoaG9zdG5hbWUsIHZlcnNpb24pKQo=</text>
+        <text encoding="base64">ICAgIG0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBqc29uLmR1bXBzKHsnb3NfdmVyJzogdmVyc2lvbn0pCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIHZlcnNpb24gPSByZXN1bHRbJ29zX3ZlciddLmNvZGVfdmVyc2lvbgo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">ICAgIHJldHVybiByZXN1bHQK</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIG15X2xvZ2dlci5kZWJ1ZygiRmluaXNoZWQgc2Nhbm5pbmcgbm9kZSAlcyBvcyB2ZXJzaW9uOiAlcyIgJSAoaG9zdG5hbWUsIHZlcnNpb24pKQo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIHJldHVybiBqc29uLmR1bXBzKHsnb3NfdmVyJzogdmVyc2lvbn0pCg==</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHZlcnNpb24gPSByZXN1bHRbJ29zX3ZlciddLmNvZGVfdmVyc2lvbgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgKGhvc3RuYW1lLCBub2RlLnN5c19md192ZXIuY29kZV92ZXJzaW9uLCBub2RlLnNwX2Z3X3Zlci5jb2RlX3ZlcnNpb24pKQo=</text>
+        <text encoding="base64">ICAgIHJldHVybiByZXN1bHQK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbXlfbG9nZ2VyLmluZm8oIm5vZGUgJXMgc2Nhbm5lZCBzeXMgZmlybXdhcmUgPSAlcywgc3AgZmlybXdhcmUgPSAlcyIgJSAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgKGhvc3RuYW1lLCBzeXNfZndfdmVyLmNvZGVfdmVyc2lvbiwgbm9kZS5zcF9md192ZXIuY29kZV92ZXJzaW9uKSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgKGhvc3RuYW1lLCBub2RlLnN5c19md192ZXIuY29kZV92ZXJzaW9uLCBub2RlLnNwX2Z3X3Zlci5jb2RlX3ZlcnNpb24pKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
