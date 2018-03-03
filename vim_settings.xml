@@ -22,12 +22,12 @@
         <mark key="^" line="5" column="53" />
         <mark key="." line="5" column="53" />
       </file>
-      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" timestamp="1520072033066">
-        <mark key="'" line="783" column="0" />
-        <mark key="[" line="327" column="47" />
-        <mark key="]" line="327" column="48" />
-        <mark key="^" line="327" column="48" />
-        <mark key="." line="327" column="48" />
+      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" timestamp="1520073640432">
+        <mark key="'" line="593" column="38" />
+        <mark key="[" line="711" column="31" />
+        <mark key="]" line="711" column="31" />
+        <mark key="^" line="711" column="31" />
+        <mark key="." line="711" column="31" />
       </file>
       <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/templates/ess/node_table_headers.html" timestamp="1519890986097">
         <mark key="'" line="23" column="14" />
@@ -649,16 +649,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="217" column="10" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/app.py" />
-      <jump line="61" column="8" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/app.py" />
-      <jump line="35" column="4" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/app.py" />
-      <jump line="33" column="29" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/app.py" />
-      <jump line="37" column="6" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/app.py" />
-      <jump line="44" column="7" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/app.py" />
-      <jump line="36" column="7" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/app.py" />
-      <jump line="22" column="49" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/app.py" />
-      <jump line="45" column="7" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/app.py" />
-      <jump line="67" column="9" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/app.py" />
       <jump line="390" column="14" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" />
       <jump line="466" column="6" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" />
       <jump line="478" column="69" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" />
@@ -746,58 +736,68 @@
       <jump line="814" column="10" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" />
       <jump line="844" column="19" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" />
       <jump line="876" column="30" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" />
       <jump line="370" column="19" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" />
       <jump line="783" column="0" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" />
+      <jump line="647" column="60" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" />
+      <jump line="705" column="49" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" />
+      <jump line="733" column="49" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" />
+      <jump line="827" column="43" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" />
+      <jump line="652" column="0" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" />
+      <jump line="677" column="38" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" />
+      <jump line="508" column="11" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" />
+      <jump line="516" column="38" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" />
+      <jump line="589" column="11" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" />
+      <jump line="593" column="38" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>.</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
-        <text>runcmd</text>
+        <text>post_func</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbXlfbG9nZ2VyLmluZm8oIm5vZGUgJXMgc2Nhbm5lZCBzeXMgZmlybXdhcmUgPSAlcywgc3AgZmlybXdhcmUgPSAlcyIgJSAKICAgICAgICAgICAgICAgICAgICAgICAgICAgKGhvc3RuYW1lLCBub2RlLnN5c19md192ZXIuY29kZV92ZXJzaW9uLCBub2RlLnNwX2Z3X3Zlci5jb2RlX3ZlcnNpb24pKQo=</text>
+        <text encoding="base64">ICAgIHZlcnNpb24gPSByZXN1bHRbJ29zX3ZlciddLmNvZGVfdmVyc2lvbgogICAgbXlfbG9nZ2VyLmRlYnVnKCJGaW5pc2hlZCBzY2FubmluZyBub2RlICVzIG9zIHZlcnNpb246ICVzIiAlIChob3N0bmFtZSwgdmVyc2lvbikpCiAgICByZXR1cm4ganNvbi5kdW1wcyh7J29zX3Zlcic6IHZlcnNpb259KQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHJldHVybiByZXN1bHQK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgKGhvc3RuYW1lLCBub2RlLnN5c19md192ZXIuY29kZV92ZXJzaW9uLCBub2RlLnNwX2Z3X3Zlci5jb2RlX3ZlcnNpb24pKQo=</text>
+        <text encoding="base64">ICAgIG15X2xvZ2dlci5kZWJ1ZygiRmluaXNoZWQgc2Nhbm5pbmcgbm9kZSAlcyBvcyB2ZXJzaW9uOiAlcyIgJSAoaG9zdG5hbWUsIHZlcnNpb24pKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbXlfbG9nZ2VyLmluZm8oIm5vZGUgJXMgc2Nhbm5lZCBzeXMgZmlybXdhcmUgPSAlcywgc3AgZmlybXdhcmUgPSAlcyIgJSAK</text>
+        <text encoding="base64">ICAgIHJldHVybiBqc29uLmR1bXBzKHsnb3NfdmVyJzogdmVyc2lvbn0pCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgKGhvc3RuYW1lLCBzeXNfZndfdmVyLmNvZGVfdmVyc2lvbiwgbm9kZS5zcF9md192ZXIuY29kZV92ZXJzaW9uKSkK</text>
+        <text encoding="base64">ICAgIHZlcnNpb24gPSByZXN1bHRbJ29zX3ZlciddLmNvZGVfdmVyc2lvbgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbXlfbG9nZ2VyLmluZm8oIm5vZGUgJXMgc2Nhbm5lZCBzeXMgZmlybXdhcmUgPSAlcywgc3AgZmlybXdhcmUgPSAlcyIgJQo=</text>
+        <text encoding="base64">ICAgIHJldHVybiByZXN1bHQK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHJlc3VsdCA9IHt9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgKGhvc3RuYW1lLCBub2RlLnN5c19md192ZXIuY29kZV92ZXJzaW9uLCBub2RlLnNwX2Z3X3Zlci5jb2RlX3ZlcnNpb24pKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBqc29uLmR1bXBzKHsnc3lzX2Z3X3Zlcic6IG5vZGUuc3lzX2Z3X3Zlci5jb2RlX3ZlcnNpb24sICdzcF9md192ZXInOiBub2RlLnNwX2Z3X3Zlci5jb2RlX3ZlcnNpb259KQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgbXlfbG9nZ2VyLmluZm8oIm5vZGUgJXMgc2Nhbm5lZCBzeXMgZmlybXdhcmUgPSAlcywgc3AgZmlybXdhcmUgPSAlcyIgJSAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHJlc3VsdFsnc3BfZndfdmVyJ10gPSBub2RlLnN5c19md192ZXIuY29kZV92ZXJzaW9uCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgKGhvc3RuYW1lLCBzeXNfZndfdmVyLmNvZGVfdmVyc2lvbiwgbm9kZS5zcF9md192ZXIuY29kZV92ZXJzaW9uKSkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>runcmd</last-search>
+      <last-search>post_func</last-search>
       <last-offset />
-      <last-pattern>runcmd</last-pattern>
+      <last-pattern>post_func</last-pattern>
       <last-replace encoding="base64">dGQ+</last-replace>
       <last-substitute encoding="base64">dGg+</last-substitute>
       <last-dir>1</last-dir>
@@ -805,7 +805,6 @@
     </search>
     <history>
       <history-search>
-        <entry>current_app</entry>
         <entry>ce.task</entry>
         <entry>celery</entry>
         <entry>ce.</entry>
@@ -814,7 +813,6 @@
         <entry>fail_val</entry>
         <entry>node</entry>
         <entry>result</entry>
-        <entry>post_func</entry>
         <entry>scan_vmcore</entry>
         <entry>dump</entry>
         <entry>create_from</entry>
@@ -825,6 +823,8 @@
         <entry>with_for_update</entry>
         <entry>Node.runcmd</entry>
         <entry>runcmd</entry>
+        <entry>installed_code</entry>
+        <entry>post_func</entry>
       </history-search>
       <history-cmd>
         <entry>39</entry>
