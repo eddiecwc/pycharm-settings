@@ -22,12 +22,12 @@
         <mark key="^" line="5" column="53" />
         <mark key="." line="5" column="53" />
       </file>
-      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" timestamp="1520034372980">
-        <mark key="'" line="663" column="38" />
-        <mark key="[" line="326" column="37" />
-        <mark key="]" line="326" column="42" />
-        <mark key="^" line="326" column="42" />
-        <mark key="." line="326" column="42" />
+      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" timestamp="1520035908938">
+        <mark key="'" line="326" column="34" />
+        <mark key="[" line="761" column="38" />
+        <mark key="]" line="762" column="3" />
+        <mark key="^" line="762" column="3" />
+        <mark key="." line="762" column="3" />
       </file>
       <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/templates/ess/node_table_headers.html" timestamp="1519890986097">
         <mark key="'" line="23" column="14" />
@@ -647,8 +647,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2" column="24" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess_users/routes.py" />
-      <jump line="10" column="7" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess_users/routes.py" />
       <jump line="20" column="9" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess_users/routes.py" />
       <jump line="22" column="38" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" />
       <jump line="46" column="9" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" />
@@ -747,16 +745,18 @@
       <jump line="580" column="38" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" />
       <jump line="653" column="25" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" />
       <jump line="663" column="38" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" />
+      <jump line="325" column="46" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" />
+      <jump line="326" column="34" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>virt</text>
+        <text>install_date</text>
       </register>
       <register name="-" type="4">
-        <text>virt</text>
+        <text>install_date</text>
       </register>
       <register name="/" type="4">
-        <text>post_func</text>
+        <text>scan_vmcore</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBzY2FuX3ZpcnQucyhub2RlLmhvc3RuYW1lLCBpc190YXNrPVRydWUpLAo=</text>
@@ -793,9 +793,9 @@
       </register>
     </registers>
     <search>
-      <last-search>post_func</last-search>
+      <last-search>scan_vmcore</last-search>
       <last-offset />
-      <last-pattern>post_func</last-pattern>
+      <last-pattern>scan_vmcore</last-pattern>
       <last-replace encoding="base64">dGQ+</last-replace>
       <last-substitute encoding="base64">dGg+</last-substitute>
       <last-dir>1</last-dir>
@@ -803,7 +803,6 @@
     </search>
     <history>
       <history-search>
-        <entry>return</entry>
         <entry>logger.warn</entry>
         <entry>jsonify</entry>
         <entry>scan_attr</entry>
@@ -823,6 +822,7 @@
         <entry>node</entry>
         <entry>result</entry>
         <entry>post_func</entry>
+        <entry>scan_vmcore</entry>
       </history-search>
       <history-cmd>
         <entry>307</entry>
