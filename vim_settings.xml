@@ -22,12 +22,12 @@
         <mark key="^" line="5" column="53" />
         <mark key="." line="5" column="53" />
       </file>
-      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" timestamp="1519982388691">
+      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" timestamp="1520034372980">
         <mark key="'" line="663" column="38" />
-        <mark key="[" line="735" column="37" />
-        <mark key="]" line="735" column="48" />
-        <mark key="^" line="735" column="48" />
-        <mark key="." line="735" column="48" />
+        <mark key="[" line="326" column="37" />
+        <mark key="]" line="326" column="42" />
+        <mark key="^" line="326" column="42" />
+        <mark key="." line="326" column="42" />
       </file>
       <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/templates/ess/node_table_headers.html" timestamp="1519890986097">
         <mark key="'" line="23" column="14" />
@@ -750,43 +750,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>version</text>
+        <text>virt</text>
       </register>
       <register name="-" type="4">
-        <text>version</text>
+        <text>virt</text>
       </register>
       <register name="/" type="4">
         <text>post_func</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIDpwYXJhbSBob3N0bmFtZTogaG9zdG5hbWUgb2YgdGhlIG5vZGUgdG8gYmUgc2Nhbm5lZAogICAgOnBhcmFtIGlzX3Rhc2s6IFRydWUgaWYgZnVuY3Rpb24gaXMgY2FsbGVkIGFzIGEgY2VsZXJ5IHRhc2suIENlbGVyeSBsb2dnZXIgd2lsbCBiZSB1c2VkCiAgICA6cmV0dXJuOiBqc29uIG9mIHNjYW5uZWQgc3lzdGVtZCB2ZXJzaW9uLCBub25lIGlmIHNjYW4gZmFpbGVkCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBzY2FuX3ZpcnQucyhub2RlLmhvc3RuYW1lLCBpc190YXNrPVRydWUpLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBzCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHJlc3VsdCA9IHNjYW5fYXR0cihob3N0bmFtZSwgY21kLCBwb3N0X2Z1bmMsICdsaWJ2ZXJ0X3ZlcicsIGZhaWxfdmFsPScnLCBteV9sb2dnZXI9bXlfbG9nZ2VyKQo=</text>
+        <text encoding="base64">ICAgIHJlc3VsdCA9IHNjYW5fYXR0cihob3N0bmFtZSwgY21kLCBwb3N0X2Z1bmMsICdpbnN0YWxsX2RhdGUnLCBteV9sb2dnZXI9bXlfbG9nZ2VyKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHJlc3VsdCA9IHNjYW5fYXR0cihob3N0bmFtZSwgY21kLCBwb3N0X2Z1bmMsICdzeXN0ZW1kX3ZlcicsIGZhaWxfdmFsPScnLCBteV9sb2dnZXI9bXlfbG9nZ2VyKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGRlZiBwb3N0X2Z1bmMoc3lzdGVtZCk6Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIG15X2xvZ2dlciA9IGNob29zZV9sb2dnZXIoaXNfdGFzaykK</text>
+        <text encoding="base64">ICAgIHJlc3VsdCA9IHNjYW5fYXR0cihob3N0bmFtZSwgY21kLCBwb3N0X2Z1bmMsICdsaWJ2ZXJ0X3ZlcicsIGZhaWxfdmFsPScnLCBteV9sb2dnZXI9bXlfbG9nZ2VyKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGRkCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgIGRlZiBwb3N0X2Z1bmMoc3lzdGVtZCk6Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHJlc3VsdCA9IHNjYW5fYXR0cihob3N0bmFtZSwgY21kLCBwb3N0X2Z1bmMsICdvc192ZXInLCBmYWlsX3ZhbD0nJywgbXlfbG9nZ2VyPW15X2xvZ2dlcikK</text>
+        <text encoding="base64">ICAgIG15X2xvZ2dlciA9IGNob29zZV9sb2dnZXIoaXNfdGFzaykK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICIiIgo=</text>
+        <text encoding="base64">ICAgIGRkCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
