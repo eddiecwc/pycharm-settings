@@ -569,11 +569,11 @@
         <mark key="^" line="139" column="63" />
         <mark key="." line="139" column="63" />
       </file>
-      <file name="$USER_HOME$/Sites/ESS-Monitor/TODO.txt" timestamp="1520198650353">
-        <mark key="[" line="44" column="2" />
-        <mark key="]" line="41" column="0" />
-        <mark key="." line="41" column="0" />
-        <mark key="^" line="41" column="0" />
+      <file name="$USER_HOME$/Sites/ESS-Monitor/TODO.txt" timestamp="1520208389998">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="15" column="15" />
+        <mark key="." line="15" column="15" />
+        <mark key="^" line="15" column="15" />
       </file>
       <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/templates/layouts/layout.html" timestamp="1517346104518">
         <mark key="'" line="0" column="0" />
@@ -724,47 +724,47 @@
       <jump line="853" column="33" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">LSAK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">IyMjIyMjIyMjIyMjIyMg</text>
       </register>
       <register name="/" type="4">
         <text>out</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">LSBuZXR3b3JrIHBvcnQgc3BlZWQK</text>
+        <text encoding="base64">LSBVc2VyIGluaXRpYXRlZCBkYXRhIHVwZGF0ZSBmb3Igc2luZ2xlIG5vZGUK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">LSBjbHVzdGVyIGRldGFpbHMK</text>
+        <text encoding="base64">LSAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">LSBncGZzIGRldGFpbHMKLSBjbHVzdGVyIGRldGFpbHMK</text>
+        <text encoding="base64">LSByb2xlcwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">KGh0dHBzOi8vdXhkZXNpZ24uY2MvZGVzaWduLWJldHRlci1kYXRhLXRhYmxlcy00ZWNjOTlkMjMzNTYpCg==</text>
+        <text encoding="base64">IyBVc2VyCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">LSBmaWx0ZXIgCg==</text>
+        <text encoding="base64">IyBsb2cgYW5hbHlzaXMK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBteV9sb2dnZXIuaW5mbygibm9kZSAlcyBmdyBzY2FuIGNvbXBsZXRlLiBzeXMgPSAlcywgZncgPSAlcyIgJSAoaG9zdG5hbWUsICkpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbXlfbG9nZ2VyLmluZm8oIm5vZGUgJXMgZncgc2NhbiBjb21wbGV0ZS4gc3lzID0gJXMsIGZ3ID0gJXMiICUgKGhvc3RuYW1lLCApKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbXlfbG9nZ2VyLmRlYnVnKCJub2RlICVzIGlzIGEgUE9XRVIgc3lzdGVtLiBGb3VuZCBHRlcgdmVyc2lvbiAlcyIgJSAoaG9zdG5hbWUsIGZ3X3ZlcikpCg==</text>
+      <register name="7" type="4">
+        <text encoding="base64">ICAgIC0gcGRpc2tzCiAgICAgICAgLSB0eXBlCiAgICAgICAgLSBGVwogICAgICAgIC0gY2FwYWNpdHkKICAgICAgICAtIHJlbGF0aXZlIHBlcmY=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbXlfbG9nZ2VyLmRlYnVnKCJub2RlICVzIGlzIGEgUE9XRVIgc3lzdGVtLiBFeHRyYWN0aW5nIEdGVyB2ZXJzaW9uIikK</text>
+        <text encoding="base64">ICAgIC0gcGRpc2tzCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">LSBsb2cgZmlsZQo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>$</text>
       </register>
     </registers>
     <search>
@@ -816,10 +816,10 @@
         <entry encoding="base64">dyA=</entry>
         <entry>624</entry>
         <entry encoding="base64">IA==</entry>
-        <entry>$</entry>
         <entry>wq</entry>
-        <entry>0</entry>
         <entry>w</entry>
+        <entry>$</entry>
+        <entry>0</entry>
       </history-cmd>
       <history-expr />
       <history-input />
