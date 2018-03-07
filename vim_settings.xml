@@ -22,11 +22,12 @@
         <mark key="^" line="5" column="53" />
         <mark key="." line="5" column="53" />
       </file>
-      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" timestamp="1520300557202">
+      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" timestamp="1520382771443">
         <mark key="'" line="855" column="33" />
-        <mark key="[" line="872" column="0" />
-        <mark key="]" line="872" column="0" />
-        <mark key="." line="872" column="0" />
+        <mark key="[" line="927" column="18" />
+        <mark key="]" line="927" column="18" />
+        <mark key="^" line="894" column="32" />
+        <mark key="." line="927" column="18" />
       </file>
       <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/templates/ess/node_table_headers.html" timestamp="1519890986097">
         <mark key="'" line="23" column="14" />
@@ -719,44 +720,44 @@
       <jump line="853" column="33" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="&quot;" type="4">
+        <text>.</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">KSA=</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text>out</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">LSBVc2VyIGluaXRpYXRlZCBkYXRhIHVwZGF0ZSBmb3Igc2luZ2xlIG5vZGUK</text>
+      <register name="0" type="4">
+        <text encoding="base64">ICAgICIiIgogICAgU2NhbnMgc3lzdGVtIGZ3IChwbm9yL2JtYyBmb3Igb3Blbi1wb3dlciwgZ2Z3IGZvciBwb3dlcikKICAgIDpwYXJhbSBob3N0bmFtZTogaG9zdG5hbWUgb2YgdGhlIG5vZGUgdG8gYmUgc2Nhbm5lZAogICAgOnBhcmFtIGlzX3Rhc2s6IFRydWUgaWYgZnVuY3Rpb24gaXMgY2FsbGVkIGFzIGEgY2VsZXJ5IHRhc2suIENlbGVyeSBsb2dnZXIgd2lsbCBiZSB1c2VkCiAgICA6cmV0dXJuOiBqc29uIG9mIHNjYW5uZWQgZmlybXdhcmUgdmVyc2lvbnMsIG5vbmUgaWYgc2NhbiBmYWlsZWQKICAgICIiIgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICIiIgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">LSAK</text>
+        <text encoding="base64">ICAgICIiIgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">LSByb2xlcwo=</text>
+        <text encoding="base64">ICAgIFNjYW5zIHN5c3RlbSBmdyAocG5vci9ibWMgZm9yIG9wZW4tcG93ZXIsIGdmdyBmb3IgcG93ZXIpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">IyBVc2VyCg==</text>
+        <text encoding="base64">ICAgIFNjYW5zIG5ldHdvcmsgZGV2aWNlcyBvbiBzeXN0ZW0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">IyBsb2cgYW5hbHlzaXMK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">LSAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">LSByb2xlcwo=</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">ICAgIC0gcGRpc2tzCiAgICAgICAgLSB0eXBlCiAgICAgICAgLSBGVwogICAgICAgIC0gY2FwYWNpdHkKICAgICAgICAtIHJlbGF0aXZlIHBlcmY=</text>
+      <register name="8" type="2">
+        <text encoding="base64">IyBVc2VyCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC0gcGRpc2tzCg==</text>
+        <text encoding="base64">IyBsb2cgYW5hbHlzaXMK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
