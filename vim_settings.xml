@@ -352,12 +352,12 @@
       <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/ess_systems/ARCHIVE/node.py" timestamp="1516698046716">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/tasks.py" timestamp="1520677758371">
+      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/tasks.py" timestamp="1520681411704">
         <mark key="'" line="44" column="12" />
-        <mark key="[" line="637" column="0" />
-        <mark key="]" line="638" column="34" />
-        <mark key="." line="638" column="34" />
-        <mark key="^" line="638" column="34" />
+        <mark key="[" line="638" column="43" />
+        <mark key="]" line="638" column="52" />
+        <mark key="." line="638" column="52" />
+        <mark key="^" line="638" column="52" />
       </file>
       <file name="$USER_HOME$/Sites/ESS-Monitor/tasks.py" timestamp="1519899651553">
         <mark key="[" line="7" column="22" />
@@ -727,11 +727,11 @@
       <jump line="44" column="12" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/tasks.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbXlfb2dnZXIK</text>
+      <register name="&quot;" type="4">
+        <text>print</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICAgICAgICAgICAg</text>
+        <text>print</text>
       </register>
       <register name="/" type="4">
         <text>runcmd</text>
