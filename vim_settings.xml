@@ -565,6 +565,9 @@
         <mark key="^" line="12" column="11" />
         <mark key="." line="12" column="0" />
       </file>
+      <file name="/Dummy.txt" timestamp="1520723988929">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Sites/ESS-Monitor/scripts/collectLinuxNodeInfo.py" timestamp="1514356709242">
         <mark key="'" line="34" column="14" />
         <mark key="[" line="139" column="63" />
@@ -577,6 +580,13 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
         <mark key="^" line="5" column="5" />
+      </file>
+      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/templates/header.html" timestamp="1520725409239">
+        <mark key="'" line="6" column="0" />
+        <mark key="[" line="61" column="85" />
+        <mark key="]" line="61" column="90" />
+        <mark key="." line="61" column="90" />
+        <mark key="^" line="61" column="90" />
       </file>
       <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/templates/layouts/layout.html" timestamp="1517346104518">
         <mark key="'" line="0" column="0" />
@@ -625,7 +635,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="24" column="21" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" />
       <jump line="58" column="11" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" />
       <jump line="405" column="59" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" />
       <jump line="454" column="15" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" />
@@ -725,55 +734,56 @@
       <jump line="622" column="43" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/tasks.py" />
       <jump line="630" column="48" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/tasks.py" />
       <jump line="44" column="12" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/tasks.py" />
+      <jump line="6" column="0" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/templates/header.html" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>print</text>
+        <text>Components</text>
       </register>
       <register name="-" type="4">
-        <text>print</text>
+        <text>Components</text>
       </register>
       <register name="/" type="4">
-        <text>runcmd</text>
+        <text>Nodes</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBteV9sb2dnZXIuZGVidWcoIm5ldF9kZXZpY2VzID0gJXMiICUgbmV0X2RldmljZXMuc3Rkb3V0KQo=</text>
+      <register name="0" type="4">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8IS0tIE5PREVTIC0tPgogICAgICAgICAgICAgICAgICAgIDxsaSBjbGFzcz0ibmF2LWl0ZW0iIGRhdGEtdG9nZ2xlPSJ0b29sdGlwIiBkYXRhLXBsYWNlbWVudD0icmlnaHQiIHRpdGxlPSJOb2RlcyI+CiAgICAgICAgICAgICAgICAgICAgICAgIDxhIGNsYXNzPSJuYXYtbGluayIgaHJlZj0iL25vZGUvbGlzdCI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8aSBjbGFzcz0iZmEgZmEtZncgZmEtc2l0ZW1hcCI+PC9pPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPHNwYW4gY2xhc3M9Im5hdi1saW5rLXRleHQiPk5vZGVzPC9zcGFuPgogICAgICAgICAgICAgICAgICAgICAgICA8L2E+CiAgICAgICAgICAgICAgICAgICAgPC9saT4KCiAgICAgICAgICAgICAgICAgICAgPCEtLSBQUk9EVUNUUyAtLT4KICAgICAgICAgICAgICAgICAgICA8bGkgY2xhc3M9Im5hdi1pdGVtIiBkYXRhLXRvZ2dsZT0idG9vbHRpcCIgZGF0YS1wbGFjZW1lbnQ9InJpZ2h0IiB0aXRsZT0iUHJvZHVjdHMiPgogICAgICAgICAgICAgICAgICAgICAgICA8YSBjbGFzcz0ibmF2LWxpbmsiIGhyZWY9Ii9wcm9kdWN0LyI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8aSBjbGFzcz0iZmEgZmEtZncgZmEtc2VydmVyIj48L2k+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8c3BhbiBjbGFzcz0ibmF2LWxpbmstdGV4dCI+UHJvZHVjdHM8L3NwYW4+CiAgICAgICAgICAgICAgICAgICAgICAgIDwvYT4KICAgICAgICAgICAgICAgICAgICA8L2xpPg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbXlfb2dnZXIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8L2xpPgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5wY2lbJ25ldHdvcmsnXVtpZl9uYW1lXSA9IGludGVyZmFjZQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8bGkgY2xhc3M9Im5hdi1pdGVtIiBkYXRhLXRvZ2dsZT0idG9vbHRpcCIgZGF0YS1wbGFjZW1lbnQ9InJpZ2h0IiB0aXRsZT0iTm9kZXMiPgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbXlfbG9nZ2VyLmRlYnVnKCJlbnRyeSA9ICVzIiAlIGVudHJ5KQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8L2xpPgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIG15X2xvZ2dlci5kZWJ1ZygibmV0X2RldmljZXMgPSAlcyIgJSBuZXRfZGV2aWNlcy5zdGRvdXQpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPGEgaHJlZj0iIyI+U2Vjb25kIExldmVsIEl0ZW08L2E+Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICMgcmVfYWRkciA9IHJlLmNvbXBpbGUociJcd3syfTpcd3syfTpcd3syfTpcd3syfTpcd3syfTpcd3syfSIpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8bGk+Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8L2xpPgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPGEgaHJlZj0iIyI+U2Vjb25kIExldmVsIEl0ZW08L2E+Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8bGk+Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>runcmd</last-search>
+      <last-search>Nodes</last-search>
       <last-offset />
-      <last-pattern>runcmd</last-pattern>
+      <last-pattern>Nodes</last-pattern>
       <last-replace encoding="base64">dGQ+</last-replace>
       <last-substitute encoding="base64">dGg+</last-substitute>
       <last-dir>1</last-dir>
@@ -781,7 +791,6 @@
     </search>
     <history>
       <history-search>
-        <entry>response</entry>
         <entry>get_debug</entry>
         <entry>print</entry>
         <entry>with_for_update</entry>
@@ -801,6 +810,7 @@
         <entry>logger</entry>
         <entry>info</entry>
         <entry>runcmd</entry>
+        <entry>Nodes</entry>
       </history-search>
       <history-cmd>
         <entry>95</entry>
