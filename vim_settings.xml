@@ -22,12 +22,12 @@
         <mark key="^" line="5" column="53" />
         <mark key="." line="5" column="53" />
       </file>
-      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" timestamp="1520826200374">
+      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" timestamp="1520830180384">
         <mark key="'" line="192" column="51" />
-        <mark key="[" line="679" column="67" />
-        <mark key="]" line="679" column="67" />
-        <mark key="^" line="679" column="67" />
-        <mark key="." line="679" column="67" />
+        <mark key="[" line="660" column="53" />
+        <mark key="]" line="660" column="57" />
+        <mark key="^" line="660" column="57" />
+        <mark key="." line="660" column="57" />
       </file>
       <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/templates/ess/node_table_headers.html" timestamp="1519890986097">
         <mark key="'" line="23" column="14" />
@@ -750,10 +750,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>(</text>
+        <text encoding="base64">cHJvZHVjdCA=</text>
       </register>
       <register name="-" type="4">
-        <text>(</text>
+        <text encoding="base64">cHJvZHVjdCA=</text>
       </register>
       <register name="/" type="4">
         <text>role</text>
