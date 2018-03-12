@@ -22,12 +22,12 @@
         <mark key="^" line="5" column="53" />
         <mark key="." line="5" column="53" />
       </file>
-      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" timestamp="1520830180384">
+      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" timestamp="1520834354838">
         <mark key="'" line="192" column="51" />
-        <mark key="[" line="660" column="53" />
-        <mark key="]" line="660" column="57" />
-        <mark key="^" line="660" column="57" />
-        <mark key="." line="660" column="57" />
+        <mark key="[" line="717" column="36" />
+        <mark key="]" line="717" column="38" />
+        <mark key="^" line="717" column="38" />
+        <mark key="." line="717" column="38" />
       </file>
       <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/templates/ess/node_table_headers.html" timestamp="1519890986097">
         <mark key="'" line="23" column="14" />
@@ -750,16 +750,25 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">cHJvZHVjdCA=</text>
+        <text>s</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">cHJvZHVjdCA=</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
         <text>role</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvZGUgPSBfYWRkX2NvZGUgKGNvZGVfdHlwZV9jb2RlPWNvZGVfdHlwZSwgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBjb2RlX2xhYmVsPWNvZGVfbGFiZWwsIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgY29kZV92ZXJzaW9uPWNvZGVfdmVyc2lvbiwgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBub3Rlcz1ub3RlcykK</text>
+      <register name="0" type="4">
+        <text>@mod_ess.route('/code/')
+@mod_ess.route('/code/list/')
+def list_codes():
+    &quot;&quot;&quot;
+    method for display of code table
+    :return: content of code table
+    &quot;&quot;&quot;
+    codes = Code.query.all()
+    logger.debug(&quot;Found %d codes&quot; % len(codes))
+    return render_template(&quot;ess/code_list.html&quot;, codes=codes)</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIGxvZ2dlci5kZWJ1ZyhDT0RFX1RZUEUpCg==</text>
