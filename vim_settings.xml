@@ -113,11 +113,11 @@
         <mark key="." line="58" column="20" />
         <mark key="^" line="58" column="20" />
       </file>
-      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/templates/ess/code_list.html" timestamp="1520873662340">
-        <mark key="[" line="17" column="45" />
-        <mark key="]" line="18" column="88" />
-        <mark key="." line="18" column="88" />
-        <mark key="^" line="18" column="88" />
+      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/templates/ess/code_list.html" timestamp="1520896586452">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="3" />
+        <mark key="." line="19" column="3" />
+        <mark key="^" line="19" column="3" />
       </file>
       <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/app.py" timestamp="1520065526515">
         <mark key="'" line="1" column="44" />
@@ -803,7 +803,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
@@ -847,7 +847,6 @@
         <entry>437</entry>
         <entry>516</entry>
         <entry>201</entry>
-        <entry>q</entry>
         <entry encoding="base64">dyA=</entry>
         <entry>624</entry>
         <entry encoding="base64">IA==</entry>
@@ -857,8 +856,9 @@
         <entry>$</entry>
         <entry>388</entry>
         <entry>wq</entry>
-        <entry>w</entry>
         <entry>0</entry>
+        <entry>w</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
