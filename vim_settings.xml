@@ -113,10 +113,11 @@
         <mark key="." line="58" column="20" />
         <mark key="^" line="58" column="20" />
       </file>
-      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/templates/ess/code_list.html" timestamp="1520838773417">
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="105" />
-        <mark key="." line="19" column="0" />
+      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/templates/ess/code_list.html" timestamp="1520873662340">
+        <mark key="[" line="17" column="45" />
+        <mark key="]" line="18" column="88" />
+        <mark key="." line="18" column="88" />
+        <mark key="^" line="18" column="88" />
       </file>
       <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/app.py" timestamp="1520065526515">
         <mark key="'" line="1" column="44" />
@@ -593,11 +594,12 @@
         <mark key="^" line="139" column="63" />
         <mark key="." line="139" column="63" />
       </file>
-      <file name="$USER_HOME$/Sites/ESS-Monitor/TODO.txt" timestamp="1520835840691">
-        <mark key="[" line="2" column="25" />
-        <mark key="]" line="3" column="51" />
-        <mark key="." line="3" column="51" />
-        <mark key="^" line="3" column="51" />
+      <file name="$USER_HOME$/Sites/ESS-Monitor/TODO.txt" timestamp="1520874039538">
+        <mark key="'" line="1" column="0" />
+        <mark key="[" line="57" column="27" />
+        <mark key="]" line="57" column="52" />
+        <mark key="." line="57" column="52" />
+        <mark key="^" line="57" column="52" />
       </file>
       <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/templates/header.html" timestamp="1520759420446">
         <mark key="'" line="6" column="0" />
@@ -659,7 +661,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1" column="44" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/app.py" />
       <jump line="16" column="33" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/models.py" />
       <jump line="21" column="35" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/models.py" />
       <jump line="2" column="39" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/models.py" />
@@ -759,6 +760,7 @@
       <jump line="18" column="28" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/templates/ess/codelog_list.html" />
       <jump line="19" column="72" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/templates/ess/codelog_list.html" />
       <jump line="26" column="32" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/templates/ess/codelog_list.html" />
+      <jump line="1" column="0" filename="$USER_HOME$/Sites/ESS-Monitor/TODO.txt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -768,7 +770,7 @@
         <text>t</text>
       </register>
       <register name="/" type="4">
-        <text>code</text>
+        <text>filter</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGxlZnQtbWFyZ2luOiA1cHg7Cg==</text>
@@ -805,9 +807,9 @@
       </register>
     </registers>
     <search>
-      <last-search>code</last-search>
+      <last-search>filter</last-search>
       <last-offset />
-      <last-pattern>code</last-pattern>
+      <last-pattern>filter</last-pattern>
       <last-replace>code_add_form</last-replace>
       <last-substitute>product_add_form</last-substitute>
       <last-dir>1</last-dir>
@@ -815,7 +817,6 @@
     </search>
     <history>
       <history-search>
-        <entry>celery</entry>
         <entry>network</entry>
         <entry>logger</entry>
         <entry>info</entry>
@@ -835,6 +836,7 @@
         <entry>CodeLog</entry>
         <entry>CodeUpdate</entry>
         <entry>code</entry>
+        <entry>filter</entry>
       </history-search>
       <history-cmd>
         <entry>125</entry>
@@ -854,9 +856,9 @@
         <entry>691</entry>
         <entry>$</entry>
         <entry>388</entry>
-        <entry>0</entry>
         <entry>wq</entry>
         <entry>w</entry>
+        <entry>0</entry>
       </history-cmd>
       <history-expr />
       <history-input />
