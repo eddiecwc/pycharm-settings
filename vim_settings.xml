@@ -107,11 +107,11 @@
         <mark key="." line="18" column="39" />
         <mark key="^" line="18" column="39" />
       </file>
-      <file name="$USER_HOME$/Sites/ESS-Monitor/README.md" timestamp="1520826290867">
-        <mark key="[" line="55" column="0" />
-        <mark key="]" line="58" column="0" />
-        <mark key="." line="58" column="0" />
-        <mark key="^" line="58" column="0" />
+      <file name="$USER_HOME$/Sites/ESS-Monitor/README.md" timestamp="1520838831992">
+        <mark key="[" line="58" column="17" />
+        <mark key="]" line="58" column="20" />
+        <mark key="." line="58" column="20" />
+        <mark key="^" line="58" column="20" />
       </file>
       <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/templates/ess/code_list.html" timestamp="1520838773417">
         <mark key="[" line="19" column="0" />
@@ -761,11 +761,11 @@
       <jump line="26" column="32" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/templates/ess/codelog_list.html" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGEgY2xhc3M9ImJ0biBidG4tb3V0bGluZS1wcmltYXJ5IGJ0bi1tZCBmbG9hdC1yaWdodCIgaHJlZj0iL2NvZGUvYWRkLyIgcm9sZT0iYnV0dG9uIj5BZGQ8L2E+Cg==</text>
+      <register name="&quot;" type="4">
+        <text>t</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Z3JvdXAg</text>
+        <text>t</text>
       </register>
       <register name="/" type="4">
         <text>code</text>
@@ -854,8 +854,8 @@
         <entry>691</entry>
         <entry>$</entry>
         <entry>388</entry>
-        <entry>wq</entry>
         <entry>0</entry>
+        <entry>wq</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
