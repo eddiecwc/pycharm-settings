@@ -22,12 +22,12 @@
         <mark key="^" line="5" column="53" />
         <mark key="." line="5" column="53" />
       </file>
-      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" timestamp="1520807654446">
-        <mark key="'" line="62" column="0" />
-        <mark key="[" line="618" column="9" />
-        <mark key="]" line="618" column="13" />
-        <mark key="^" line="618" column="13" />
-        <mark key="." line="618" column="13" />
+      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" timestamp="1520813461679">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="241" column="0" />
+        <mark key="]" line="241" column="0" />
+        <mark key="^" line="270" column="18" />
+        <mark key="." line="241" column="0" />
       </file>
       <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/templates/ess/node_table_headers.html" timestamp="1519890986097">
         <mark key="'" line="23" column="14" />
@@ -243,10 +243,10 @@
         <mark key="^" line="10" column="35" />
         <mark key="." line="10" column="35" />
       </file>
-      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/models.py" timestamp="1520074669070">
+      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/models.py" timestamp="1520811479678">
         <mark key="'" line="2" column="39" />
-        <mark key="[" line="287" column="10" />
-        <mark key="]" line="287" column="13" />
+        <mark key="[" line="263" column="0" />
+        <mark key="]" line="268" column="0" />
         <mark key="." line="287" column="13" />
         <mark key="^" line="287" column="13" />
       </file>
@@ -627,6 +627,13 @@
         <mark key="." line="91" column="57" />
         <mark key="^" line="91" column="57" />
       </file>
+      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/forms.py" timestamp="1520811952206">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="105" column="0" />
+        <mark key="]" line="108" column="61" />
+        <mark key="^" line="106" column="62" />
+        <mark key="." line="106" column="62" />
+      </file>
       <file name="$USER_HOME$/Sites/virtualenv/ESS-Monitor/lib/python3.6/site-packages/sqlalchemy/ext/declarative/base.py" timestamp="1520065467445">
         <mark key="[" line="699" column="0" />
         <mark key="]" line="699" column="0" />
@@ -634,7 +641,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="58" column="11" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" />
       <jump line="405" column="59" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" />
       <jump line="454" column="15" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" />
       <jump line="350" column="0" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" />
@@ -680,7 +686,6 @@
       <jump line="733" column="49" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" />
       <jump line="827" column="43" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" />
       <jump line="652" column="0" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" />
-      <jump line="677" column="38" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" />
       <jump line="508" column="11" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" />
       <jump line="516" column="38" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" />
       <jump line="589" column="11" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" />
@@ -688,7 +693,6 @@
       <jump line="149" column="6" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/utilities.py" />
       <jump line="152" column="6" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/utilities.py" />
       <jump line="395" column="27" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" />
       <jump line="825" column="45" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" />
       <jump line="826" column="42" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" />
       <jump line="828" column="37" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" />
@@ -734,66 +738,65 @@
       <jump line="630" column="48" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/tasks.py" />
       <jump line="44" column="12" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/tasks.py" />
       <jump line="6" column="0" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/templates/header.html" />
+      <jump line="677" column="0" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/forms.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>products</text>
-      </register>
-      <register name="-" type="4">
-        <text>products</text>
-      </register>
-      <register name="/" type="4">
-        <text>Nodes</text>
-      </register>
-      <register name="0" type="2">
-        <text encoding="base64">IiIiClBST0RVQ1RTCiIiIgo=</text>
-      </register>
-      <register name="1" type="2">
-        <text encoding="base64">IyBDb2RlCg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">UFJPRFVDVFMK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
-      </register>
-      <register name="4" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgPCEtLSBBU1NFVFMgLS0+CiAgICAgICAgICAgIDxsaSBjbGFzcz0ibmF2LWl0ZW0iIGRhdGEtdG9nZ2xlPSJ0b29sdGlwIiBkYXRhLXBsYWNlbWVudD0icmlnaHQiIHRpdGxlPSJBc3NldHMiPgogICAgICAgICAgICAgICAgPGEgY2xhc3M9Im5hdi1saW5rIG5hdi1saW5rLWNvbGxhcHNlIGNvbGxhcHNlZCIgZGF0YS10b2dnbGU9ImNvbGxhcHNlIiBocmVmPSIjY29sbGFwc2VDb21wb25lbnRzIiBkYXRhLXBhcmVudD0iI2V4YW1wbGVBY2NvcmRpb24iPgogICAgICAgICAgICAgICAgICAgIDxpIGNsYXNzPSJmYSBmYS1mdyBmYS13cmVuY2giPjwvaT4KICAgICAgICAgICAgICAgICAgICA8c3BhbiBjbGFzcz0ibmF2LWxpbmstdGV4dCI+QXNzZXRzPC9zcGFuPgogICAgICAgICAgICAgICAgPC9hPgogICAgICAgICAgICAgICAgPHVsIGNsYXNzPSJzaWRlbmF2LXNlY29uZC1sZXZlbCBjb2xsYXBzZSIgaWQ9ImNvbGxhcHNlQ29tcG9uZW50cyI+CiAgICAgICAgICAgICAgICAgICAgPCEtLSBOT0RFUyAtLT4KICAgICAgICAgICAgICAgICAgICA8bGkgY2xhc3M9Im5hdi1pdGVtIiBkYXRhLXRvZ2dsZT0idG9vbHRpcCIgZGF0YS1wbGFjZW1lbnQ9InJpZ2h0IiB0aXRsZT0iTm9kZXMiPgogICAgICAgICAgICAgICAgICAgICAgICA8YSBjbGFzcz0ibmF2LWxpbmsiIGhyZWY9Ii9ub2RlL2xpc3QiPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPGkgY2xhc3M9ImZhIGZhLWZ3IGZhLXNpdGVtYXAiPjwvaT4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxzcGFuIGNsYXNzPSJuYXYtbGluay10ZXh0Ij5Ob2Rlczwvc3Bhbj4KICAgICAgICAgICAgICAgICAgICAgICAgPC9hPgogICAgICAgICAgICAgICAgICAgIDwvbGk+CgogICAgICAgICAgICAgICAgICAgIDwhLS0gUFJPRFVDVFMgLS0+CiAgICAgICAgICAgICAgICAgICAgPGxpIGNsYXNzPSJuYXYtaXRlbSIgZGF0YS10b2dnbGU9InRvb2x0aXAiIGRhdGEtcGxhY2VtZW50PSJyaWdodCIgdGl0bGU9IlByb2R1Y3RzIj4KICAgICAgICAgICAgICAgICAgICAgICAgPGEgY2xhc3M9Im5hdi1saW5rIiBocmVmPSIvcHJvZHVjdC8iPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPGkgY2xhc3M9ImZhIGZhLWZ3IGZhLXNlcnZlciI+PC9pPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPHNwYW4gY2xhc3M9Im5hdi1saW5rLXRleHQiPlByb2R1Y3RzPC9zcGFuPgogICAgICAgICAgICAgICAgICAgICAgICA8L2E+CiAgICAgICAgICAgICAgICAgICAgPC9saT4KCiAgICAgICAgICAgICAgICAgICAgPCEtLSBDT0RFUyAtLT4KICAgICAgICAgICAgICAgICAgICA8bGkgY2xhc3M9Im5hdi1pdGVtIiBkYXRhLXRvZ2dsZT0idG9vbHRpcCIgZGF0YS1wbGFjZW1lbnQ9InJpZ2h0IiB0aXRsZT0iQ29kZXMiPgogICAgICAgICAgICAgICAgICAgICAgICA8YSBjbGFzcz0ibmF2LWxpbmsiIGhyZWY9Ii9jb2RlLyI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8aSBjbGFzcz0iZmEgZmEtZncgZmEtZmlsZS1jb2RlLW8iPjwvaT4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxzcGFuIGNsYXNzPSJuYXYtbGluay10ZXh0Ij5Db2Rlczwvc3Bhbj4KICAgICAgICAgICAgICAgICAgICAgICAgPC9hPgogICAgICAgICAgICAgICAgICAgIDwvbGk+CiAgICAgICAgICAgICAgICA8L3VsPgogICAgICAgICAgICA8L2xpPg==</text>
-      </register>
-      <register name="5" type="2">
+      <register name="&quot;" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8IS0tIE5PREVTIC0tPgogICAgICAgICAgICAgICAgICAgIDxsaT4KICAgICAgICAgICAgICAgICAgICAgICAgPGEgaHJlZj0iL25vZGUvbGlzdCI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8aSBjbGFzcz0iZmEgZmEtZncgZmEtc2l0ZW1hcCI+PC9pPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPHNwYW4gY2xhc3M9Im5hdi1saW5rLXRleHQiPk5vZGVzPC9zcGFuPgogICAgICAgICAgICAgICAgICAgICAgICA8L2E+CiAgICAgICAgICAgICAgICAgICAgPC9saT4KCiAgICAgICAgICAgICAgICAgICAgPCEtLSBQUk9EVUNUUyAtLT4KICAgICAgICAgICAgICAgICAgICA8bGk+CiAgICAgICAgICAgICAgICAgICAgICAgIDxhIGNsYXNzPSJuYXYtbGluayIgaHJlZj0iL3Byb2R1Y3QvIj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxpIGNsYXNzPSJmYSBmYS1mdyBmYS1zZXJ2ZXIiPjwvaT4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxzcGFuIGNsYXNzPSJuYXYtbGluay10ZXh0Ij5Qcm9kdWN0czwvc3Bhbj4KICAgICAgICAgICAgICAgICAgICAgICAgPC9hPgogICAgICAgICAgICAgICAgICAgIDwvbGk+Cg==</text>
+      <register name="-" type="4">
+        <text>product</text>
+      </register>
+      <register name="/" type="4">
+        <text>_add_product</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvZGUgPSBfYWRkX2NvZGUgKGNvZGVfdHlwZV9jb2RlPWNvZGVfdHlwZSwgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBjb2RlX2xhYmVsPWNvZGVfbGFiZWwsIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgY29kZV92ZXJzaW9uPWNvZGVfdmVyc2lvbiwgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBub3Rlcz1ub3RlcykK</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICBub3Rlcz1ub3RlcykK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICBjb2RlX3ZlcnNpb249Y29kZV92ZXJzaW9uLAo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICBjb2RlX2xhYmVsPWNvZGVfbGFiZWwsCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBjb2RlID0gX2FkZF9jb2RlIChjb2RlX3R5cGVfY29kZT1jb2RlX3R5cGUsCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZGVzY3JpcHRpb249ZGVzY3JpcHRpb24pCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgcGFydF9udW1iZXI9cGFydF9udW1iZXIsCg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgPCEtLSBDT0RFUyAtLT4KICAgICAgICAgICAgPGxpIGNsYXNzPSJuYXYtaXRlbSIgZGF0YS10b2dnbGU9InRvb2x0aXAiIGRhdGEtcGxhY2VtZW50PSJyaWdodCIgdGl0bGU9IkNvZGVzIj4KICAgICAgICAgICAgICAgIDxhIGNsYXNzPSJuYXYtbGluayIgaHJlZj0iL2NvZGUvIj4KICAgICAgICAgICAgICAgICAgICA8aSBjbGFzcz0iZmEgZmEtZncgZmEtZmlsZS1jb2RlLW8iPjwvaT4KICAgICAgICAgICAgICAgICAgICA8c3BhbiBjbGFzcz0ibmF2LWxpbmstdGV4dCI+Q29kZXM8L3NwYW4+CiAgICAgICAgICAgICAgICA8L2E+CiAgICAgICAgICAgIDwvbGk+Cg==</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgY29kZV9uYW1lPWNvZGVfbmFtZSwK</text>
       </register>
       <register name=":" type="4">
-        <text>$</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>Nodes</last-search>
+      <last-search>_add_product</last-search>
       <last-offset />
-      <last-pattern>Nodes</last-pattern>
-      <last-replace encoding="base64">dGQ+</last-replace>
-      <last-substitute encoding="base64">dGg+</last-substitute>
+      <last-pattern>_add_product</last-pattern>
+      <last-replace>code_add_form</last-replace>
+      <last-substitute>product_add_form</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>get_debug</entry>
-        <entry>print</entry>
-        <entry>with_for_update</entry>
-        <entry>Node.runcmd</entry>
         <entry>installed_code</entry>
         <entry>post_func</entry>
         <entry>err_str</entry>
@@ -810,9 +813,12 @@
         <entry>info</entry>
         <entry>runcmd</entry>
         <entry>Nodes</entry>
+        <entry>product_add_form</entry>
+        <entry>category</entry>
+        <entry>AddForm</entry>
+        <entry>_add_product</entry>
       </history-search>
       <history-cmd>
-        <entry>95</entry>
         <entry>89</entry>
         <entry>91</entry>
         <entry>125</entry>
@@ -829,9 +835,10 @@
         <entry encoding="base64">IA==</entry>
         <entry>wq</entry>
         <entry>46</entry>
-        <entry>w</entry>
-        <entry>0</entry>
+        <entry encoding="base64">JzwsJz5zL3Byb2R1Y3RfYWRkX2Zvcm0vY29kZV9hZGRfZm9ybS9n</entry>
         <entry>$</entry>
+        <entry>0</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
