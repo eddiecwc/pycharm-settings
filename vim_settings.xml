@@ -107,11 +107,11 @@
         <mark key="." line="18" column="39" />
         <mark key="^" line="18" column="39" />
       </file>
-      <file name="$USER_HOME$/Sites/ESS-Monitor/README.md" timestamp="1520931651062">
-        <mark key="[" line="58" column="21" />
-        <mark key="]" line="59" column="0" />
-        <mark key="." line="59" column="0" />
-        <mark key="^" line="59" column="0" />
+      <file name="$USER_HOME$/Sites/ESS-Monitor/README.md" timestamp="1520957483170">
+        <mark key="[" line="56" column="12" />
+        <mark key="]" line="57" column="26" />
+        <mark key="." line="57" column="26" />
+        <mark key="^" line="57" column="26" />
       </file>
       <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/templates/ess/code_list.html" timestamp="1520896586452">
         <mark key="[" line="19" column="0" />
@@ -199,9 +199,6 @@
         <mark key="^" line="190" column="24" />
         <mark key="." line="215" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1520065260273">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/mod_support/product_number.py" timestamp="1516348109317">
         <mark key="'" line="47" column="10" />
         <mark key="[" line="58" column="50" />
@@ -248,10 +245,10 @@
         <mark key="^" line="10" column="35" />
         <mark key="." line="10" column="35" />
       </file>
-      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/models.py" timestamp="1520836779616">
+      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/models.py" timestamp="1520957251257">
         <mark key="'" line="169" column="44" />
-        <mark key="[" line="250" column="102" />
-        <mark key="]" line="250" column="103" />
+        <mark key="[" line="477" column="0" />
+        <mark key="]" line="492" column="46" />
         <mark key="." line="250" column="103" />
         <mark key="^" line="250" column="103" />
       </file>
@@ -310,6 +307,12 @@
         <mark key="." line="7" column="0" />
         <mark key="^" line="24" column="3" />
       </file>
+      <file name="$USER_HOME$/Sites/ESS-Monitor/.gitignore" timestamp="1520957551392">
+        <mark key="[" line="6" column="9" />
+        <mark key="]" line="11" column="0" />
+        <mark key="^" line="11" column="0" />
+        <mark key="." line="11" column="0" />
+      </file>
       <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/mod_node/__init__.py" timestamp="1515521737977">
         <mark key="[" line="0" column="21" />
         <mark key="]" line="2" column="0" />
@@ -352,12 +355,11 @@
         <mark key="." line="75" column="0" />
         <mark key="^" line="76" column="58" />
       </file>
-      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/tasks.py" timestamp="1520835736870">
+      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/tasks.py" timestamp="1520957280608">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="389" column="0" />
-        <mark key="]" line="390" column="21" />
-        <mark key="." line="390" column="21" />
-        <mark key="^" line="390" column="21" />
+        <mark key="[" line="610" column="0" />
+        <mark key="]" line="610" column="0" />
+        <mark key="." line="610" column="0" />
       </file>
       <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/templates/ess/codelog_table_headers.html" timestamp="1520837161689">
         <mark key="[" line="1" column="0" />
@@ -580,9 +582,6 @@
         <mark key="^" line="12" column="11" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1520723988929">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Sites/ESS-Monitor/scripts/collectLinuxNodeInfo.py" timestamp="1514356709242">
         <mark key="'" line="34" column="14" />
         <mark key="[" line="139" column="63" />
@@ -755,46 +754,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>/</text>
+        <text>TBD</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>TBD</text>
       </register>
       <register name="/" type="4">
         <text>filter</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIGxlZnQtbWFyZ2luOiA1cHg7Cg==</text>
+      <register name="0" type="4">
+        <text encoding="base64">ICAgIG5ldF9pcCA9IENvbHVtbihkYi5TdHJpbmcoU1RSSU5HX0xFTikpCgogICAgIyBhdHRyaWJ1dGVzIGZvciBpbmZpbmliYW5kIGRldmljZXMKICAgIGliX3BvcnRfZ3VpZCA9IENvbHVtbihkYi5TdHJpbmcoU1RSSU5HX0xFTikpCiAgICBpYl9kZXZfbmFtZSA9IENvbHVtbihkYi5TdHJpbmcoU1RSSU5HX0xFTikpCgogICAgIyBwb3J0IGluZm8gZm9yIGNlcnRhaW4gdHlwZXMgKG5ldHdvcmssIHNhcywgZXRjKQogICAgcG9ydF9tYXhfcmF0ZSA9IENvbHVtbihkYi5TdHJpbmcoU1RSSU5HX0xFTikpCiAgICBwb3J0X3J1bl9yYXRlID0gQ29sdW1uKGRiLlN0cmluZyhTVFJJTkdfTEVOKSkKICAgIHBvcnRfc3RhdGUgPSBDb2x1bW4oZGIuU3RyaW5nKFNUUklOR19MRU4pKQoKICAgICMgc3RhdHVzCiAgICBmaXJzdF9zZWVuID0gQ29sdW1uKGRiLkRhdGVUaW1lKQogICAgbGFzdF9zZWVuID0gQ29sdW1uKGRiLkRhdGVUaW1lKQogICAgYWN0aXZlID0gQ29sdW1uKGRiLkJvb2xlYW4pCiAgICBkZXNjcmlwdGlvbiA9IENvbHVtbihkYi5TdHJpbmcoU1RSSU5HX0xFTikp</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">L3Vzci9sb2NhbC9saWIvcHl0aG9uMy41L3NpdGUtcGFja2FnZXMvZmxhc2tfYWRtaW4vY29udHJpYi9zcWxhL2ZpZWxkcy5weQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">VmFsdWVFcnJvcjogdG9vIG1hbnkgdmFsdWVzIHRvIHVucGFjayAoZXhwZWN0ZWQgMikK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyBzdGF0dXMK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">YnVpbGRvdXRjZmcK</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyBwb3J0IGluZm8gZm9yIGNlcnRhaW4gdHlwZXMgKG5ldHdvcmssIHNhcywgZXRjKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNscywga2V5ID0gaWRlbnRpdHlfa2V5KGluc3RhbmNlPW9iaikK</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyBhdHRyaWJ1dGVzIGZvciBpbmZpbmliYW5kIGRldmljZXMK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">QVBQX1BPUlQ9NTA1MAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGEgY2xhc3M9ImJ0biBidG4tb3V0bGluZS1wcmltYXJ5IGJ0bi1tZCBmbG9hdC1yaWdodCIgaHJlZj0iL2NvZGUvYWRkLyIgcm9sZT0iYnV0dG9uIj5BZGQ8L2E+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWRfbm9kZQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGEgY2xhc3M9ImJ0biBidG4tb3V0bGluZS1wcmltYXJ5IGJ0bi1tZCBmbG9hdC1yaWdodCIgaWQ9ImNvZGUtbG9nLWJ0biIgaHJlZj0iL2NvZGUvbG9ncy8iIHJvbGU9ImJ1dHRvbiI+TG9nPC9hPgo=</text>
+        <text encoding="base64">L3Vzci9sb2NhbC9saWIvcHl0aG9uMy41L3NpdGUtcGFja2FnZXMvZmxhc2tfYWRtaW4vY29udHJpYi9zcWxhL2ZpZWxkcy5weQo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wq</text>
       </register>
     </registers>
     <search>
@@ -845,11 +844,11 @@
         <entry encoding="base64">JzwsJz5zL3Byb2R1Y3RfYWRkX2Zvcm0vY29kZV9hZGRfZm9ybS9n</entry>
         <entry>691</entry>
         <entry>388</entry>
-        <entry>wq</entry>
         <entry>q</entry>
         <entry>$</entry>
-        <entry>w</entry>
         <entry>0</entry>
+        <entry>w</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
