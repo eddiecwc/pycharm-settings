@@ -355,11 +355,12 @@
         <mark key="." line="75" column="0" />
         <mark key="^" line="76" column="58" />
       </file>
-      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/tasks.py" timestamp="1520971754842">
+      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/tasks.py" timestamp="1520971792778">
         <mark key="'" line="599" column="12" />
         <mark key="[" line="616" column="31" />
-        <mark key="]" line="616" column="0" />
-        <mark key="." line="616" column="0" />
+        <mark key="]" line="617" column="47" />
+        <mark key="." line="617" column="47" />
+        <mark key="^" line="617" column="47" />
       </file>
       <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/templates/ess/codelog_table_headers.html" timestamp="1520837161689">
         <mark key="[" line="1" column="0" />
