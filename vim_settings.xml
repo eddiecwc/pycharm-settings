@@ -355,12 +355,12 @@
         <mark key="." line="75" column="0" />
         <mark key="^" line="76" column="58" />
       </file>
-      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/tasks.py" timestamp="1520971792778">
+      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/tasks.py" timestamp="1520979356279">
         <mark key="'" line="599" column="12" />
-        <mark key="[" line="616" column="31" />
-        <mark key="]" line="617" column="47" />
-        <mark key="." line="617" column="47" />
-        <mark key="^" line="617" column="47" />
+        <mark key="[" line="629" column="0" />
+        <mark key="]" line="671" column="13" />
+        <mark key="." line="671" column="13" />
+        <mark key="^" line="671" column="13" />
       </file>
       <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/templates/ess/codelog_table_headers.html" timestamp="1520837161689">
         <mark key="[" line="1" column="0" />
@@ -754,17 +754,17 @@
       <jump line="599" column="12" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/tasks.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAjIG5vdCAK</text>
+      <register name="&quot;" type="4">
+        <text>obj</text>
       </register>
       <register name="-" type="4">
-        <text>TBD</text>
+        <text>obj</text>
       </register>
       <register name="/" type="4">
         <text>addr</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">ICAgIG5ldF9pcCA9IENvbHVtbihkYi5TdHJpbmcoU1RSSU5HX0xFTikpCgogICAgIyBhdHRyaWJ1dGVzIGZvciBpbmZpbmliYW5kIGRldmljZXMKICAgIGliX3BvcnRfZ3VpZCA9IENvbHVtbihkYi5TdHJpbmcoU1RSSU5HX0xFTikpCiAgICBpYl9kZXZfbmFtZSA9IENvbHVtbihkYi5TdHJpbmcoU1RSSU5HX0xFTikpCgogICAgIyBwb3J0IGluZm8gZm9yIGNlcnRhaW4gdHlwZXMgKG5ldHdvcmssIHNhcywgZXRjKQogICAgcG9ydF9tYXhfcmF0ZSA9IENvbHVtbihkYi5TdHJpbmcoU1RSSU5HX0xFTikpCiAgICBwb3J0X3J1bl9yYXRlID0gQ29sdW1uKGRiLlN0cmluZyhTVFJJTkdfTEVOKSkKICAgIHBvcnRfc3RhdGUgPSBDb2x1bW4oZGIuU3RyaW5nKFNUUklOR19MRU4pKQoKICAgICMgc3RhdHVzCiAgICBmaXJzdF9zZWVuID0gQ29sdW1uKGRiLkRhdGVUaW1lKQogICAgbGFzdF9zZWVuID0gQ29sdW1uKGRiLkRhdGVUaW1lKQogICAgYWN0aXZlID0gQ29sdW1uKGRiLkJvb2xlYW4pCiAgICBkZXNjcmlwdGlvbiA9IENvbHVtbihkYi5TdHJpbmcoU1RSSU5HX0xFTikp</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBvYmosIGNyZWF0ZWQgPSBQcm9kdWN0LmdldF9vcl9jcmVhdGUobmFtZT1uYW1lLCBjYXRlZ29yeT0ic2VydmVyIiwgcGFydF9udW1iZXI9cGFydF9udW1iZXIpCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAjIG5vdCAK</text>
