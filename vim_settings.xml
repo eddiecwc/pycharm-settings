@@ -355,12 +355,11 @@
         <mark key="." line="75" column="0" />
         <mark key="^" line="76" column="58" />
       </file>
-      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/tasks.py" timestamp="1520960403034">
-        <mark key="'" line="850" column="16" />
-        <mark key="[" line="600" column="12" />
-        <mark key="]" line="600" column="14" />
-        <mark key="." line="600" column="14" />
-        <mark key="^" line="600" column="14" />
+      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/tasks.py" timestamp="1520971754842">
+        <mark key="'" line="599" column="12" />
+        <mark key="[" line="616" column="31" />
+        <mark key="]" line="616" column="0" />
+        <mark key="." line="616" column="0" />
       </file>
       <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/templates/ess/codelog_table_headers.html" timestamp="1520837161689">
         <mark key="[" line="1" column="0" />
@@ -709,7 +708,6 @@
       <jump line="493" column="24" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/tasks.py" />
       <jump line="530" column="33" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/tasks.py" />
       <jump line="571" column="34" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/tasks.py" />
-      <jump line="599" column="35" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/tasks.py" />
       <jump line="608" column="32" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/tasks.py" />
       <jump line="622" column="43" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/tasks.py" />
       <jump line="630" column="48" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/tasks.py" />
@@ -752,55 +750,56 @@
       <jump line="594" column="14" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/tasks.py" />
       <jump line="596" column="14" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/tasks.py" />
       <jump line="850" column="16" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/tasks.py" />
+      <jump line="599" column="12" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/tasks.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>TBD</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAjIG5vdCAK</text>
       </register>
       <register name="-" type="4">
         <text>TBD</text>
       </register>
       <register name="/" type="4">
-        <text>serial</text>
+        <text>addr</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">ICAgIG5ldF9pcCA9IENvbHVtbihkYi5TdHJpbmcoU1RSSU5HX0xFTikpCgogICAgIyBhdHRyaWJ1dGVzIGZvciBpbmZpbmliYW5kIGRldmljZXMKICAgIGliX3BvcnRfZ3VpZCA9IENvbHVtbihkYi5TdHJpbmcoU1RSSU5HX0xFTikpCiAgICBpYl9kZXZfbmFtZSA9IENvbHVtbihkYi5TdHJpbmcoU1RSSU5HX0xFTikpCgogICAgIyBwb3J0IGluZm8gZm9yIGNlcnRhaW4gdHlwZXMgKG5ldHdvcmssIHNhcywgZXRjKQogICAgcG9ydF9tYXhfcmF0ZSA9IENvbHVtbihkYi5TdHJpbmcoU1RSSU5HX0xFTikpCiAgICBwb3J0X3J1bl9yYXRlID0gQ29sdW1uKGRiLlN0cmluZyhTVFJJTkdfTEVOKSkKICAgIHBvcnRfc3RhdGUgPSBDb2x1bW4oZGIuU3RyaW5nKFNUUklOR19MRU4pKQoKICAgICMgc3RhdHVzCiAgICBmaXJzdF9zZWVuID0gQ29sdW1uKGRiLkRhdGVUaW1lKQogICAgbGFzdF9zZWVuID0gQ29sdW1uKGRiLkRhdGVUaW1lKQogICAgYWN0aXZlID0gQ29sdW1uKGRiLkJvb2xlYW4pCiAgICBkZXNjcmlwdGlvbiA9IENvbHVtbihkYi5TdHJpbmcoU1RSSU5HX0xFTikp</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAjIG5vdCAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGludGVyZmFjZVsncGh5X2FkZHInXSA9ICIiCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyBzdGF0dXMK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZWxzZToK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyBwb3J0IGluZm8gZm9yIGNlcnRhaW4gdHlwZXMgKG5ldHdvcmssIHNhcywgZXRjKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyBhdHRyaWJ1dGVzIGZvciBpbmZpbmliYW5kIGRldmljZXMK</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgIyBzdGF0dXMK</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyBwb3J0IGluZm8gZm9yIGNlcnRhaW4gdHlwZXMgKG5ldHdvcmssIHNhcywgZXRjKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWRfbm9kZQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyBhdHRyaWJ1dGVzIGZvciBpbmZpbmliYW5kIGRldmljZXMK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">L3Vzci9sb2NhbC9saWIvcHl0aG9uMy41L3NpdGUtcGFja2FnZXMvZmxhc2tfYWRtaW4vY29udHJpYi9zcWxhL2ZpZWxkcy5weQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
       </register>
     </registers>
     <search>
-      <last-search>serial</last-search>
+      <last-search>addr</last-search>
       <last-offset />
-      <last-pattern>serial</last-pattern>
+      <last-pattern>addr</last-pattern>
       <last-replace>code_add_form</last-replace>
       <last-substitute>product_add_form</last-substitute>
       <last-dir>1</last-dir>
@@ -808,7 +807,6 @@
     </search>
     <history>
       <history-search>
-        <entry>info</entry>
         <entry>runcmd</entry>
         <entry>Nodes</entry>
         <entry>product_add_form</entry>
@@ -828,6 +826,7 @@
         <entry>filter</entry>
         <entry>ibdev</entry>
         <entry>serial</entry>
+        <entry>addr</entry>
       </history-search>
       <history-cmd>
         <entry>125</entry>
