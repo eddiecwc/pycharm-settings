@@ -355,12 +355,12 @@
         <mark key="." line="75" column="0" />
         <mark key="^" line="76" column="58" />
       </file>
-      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/tasks.py" timestamp="1520980092065">
-        <mark key="'" line="614" column="12" />
-        <mark key="[" line="647" column="25" />
-        <mark key="]" line="647" column="39" />
-        <mark key="^" line="647" column="39" />
-        <mark key="." line="647" column="39" />
+      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/tasks.py" timestamp="1520982237935">
+        <mark key="'" line="658" column="12" />
+        <mark key="[" line="708" column="0" />
+        <mark key="]" line="709" column="0" />
+        <mark key="^" line="709" column="0" />
+        <mark key="." line="709" column="0" />
       </file>
       <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/templates/ess/codelog_table_headers.html" timestamp="1520837161689">
         <mark key="[" line="1" column="0" />
@@ -758,40 +758,45 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>interface</text>
+        <text>d</text>
       </register>
       <register name="/" type="4">
         <text>addr</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgZGVmIGdldF9pbmV0X3BoeV9hZGRyKGhvc3RuYW1lLCBpZl9uYW1lKToKICAgICAgICAgICAgICAgICMgZ2V0IGludGVyZmFjZSBwaHlzaWNhbCBhZGRyZXNzCiAgICAgICAgICAgICAgICBjbWQgPSAiY2F0IC9zeXMvY2xhc3MvbmV0L3t9L2FkZHJlc3MiLmZvcm1hdChpZl9uYW1lKQogICAgICAgICAgICAgICAgYWRkciwgbGFzdF9zY2FubmVkID0gcnVuY21kKGhvc3RuYW1lLCBjbWQsICJwaHlzaWNhbCBhZGRyZXNzIGZvciBpbnRlcmZhY2Uge30uIi5mb3JtYXQoaWZfbmFtZSkpCiAgICAgICAgICAgICAgICBpZiBhZGRyOgogICAgICAgICAgICAgICAgICAgIGludGVyZmFjZVsncGh5X2FkZHInXSA9IG15X3N0cmlwKGFkZHIuc3Rkb3V0KS5sb3dlcigpLnJlcGxhY2UoIjoiLCAiIikKICAgICAgICAgICAgICAgICAgICBpZiBsZW4oaW50ZXJmYWNlWydwaHlfYWRkciddKSA9PSA0MDoKICAgICAgICAgICAgICAgICAgICAgICAgIyA0MCBjaGFyIGFkZHIgZm9yIGluZmluaWJhbmQuIEV4dHJhY3QgcG9ydCBHVUlEIGZybyBpdCAobGFzdCAxNiBjaGFycykKICAgICAgICAgICAgICAgICAgICAgICAgaW50ZXJmYWNlWydpYl9wb3J0X2d1aWQnXSA9IGludGVyZmFjZVsncGh5X2FkZHInXVstMTY6XQ==</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICByZXNbJ2xhc3Rfc2Nhbm5lZCddID0gbGFzdF9zY2FubmVkCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyAgICAgICAgIGludGVyZmFjZVsnaWJfcG9ydF9ndWlkJ10gPSBpbnRlcmZhY2VbJ3BoeV9hZGRyJ11bLTE2Ol0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyAgICAgICAgICMgNDAgY2hhciBhZGRyIGZvciBpbmZpbmliYW5kLiBFeHRyYWN0IHBvcnQgR1VJRCBmcm8gaXQgKGxhc3QgMTYgY2hhcnMpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyAgICAgaWYgbGVuKGludGVyZmFjZVsncGh5X2FkZHInXSkgPT0gNDA6Cg==</text>
+      <register name="4" type="4">
+        <text>def get_net_dev_ib_name(hostname, if_name, my_logger):
+    cmd = &quot;ls /sys/class/net/{}/device/infiniband&quot;.format(if_name)
+    ibdev_name, lasdt_scanned = runcmd(hostname, cmd, &quot;ib device name for interface {}&quot;.format(if_name))
+    if ibdev_name:
+        my_logger.debug(&quot;Node {} interface {} found ib name {}&quot;.format(hostname, if_name, ibdev_name))
+        interface['ib_dev_name'] = my_strip(ibdev_name.stdout)</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyAgICAgaW50ZXJmYWNlWydwaHlfYWRkciddID0gbXlfc3RyaXAoYWRkci5zdGRvdXQpLmxvd2VyKCkucmVwbGFjZSgiOiIsICIiKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyBpZiBhZGRyOgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyBhZGRyLCBsYXN0X3NjYW5uZWQgPSBydW5jbWQoaG9zdG5hbWUsIGNtZCwgInBoeXNpY2FsIGFkZHJlc3MgZm9yIGludGVyZmFjZSB7fS4iLmZvcm1hdChpZl9uYW1lKSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyBjbWQgPSAiY2F0IC9zeXMvY2xhc3MvbmV0L3t9L2FkZHJlc3MiLmZvcm1hdChpZl9uYW1lKQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyAjIGdldCBpbnRlcmZhY2UgcGh5c2ljYWwgYWRkcmVzcwo=</text>
+      <register name="9" type="4">
+        <text encoding="base64">ICAgICAgICAgICAgZGVmIGdldF9uZXRfZGV2X2JvbmRfc2xhdmVzKGhvc3RuYW1lLCBpZl9uYW1lLCBteV9sb2dnZXIpOiAgICAKICAgICAgICAgICAgICAgIGNtZCA9ICJjYXQgL3N5cy9jbGFzcy9uZXQve30vYm9uZGluZy9zbGF2ZXMiLmZvcm1hdChpZl9uYW1lKQogICAgICAgICAgICAgICAgc2xhdmVzLCBsYXN0X3NjYW5uZWQgPSBydW5jbWQoaG9zdG5hbWUsIGNtZCwgInNsYXZlcyBmb3IgYm9uZCBpbnRlcmZhY2Uge30iLmZvcm1hdChpZl9uYW1lKSkKICAgICAgICAgICAgICAgIGlmIHNsYXZlczoKICAgICAgICAgICAgICAgICAgICBteV9sb2dnZXIuZGVidWcoIk5vZGUge30gaW50ZXJmYWNlIHt9IGZvdW5kIHNsYXZlcyB7fSIuZm9ybWF0KGhvc3RuYW1lLCBpZl9uYW1lLCBzbGF2ZXMpKQogICAgICAgICAgICAgICAgICAgIGludGVyZmFjZVsnc2xhdmVzJ10gPSBzbGF2ZXMuc3BsaXQoKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
