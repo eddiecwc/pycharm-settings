@@ -355,12 +355,12 @@
         <mark key="." line="75" column="0" />
         <mark key="^" line="76" column="58" />
       </file>
-      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/tasks.py" timestamp="1521005149586">
+      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/tasks.py" timestamp="1521005939307">
         <mark key="'" line="689" column="0" />
-        <mark key="[" line="760" column="0" />
-        <mark key="]" line="760" column="0" />
+        <mark key="[" line="768" column="0" />
+        <mark key="]" line="768" column="0" />
         <mark key="^" line="666" column="0" />
-        <mark key="." line="760" column="0" />
+        <mark key="." line="768" column="0" />
       </file>
       <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/templates/ess/codelog_table_headers.html" timestamp="1520837161689">
         <mark key="[" line="1" column="0" />
@@ -754,8 +754,8 @@
       <jump line="690" column="0" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/tasks.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">c3RhdGUg</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAjIHNlbGYuc2Nhbl9tbHhfcG9ydF90ZW1wKCkK</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">c3RhdGUg</text>
@@ -767,7 +767,7 @@
         <text encoding="base64">ICAgIHBvcnRfc3RhdGUgPSBDb2x1bW4oZGIuU3RyaW5nKFNUUklOR19MRU4pKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAjIHNlbGYuc2Nhbl9tbHhfcG9ydF90ZW1wKCkK</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
@@ -779,19 +779,19 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAoK</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIAoK</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnBjaVsnbmV0d29yayddW2ludGVyZmFjZV1bJ3RlbXBlcmF0dXJlJ10gPSBteV9zdHJpcCh0ZW1wLnN0ZG91dCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGlmIHRlbXA6Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnBjaVsnbmV0d29yayddW2ludGVyZmFjZV1bJ3RlbXBlcmF0dXJlJ10gPSBteV9zdHJpcCh0ZW1wLnN0ZG91dCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHRlbXAgPSBzZWxmLnJ1bmNtZChjbWQsICd0ZW1wZXJhdHVyZSBmb3IgcG9ydCB7fScuZm9ybWF0KGludGVyZmFjZSkpCg==</text>
+        <text encoding="base64">ICAgIGlmIHRlbXA6Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
