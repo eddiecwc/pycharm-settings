@@ -355,12 +355,12 @@
         <mark key="." line="75" column="0" />
         <mark key="^" line="76" column="58" />
       </file>
-      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/tasks.py" timestamp="1520982237935">
-        <mark key="'" line="658" column="12" />
-        <mark key="[" line="708" column="0" />
-        <mark key="]" line="709" column="0" />
-        <mark key="^" line="709" column="0" />
-        <mark key="." line="709" column="0" />
+      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/tasks.py" timestamp="1520998654221">
+        <mark key="'" line="559" column="0" />
+        <mark key="[" line="732" column="0" />
+        <mark key="]" line="733" column="32" />
+        <mark key="^" line="733" column="32" />
+        <mark key="." line="733" column="32" />
       </file>
       <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/templates/ess/codelog_table_headers.html" timestamp="1520837161689">
         <mark key="[" line="1" column="0" />
@@ -695,7 +695,6 @@
       <jump line="574" column="0" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/tasks.py" />
       <jump line="597" column="35" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/tasks.py" />
       <jump line="606" column="29" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/tasks.py" />
-      <jump line="559" column="12" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/tasks.py" />
       <jump line="561" column="75" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/tasks.py" />
       <jump line="565" column="23" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/tasks.py" />
       <jump line="573" column="11" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/tasks.py" />
@@ -752,60 +751,56 @@
       <jump line="596" column="14" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/tasks.py" />
       <jump line="850" column="16" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/tasks.py" />
       <jump line="599" column="12" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/tasks.py" />
+      <jump line="559" column="0" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/tasks.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>d</text>
+        <text>hy_addr</text>
       </register>
       <register name="/" type="4">
-        <text>addr</text>
+        <text>last_seen</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICByZXNbJ2xhc3Rfc2Nhbm5lZCddID0gbGFzdF9zY2FubmVkCg==</text>
+        <text encoding="base64">IyAgICAgICAgIGlmIHBvcnRfc3BlZWQgPCAwIG9yIHBvcnRfc3BlZWQgPiAxMDAwOgojICAgICAgICAgICAgIHBvcnRfc3BlZWQgPSAnLScK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="4">
-        <text>def get_net_dev_ib_name(hostname, if_name, my_logger):
-    cmd = &quot;ls /sys/class/net/{}/device/infiniband&quot;.format(if_name)
-    ibdev_name, lasdt_scanned = runcmd(hostname, cmd, &quot;ib device name for interface {}&quot;.format(if_name))
-    if ibdev_name:
-        my_logger.debug(&quot;Node {} interface {} found ib name {}&quot;.format(hostname, if_name, ibdev_name))
-        interface['ib_dev_name'] = my_strip(ibdev_name.stdout)</text>
+        <text encoding="base64">ICMgICAgICAgICBwb3J0X3NwZWVkID0gaW50KG15X3N0cmlwKHBvcnRfZW50cnkuc3BsaXQoJzonKVsxXSkpIC8gMTAwMAojICAgICAgICAgIyBpZiBwb3J0IGlzIG5vdCBjb25maWd1cmVkIHRoZSBkaXNwbGF5ZWQgc3BlZWQgbWF5IGJlIGFuIGludmFsaWQgbnVtYmVyIGRlcGVuZGluZyBvbiB2ZW5kb3IKIyAgICAgICAgICMgdGhyb3cgb3V0IGludmFsaWQgcmVzdWx0cwojICAgICAgICAgaWYgcG9ydF9zcGVlZCA8IDAgb3IgcG9ydF9zcGVlZCA+IDEwMDA6CiMgICAgICAgICAgICAgcG9ydF9zcGVlZCA9ICctJwojICAgICAgIAog</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbXlfc3RyaXAocmUuc2VhcmNoKHIiKD88PS9zcGVlZDopKC4rKVtcclxuXSIsIG91dHB1dC5zdGRvdXQpLmdyb3VwKDEpKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXNbJ2RyaXZlcl9uYW1lJ10gPSBteV9zdHJpcChyZS5zZWFyY2gociIoPzw9XmRyaXZlcjogKSguKylbXHJcbl0iLCBldGgpLmdyb3VwKDEpKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICByZXNbJ3BoeV9hZGRyJ10gPSBteV9zdHJpcChhZGRyLnN0ZG91dCkubG93ZXIoKS5yZXBsYWNlKCI6IiwgIiIpCg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgZGVmIGdldF9uZXRfZGV2X2JvbmRfc2xhdmVzKGhvc3RuYW1lLCBpZl9uYW1lLCBteV9sb2dnZXIpOiAgICAKICAgICAgICAgICAgICAgIGNtZCA9ICJjYXQgL3N5cy9jbGFzcy9uZXQve30vYm9uZGluZy9zbGF2ZXMiLmZvcm1hdChpZl9uYW1lKQogICAgICAgICAgICAgICAgc2xhdmVzLCBsYXN0X3NjYW5uZWQgPSBydW5jbWQoaG9zdG5hbWUsIGNtZCwgInNsYXZlcyBmb3IgYm9uZCBpbnRlcmZhY2Uge30iLmZvcm1hdChpZl9uYW1lKSkKICAgICAgICAgICAgICAgIGlmIHNsYXZlczoKICAgICAgICAgICAgICAgICAgICBteV9sb2dnZXIuZGVidWcoIk5vZGUge30gaW50ZXJmYWNlIHt9IGZvdW5kIHNsYXZlcyB7fSIuZm9ybWF0KGhvc3RuYW1lLCBpZl9uYW1lLCBzbGF2ZXMpKQogICAgICAgICAgICAgICAgICAgIGludGVyZmFjZVsnc2xhdmVzJ10gPSBzbGF2ZXMuc3BsaXQoKQo=</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIGdldCBpbnRlcmZhY2UgcGh5c2ljYWwgYWRkcmVzcwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>addr</last-search>
+      <last-search>last_seen</last-search>
       <last-offset />
-      <last-pattern>addr</last-pattern>
+      <last-pattern>last_seen</last-pattern>
       <last-replace>code_add_form</last-replace>
       <last-substitute>product_add_form</last-substitute>
       <last-dir>1</last-dir>
@@ -813,7 +808,6 @@
     </search>
     <history>
       <history-search>
-        <entry>runcmd</entry>
         <entry>Nodes</entry>
         <entry>product_add_form</entry>
         <entry>category</entry>
@@ -833,6 +827,7 @@
         <entry>ibdev</entry>
         <entry>serial</entry>
         <entry>addr</entry>
+        <entry>last_seen</entry>
       </history-search>
       <history-cmd>
         <entry>125</entry>
