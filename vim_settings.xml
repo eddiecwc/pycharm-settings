@@ -355,12 +355,12 @@
         <mark key="." line="75" column="0" />
         <mark key="^" line="76" column="58" />
       </file>
-      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/tasks.py" timestamp="1521009386780">
-        <mark key="'" line="689" column="0" />
-        <mark key="[" line="800" column="0" />
-        <mark key="]" line="800" column="0" />
-        <mark key="^" line="666" column="0" />
-        <mark key="." line="800" column="0" />
+      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/tasks.py" timestamp="1521012132776">
+        <mark key="'" line="693" column="0" />
+        <mark key="[" line="772" column="70" />
+        <mark key="]" line="772" column="70" />
+        <mark key="." line="772" column="70" />
+        <mark key="^" line="772" column="70" />
       </file>
       <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/templates/ess/codelog_table_headers.html" timestamp="1520837161689">
         <mark key="[" line="1" column="0" />
@@ -755,59 +755,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text># def scan_mlx_port_temp(self):
-#     for interface in self.pci['network'].keys():
-#         cur_dev = self.pci['network'][interface]
-#         if 'ibdev' in cur_dev:
-#             cmd = &quot;/bin/mget_temp -d {}&quot;.format(cur_dev['ibdev'])
-#             temp = self.runcmd(cmd, 'temperature for port {}'.format(interface))
-#             if temp:
-#                 self.pci['network'][interface]['temperature'] = my_strip(temp.stdout)
-#</text>
+        <text>2</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">c3RhdGUg</text>
+        <text>2</text>
       </register>
       <register name="/" type="4">
         <text>temp</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHBvcnRfc3RhdGUgPSBDb2x1bW4oZGIuU3RyaW5nKFNUUklOR19MRU4pKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaW50ZXJmYWNlWydkZXNjcmlwdGlvbiddID0gbXlfc3RyaXAocmVzLmdyb3VwKDEpKQo=</text>
       </register>
-      <register name="1" type="4">
-        <text># def scan_mlx_port_temp(self):
-#     for interface in self.pci['network'].keys():
-#         cur_dev = self.pci['network'][interface]
-#         if 'ibdev' in cur_dev:
-#             cmd = &quot;/bin/mget_temp -d {}&quot;.format(cur_dev['ibdev'])
-#             temp = self.runcmd(cmd, 'temperature for port {}'.format(interface))
-#             if temp:
-#                 self.pci['network'][interface]['temperature'] = my_strip(temp.stdout)
-#</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgbXlfbG9nZ2VyLmRlYnVnKCJsc3BjaSBzZWFyY2ggcmVzdWx0OiAlcyIgJSByZXMuZ3JvdXAoMSwgMikpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAjIHNlbGYuc2Nhbl9tbHhfcG9ydF90ZW1wKCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaW50ZXJmYWNlWydkZXNjcmlwdGlvbiddID0gZGVzY3JpcHRpb24K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGVzY3JpcHRpb24gPSBteV9zdHJpcChyZS5zZWFyY2gociIoPzw9Xnt9KSguKylbXHJcbl0iLCBsc3BjaV9vdXQpLmdyb3VwKDEpKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaW50ZXJmYWNlWydkZXNjcmlwdGlvbiddID0gbXlfc3RyaXAocmVzLmdyb3VwKDEpKQo=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIAoK</text>
+      <register name="7" type="4">
+        <text encoding="base64">ICAgICAgICAgICAgc2VhcmNoX3BhdHRlcm4gPSByIl4oIiArIGludGVyZmFjZVsnYnVzJ10gKyByIikgKC4rKSBjb250cm9sbGVyOiAoLispW1xyXG5dIgogICAgICAgICAgICByZXMgPSByZS5zZWFyY2goc2VhcmNoX3BhdHRlcm4sIGxzcGNpX291dCkKICAgICAgICAgICAgZGVzY3JpcHRpb24gPSBteV9zdHJpcChyZS5zZWFyY2gociIoPzw9Xnt9KSguKylbXHJcbl0iLCBsc3BjaV9vdXQpLmdyb3VwKDEpKQogICAgICAgICAgICBpbnRlcmZhY2VbJ2Rlc2NyaXB0aW9uJ10gPSBkZXNjcmlwdGlvbgog</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnBjaVsnbmV0d29yayddW2ludGVyZmFjZV1bJ3RlbXBlcmF0dXJlJ10gPSBteV9zdHJpcCh0ZW1wLnN0ZG91dCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
