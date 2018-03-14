@@ -355,12 +355,12 @@
         <mark key="." line="75" column="0" />
         <mark key="^" line="76" column="58" />
       </file>
-      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/tasks.py" timestamp="1521005939307">
+      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/tasks.py" timestamp="1521009386780">
         <mark key="'" line="689" column="0" />
-        <mark key="[" line="768" column="0" />
-        <mark key="]" line="768" column="0" />
+        <mark key="[" line="800" column="0" />
+        <mark key="]" line="800" column="0" />
         <mark key="^" line="666" column="0" />
-        <mark key="." line="768" column="0" />
+        <mark key="." line="800" column="0" />
       </file>
       <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/templates/ess/codelog_table_headers.html" timestamp="1520837161689">
         <mark key="[" line="1" column="0" />
@@ -754,8 +754,16 @@
       <jump line="690" column="0" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/tasks.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAjIHNlbGYuc2Nhbl9tbHhfcG9ydF90ZW1wKCkK</text>
+      <register name="&quot;" type="4">
+        <text># def scan_mlx_port_temp(self):
+#     for interface in self.pci['network'].keys():
+#         cur_dev = self.pci['network'][interface]
+#         if 'ibdev' in cur_dev:
+#             cmd = &quot;/bin/mget_temp -d {}&quot;.format(cur_dev['ibdev'])
+#             temp = self.runcmd(cmd, 'temperature for port {}'.format(interface))
+#             if temp:
+#                 self.pci['network'][interface]['temperature'] = my_strip(temp.stdout)
+#</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">c3RhdGUg</text>
@@ -766,11 +774,19 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIHBvcnRfc3RhdGUgPSBDb2x1bW4oZGIuU3RyaW5nKFNUUklOR19MRU4pKQo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAjIHNlbGYuc2Nhbl9tbHhfcG9ydF90ZW1wKCkK</text>
+      <register name="1" type="4">
+        <text># def scan_mlx_port_temp(self):
+#     for interface in self.pci['network'].keys():
+#         cur_dev = self.pci['network'][interface]
+#         if 'ibdev' in cur_dev:
+#             cmd = &quot;/bin/mget_temp -d {}&quot;.format(cur_dev['ibdev'])
+#             temp = self.runcmd(cmd, 'temperature for port {}'.format(interface))
+#             if temp:
+#                 self.pci['network'][interface]['temperature'] = my_strip(temp.stdout)
+#</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAjIHNlbGYuc2Nhbl9tbHhfcG9ydF90ZW1wKCkK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
@@ -782,16 +798,16 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAoK</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIAoK</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnBjaVsnbmV0d29yayddW2ludGVyZmFjZV1bJ3RlbXBlcmF0dXJlJ10gPSBteV9zdHJpcCh0ZW1wLnN0ZG91dCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGlmIHRlbXA6Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnBjaVsnbmV0d29yayddW2ludGVyZmFjZV1bJ3RlbXBlcmF0dXJlJ10gPSBteV9zdHJpcCh0ZW1wLnN0ZG91dCkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
