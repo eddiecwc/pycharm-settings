@@ -250,12 +250,12 @@
         <mark key="^" line="10" column="35" />
         <mark key="." line="10" column="35" />
       </file>
-      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/models.py" timestamp="1521005235178">
+      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/models.py" timestamp="1521194703337">
         <mark key="'" line="169" column="44" />
-        <mark key="[" line="477" column="42" />
-        <mark key="]" line="478" column="38" />
-        <mark key="." line="478" column="38" />
-        <mark key="^" line="478" column="38" />
+        <mark key="[" line="475" column="41" />
+        <mark key="]" line="475" column="41" />
+        <mark key="." line="475" column="41" />
+        <mark key="^" line="474" column="70" />
       </file>
       <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/mod_tester/__init__.py" timestamp="1515867144650">
         <mark key="[" line="0" column="26" />
@@ -364,12 +364,12 @@
         <mark key="." line="75" column="0" />
         <mark key="^" line="76" column="58" />
       </file>
-      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/tasks.py" timestamp="1521186017099">
+      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/tasks.py" timestamp="1521194505440">
         <mark key="'" line="626" column="35" />
-        <mark key="[" line="603" column="26" />
-        <mark key="]" line="603" column="27" />
-        <mark key="^" line="603" column="27" />
-        <mark key="." line="603" column="27" />
+        <mark key="[" line="604" column="77" />
+        <mark key="]" line="604" column="78" />
+        <mark key="^" line="604" column="78" />
+        <mark key="." line="604" column="78" />
       </file>
       <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/templates/ess/codelog_table_headers.html" timestamp="1520837161689">
         <mark key="[" line="1" column="0" />
@@ -769,10 +769,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>}</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>port_serial</text>
