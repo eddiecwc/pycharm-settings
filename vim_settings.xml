@@ -364,12 +364,12 @@
         <mark key="." line="75" column="0" />
         <mark key="^" line="76" column="58" />
       </file>
-      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/tasks.py" timestamp="1521184445000">
+      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/tasks.py" timestamp="1521186017099">
         <mark key="'" line="626" column="35" />
-        <mark key="[" line="749" column="0" />
-        <mark key="]" line="749" column="0" />
-        <mark key="^" line="753" column="0" />
-        <mark key="." line="749" column="0" />
+        <mark key="[" line="603" column="26" />
+        <mark key="]" line="603" column="27" />
+        <mark key="^" line="603" column="27" />
+        <mark key="." line="603" column="27" />
       </file>
       <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/templates/ess/codelog_table_headers.html" timestamp="1520837161689">
         <mark key="[" line="1" column="0" />
@@ -768,11 +768,11 @@
       <jump line="612" column="35" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/tasks.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>}</text>
       </register>
       <register name="-" type="4">
-        <text>YA50YF72W00</text>
+        <text>}</text>
       </register>
       <register name="/" type="4">
         <text>port_serial</text>
