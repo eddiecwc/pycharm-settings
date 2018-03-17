@@ -652,12 +652,12 @@
         <mark key="." line="91" column="57" />
         <mark key="^" line="91" column="57" />
       </file>
-      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/forms.py" timestamp="1520825891172">
+      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/forms.py" timestamp="1521271608267">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="105" column="117" />
-        <mark key="]" line="106" column="27" />
-        <mark key="^" line="106" column="27" />
-        <mark key="." line="106" column="27" />
+        <mark key="[" line="105" column="30" />
+        <mark key="]" line="105" column="29" />
+        <mark key="^" line="105" column="29" />
+        <mark key="." line="105" column="29" />
       </file>
       <file name="$USER_HOME$/Sites/virtualenv/ESS-Monitor/lib/python3.6/site-packages/sqlalchemy/ext/declarative/base.py" timestamp="1520065467445">
         <mark key="[" line="699" column="0" />
@@ -808,7 +808,7 @@
         <text encoding="base64">ICAgICAgICAgICAgIyBUT0RPCg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
@@ -859,11 +859,11 @@
         <entry encoding="base64">JzwsJz5zL3Byb2R1Y3RfYWRkX2Zvcm0vY29kZV9hZGRfZm9ybS9n</entry>
         <entry>691</entry>
         <entry>388</entry>
-        <entry>q</entry>
         <entry>$</entry>
         <entry>wq</entry>
         <entry>0</entry>
         <entry>w</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
