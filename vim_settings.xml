@@ -250,12 +250,12 @@
         <mark key="^" line="10" column="35" />
         <mark key="." line="10" column="35" />
       </file>
-      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/models.py" timestamp="1521321985237">
+      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/models.py" timestamp="1521322943883">
         <mark key="'" line="165" column="14" />
-        <mark key="[" line="457" column="0" />
-        <mark key="]" line="457" column="0" />
-        <mark key="." line="457" column="0" />
-        <mark key="^" line="456" column="60" />
+        <mark key="[" line="456" column="41" />
+        <mark key="]" line="456" column="41" />
+        <mark key="." line="456" column="41" />
+        <mark key="^" line="456" column="85" />
       </file>
       <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/mod_tester/__init__.py" timestamp="1515867144650">
         <mark key="[" line="0" column="26" />
@@ -364,12 +364,12 @@
         <mark key="." line="75" column="0" />
         <mark key="^" line="76" column="58" />
       </file>
-      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/tasks.py" timestamp="1521240086928">
+      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/tasks.py" timestamp="1521322892497">
         <mark key="'" line="626" column="35" />
-        <mark key="[" line="712" column="13" />
-        <mark key="]" line="712" column="15" />
-        <mark key="^" line="712" column="15" />
-        <mark key="." line="712" column="15" />
+        <mark key="[" line="779" column="12" />
+        <mark key="]" line="779" column="12" />
+        <mark key="^" line="779" column="12" />
+        <mark key="." line="779" column="12" />
       </file>
       <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/templates/ess/codelog_table_headers.html" timestamp="1520837161689">
         <mark key="[" line="1" column="0" />
@@ -768,8 +768,8 @@
       <jump line="165" column="14" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/models.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHByb2R1Y3QgPSBkYi5yZWxhdGlvbnNoaXAoIlByb2R1Y3QiLCBiYWNrcmVmPSJwcm9kdWN0cyIsIGZvcmVpZ25fa2V5cz1baWRfcHJvZHVjdF0pCg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
