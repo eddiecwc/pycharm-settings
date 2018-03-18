@@ -652,6 +652,12 @@
         <mark key="." line="91" column="57" />
         <mark key="^" line="91" column="57" />
       </file>
+      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/conf/machine-types.conf" timestamp="1521360280952">
+        <mark key="[" line="18" column="32" />
+        <mark key="]" line="18" column="34" />
+        <mark key="^" line="13" column="31" />
+        <mark key="." line="18" column="0" />
+      </file>
       <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/forms.py" timestamp="1521271608267">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="105" column="30" />
@@ -768,17 +774,17 @@
       <jump line="607" column="8" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/tasks.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>True</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAnYXJjaGl0ZWN0dXJlJzogJ1BPV0VSOS0nLAo=</text>
       </register>
       <register name="-" type="4">
-        <text>True</text>
+        <text>SUPERMICRO</text>
       </register>
       <register name="/" type="4">
         <text>lspci</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHByb2R1Y3QgPSBkYi5yZWxhdGlvbnNoaXAoIlByb2R1Y3QiLCBiYWNrcmVmPSJwcm9kdWN0cyIsIGZvcmVpZ25fa2V5cz1baWRfcHJvZHVjdF0pCg==</text>
+        <text encoding="base64">ICAgICAgICAnYXJjaGl0ZWN0dXJlJzogJ1BPV0VSOS0nLAo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHRzCg==</text>
