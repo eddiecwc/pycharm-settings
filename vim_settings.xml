@@ -364,12 +364,12 @@
         <mark key="." line="75" column="0" />
         <mark key="^" line="76" column="58" />
       </file>
-      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/tasks.py" timestamp="1521350134316">
-        <mark key="'" line="631" column="35" />
-        <mark key="[" line="542" column="41" />
-        <mark key="]" line="542" column="42" />
-        <mark key="^" line="542" column="42" />
-        <mark key="." line="542" column="42" />
+      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/tasks.py" timestamp="1521352375901">
+        <mark key="'" line="607" column="8" />
+        <mark key="[" line="788" column="0" />
+        <mark key="]" line="788" column="20" />
+        <mark key="^" line="781" column="24" />
+        <mark key="." line="788" column="20" />
       </file>
       <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/templates/ess/codelog_table_headers.html" timestamp="1520837161689">
         <mark key="[" line="1" column="0" />
@@ -666,9 +666,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="733" column="49" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" />
-      <jump line="827" column="43" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" />
-      <jump line="652" column="0" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" />
       <jump line="508" column="11" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" />
       <jump line="516" column="38" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" />
       <jump line="589" column="11" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" />
@@ -766,37 +763,40 @@
       <jump line="170" column="49" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/models.py" />
       <jump line="0" column="0" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/models.py" />
       <jump line="165" column="14" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/models.py" />
+      <jump line="269" column="0" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/tasks.py" />
+      <jump line="777" column="0" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/tasks.py" />
+      <jump line="607" column="8" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/tasks.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>F</text>
+        <text encoding="base64">ICAgIA==</text>
       </register>
       <register name="-" type="4">
-        <text>F</text>
+        <text encoding="base64">ICAgIA==</text>
       </register>
       <register name="/" type="4">
-        <text>products</text>
+        <text>lspci</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHByb2R1Y3QgPSBkYi5yZWxhdGlvbnNoaXAoIlByb2R1Y3QiLCBiYWNrcmVmPSJwcm9kdWN0cyIsIGZvcmVpZ25fa2V5cz1baWRfcHJvZHVjdF0pCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZndfbGFiZWwgPSAiU1VQRVJNSUNSTyBQTk9SICVzIiAlIGZ3X2xpbmVbMF0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHRzCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByb2R1Y3QgPSBkYi5yZWxhdGlvbnNoaXAoIlByb2R1Y3QiLCBiYWNrcmVmPSJwcm9kdWN0cyIsIGZvcmVpZ25fa2V5cz1baWRfcHJvZHVjdF0pCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZndfbGFiZWwgPSAiU1VQRVJNSUNSTyBQTk9SICVzIiAlIGZ3X2xpbmVbMF0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByb2R1Y3QgPSBkYi5yZWxhdGlvbnNoaXAoIlByb2R1Y3QiLCBiYWNrcmVmPSJwcm9kdWN0cyIsIGZvcmVpZ25fa2V5cz1baWRfcHJvZHVjdF0pCg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyBnZXQgc2VyaWFsIG51bWJlcgogICAgICAgICAgICByZXMgPSBnZXRfbmV0X2Rldl9wb3J0X3NlcmlhbChob3N0bmFtZSwgaW50ZXJmYWNlWydidXMnXSwgbXlfbG9nZ2VyKQogICAgICAgICAgICBpbnRlcmZhY2UgPSB7KippbnRlcmZhY2UsICoqcmVzfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyBnZXQgc2VyaWFsIG51bWJlcgogICAgICAgICAgICByZXMgPSBnZXRfbmV0X2Rldl9wb3J0X3NlcmlhbChob3N0bmFtZSwgaW50ZXJmYWNlWydidXMnXSwgbXlfbG9nZ2VyKQogICAgICAgICAgICBpbnRlcmZhY2UgPSB7KippbnRlcmZhY2UsICoqcmVzfQo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
@@ -812,9 +812,9 @@
       </register>
     </registers>
     <search>
-      <last-search>products</last-search>
+      <last-search>lspci</last-search>
       <last-offset />
-      <last-pattern>products</last-pattern>
+      <last-pattern>lspci</last-pattern>
       <last-replace>code_add_form</last-replace>
       <last-substitute>product_add_form</last-substitute>
       <last-dir>1</last-dir>
@@ -822,7 +822,6 @@
     </search>
     <history>
       <history-search>
-        <entry>User</entry>
         <entry>role</entry>
         <entry>scan_attr</entry>
         <entry>update_or_create</entry>
@@ -837,14 +836,14 @@
         <entry>addr</entry>
         <entry>last_seen</entry>
         <entry>temp</entry>
-        <entry>lspci</entry>
         <entry>port_serial</entry>
         <entry>backref</entry>
         <entry>db.relationship</entry>
         <entry>products</entry>
+        <entry>install_date</entry>
+        <entry>lspci</entry>
       </history-search>
       <history-cmd>
-        <entry>125</entry>
         <entry>295</entry>
         <entry>449</entry>
         <entry>406</entry>
@@ -863,6 +862,7 @@
         <entry>wq</entry>
         <entry>q</entry>
         <entry>0</entry>
+        <entry>438</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
@@ -880,6 +880,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed G</text>
       </shortcut-conflict>
     </shortcut-conflicts>
     <editor>
