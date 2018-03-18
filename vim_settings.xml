@@ -476,7 +476,12 @@
         <mark key="^" line="5" column="1" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/conf/machine_types.py" timestamp="1521366513149" />
+      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/conf/machine_types.py" timestamp="1521401416637">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="^" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
       <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/mod_device/__init__.py" timestamp="1516526037517">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
@@ -780,10 +785,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgW215X3N0cmlwKHMpIGZvciBzIGluIG15X3N0cmlwKHBuKS5zcGxpdCgnTW9kZWwgbmFtZTonKV0K</text>
+        <text encoding="base64">UmVmZXJlbmNlOiBodHRwczovL3czLWNvbm5lY3Rpb25zLmlibS5jb20vd2lraXMvaG9tZT9sYW5nPWVuLXVzIyEvd2lraS9XM2E0Y2JmYWUyODQ0XzRlMzRfODM1Zl9mZmJhNDJlMzNiMGIvcGFnZS9TeXN0ZW1zJTIwU3VwcG9ydGVkCg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ZGVzY3JpcHRpb24g</text>
+        <text encoding="base64">IyA=</text>
       </register>
       <register name="/" type="4">
         <text>runcmd</text>
@@ -792,31 +797,31 @@
         <text encoding="base64">ICAgICAgICAgICAgcGFydF9udW1iZXIsIGRlc2NyaXB0aW9uID0gW215X3N0cmlwKHMpIGZvciBzIGluIG15X3N0cmlwKHBuKS5zcGxpdCgnTW9kZWwgbmFtZTonKV0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgW215X3N0cmlwKHMpIGZvciBzIGluIG15X3N0cmlwKHBuKS5zcGxpdCgnTW9kZWwgbmFtZTonKV0K</text>
+        <text encoding="base64">UmVmZXJlbmNlOiBodHRwczovL3czLWNvbm5lY3Rpb25zLmlibS5jb20vd2lraXMvaG9tZT9sYW5nPWVuLXVzIyEvd2lraS9XM2E0Y2JmYWUyODQ0XzRlMzRfODM1Zl9mZmJhNDJlMzNiMGIvcGFnZS9TeXN0ZW1zJTIwU3VwcG9ydGVkCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgW215X3N0cmlwKHMpIGZvciBzIGluIG15X3N0cmlwKHBuKS5zcGxpdCgnTW9kZWwgbmFtZTonKV0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dnZXIuZGVidWcoImhvc3QgJXMgc2Nhbm5lZCBwYXJ0IG51bWJlciBpcyAlcywgZGVzY3JpcHRpb24gaXMgJXMiICUgKG5vZGVfbmFtZSwgcGFydF9udW1iZXIsIGRlc2NyaXB0aW9uKSkK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBjYXRlZ29yeSA9ICJzZXJ2ZXIiCg==</text>
+        <text encoding="base64">ICAgICAgICBsb2dnZXIuZGVidWcoImhvc3QgJXMgc2Nhbm5lZCBwYXJ0IG51bWJlciBpcyAlcywgZGVzY3JpcHRpb24gaXMgJXMiICUgKG5vZGVfbmFtZSwgcGFydF9udW1iZXIsIGRlc2NyaXB0aW9uKSkK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAgICAgICBjYXRlZ29yeSA9ICJzZXJ2ZXIiCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBjYXRlZ29yeSA9ICJzZXJ2ZXIiCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBjb2RlX25hbWUgPSAiIgo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBjb2RlX25hbWUgPSAiIgo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGZvciBjb2RlbmFtZSBpbiBzeXN0ZW1fY29kZV9uYW1lcy5rZXlzKCk6CiAgICAgICAgaWYgc3lzdGVtX2NvZGVfbmFtZXNbY29kZW5hbWVdWydtb2RlbHMnXQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
