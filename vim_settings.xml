@@ -652,11 +652,11 @@
         <mark key="." line="91" column="57" />
         <mark key="^" line="91" column="57" />
       </file>
-      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/conf/machine-types.conf" timestamp="1521360280952">
-        <mark key="[" line="18" column="32" />
-        <mark key="]" line="18" column="34" />
-        <mark key="^" line="13" column="31" />
-        <mark key="." line="18" column="0" />
+      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/conf/machine-types.conf" timestamp="1521360982107">
+        <mark key="[" line="3" column="9" />
+        <mark key="]" line="3" column="23" />
+        <mark key="^" line="3" column="23" />
+        <mark key="." line="3" column="23" />
       </file>
       <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/forms.py" timestamp="1521271608267">
         <mark key="'" line="0" column="0" />
@@ -774,11 +774,11 @@
       <jump line="607" column="8" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/tasks.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAnYXJjaGl0ZWN0dXJlJzogJ1BPV0VSOS0nLAo=</text>
+      <register name="&quot;" type="4">
+        <text>Power</text>
       </register>
       <register name="-" type="4">
-        <text>SUPERMICRO</text>
+        <text>Power</text>
       </register>
       <register name="/" type="4">
         <text>lspci</text>
@@ -867,9 +867,9 @@
         <entry>$</entry>
         <entry>wq</entry>
         <entry>q</entry>
-        <entry>0</entry>
         <entry>438</entry>
         <entry>w</entry>
+        <entry>0</entry>
       </history-cmd>
       <history-expr />
       <history-input />
