@@ -250,12 +250,12 @@
         <mark key="^" line="10" column="35" />
         <mark key="." line="10" column="35" />
       </file>
-      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/models.py" timestamp="1521322943883">
+      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/models.py" timestamp="1521354841999">
         <mark key="'" line="165" column="14" />
-        <mark key="[" line="456" column="41" />
-        <mark key="]" line="456" column="41" />
-        <mark key="." line="456" column="41" />
-        <mark key="^" line="456" column="85" />
+        <mark key="[" line="103" column="56" />
+        <mark key="]" line="103" column="56" />
+        <mark key="." line="103" column="56" />
+        <mark key="^" line="102" column="51" />
       </file>
       <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/mod_tester/__init__.py" timestamp="1515867144650">
         <mark key="[" line="0" column="26" />
@@ -769,10 +769,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">ICAgIA==</text>
+        <text>True</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICAgIA==</text>
+        <text>True</text>
       </register>
       <register name="/" type="4">
         <text>lspci</text>
