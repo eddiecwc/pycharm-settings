@@ -355,11 +355,11 @@
         <mark key="^" line="23" column="22" />
         <mark key="." line="23" column="23" />
       </file>
-      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/conf/product_info.py" timestamp="1521436612549">
-        <mark key="[" line="67" column="8" />
-        <mark key="]" line="68" column="0" />
-        <mark key="^" line="68" column="0" />
-        <mark key="." line="68" column="0" />
+      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/conf/product_info.py" timestamp="1521493878569">
+        <mark key="[" line="74" column="54" />
+        <mark key="]" line="75" column="0" />
+        <mark key="^" line="75" column="0" />
+        <mark key="." line="75" column="0" />
       </file>
       <file name="$USER_HOME$/Sites/ESS-Monitor/scripts/config.py" timestamp="1514326803244">
         <mark key="[" line="16" column="23" />
@@ -802,11 +802,11 @@
       <jump line="213" column="15" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/tasks.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>params</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>params</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>get_or_create</text>
@@ -815,28 +815,28 @@
         <text encoding="base64">ICAgICAgICBteV9sb2dnZXIuZGVidWcoanNvbi5kdW1wcyhkZXZfbGlzdCwgaW5kZW50PTQsIGRlZmF1bHQ9c3RyKSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICMgVE9ETzogc2hvdWxkIHF1ZXJ5IG9ubHkgdW5pcXVlIGF0dHJpYnV0ZXMuCg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">VE9ETzogZmluZCBDQ0lOIGFuZCBjb2RlIG5hbWVzIGZvciBtZWxsYW5veCBhZGFwdGVycwo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">IyBUT0RPOiBmaW5kIENDSU4gYW5kIGNvZGUgbmFtZXMgZm9yIG1lbGxhbm94IGFkYXB0ZXJzCg==</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgbmFtZT1uYW1lLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBwcm9kdWN0X3R5cGVfY29kZT1TRVJWRVIsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNvZGVfbmFtZT1jb2RlbmFtZSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZGVzY3JpcHRpb249ZGVzY3JpcHRpb24pCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbmFtZT1uYW1lLAo=</text>
+        <text encoding="base64">ICAgICAgICAnWDcxMC9YNTU3LUFUIDEwR0JBU0UtVCAocmV2IDAyKScK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgcGFydF9udW1iZXI9cGFydF9udW1iZXIsCg==</text>
+        <text encoding="base64">QU9DLTJVUjY4OC1pNFhURgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgcHJvZHVjdF90eXBlX2NvZGU9IHByb2R1Y3RfdHlwZSwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICMgVE9ETzogc2hvdWxkIHF1ZXJ5IG9ubHkgdW5pcXVlIGF0dHJpYnV0ZXMuCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICdwcm9kdWN0X3R5cGVfY29kZSc6IHByb2R1Y3RfdHlwZSwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
