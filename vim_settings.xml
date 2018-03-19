@@ -380,12 +380,12 @@
         <mark key="." line="75" column="0" />
         <mark key="^" line="76" column="58" />
       </file>
-      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/tasks.py" timestamp="1521439895150">
-        <mark key="'" line="793" column="30" />
-        <mark key="[" line="820" column="0" />
-        <mark key="]" line="820" column="0" />
-        <mark key="^" line="820" column="0" />
-        <mark key="." line="820" column="0" />
+      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/tasks.py" timestamp="1521442473557">
+        <mark key="'" line="208" column="45" />
+        <mark key="[" line="822" column="0" />
+        <mark key="]" line="823" column="15" />
+        <mark key="^" line="823" column="15" />
+        <mark key="." line="823" column="15" />
       </file>
       <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/templates/ess/codelog_table_headers.html" timestamp="1520837161689">
         <mark key="[" line="1" column="0" />
@@ -695,8 +695,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="561" column="75" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/tasks.py" />
-      <jump line="565" column="23" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/tasks.py" />
       <jump line="573" column="11" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/tasks.py" />
       <jump line="577" column="11" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/tasks.py" />
       <jump line="581" column="15" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/tasks.py" />
@@ -771,7 +769,6 @@
       <jump line="343" column="32" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" />
       <jump line="51" column="37" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" />
       <jump line="3" column="0" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/tasks.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/tasks.py" />
       <jump line="179" column="0" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/tasks.py" />
       <jump line="181" column="0" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/tasks.py" />
       <jump line="57" column="4" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/constants.py" />
@@ -795,55 +792,58 @@
       <jump line="425" column="4" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" />
       <jump line="635" column="23" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/tasks.py" />
       <jump line="792" column="30" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/tasks.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/tasks.py" />
+      <jump line="16" column="70" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/tasks.py" />
+      <jump line="208" column="45" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/tasks.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICMgbG9vayB1cCBwcm9kdWN0IGRhdGEgYmFzZWQgb24gcGFydCBudW1iZXIK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAg</text>
       </register>
       <register name="/" type="4">
-        <text>port_serial</text>
+        <text>pci_code</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">ICAgICAgICBuYW1lID0gZGVzY3JpcHRpb24KICAgICAgICBjb2RlbmFtZSA9ICIiCiAgICAgICAgZm9yIGNvZGVfbmFtZSBpbiBzeXN0ZW1fY29kZV9uYW1lcy5rZXlzKCk6CiAgICAgICAgICAgIGlmIHBhcnRfbnVtYmVyIGluIHN5c3RlbV9jb2RlX25hbWVzW2NvZGVfbmFtZV1bJ21vZGVscyddLmtleXMoKToKICAgICAgICAgICAgICAgIG15X2xvZ2dlci5kZWJ1ZygiZm91bmQgbWF0Y2hpbmcgY29kZSBuYW1lICVzIHBhcnQgbnVtYmVyICVzIiAlIChjb2RlX25hbWUsIHBhcnRfbnVtYmVyKSkKICAgICAgICAgICAgICAgIG5hbWUgPSBzeXN0ZW1fY29kZV9uYW1lc1tjb2RlX25hbWVdWydtb2RlbHMnXVtwYXJ0X251bWJlcl0KICAgICAgICAgICAgICAgIGNvZGVuYW1lID0gY29kZV9uYW1lCgogICAgICAgIGxvZ2dlci5kZWJ1ZygiaG9zdCAlcyBzY2FubmVkIHBhcnQgbnVtYmVyIGlzICVzICglcyksIG5hbWUgPSAlcywgY29kZSBuYW1lID0gJXMiICUKICAgICAgICAgICAgICAgICAgICAgKG5vZGVfbmFtZSwgcGFydF9udW1iZXIsIGRlc2NyaXB0aW9uLCBuYW1lLCBjb2RlbmFtZSkpCiAgICAgICAgIyB3ZSBkb24ndCB3YW50IHRvIGNyZWF0ZSBwcm9kdWN0IGlmIGl0IGRvZXNuJ3QgZXhpc3QuCiAgICAgICAgb2JqLCBjcmVhdGVkID0gUHJvZHVjdC5nZXRfb3JfY3JlYXRlKG5hbWU9bmFtZSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgcHJvZHVjdF90eXBlX2NvZGU9U0VSVkVSLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBwYXJ0X251bWJlcj1wYXJ0X251bWJlciwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgY29kZV9uYW1lPWNvZGVuYW1lLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBkZXNjcmlwdGlvbj1kZXNjcmlwdGlvbikKIA==</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyLmRlYnVnKCJob3N0ICVzIHNjYW5uZWQgcGFydCBudW1iZXIgaXMgJXMgKCVzKSwgbmFtZSA9ICVzLCBjb2RlIG5hbWUgPSAlcyIgJQogICAgICAgICAgICAgICAgICAgICAgICAgKG5vZGVfbmFtZSwgcGFydF9udW1iZXIsIGRlc2NyaXB0aW9uLCBuYW1lLCBjb2RlbmFtZSkpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">IiIiCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICMgbG9vayB1cCBwcm9kdWN0IGRhdGEgYmFzZWQgb24gcGFydCBudW1iZXIK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">IiIiCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICBQQ0llMiA0LXBvcnQgMUdiRSBBZGFwdGVyCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyB0cnkgdG8gImd1ZXNzIiBzb21lIHByb2R1Y3QgaW5mbyBiYXNlZCBvbiB3aGF0IHdlIGhhdmUK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgUENJZTMgMi1Qb3J0IDQwR2JFIFJvQ0UgQWRhcHRlcgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGRlc2NyaXB0aW9uPWRlc2NyaXB0aW9uKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgUENJZTMgMi1Qb3J0IDQwR2JFIFJvQ0UgQWRhcHRlcgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNvZGVfbmFtZT1jb2RlbmFtZSwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIERJU0s6ICJEaXNrIiwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHBhcnRfbnVtYmVyPXBhcnRfbnVtYmVyLAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">RElTSyA9IDYK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHByb2R1Y3RfdHlwZV9jb2RlPVNFUlZFUiwK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIFNBUzogIlNBUyIsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgb2JqLCBjcmVhdGVkID0gUHJvZHVjdC5nZXRfb3JfY3JlYXRlKG5hbWU9bmFtZSwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">U0FTID0gMwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyB3ZSBkb24ndCB3YW50IHRvIGNyZWF0ZSBwcm9kdWN0IGlmIGl0IGRvZXNuJ3QgZXhpc3QuCg==</text>
       </register>
       <register name=":" type="4">
         <text>$</text>
       </register>
     </registers>
     <search>
-      <last-search>port_serial</last-search>
+      <last-search>pci_code</last-search>
       <last-offset />
-      <last-pattern>port_serial</last-pattern>
+      <last-pattern>pci_code</last-pattern>
       <last-replace>code_add_form</last-replace>
       <last-substitute>product_add_form</last-substitute>
       <last-dir>1</last-dir>
@@ -851,8 +851,6 @@
     </search>
     <history>
       <history-search>
-        <entry>9006-22C</entry>
-        <entry>5104-22C</entry>
         <entry>8247</entry>
         <entry>5148</entry>
         <entry>product</entry>
@@ -871,6 +869,8 @@
         <entry>category</entry>
         <entry>link_product</entry>
         <entry>port_serial</entry>
+        <entry>code_name</entry>
+        <entry>pci_code</entry>
       </history-search>
       <history-cmd>
         <entry>449</entry>
@@ -890,9 +890,9 @@
         <entry>q</entry>
         <entry>438</entry>
         <entry>611</entry>
-        <entry>0</entry>
         <entry>w</entry>
         <entry>$</entry>
+        <entry>0</entry>
       </history-cmd>
       <history-expr />
       <history-input />
