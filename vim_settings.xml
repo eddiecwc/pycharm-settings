@@ -193,9 +193,9 @@
         <mark key="." line="62" column="10" />
         <mark key="^" line="62" column="10" />
       </file>
-      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/mixin.py" timestamp="1521450893776">
+      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/mixin.py" timestamp="1521488158825">
         <mark key="'" line="60" column="12" />
-        <mark key="[" line="39" column="50" />
+        <mark key="[" line="63" column="59" />
         <mark key="]" line="39" column="54" />
         <mark key="." line="39" column="54" />
         <mark key="^" line="39" column="54" />
@@ -206,6 +206,11 @@
         <mark key="]" line="215" column="0" />
         <mark key="^" line="190" column="24" />
         <mark key="." line="215" column="0" />
+      </file>
+      <file name="/Python Console" timestamp="1521488646262">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/mod_support/product_number.py" timestamp="1516348109317">
         <mark key="'" line="47" column="10" />
@@ -797,8 +802,8 @@
       <jump line="217" column="0" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/tasks.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">YXV4Y2lsbGFyeSA=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Y2xhc3MgQmFzZShvYmplY3QpOgo=</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">YXV4Y2lsbGFyeSA=</text>
@@ -810,28 +815,28 @@
         <text encoding="base64">ICAgICAgICBteV9sb2dnZXIuZGVidWcoanNvbi5kdW1wcyhkZXZfbGlzdCwgaW5kZW50PTQsIGRlZmF1bHQ9c3RyKSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICMgCg==</text>
+        <text encoding="base64">Y2xhc3MgQmFzZShvYmplY3QpOgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwcm9kdWN0X3R5cGUgPSBPVEhFUgo=</text>
+        <text encoding="base64">ICAgIGkgPSBkYi5Db2x1bW4oZGIuSW50ZWdlciwgdW5pcXVlPVRydWUpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmICdkZXZfdHlwZScgbm90IGluIGludGVyZmFjZToK</text>
+        <text encoding="base64">ICAgIHF1aXQoKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG15X2xvZ2dlci5kZWJ1ZygiZm91bmQgJWQgcHJvZHVjdHMiICUgbGVuKHByb2R1Y3RzKSkK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByb2R1Y3RzID0gUHJvZHVjdC5xdWVyeS5hbGwoKQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICMgcmVtZW1iZXIgdG8gY29tbWl0IGluc2VydGlvbgogICAgICAgICAgICAgICAgZGIuc2Vzc2lvbi5jb21taXQoKQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">RklCRVIKICAgICAgICAgICAgICAgICAgICA=</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
