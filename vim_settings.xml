@@ -110,11 +110,11 @@
         <mark key="." line="18" column="39" />
         <mark key="^" line="18" column="39" />
       </file>
-      <file name="$USER_HOME$/Sites/ESS-Monitor/README.md" timestamp="1521416486155">
-        <mark key="[" line="54" column="10" />
-        <mark key="]" line="59" column="0" />
-        <mark key="." line="59" column="0" />
-        <mark key="^" line="59" column="0" />
+      <file name="$USER_HOME$/Sites/ESS-Monitor/README.md" timestamp="1521419820564">
+        <mark key="[" line="59" column="38" />
+        <mark key="]" line="59" column="37" />
+        <mark key="." line="59" column="37" />
+        <mark key="^" line="59" column="37" />
       </file>
       <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/templates/ess/code_list.html" timestamp="1520896586452">
         <mark key="[" line="19" column="0" />
@@ -260,7 +260,7 @@
         <mark key="." line="151" column="74" />
         <mark key="^" line="151" column="75" />
       </file>
-      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/constants.py" timestamp="1521404172997">
+      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/constants.py" timestamp="1521419638433">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="88" column="35" />
         <mark key="]" line="88" column="47" />
@@ -374,12 +374,12 @@
         <mark key="." line="75" column="0" />
         <mark key="^" line="76" column="58" />
       </file>
-      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/tasks.py" timestamp="1521415334990">
-        <mark key="'" line="190" column="12" />
-        <mark key="[" line="589" column="16" />
-        <mark key="]" line="590" column="7" />
-        <mark key="^" line="590" column="7" />
-        <mark key="." line="590" column="7" />
+      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/tasks.py" timestamp="1521420569297">
+        <mark key="'" line="793" column="30" />
+        <mark key="[" line="647" column="65" />
+        <mark key="]" line="647" column="69" />
+        <mark key="^" line="647" column="69" />
+        <mark key="." line="647" column="69" />
       </file>
       <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/templates/ess/codelog_table_headers.html" timestamp="1520837161689">
         <mark key="[" line="1" column="0" />
@@ -689,8 +689,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="597" column="35" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/tasks.py" />
-      <jump line="606" column="29" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/tasks.py" />
       <jump line="561" column="75" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/tasks.py" />
       <jump line="565" column="23" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/tasks.py" />
       <jump line="573" column="11" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/tasks.py" />
@@ -789,19 +787,21 @@
       <jump line="597" column="41" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" />
       <jump line="421" column="0" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" />
       <jump line="425" column="4" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" />
+      <jump line="635" column="23" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/tasks.py" />
+      <jump line="792" column="30" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/tasks.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">U2VyaWFsIA==</text>
       </register>
       <register name="-" type="4">
-        <text>code_version</text>
+        <text encoding="base64">U2VyaWFsIA==</text>
       </register>
       <register name="/" type="4">
-        <text>link_product</text>
+        <text>port_serial</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmVzdWx0WydzcF9md192ZXInXSA9IG5vZGUuc3BfZndfdmVyLmNvZGVfdmVyc2lvbgogICAgICAgICAgICByZXN1bHRbJ3N5c19md192ZXInXSA9IG5vZGUuc3lzX2Z3X3Zlci5jb2RlX3ZlcnNpb24K</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmVzWydzZXJpYWwnXSA9IG15X3N0cmlwKHJlLnNlYXJjaChyIig/PD1cW1NOXF0gU2VyaWFsIG51bWJlcjogKSguKylbXHJcbl0iLCBsc3BjaV9vdXQpLmdyb3VwKDEpKQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -809,14 +809,41 @@
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="3" type="4">
+        <text>#
+# def scan_net_description(self):
+#     cmd = 'lspci -v | grep -i -E &quot;Ethernet|Infiniband&quot;'
+#     for if_entry in self.runcmd(cmd, 'interface description').split(&quot;\n&quot;):
+#         # if not a controller entry then throw away
+#         if not re.search(r&quot;controller: &quot;, if_entry):
+#             continue
+#
+#         logger.debug(&quot;Node {} interface processing entry: {}&quot;.format(self.info['hostname'], if_entry))
+#         if_bus = my_strip(if_entry.split()[0])
+#         if_type = my_strip(if_entry.split()[1])
+#         if_desc = my_strip(if_entry.split(&quot;controller: &quot;)[1])
+#
+#         if_names = find_items_from_pair(self.pci['network'], 'bus', if_bus)
+#         if if_names:
+#             # should only have 1 match
+#             if_name = if_names[0]
+#             logger.debug(&quot;Node {} setting interface {} with type {} description {}&quot;.format(
+#                 self.info['hostname'], if_name, if_type, if_desc))
+#             try:
+#                 self.pci['network'][if_name]['type'] = if_type
+#                 self.pci['network'][if_name]['description'] = if_desc
+#             except KeyError:
+#                 logger.debug(&quot;Node {} interface {} info not available.&quot;.format(self.info['hostname'],
+#                                                                                     if_name))
+#         else:
+#             logger.debug(&quot;Node {} interface with bus {} not found&quot;.format(self.info['hostname'], if_bus))
+#</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC0gCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyMgQ29lCg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
@@ -835,9 +862,9 @@
       </register>
     </registers>
     <search>
-      <last-search>link_product</last-search>
+      <last-search>port_serial</last-search>
       <last-offset />
-      <last-pattern>link_product</last-pattern>
+      <last-pattern>port_serial</last-pattern>
       <last-replace>code_add_form</last-replace>
       <last-substitute>product_add_form</last-substitute>
       <last-dir>1</last-dir>
@@ -845,7 +872,6 @@
     </search>
     <history>
       <history-search>
-        <entry>lspci</entry>
         <entry>9006-22C</entry>
         <entry>5104-22C</entry>
         <entry>8247</entry>
@@ -865,6 +891,7 @@
         <entry>add_product</entry>
         <entry>category</entry>
         <entry>link_product</entry>
+        <entry>port_serial</entry>
       </history-search>
       <history-cmd>
         <entry>449</entry>
