@@ -22,7 +22,7 @@
         <mark key="^" line="5" column="53" />
         <mark key="." line="5" column="53" />
       </file>
-      <file name="/a.dummy" timestamp="1521365538532">
+      <file name="/a.dummy" timestamp="1521421153771">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" timestamp="1521418649245">
@@ -349,6 +349,9 @@
         <mark key="]" line="23" column="23" />
         <mark key="^" line="23" column="22" />
         <mark key="." line="23" column="23" />
+      </file>
+      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/conf/product_info.py" timestamp="1521421201302">
+        <mark key="[" line="65" column="0" />
       </file>
       <file name="$USER_HOME$/Sites/ESS-Monitor/scripts/config.py" timestamp="1514326803244">
         <mark key="[" line="16" column="23" />
