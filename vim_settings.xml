@@ -260,12 +260,12 @@
         <mark key="." line="151" column="74" />
         <mark key="^" line="151" column="75" />
       </file>
-      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/constants.py" timestamp="1521419638433">
+      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/constants.py" timestamp="1521433233892">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="88" column="35" />
-        <mark key="]" line="88" column="47" />
-        <mark key="^" line="88" column="47" />
-        <mark key="." line="88" column="47" />
+        <mark key="[" line="87" column="0" />
+        <mark key="]" line="87" column="17" />
+        <mark key="." line="87" column="0" />
+        <mark key="^" line="74" column="8" />
       </file>
       <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/mod_tester/__init__.py" timestamp="1515867144650">
         <mark key="[" line="0" column="26" />
@@ -350,11 +350,11 @@
         <mark key="^" line="23" column="22" />
         <mark key="." line="23" column="23" />
       </file>
-      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/conf/product_info.py" timestamp="1521429672784">
-        <mark key="[" line="69" column="24" />
-        <mark key="]" line="69" column="24" />
-        <mark key="^" line="69" column="24" />
-        <mark key="." line="69" column="24" />
+      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/conf/product_info.py" timestamp="1521433117693">
+        <mark key="[" line="83" column="0" />
+        <mark key="]" line="83" column="0" />
+        <mark key="^" line="97" column="29" />
+        <mark key="." line="83" column="0" />
       </file>
       <file name="$USER_HOME$/Sites/ESS-Monitor/scripts/config.py" timestamp="1514326803244">
         <mark key="[" line="16" column="23" />
@@ -797,71 +797,44 @@
       <jump line="792" column="30" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/tasks.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>'</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIERJU0s6ICJEaXNrIiwK</text>
       </register>
       <register name="-" type="4">
-        <text>'</text>
+        <text>6</text>
       </register>
       <register name="/" type="4">
         <text>port_serial</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmVzWydzZXJpYWwnXSA9IG15X3N0cmlwKHJlLnNlYXJjaChyIig/PD1cW1NOXF0gU2VyaWFsIG51bWJlcjogKSguKylbXHJcbl0iLCBsc3BjaV9vdXQpLmdyb3VwKDEpKQo=</text>
+      <register name="0" type="4">
+        <text encoding="base64">ICAgICdBdXN0aW4nOiB7CiAgICAgICAgJ3R5cGUnOiBFVEhFUk5FVCwKICAgICAgICAnY2Npbic6ICc1NzZGJywKICAgICAgICAnbWF4LXJhdGUnOiAxLAogICAgICAgICdtb2RlbHMnOiB7CiAgICAgICAgICAgICcwMFJYODkyJzogJ0F1c3RpbiA0eDFHYicsCiAgICAgICAgICAgICc3NFk0MDYzJzogJ0F1c3RpbiA0eDFHYicsCiAgICAgICAgICAgICcwMEUxNjgxJzogJ0F1c3RpbiA0eDFHYicsCiAgICAgICAgICAgICcwMEUyODcyJzogJ0F1c3RpbiA0eDFHYicsCiAgICAgICAgICAgICc3NFk0MDY0JzogJ0F1c3RpbiA0eDFHYiBMUCcsCiAgICAgICAgICAgICcwMEUyODczJzogJ0F1c3RpbiA0eDFHYiBMUCcsCiAgICAgICAgICAgICcwMFJYODk4JzogJ0F1c3RpbiA0eDFHYiBMUCcsCiAgICAgICAgfQogICAgfSw=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIERJU0s6ICJEaXNrIiwK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">RElTSyA9IDYK</text>
       </register>
-      <register name="3" type="4">
-        <text>#
-# def scan_net_description(self):
-#     cmd = 'lspci -v | grep -i -E &quot;Ethernet|Infiniband&quot;'
-#     for if_entry in self.runcmd(cmd, 'interface description').split(&quot;\n&quot;):
-#         # if not a controller entry then throw away
-#         if not re.search(r&quot;controller: &quot;, if_entry):
-#             continue
-#
-#         logger.debug(&quot;Node {} interface processing entry: {}&quot;.format(self.info['hostname'], if_entry))
-#         if_bus = my_strip(if_entry.split()[0])
-#         if_type = my_strip(if_entry.split()[1])
-#         if_desc = my_strip(if_entry.split(&quot;controller: &quot;)[1])
-#
-#         if_names = find_items_from_pair(self.pci['network'], 'bus', if_bus)
-#         if if_names:
-#             # should only have 1 match
-#             if_name = if_names[0]
-#             logger.debug(&quot;Node {} setting interface {} with type {} description {}&quot;.format(
-#                 self.info['hostname'], if_name, if_type, if_desc))
-#             try:
-#                 self.pci['network'][if_name]['type'] = if_type
-#                 self.pci['network'][if_name]['description'] = if_desc
-#             except KeyError:
-#                 logger.debug(&quot;Node {} interface {} info not available.&quot;.format(self.info['hostname'],
-#                                                                                     if_name))
-#         else:
-#             logger.debug(&quot;Node {} interface with bus {} not found&quot;.format(self.info['hostname'], if_bus))
-#</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIFNBUzogIlNBUyIsCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIC0gCg==</text>
+        <text encoding="base64">U0FTID0gMwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">IyMgQ29lCg==</text>
+        <text encoding="base64">RklCRVIgPSAxMAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEZJQkVSOiAiRmliZXIiLAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAnY2Npbic6ICcnLAo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
