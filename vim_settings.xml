@@ -25,8 +25,8 @@
       <file name="/a.dummy" timestamp="1521421153771">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" timestamp="1521446168347">
-        <mark key="'" line="204" column="44" />
+      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" timestamp="1521592066295">
+        <mark key="'" line="434" column="30" />
         <mark key="[" line="567" column="0" />
         <mark key="]" line="568" column="0" />
         <mark key="^" line="568" column="0" />
@@ -199,12 +199,12 @@
         <mark key="." line="62" column="10" />
         <mark key="^" line="62" column="10" />
       </file>
-      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/mixin.py" timestamp="1521589149941">
-        <mark key="'" line="37" column="27" />
-        <mark key="[" line="44" column="17" />
-        <mark key="]" line="44" column="39" />
-        <mark key="^" line="44" column="39" />
-        <mark key="." line="44" column="39" />
+      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/mixin.py" timestamp="1521591967675">
+        <mark key="'" line="15" column="4" />
+        <mark key="[" line="61" column="35" />
+        <mark key="]" line="62" column="36" />
+        <mark key="^" line="62" column="36" />
+        <mark key="." line="62" column="36" />
       </file>
       <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/mod_device/device.py" timestamp="1516579356573">
         <mark key="'" line="0" column="0" />
@@ -264,8 +264,8 @@
         <mark key="^" line="10" column="35" />
         <mark key="." line="10" column="35" />
       </file>
-      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/models.py" timestamp="1521588586594">
-        <mark key="'" line="610" column="58" />
+      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/models.py" timestamp="1521591271220">
+        <mark key="'" line="537" column="11" />
         <mark key="[" line="534" column="37" />
         <mark key="]" line="541" column="45" />
         <mark key="." line="541" column="45" />
@@ -391,12 +391,12 @@
         <mark key="." line="75" column="0" />
         <mark key="^" line="76" column="58" />
       </file>
-      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/tasks.py" timestamp="1521522436123">
+      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/tasks.py" timestamp="1521592034944">
         <mark key="'" line="213" column="15" />
-        <mark key="[" line="876" column="0" />
-        <mark key="]" line="877" column="0" />
-        <mark key="^" line="877" column="0" />
-        <mark key="." line="877" column="0" />
+        <mark key="[" line="756" column="8" />
+        <mark key="]" line="756" column="9" />
+        <mark key="^" line="756" column="9" />
+        <mark key="." line="756" column="9" />
       </file>
       <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/templates/ess/codelog_table_headers.html" timestamp="1520837161689">
         <mark key="[" line="1" column="0" />
@@ -706,18 +706,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="596" column="14" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/tasks.py" />
-      <jump line="850" column="16" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/tasks.py" />
-      <jump line="599" column="12" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/tasks.py" />
-      <jump line="559" column="0" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/tasks.py" />
-      <jump line="690" column="0" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/tasks.py" />
-      <jump line="612" column="35" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/tasks.py" />
-      <jump line="203" column="59" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/models.py" />
-      <jump line="204" column="50" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/models.py" />
-      <jump line="391" column="11" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/models.py" />
-      <jump line="392" column="14" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/models.py" />
-      <jump line="64" column="29" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/models.py" />
-      <jump line="168" column="47" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/models.py" />
       <jump line="170" column="49" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/models.py" />
       <jump line="165" column="14" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/models.py" />
       <jump line="269" column="0" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/tasks.py" />
@@ -799,53 +787,65 @@
       <jump line="36" column="0" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/mixin.py" />
       <jump line="46" column="26" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/mixin.py" />
       <jump line="37" column="27" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/mixin.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/tasks.py" />
       <jump line="211" column="15" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/tasks.py" />
       <jump line="849" column="46" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/tasks.py" />
       <jump line="216" column="46" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/tasks.py" />
       <jump line="851" column="47" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/tasks.py" />
-      <jump line="206" column="31" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/tasks.py" />
+      <jump line="5" column="27" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/mixin.py" />
+      <jump line="52" column="85" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/mixin.py" />
+      <jump line="537" column="11" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/models.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/mixin.py" />
+      <jump line="98" column="23" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/mixin.py" />
+      <jump line="15" column="4" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/mixin.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/tasks.py" />
+      <jump line="756" column="9" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/tasks.py" />
+      <jump line="206" column="35" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/tasks.py" />
       <jump line="213" column="15" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/tasks.py" />
+      <jump line="284" column="27" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" />
+      <jump line="392" column="8" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" />
+      <jump line="412" column="20" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" />
+      <jump line="414" column="32" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" />
+      <jump line="434" column="30" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>.</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGRiLnNlc3Npb24uY29tbWl0KCkK</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>get_or_create</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">ICAgIEBjbGFzc21ldGhvZAogICAgZGVmIGdldF9vcl9jcmVhdGUoY2xzLCBkZWZhdWx0cz1Ob25lLCAqKmt3YXJncyk6CiAgICAgICAgbG9nZ2VyLmRlYnVnKCJnZXRfb3JfY3JlYXRlIGNsYXNzOiAlcyIgJSBjbHMuX19uYW1lX18pCiAgICAgICAgaW5zdGFuY2UgPSBkYi5zZXNzaW9uLnF1ZXJ5KGNscykuZmlsdGVyX2J5KCoqa3dhcmdzKS5maXJzdCgpCiAgICAgICAgaWYgaW5zdGFuY2U6CiAgICAgICAgICAgIHJldHVybiBpbnN0YW5jZSwgRmFsc2UKICAgICAgICBlbHNlOgogICAgICAgICAgICBwYXJhbXMgPSBkaWN0KChrLCB2KSBmb3IgaywgdiBpbiBrd2FyZ3MuaXRlbXMoKSBpZiBub3QgaXNpbnN0YW5jZSh2LCBDbGF1c2VFbGVtZW50KSkKICAgICAgICAgICAgcGFyYW1zLnVwZGF0ZShkZWZhdWx0cyBvciB7fSkKICAgICAgICAgICAgbG9nZ2VyLmRlYnVnKHBhcmFtcykKICAgICAgICAgICAgaW5zdGFuY2UgPSBjbHMoKipwYXJhbXMpCiAgICAgICAgICAgICMgc2F2ZXBvaW50CiAgICAgICAgICAgIGRiLnNlc3Npb24uYmVnaW5fbmVzdGVkKCkKICAgICAgICAgICAgdHJ5OgogICAgICAgICAgICAgICAgZGIuc2Vzc2lvbi5hZGQoaW5zdGFuY2UpCiAgICAgICAgICAgICAgICBkYi5zZXNzaW9uLmNvbW1pdCgpCiAgICAgICAgICAgICAgICBsb2dnaW5nLmluZm8oIlNhdmVwb2ludCBjb21taXR0ZWQgaW5zZXJ0IG9mIG9iamVjdCAlcyB0byBEQiBzdWNjZXNzZnVsbHkiICUgaW5zdGFuY2UpCiAgICAgICAgICAgICAgICByZXR1cm4gaW5zdGFuY2UsIFRydWUKICAgICAgICAgICAgZXhjZXB0IEludGVncml0eUVycm9yIGFzIGU6CiAgICAgICAgICAgICAgICAjIHJhY2UgY29uZGl0aW9uLCBvYmplY3Qgc2hvdWxkIGV4aXN0IG5vdy4gT25seSBlbWl0IHdhcm5pbmcgaW5zdGVhZCBvZiBlcnJvciBzaW5jZQogICAgICAgICAgICAgICAgIyB0aGlzIGlzIHNvbWV0aW1lcyBleHBlY3RlZAogICAgICAgICAgICAgICAgbG9nZ2VyLndhcm5pbmcoIkludGVncml0eUVycm9yIC0gcm9sbGluZyBiYWNrLiBQYXJhbWV0ZXIgbGlzdCBmb3IgcXVlcnk6ICVzIiAlIGt3YXJncykKICAgICAgICAgICAgICAgIGRiLnNlc3Npb24ucm9sbGJhY2soKQogICAgICAgICAgICAgICAgaW5zdGFuY2UgPSBkYi5zZXNzaW9uLnF1ZXJ5KGNscykuZmlsdGVyX2J5KCoqa3dhcmdzKS5maXJzdCgpCiAgICAgICAgICAgICAgICBsb2dnZXIuZGVidWcoInJldHVybmluZyBleGlzdGluZyBpbnN0YW5jZSIpCiAgICAgICAgICAgICAgICBsb2dnZXIuZGVidWcoaW5zdGFuY2UpCiAgICAgICAgICAgICAgICByZXR1cm4gaW5zdGFuY2UsIEZhbHNlCiAgICAgICAgICAgIGV4Y2VwdCBFeGNlcHRpb24gYXMgZToKICAgICAgICAgICAgICAgICMgZm9yd2FyZCBhbGwgb3RoZXIgZXhjZXB0aW9uCiAgICAgICAgICAgICAgICBsb2dnZXIuZXhjZXB0aW9uKCJVbmV4cGVjdGVkIGV4Y2VwdGlvbiBlbmNvdW50ZXJlZC4gUm9sbGluZyBiYWNrIikKICAgICAgICAgICAgICAgIGRiLnNlc3Npb24ucm9sbGJhY2soKQogICAgICAgICAgICAgICAgcmFpc2U=</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGRiLnNlc3Npb24uY29tbWl0KCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAjIHRoaXMgaXMgdG8gY292ZXIgc2l0dWF0aW9uIHdoZXJlIHVuaXF1ZSBjb3JlIGF0dHIgYXJlIHRoZSBzYW1lIGJ1dCBkaWZmZXJlbnQgc3VwcGxlbWVudGFsIGF0dHIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAjIFRPRE86IGxvb2sgaW50byBwb3NzaWJseSBicmVha2luZyBjcmVhdGUgaW50byAyIHN0YWdlcyAtIGZpcnN0IHVuaXF1ZSBhdHRyIG9ubHksIHRoZW4gdGhlIHJlc3QK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBsb2dnZXIuZXhjZXB0aW9uKCJVbmV4cGVjdGVkIGV4Y2VwdGlvbiBlbmNvdW50ZXJlZC4iKQo=</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgIiIiCiAgICAgICAgICAgIG5hbWUgPSBkZXNjcmlwdGlvbgogICAgICAgICAgICBjb2RlbmFtZSA9ICIiCiAgICAgICAgICAgIGZvciBjb2RlX25hbWUgaW4gc3lzdGVtX2NvZGVfbmFtZXMua2V5cygpOgogICAgICAgICAgICAgICAgaWYgcGFydF9udW1iZXIgaW4gc3lzdGVtX2NvZGVfbmFtZXNbY29kZV9uYW1lXVsnbW9kZWxzJ10ua2V5cygpOgogICAgICAgICAgICAgICAgICAgIG15X2xvZ2dlci5kZWJ1ZygiZm91bmQgbWF0Y2hpbmcgY29kZSBuYW1lICVzIHBhcnQgbnVtYmVyICVzIiAlIChjb2RlX25hbWUsIHBhcnRfbnVtYmVyKSkKICAgICAgICAgICAgICAgICAgICBuYW1lID0gc3lzdGVtX2NvZGVfbmFtZXNbY29kZV9uYW1lXVsnbW9kZWxzJ11bcGFydF9udW1iZXJdCiAgICAgICAgICAgICAgICAgICAgY29kZW5hbWUgPSBjb2RlX25hbWUKCiAgICAgICAgICAgIGxvZ2dlci5kZWJ1ZygiaG9zdCAlcyBzY2FubmVkIHBhcnQgbnVtYmVyIGlzICVzICglcyksIG5hbWUgPSAlcywgY29kZSBuYW1lID0gJXMiICUKICAgICAgICAgICAgICAgICAgICAgICAgIChub2RlX25hbWUsIHBhcnRfbnVtYmVyLCBkZXNjcmlwdGlvbiwgbmFtZSwgY29kZW5hbWUpKQogICAgICAgICAgICAgICAgCiAgICAgICAgICAgICIiIg==</text>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAjIGZvcndhcmQgYWxsIGV4Y2VwdGlvbnMuIE5vIG5lZWQgdG8gcm9sbGJhY2sgYXMgZ2V0X29yX2NyZWF0ZSBzaG91bGQndmUgdGFrZW4gY2FyZSBvZiB0aGF0Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgIyBjcmVhdGUgb3IgZ2V0IHByb2R1Y3Qgb2JqIGZvciB0aGlzIGRldmljZSBpZiBwYXJ0IG51bWJlciBpcyBhdmFpbGFibGUKICAgICAgICAgICAgIyBpZiAncGFydF9udW1iZXInIGluIGludGVyZmFjZToKICAgICAgICAgICAgIyAgICAgcHJvZHVjdF9wbiA9IGludGVyZmFjZVsncGFydF9udW1iZXInXQogICAgICAgICAgICAjICAgICBwcm9kdWN0X25hbWUgPSAndW5rbm93bicKICAgICAgICAgICAgIyAgICAgaWYgaW50ZXJmYWNlWydkZXZfdHlwZSddID09ICdFdGhlcm5ldCc6CiAgICAgICAgICAgICMgICAgICAgICBwcm9kdWN0X3R5cGUgPSBFVEhFUk5FVAogICAgICAgICAgICAjICAgICBlbGlmIGludGVyZmFjZVsnZGV2X3R5cGUnXSA9PSAnSW5maW5pYmFuZCc6CiAgICAgICAgICAgICMgICAgICAgICBwcm9kdWN0X3R5cGUgPSBJTkZJTklCQU5ECiAgICAgICAgICAgICMgICAgIGVsc2U6CiAgICAgICAgICAgICMgICAgICAgICBwcm9kdWN0X3R5cGUgPSBPVEhFUgogICAgICAgICAgICAjCiAgICAgICAgICAgICMgICAgIHByb2R1Y3RfY29kZW5hbWUgPSAndW5rbm93bicKICAgICAgICAgICAgIyAgICAgcHJvZHVjdF9kZXNjcmlwdGlvbiA9IGludGVyZmFjZVsnZGVzY3JpcHRpb24nXQogICAgICAgICAgICAjCiAgICAgICAgICAgICMgICAgICMgdXBkYXRlL2NvcnJlY3QgaW5mbyBiYXNlZCBvbiBwcm9kdWN0IGluZm8gZmlsZQogICAgICAgICAgICAjICAgICBmb3IgY29kZV9uYW1lIGluIHBjaV9jb2RlX25hbWVzLmtleXMoKToKICAgICAgICAgICAgIyAgICAgICAgIGlmIHByb2R1Y3RfcG4gaW4gcGNpX2NvZGVfbmFtZXNbY29kZV9uYW1lXVsnbW9kZWxzJ10ua2V5cygpOgogICAgICAgICAgICAjICAgICAgICAgICAgIG15X2xvZ2dlci5kZWJ1ZygiZm91bmQgbWF0Y2hpbmcgY29kZSBuYW1lICVzIHBhcnQgbnVtYmVyICVzIiAlIChjb2RlX25hbWUsIHByb2R1Y3RfcG4pKQogICAgICAgICAgICAjICAgICAgICAgICAgIHByb2R1Y3RfbmFtZSA9IHBjaV9jb2RlX25hbWVzW2NvZGVfbmFtZV1bJ21vZGVscyddW3Byb2R1Y3RfcG5dCiAgICAgICAgICAgICMgICAgICAgICAgICAgcHJvZHVjdF9jb2RlbmFtZSA9IGNvZGVfbmFtZQogICAgICAgICAgICAjICAgICAgICAgICAgIHByb2R1Y3RfZGVzY3JpcHRpb24gPSBwY2lfY29kZV9uYW1lc1tjb2RlX25hbWVdWydub3RlcyddCiAgICAgICAgICAgICMgICAgICAgICAgICAgcHJvZHVjdF90eXBlID0gcGNpX2NvZGVfbmFtZXNbY29kZV9uYW1lXVsndHlwZSddCiAgICAgICAgICAgICMKICAgICAgICAgICAgIyAgICAgbXlfbG9nZ2VyLmRlYnVnKCJob3N0ICVzIHNjYW5uZWQgcHJvZHVjdCBwYXJ0IG51bWJlciBpcyAlcyAoJXMpLCBuYW1lID0gJXMsIGNvZGUgbmFtZSA9ICVzIiAlCiAgICAgICAgICAgICMgICAgICAgICAgICAgICAgICAoaG9zdG5hbWUsIHByb2R1Y3RfcG4sIHByb2R1Y3RfZGVzY3JpcHRpb24sIHByb2R1Y3RfbmFtZSwgcHJvZHVjdF9jb2RlbmFtZSkpCiAgICAgICAgICAgICMKICAgICAgICAgICAgIyAgICAgcHJvZHVjdCwgY3JlYXRlZCA9IFByb2R1Y3QuZ2V0X29yX2NyZWF0ZShwYXJ0X251bWJlcj1wcm9kdWN0X3BuLAogICAgICAgICAgICAjICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGRlZmF1bHRzPXsKICAgICAgICAgICAgIyAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgJ25hbWUnOiBwcm9kdWN0X25hbWUsCiAgICAgICAgICAgICMgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICdjb2RlX25hbWUnOiBwcm9kdWN0X2NvZGVuYW1lLAogICAgICAgICAgICAjICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAncHJvZHVjdF90eXBlX2NvZGUnOiBwcm9kdWN0X3R5cGUsCiAgICAgICAgICAgICMgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICdkZXNjcmlwdGlvbic6IHByb2R1Y3RfZGVzY3JpcHRpb24KICAgICAgICAgICAgIyAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB9KQogICAgICAgICAgICAjCiAgICAgICAgICAgICMgICAgICMgcmVtZW1iZXIgdG8gY29tbWl0IGluc2VydGlvbgogICAgICAgICAgICAjICAgICBkYi5zZXNzaW9uLmNvbW1pdCgpCiAgICAgICAgICAgICMKICAgICAgICAgICAgIyAgICAgbXlfbG9nZ2VyLmRlYnVnKCJQcm9kdWN0IENyZWF0ZWQ6ICIpCiAgICAgICAgICAgICMgICAgIG15X2xvZ2dlci5kZWJ1Zyhwcm9kdWN0Ll9fZGljdF9fKQ==</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZGIuc2Vzc2lvbi5yb2xsYmFjaygpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICUgb3MuZ2V0cGlkKCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGluc3RhbmNlLCBGYWxzZQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">b3MuZ2V0cGlkKCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyLmRlYnVnKGluc3RhbmNlKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyLmRlYnVnKCJyZXR1cm5pbmcgZXhpc3RpbmcgaW5zdGFuY2UiKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -862,9 +862,6 @@
     </search>
     <history>
       <history-search>
-        <entry>ETHER</entry>
-        <entry>INFINI</entry>
-        <entry>GPFS_STATUS</entry>
         <entry>CCR</entry>
         <entry>Product</entry>
         <entry>add_product</entry>
@@ -881,6 +878,9 @@
         <entry>all()</entry>
         <entry>commit</entry>
         <entry>defaults</entry>
+        <entry>ClauseElement</entry>
+        <entry>with_for_update</entry>
+        <entry>updated_at</entry>
         <entry>get_or_create</entry>
       </history-search>
       <history-cmd>
