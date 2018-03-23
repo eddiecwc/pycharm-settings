@@ -390,12 +390,12 @@
         <mark key="." line="75" column="0" />
         <mark key="^" line="76" column="58" />
       </file>
-      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/tasks.py" timestamp="1521781063517">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="879" column="11" />
-        <mark key="]" line="876" column="95" />
-        <mark key="^" line="876" column="95" />
-        <mark key="." line="876" column="95" />
+      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/tasks.py" timestamp="1521784800222">
+        <mark key="'" line="735" column="30" />
+        <mark key="[" line="873" column="25" />
+        <mark key="]" line="873" column="53" />
+        <mark key="." line="873" column="53" />
+        <mark key="^" line="873" column="53" />
       </file>
       <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/templates/ess/codelog_table_headers.html" timestamp="1520837161689">
         <mark key="[" line="1" column="0" />
@@ -705,17 +705,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="57" column="4" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/constants.py" />
-      <jump line="63" column="7" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/constants.py" />
-      <jump line="39" column="0" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/constants.py" />
-      <jump line="43" column="4" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/constants.py" />
-      <jump line="64" column="0" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/constants.py" />
-      <jump line="65" column="0" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/constants.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/constants.py" />
-      <jump line="610" column="58" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/models.py" />
-      <jump line="184" column="26" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/tasks.py" />
-      <jump line="189" column="12" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/tasks.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/forms.py" />
       <jump line="30" column="8" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/forms.py" />
       <jump line="32" column="4" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/forms.py" />
       <jump line="238" column="21" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" />
@@ -805,55 +794,66 @@
       <jump line="439" column="22" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/models.py" />
       <jump line="440" column="9" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/models.py" />
       <jump line="0" column="0" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/tasks.py" />
+      <jump line="727" column="4" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/tasks.py" />
+      <jump line="811" column="12" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/tasks.py" />
+      <jump line="713" column="0" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/tasks.py" />
+      <jump line="714" column="35" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/tasks.py" />
+      <jump line="716" column="73" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/tasks.py" />
+      <jump line="719" column="11" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/tasks.py" />
+      <jump line="723" column="24" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/tasks.py" />
+      <jump line="724" column="21" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/tasks.py" />
+      <jump line="726" column="11" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/tasks.py" />
+      <jump line="728" column="13" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/tasks.py" />
+      <jump line="734" column="30" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/tasks.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLmRldl90eXBlCg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">dGhlc2Ug</text>
       </register>
       <register name="-" type="4">
-        <text>dev_type</text>
+        <text encoding="base64">dGhlc2Ug</text>
       </register>
       <register name="/" type="4">
-        <text>port_guid</text>
+        <text>interface</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgaW50ZXJmYWNlLnBvcCgnZGV2X3R5cGUnKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLmRldl90eXBlCg==</text>
+        <text encoding="base64">ICAgIDpwYXJhbSBpbnRlcmZhY2U6IGRpY3Rpb25hcnkgdGhhdCBjb250YWlucyBhdHRyaWJ1dGVzIG9mIHRoZSBkZXZpY2UgZm91bmQK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLnBhcnRfbnVtYmVyCg==</text>
+        <text encoding="base64">ICAgIGlmIHBhcnRfbnVtYmVyOgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gTm9uZQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGVsc2U6Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAiIiIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyBkb24ndCBuZWVkIHRoZXNlIGFueW1vcmUgYW5kIGNhbid0IGhhdmUgdGhlc2UgaW4gYXJndW1lbnRzIHBhc3NlZCB0byBjcmVhdGUgZGV2aWNlCiAgICAgICAgICAgIGRldl90eXBlID0gaW50ZXJmYWNlLnBvcCgnZGV2X3R5cGUnLCBOb25lKQogICAgICAgICAgICBwYXJ0X251bWJlciA9IGludGVyZmFjZS5wb3AoJ3BhcnRfbnVtYmVyJywgTm9uZSkKICAgICAgICAgICAgZGVzY3JpcHRpb24gPSBpbnRlcmZhY2VbJ2Rlc2NyaXB0aW9uJ10K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAiIiIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGV2X3R5cGUgPSBpbnRlcmZhY2UucG9wKCdkZXZfdHlwZScsIE5vbmUpCiAgICAgICAgICAgIHBhcnRfbnVtYmVyID0gaW50ZXJmYWNlLnBvcCgncGFydF9udW1iZXInLCBOb25lKQogICAgICAgICAgICBkZXNjcmlwdGlvbiA9IGludGVyZmFjZVsnZGVzY3JpcHRpb24nXQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdHJ5Ogo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIC5pZF9ub2RlID0gcG9pbnRzIHRvIHRoZSBzeXN0ZW0gd2hlcmUgZGV2aWNlIHdhcyBmb3VuZCAodmlhIHJlbGF0aW9uc2hpcCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHBhc3MK</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">ICAgICAgICAgLmlkX25vZGUgPSBwb2ludHMgdG8gdGhlIHN5c3RlbSB3aGVyZSBkZXZpY2Ugd2FzIGZvdW5kICh2aWEgcmVsYXRpb25zaGlwKQogICAgICAgIC5pZF9wcm9kdWN0ID0gcG9pbnRzIHRvIHRoZSBkZXZpY2UgcHJvZHVjdCBvYmplY3QKICAgICAgICAuaWRfZHJpdmVyX3ZlciA9IHBvaW50cyB0byB0aGUgY29kZSB0YWJsZSBlbnRyeSBmb3IgdGhlIGRyaXZlciBjb2RlIGZvdW5kIG9uIGRldmljZSAodmlhIHJlbGF0aW9uc2hpcCkKICAgICAgICAuaWRfZndfdmVyID0gcG9pbnRzIHRvIHRoZSBjb2RlIHRhYmxlIGVudHJ5IGZvciB0aGUgZncgY29kZSBmb3VuZCBvbiBkZXZpY2UgKHZpYSByZWxhdGlvbnNoaXApCiAgICAgICAgLmJvbmRfbWFzdGVyID0gYm9vbGVhbiBpbmRpY2F0b3IgZm9yIGlmIGRldmljZSBpcyBhIGJvbmQgbWFzdGVyCgogICAgICAgIC5waHlfYWRkciA9IHBoeXNpY2FsIGFkZHJlc3Mgb2YgdGhlIGRldmljZSBvbiBzeXN0ZW0KICAgICAgICAuZGV2X25hbWUgPSBuZXR3b3JrIGRldmljZSBuYW1lIGFzIHNlZW4gZnJvbSBPUwogICAgICAgIC5idXMgPSBidXMgbnVtYmVyIGZvciB0aGUgZGV2aWNlIG9uIHN5c3RlbQogICAgICAgIC5zZXJpYWwgPSBkZXZpY2Ugc2VyaWFsIG51bWJlcgogICAgICAgIC5uZXRfaXAgPSBjb25maWd1cmVkIElQIG9uIHRoZSBkZXZpY2UKICAgICAgICAubXR1ID0gTVRVIHNldHRpbmcgZm9yIHRoZSBkZXZpY2UKICAgICAgICAuaWJfcG9ydF9ndWlkID0gaWYgaW5maW5pYmFuZCwgcG9ydCBHVUlECiAgICAgICAgLmliX2Rldl9uYW1lID0gaWYgaW5maW5pYmFuZCwgcG9ydCBJQiBkZXZpY2UgbmFtZQogICAgICAgIC5wb3J0X21heF9yYXRlID0gbWF4IHBvcnQgcmF0ZSBvZiB0aGUgZGV2aWNlCiAgICAgICAgLnBvcnRfcnVuX3JhdGUgPSBydW5uaW5nIHBvcnQgcmF0ZSBmb3VuZCBvbiB0aGUgZGV2aWNlCiAgICAgICAgLnBvcnRfc3RhdGUgPSBwb3J0IHN0YXRlIGVudW1lcmF0aW9uIChydW5uaW5nL2FjdGl2ZSwgb2ZmbGluZSwgZXRjKQogICAgICAgIC5wb3J0X3RlbXAgPSBpZiBhdmFpbGFibGUsIHRlbXBlcmF0dXJlIG9mIHRoZSBwb3J0CiAgICAgICAgLmZpcnN0X3NlZW4gPSB0aW1lc3RhbXAgb2Ygd2hlbiBkZXZpY2Ugd2FzIGZpcnN0IHNjYW5uZWQKICAgICAgICAubGFzdF9zZWVuID0gdGltZXN0YW1wIG9mIHdoZW4gZGV2aWNlIHdhcyBsYXN0IHNjYW5uZWQKICAgICAgICAuYWN0aXZlID0gZGV2aWNlIGlzIGN1cnJlbnRseSBhY3RpdmUgb24gYSBub2RlCiAgICAgICAgLmRlc2NyaXB0aW9uID0gZGVzY3JpcHRpb24gZm9yIHRoZSBkZXZpY2UgICAgICAgICAgIA==</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZXhjZXB0IEtleUVycm9yOgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>port_guid</last-search>
+      <last-search>interface</last-search>
       <last-offset />
-      <last-pattern>port_guid</last-pattern>
+      <last-pattern>interface</last-pattern>
       <last-replace>code_add_form</last-replace>
       <last-substitute>product_add_form</last-substitute>
       <last-dir>1</last-dir>
@@ -861,9 +861,6 @@
     </search>
     <history>
       <history-search>
-        <entry>code_name</entry>
-        <entry>pci_code</entry>
-        <entry>OTHER</entry>
         <entry>logger</entry>
         <entry>all</entry>
         <entry>query</entry>
@@ -881,6 +878,9 @@
         <entry>id_product</entry>
         <entry>id_driver_type</entry>
         <entry>port_guid</entry>
+        <entry>first</entry>
+        <entry>interace</entry>
+        <entry>interface</entry>
       </history-search>
       <history-cmd>
         <entry>449</entry>
