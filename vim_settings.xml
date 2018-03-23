@@ -25,8 +25,8 @@
       <file name="/a.dummy" timestamp="1521421153771">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" timestamp="1521609052891">
-        <mark key="'" line="426" column="31" />
+      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" timestamp="1521788355662">
+        <mark key="'" line="0" column="0" />
         <mark key="[" line="567" column="0" />
         <mark key="]" line="568" column="0" />
         <mark key="^" line="568" column="0" />
@@ -199,12 +199,12 @@
         <mark key="." line="62" column="10" />
         <mark key="^" line="62" column="10" />
       </file>
-      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/mixin.py" timestamp="1521613436944">
+      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/mixin.py" timestamp="1521788543319">
         <mark key="'" line="15" column="4" />
-        <mark key="[" line="83" column="0" />
-        <mark key="]" line="91" column="17" />
-        <mark key="^" line="88" column="7" />
-        <mark key="." line="86" column="0" />
+        <mark key="[" line="82" column="8" />
+        <mark key="]" line="82" column="23" />
+        <mark key="^" line="82" column="23" />
+        <mark key="." line="82" column="23" />
       </file>
       <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/mod_device/device.py" timestamp="1516579356573">
         <mark key="'" line="0" column="0" />
@@ -264,11 +264,12 @@
         <mark key="^" line="10" column="35" />
         <mark key="." line="10" column="35" />
       </file>
-      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/models.py" timestamp="1521774845350">
-        <mark key="[" line="438" column="0" />
-        <mark key="]" line="459" column="48" />
-        <mark key="." line="538" column="34" />
-        <mark key="^" line="538" column="34" />
+      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/models.py" timestamp="1521791023549">
+        <mark key="'" line="246" column="87" />
+        <mark key="[" line="556" column="32" />
+        <mark key="]" line="557" column="7" />
+        <mark key="." line="557" column="7" />
+        <mark key="^" line="557" column="7" />
       </file>
       <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/constants.py" timestamp="1521444697498">
         <mark key="'" line="0" column="0" />
@@ -390,12 +391,12 @@
         <mark key="." line="75" column="0" />
         <mark key="^" line="76" column="58" />
       </file>
-      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/tasks.py" timestamp="1521786435999">
-        <mark key="'" line="894" column="34" />
-        <mark key="[" line="894" column="36" />
-        <mark key="]" line="894" column="45" />
-        <mark key="^" line="894" column="45" />
-        <mark key="." line="894" column="45" />
+      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/tasks.py" timestamp="1521791734593">
+        <mark key="'" line="600" column="12" />
+        <mark key="[" line="912" column="16" />
+        <mark key="]" line="912" column="16" />
+        <mark key="." line="912" column="16" />
+        <mark key="^" line="910" column="66" />
       </file>
       <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/templates/ess/codelog_table_headers.html" timestamp="1520837161689">
         <mark key="[" line="1" column="0" />
@@ -705,19 +706,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="32" column="4" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/forms.py" />
-      <jump line="238" column="21" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" />
-      <jump line="597" column="41" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" />
-      <jump line="421" column="0" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" />
-      <jump line="425" column="4" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" />
-      <jump line="635" column="23" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/tasks.py" />
-      <jump line="792" column="30" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/tasks.py" />
-      <jump line="16" column="70" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/tasks.py" />
-      <jump line="208" column="45" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/tasks.py" />
-      <jump line="18" column="0" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/tasks.py" />
-      <jump line="733" column="0" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/tasks.py" />
-      <jump line="736" column="12" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/tasks.py" />
-      <jump line="767" column="18" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/tasks.py" />
       <jump line="785" column="65" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/tasks.py" />
       <jump line="789" column="64" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/tasks.py" />
       <jump line="793" column="70" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/tasks.py" />
@@ -783,7 +771,6 @@
       <jump line="206" column="31" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/tasks.py" />
       <jump line="213" column="15" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/tasks.py" />
       <jump line="747" column="35" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/tasks.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" />
       <jump line="385" column="35" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" />
       <jump line="414" column="32" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" />
       <jump line="426" column="31" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" />
@@ -792,7 +779,6 @@
       <jump line="0" column="0" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/models.py" />
       <jump line="439" column="22" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/models.py" />
       <jump line="440" column="9" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/models.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/tasks.py" />
       <jump line="727" column="4" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/tasks.py" />
       <jump line="811" column="12" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/tasks.py" />
       <jump line="713" column="0" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/tasks.py" />
@@ -805,55 +791,70 @@
       <jump line="728" column="13" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/tasks.py" />
       <jump line="734" column="30" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/tasks.py" />
       <jump line="894" column="34" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/tasks.py" />
+      <jump line="244" column="31" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/models.py" />
+      <jump line="246" column="87" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/models.py" />
+      <jump line="436" column="40" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" />
+      <jump line="447" column="2" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" />
+      <jump line="449" column="4" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" />
+      <jump line="384" column="4" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/tasks.py" />
+      <jump line="342" column="42" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/tasks.py" />
+      <jump line="378" column="0" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/tasks.py" />
+      <jump line="402" column="47" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/tasks.py" />
+      <jump line="435" column="47" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/tasks.py" />
+      <jump line="513" column="4" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/tasks.py" />
+      <jump line="537" column="12" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/tasks.py" />
+      <jump line="600" column="12" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/tasks.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>driver_name</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>driver_name</text>
       </register>
       <register name="/" type="4">
-        <text>node</text>
+        <text>update_or_create</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW50ZXJmYWNlLnBvcCgnZGV2X3R5cGUnKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgJ2RyaXZlcl9uYW1lJyBpbiBjb2RlX2xldmVscyBhbmQgJ2RyaXZlcl92ZXInIGluIGNvZGVfbGV2ZWxzOgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIDpwYXJhbSBpbnRlcmZhY2U6IGRpY3Rpb25hcnkgdGhhdCBjb250YWlucyBhdHRyaWJ1dGVzIG9mIHRoZSBkZXZpY2UgZm91bmQK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaW50ZXJmYWNlWydpZF9ub2RlJ10gPSBub2RlLmlkCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGlmIHBhcnRfbnVtYmVyOgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaW50ZXJmYWNlLnBvcCgnZGV2X25hbWUnLCApIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gTm9uZQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0pCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGVsc2U6Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyBkb24ndCBuZWVkIHRoZXNlIGFueW1vcmUgYW5kIGNhbid0IGhhdmUgdGhlc2UgaW4gYXJndW1lbnRzIHBhc3NlZCB0byBjcmVhdGUgZGV2aWNlCiAgICAgICAgICAgIGRldl90eXBlID0gaW50ZXJmYWNlLnBvcCgnZGV2X3R5cGUnLCBOb25lKQogICAgICAgICAgICBwYXJ0X251bWJlciA9IGludGVyZmFjZS5wb3AoJ3BhcnRfbnVtYmVyJywgTm9uZSkKICAgICAgICAgICAgZGVzY3JpcHRpb24gPSBpbnRlcmZhY2VbJ2Rlc2NyaXB0aW9uJ10K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGV2X3R5cGUgPSBpbnRlcmZhY2UucG9wKCdkZXZfdHlwZScsIE5vbmUpCiAgICAgICAgICAgIHBhcnRfbnVtYmVyID0gaW50ZXJmYWNlLnBvcCgncGFydF9udW1iZXInLCBOb25lKQogICAgICAgICAgICBkZXNjcmlwdGlvbiA9IGludGVyZmFjZVsnZGVzY3JpcHRpb24nXQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdHJ5Ogo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAncGh5X2FkZHInCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>node</last-search>
+      <last-search>update_or_create</last-search>
       <last-offset />
-      <last-pattern>node</last-pattern>
+      <last-pattern>update_or_create</last-pattern>
       <last-replace>code_add_form</last-replace>
       <last-substitute>product_add_form</last-substitute>
       <last-dir>1</last-dir>
@@ -861,8 +862,6 @@
     </search>
     <history>
       <history-search>
-        <entry>all</entry>
-        <entry>query</entry>
         <entry>products</entry>
         <entry>all()</entry>
         <entry>commit</entry>
@@ -881,6 +880,8 @@
         <entry>interace</entry>
         <entry>interface</entry>
         <entry>node</entry>
+        <entry>_add_node</entry>
+        <entry>update_or_create</entry>
       </history-search>
       <history-cmd>
         <entry>449</entry>
