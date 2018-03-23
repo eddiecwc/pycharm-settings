@@ -390,12 +390,12 @@
         <mark key="." line="75" column="0" />
         <mark key="^" line="76" column="58" />
       </file>
-      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/tasks.py" timestamp="1521775694453">
+      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/tasks.py" timestamp="1521775937268">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="628" column="30" />
-        <mark key="]" line="898" column="13" />
-        <mark key="^" line="907" column="11" />
-        <mark key="." line="898" column="13" />
+        <mark key="[" line="890" column="12" />
+        <mark key="]" line="890" column="12" />
+        <mark key="^" line="890" column="12" />
+        <mark key="." line="890" column="12" />
       </file>
       <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/templates/ess/codelog_table_headers.html" timestamp="1520837161689">
         <mark key="[" line="1" column="0" />
@@ -807,11 +807,11 @@
       <jump line="0" column="0" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/tasks.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>.</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICAgIA==</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text>port_guid</text>
@@ -901,8 +901,8 @@
         <entry>438</entry>
         <entry>611</entry>
         <entry>$</entry>
-        <entry>w</entry>
         <entry>0</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
