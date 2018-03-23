@@ -264,8 +264,8 @@
         <mark key="^" line="10" column="35" />
         <mark key="." line="10" column="35" />
       </file>
-      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/models.py" timestamp="1521793882610">
-        <mark key="'" line="246" column="87" />
+      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/models.py" timestamp="1521794244590">
+        <mark key="'" line="172" column="42" />
         <mark key="[" line="255" column="100" />
         <mark key="]" line="255" column="100" />
         <mark key="." line="255" column="100" />
@@ -706,10 +706,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="806" column="85" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/tasks.py" />
-      <jump line="812" column="19" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/tasks.py" />
-      <jump line="815" column="23" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/tasks.py" />
-      <jump line="836" column="27" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/tasks.py" />
       <jump line="145" column="31" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/tasks.py" />
       <jump line="161" column="58" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/tasks.py" />
       <jump line="177" column="44" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/tasks.py" />
@@ -769,7 +765,6 @@
       <jump line="426" column="31" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" />
       <jump line="438" column="8" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/models.py" />
       <jump line="464" column="4" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/models.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/models.py" />
       <jump line="439" column="22" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/models.py" />
       <jump line="440" column="9" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/models.py" />
       <jump line="727" column="4" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/tasks.py" />
@@ -806,6 +801,11 @@
       <jump line="788" column="8" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/tasks.py" />
       <jump line="826" column="16" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/tasks.py" />
       <jump line="888" column="27" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/tasks.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/models.py" />
+      <jump line="173" column="4" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/models.py" />
+      <jump line="175" column="6" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/models.py" />
+      <jump line="72" column="24" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/models.py" />
+      <jump line="172" column="42" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/models.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -815,7 +815,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>bond_list</text>
+        <text>updates</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgbm9kZSA9IGRiLnNlc3Npb24ucXVlcnkoTm9kZSkud2l0aF9mb3JfdXBkYXRlKCkuZmlsdGVyX2J5KGhvc3RuYW1lPWhvc3RuYW1lKS5maXJzdCgpCg==</text>
@@ -852,9 +852,9 @@
       </register>
     </registers>
     <search>
-      <last-search>bond_list</last-search>
+      <last-search>updates</last-search>
       <last-offset />
-      <last-pattern>bond_list</last-pattern>
+      <last-pattern>updates</last-pattern>
       <last-replace>code_add_form</last-replace>
       <last-substitute>product_add_form</last-substitute>
       <last-dir>1</last-dir>
@@ -862,7 +862,6 @@
     </search>
     <history>
       <history-search>
-        <entry>hostname</entry>
         <entry>Node.query</entry>
         <entry>defaults</entry>
         <entry>device_obj</entry>
@@ -882,6 +881,7 @@
         <entry>filter_by</entry>
         <entry>for_update</entry>
         <entry>bond_list</entry>
+        <entry>updates</entry>
       </history-search>
       <history-cmd>
         <entry>449</entry>
@@ -902,8 +902,8 @@
         <entry>438</entry>
         <entry>611</entry>
         <entry>$</entry>
-        <entry>0</entry>
         <entry>w</entry>
+        <entry>0</entry>
       </history-cmd>
       <history-expr />
       <history-input />
