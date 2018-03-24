@@ -116,11 +116,11 @@
         <mark key="." line="18" column="39" />
         <mark key="^" line="18" column="39" />
       </file>
-      <file name="$USER_HOME$/Sites/ESS-Monitor/README.md" timestamp="1521872990729">
-        <mark key="[" line="69" column="52" />
-        <mark key="]" line="69" column="51" />
-        <mark key="." line="69" column="51" />
-        <mark key="^" line="69" column="51" />
+      <file name="$USER_HOME$/Sites/ESS-Monitor/README.md" timestamp="1521931421759">
+        <mark key="[" line="65" column="3" />
+        <mark key="]" line="65" column="10" />
+        <mark key="." line="65" column="10" />
+        <mark key="^" line="65" column="10" />
       </file>
       <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/templates/ess/code_list.html" timestamp="1520896586452">
         <mark key="[" line="19" column="0" />
@@ -643,6 +643,9 @@
         <mark key="^" line="12" column="11" />
         <mark key="." line="12" column="0" />
       </file>
+      <file name="/Dummy.txt" timestamp="1521931430754">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Sites/ESS-Monitor/scripts/collectLinuxNodeInfo.py" timestamp="1514356709242">
         <mark key="'" line="34" column="14" />
         <mark key="[" line="139" column="63" />
@@ -828,10 +831,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>(</text>
+        <text>TBD</text>
       </register>
       <register name="-" type="4">
-        <text>(</text>
+        <text>TBD</text>
       </register>
       <register name="/" type="4">
         <text>description</text>
