@@ -264,12 +264,12 @@
         <mark key="^" line="10" column="35" />
         <mark key="." line="10" column="35" />
       </file>
-      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/models.py" timestamp="1521844665294">
-        <mark key="'" line="172" column="42" />
-        <mark key="[" line="254" column="26" />
-        <mark key="]" line="256" column="44" />
-        <mark key="." line="256" column="44" />
-        <mark key="^" line="256" column="44" />
+      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/models.py" timestamp="1521853327905">
+        <mark key="'" line="35" column="34" />
+        <mark key="[" line="34" column="51" />
+        <mark key="]" line="34" column="76" />
+        <mark key="." line="34" column="76" />
+        <mark key="^" line="34" column="76" />
       </file>
       <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/constants.py" timestamp="1521444697498">
         <mark key="'" line="0" column="0" />
@@ -475,11 +475,11 @@
         <mark key="^" line="82" column="0" />
         <mark key="." line="82" column="0" />
       </file>
-      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/exceptions.py" timestamp="1519723275550">
-        <mark key="[" line="42" column="6" />
-        <mark key="]" line="42" column="25" />
-        <mark key="^" line="42" column="25" />
-        <mark key="." line="42" column="25" />
+      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/exceptions.py" timestamp="1521853296410">
+        <mark key="[" line="43" column="8" />
+        <mark key="]" line="46" column="7" />
+        <mark key="^" line="46" column="7" />
+        <mark key="." line="46" column="7" />
       </file>
       <file name="$USER_HOME$/Sites/cap-underpants/check_status.py" timestamp="1517550583516">
         <mark key="[" line="64" column="0" />
@@ -706,15 +706,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="161" column="58" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/tasks.py" />
-      <jump line="177" column="44" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/tasks.py" />
-      <jump line="224" column="44" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/tasks.py" />
-      <jump line="243" column="44" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/tasks.py" />
-      <jump line="261" column="44" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/tasks.py" />
-      <jump line="279" column="44" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/tasks.py" />
-      <jump line="301" column="44" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/tasks.py" />
-      <jump line="318" column="44" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/tasks.py" />
-      <jump line="345" column="41" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/tasks.py" />
       <jump line="360" column="44" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/tasks.py" />
       <jump line="368" column="25" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/tasks.py" />
       <jump line="397" column="23" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/tasks.py" />
@@ -779,7 +770,6 @@
       <jump line="734" column="30" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/tasks.py" />
       <jump line="894" column="34" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/tasks.py" />
       <jump line="244" column="31" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/models.py" />
-      <jump line="246" column="87" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/models.py" />
       <jump line="436" column="40" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" />
       <jump line="447" column="2" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" />
       <jump line="449" column="4" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" />
@@ -806,55 +796,65 @@
       <jump line="175" column="6" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/models.py" />
       <jump line="72" column="24" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/models.py" />
       <jump line="172" column="42" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/models.py" />
+      <jump line="245" column="34" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/models.py" />
+      <jump line="251" column="52" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/models.py" />
+      <jump line="246" column="53" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/models.py" />
+      <jump line="247" column="90" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/models.py" />
+      <jump line="250" column="38" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/models.py" />
+      <jump line="252" column="18" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/models.py" />
+      <jump line="257" column="31" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/models.py" />
+      <jump line="258" column="16" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/models.py" />
+      <jump line="4" column="0" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/models.py" />
+      <jump line="35" column="34" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/models.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyLmRlYnVnKCJsb2dfb2JqLmluc3RhbGxlZF9jb2RlOiAlcyIgJSBsb2dfb2JqLmluc3RhbGxlZF9jb2RlKQo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IyA=</text>
       </register>
       <register name="-" type="4">
-        <text>=</text>
+        <text encoding="base64">IyA=</text>
       </register>
       <register name="/" type="4">
-        <text>updates</text>
+        <text>raise</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyLmRlYnVnKCJsb2dfb2JqLmluc3RhbGxlZF9jb2RlOiAlcyIgJSBsb2dfb2JqLmluc3RhbGxlZF9jb2RlKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgbG9nX29iaiA9IGRiLnNlc3Npb24ucXVlcnkoY2xzKS53aXRoX2Zvcl91cGRhdGUoKS5maWx0ZXJfYnkoc2Nhbm5lZF9zeXN0ZW09aG9zdF9vYmosIGluc3RhbGxlZF9jb2RlPWNvZGUpLmZpcnN0KCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHNsYXZlLmxhc3Rfc2VlbiA9IAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgbG9nX29iaiA9IE5vbmUK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbm9kZSA9IGRiLnNlc3Npb24ucXVlcnkoTm9kZSkud2l0aF9mb3JfdXBkYXRlKCkuZmlsdGVyX2J5KGhvc3RuYW1lPWhvc3RuYW1lKS5maXJzdCgpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGludGVyZmFjZSA9IHsqKmludGVyZmFjZSwgKipyZXN9Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiBpc2luc3RhbmNlKGhvc3Rfb2JqLCApCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGlkX2RldmljZSA9IGRiLkNvbHVtbihkYi5JbikK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAjIHNlbGYuc2Nhbl9uZXRfZGVzY3JpcHRpb24oKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHNsYXZlLmxhc3Rfc2VlbiA9IAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbm9kZSA9IGRiLnNlc3Npb24ucXVlcnkoTm9kZSkud2l0aF9mb3JfdXBkYXRlKCkuZmlsdGVyX2J5KGhvc3RuYW1lPWhvc3RuYW1lKS5maXJzdCgpCg==</text>
       </register>
       <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGludGVyZmFjZSA9IHsqKmludGVyZmFjZSwgKipyZXN9Cg==</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgIiIiCiAgICAgICAgICAgICppZF9wcm9kdWN0ID0gcG9pbnRzIHRvIHRoZSBkZXZpY2UgcHJvZHVjdCBvYmplY3QKICAgICAgICAgICAgKmlkX2RyaXZlcl92ZXIgPSBwb2ludHMgdG8gdGhlIGNvZGUgdGFibGUgZW50cnkgZm9yIHRoZSBkcml2ZXIgY29kZSBmb3VuZCBvbiBkZXZpY2UgKHZpYSByZWxhdGlvbnNoaXApCiAgICAgICAgICAgICppZF9md192ZXIgPSBwb2ludHMgdG8gdGhlIGNvZGUgdGFibGUgZW50cnkgZm9yIHRoZSBmdyBjb2RlIGZvdW5kIG9uIGRldmljZSAodmlhIHJlbGF0aW9uc2hpcCkKICAgICAgICAgICAgKmlkX25vZGUKICAgICAgICAgICAgLmJvbmRfbWFzdGVyID0gYm9vbGVhbiBpbmRpY2F0b3IgZm9yIGlmIGRldmljZSBpcyBhIGJvbmQgbWFzdGVyCgogICAgICAgICAgICAqcGh5X2FkZHIgPSBwaHlzaWNhbCBhZGRyZXNzIG9mIHRoZSBkZXZpY2Ugb24gc3lzdGVtCiAgICAgICAgICAgICpkZXZfbmFtZSA9IG5ldHdvcmsgZGV2aWNlIG5hbWUgYXMgc2VlbiBmcm9tIE9TCiAgICAgICAgICAgICpidXMgPSBidXMgbnVtYmVyIGZvciB0aGUgZGV2aWNlIG9uIHN5c3RlbQogICAgICAgICAgICAqc2VyaWFsID0gZGV2aWNlIHNlcmlhbCBudW1iZXIKICAgICAgICAgICAgKm5ldF9pcCA9IGNvbmZpZ3VyZWQgSVAgb24gdGhlIGRldmljZQogICAgICAgICAgICAqbXR1ID0gTVRVIHNldHRpbmcgZm9yIHRoZSBkZXZpY2UKICAgICAgICAgICAgKmliX3BvcnRfZ3VpZCA9IGlmIGluZmluaWJhbmQsIHBvcnQgR1VJRAogICAgICAgICAgICAqaWJfZGV2X25hbWUgPSBpZiBpbmZpbmliYW5kLCBwb3J0IElCIGRldmljZSBuYW1lCiAgICAgICAgICAgIC5wb3J0X21heF9yYXRlID0gbWF4IHBvcnQgcmF0ZSBvZiB0aGUgZGV2aWNlCiAgICAgICAgICAgICpwb3J0X3J1bl9yYXRlID0gcnVubmluZyBwb3J0IHJhdGUgZm91bmQgb24gdGhlIGRldmljZQogICAgICAgICAgICAqcG9ydF9zdGF0ZSA9IHBvcnQgc3RhdGUgZW51bWVyYXRpb24gKHJ1bm5pbmcvYWN0aXZlLCBvZmZsaW5lLCBldGMpCiAgICAgICAgICAgICpwb3J0X3RlbXAgPSBpZiBhdmFpbGFibGUsIHRlbXBlcmF0dXJlIG9mIHRoZSBwb3J0CiAgICAgICAgICAgICpmaXJzdF9zZWVuID0gdGltZXN0YW1wIG9mIHdoZW4gZGV2aWNlIHdhcyBmaXJzdCBzY2FubmVkCiAgICAgICAgICAgICpsYXN0X3NlZW4gPSB0aW1lc3RhbXAgb2Ygd2hlbiBkZXZpY2Ugd2FzIGxhc3Qgc2Nhbm5lZAogICAgICAgICAgICAuYWN0aXZlID0gZGV2aWNlIGlzIGN1cnJlbnRseSBhY3RpdmUgb24gYSBub2RlLiBVbnN1cHBvcnRlZCBmb3Igbm93CiAgICAgICAgICAgICpkZXNjcmlwdGlvbiA9IGRlc2NyaXB0aW9uIGZvciB0aGUgZGV2aWNlICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAKICAgICAgICAgICAgIiIi</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAjIHNlbGYuc2Nhbl9uZXRfZGVzY3JpcHRpb24oKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>updates</last-search>
+      <last-search>raise</last-search>
       <last-offset />
-      <last-pattern>updates</last-pattern>
+      <last-pattern>raise</last-pattern>
       <last-replace>code_add_form</last-replace>
       <last-substitute>product_add_form</last-substitute>
       <last-dir>1</last-dir>
@@ -862,16 +862,12 @@
     </search>
     <history>
       <history-search>
-        <entry>defaults</entry>
-        <entry>device_obj</entry>
-        <entry>get_or_create</entry>
         <entry>id_product</entry>
         <entry>id_driver_type</entry>
         <entry>port_guid</entry>
         <entry>first</entry>
         <entry>interace</entry>
         <entry>interface</entry>
-        <entry>node</entry>
         <entry>_add_node</entry>
         <entry>update_or_create</entry>
         <entry>driver_name</entry>
@@ -882,6 +878,10 @@
         <entry>bond_list</entry>
         <entry>logger</entry>
         <entry>updates</entry>
+        <entry>node</entry>
+        <entry>obj</entry>
+        <entry>Error</entry>
+        <entry>raise</entry>
       </history-search>
       <history-cmd>
         <entry>449</entry>
@@ -902,8 +902,8 @@
         <entry>438</entry>
         <entry>611</entry>
         <entry>$</entry>
-        <entry>w</entry>
         <entry>0</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
