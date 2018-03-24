@@ -25,12 +25,12 @@
       <file name="/a.dummy" timestamp="1521421153771">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" timestamp="1521788355662">
+      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" timestamp="1521873692645">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="567" column="0" />
-        <mark key="]" line="568" column="0" />
-        <mark key="^" line="568" column="0" />
-        <mark key="." line="568" column="0" />
+        <mark key="[" line="578" column="60" />
+        <mark key="]" line="578" column="66" />
+        <mark key="^" line="578" column="66" />
+        <mark key="." line="578" column="66" />
       </file>
       <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/templates/ess/node_table_headers.html" timestamp="1519890986097">
         <mark key="'" line="23" column="14" />
@@ -110,11 +110,11 @@
         <mark key="." line="18" column="39" />
         <mark key="^" line="18" column="39" />
       </file>
-      <file name="$USER_HOME$/Sites/ESS-Monitor/README.md" timestamp="1521419820564">
-        <mark key="[" line="59" column="38" />
-        <mark key="]" line="59" column="37" />
-        <mark key="." line="59" column="37" />
-        <mark key="^" line="59" column="37" />
+      <file name="$USER_HOME$/Sites/ESS-Monitor/README.md" timestamp="1521872990729">
+        <mark key="[" line="69" column="52" />
+        <mark key="]" line="69" column="51" />
+        <mark key="." line="69" column="51" />
+        <mark key="^" line="69" column="51" />
       </file>
       <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/templates/ess/code_list.html" timestamp="1520896586452">
         <mark key="[" line="19" column="0" />
@@ -192,6 +192,12 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/templates/ess/device_list.html" timestamp="1521873773260">
+        <mark key="[" line="34" column="23" />
+        <mark key="]" line="34" column="29" />
+        <mark key="." line="34" column="29" />
+        <mark key="^" line="34" column="29" />
+      </file>
       <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/utilities.py" timestamp="1520111281299">
         <mark key="'" line="152" column="6" />
         <mark key="[" line="61" column="11" />
@@ -199,12 +205,12 @@
         <mark key="." line="62" column="10" />
         <mark key="^" line="62" column="10" />
       </file>
-      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/mixin.py" timestamp="1521861184753">
+      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/mixin.py" timestamp="1521872870220">
         <mark key="'" line="15" column="4" />
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="48" />
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="0" />
         <mark key="^" line="82" column="23" />
-        <mark key="." line="82" column="23" />
+        <mark key="." line="23" column="0" />
       </file>
       <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/mod_device/device.py" timestamp="1516579356573">
         <mark key="'" line="0" column="0" />
@@ -264,11 +270,11 @@
         <mark key="^" line="10" column="35" />
         <mark key="." line="10" column="35" />
       </file>
-      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/models.py" timestamp="1521871544085">
+      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/models.py" timestamp="1521872787079">
         <mark key="'" line="35" column="34" />
-        <mark key="[" line="552" column="58" />
-        <mark key="]" line="552" column="59" />
-        <mark key="." line="552" column="59" />
+        <mark key="[" line="539" column="0" />
+        <mark key="]" line="539" column="0" />
+        <mark key="." line="539" column="0" />
         <mark key="^" line="552" column="59" />
       </file>
       <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/constants.py" timestamp="1521444697498">
@@ -391,12 +397,12 @@
         <mark key="." line="75" column="0" />
         <mark key="^" line="76" column="58" />
       </file>
-      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/tasks.py" timestamp="1521872141901">
-        <mark key="'" line="784" column="37" />
-        <mark key="[" line="784" column="19" />
-        <mark key="]" line="784" column="19" />
-        <mark key="." line="784" column="19" />
-        <mark key="^" line="784" column="19" />
+      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/tasks.py" timestamp="1521872739753">
+        <mark key="'" line="775" column="37" />
+        <mark key="[" line="657" column="0" />
+        <mark key="]" line="657" column="0" />
+        <mark key="^" line="775" column="19" />
+        <mark key="." line="657" column="0" />
       </file>
       <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/templates/ess/codelog_table_headers.html" timestamp="1520837161689">
         <mark key="[" line="1" column="0" />
@@ -645,6 +651,13 @@
         <mark key="." line="57" column="52" />
         <mark key="^" line="57" column="52" />
       </file>
+      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/templates/header.html" timestamp="1521873500001">
+        <mark key="'" line="6" column="0" />
+        <mark key="[" line="38" column="50" />
+        <mark key="]" line="38" column="58" />
+        <mark key="." line="38" column="58" />
+        <mark key="^" line="38" column="58" />
+      </file>
       <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/templates/layouts/layout.html" timestamp="1517346104518">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="51" column="52" />
@@ -809,43 +822,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">cHJvZHVjdCA=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">cHJvZHVjdCA=</text>
       </register>
       <register name="/" type="4">
         <text>description</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICMgY21kID0gJ2xzcGNpIC12IHwgZ3JlcCAtaSAtRSAiRXRoZXJuZXR8SW5maW5pYmFuZCInCg==</text>
+      <register name="0" type="4">
+        <text encoding="base64">QG1vZF9lc3Mucm91dGUoJy9wcm9kdWN0LycpCkBtb2RfZXNzLnJvdXRlKCcvcHJvZHVjdC9saXN0LycpCmRlZiBsaXN0X3Byb2R1Y3RzKCk6CiAgICAiIiIKICAgIG1ldGhvZCBmb3IgZGlzcGxheSBvZiBwcm9kdWN0IHRhYmxlCiAgICA6cmV0dXJuOiBjb250ZW50IG9mIHByb2R1Y3QgdGFibGUKICAgICIiIgogICAgcHJvZHVjdHMgPSBQcm9kdWN0LnF1ZXJ5LmFsbCgpCiAgICBsb2dnZXIuZGVidWcoIkZvdW5kICVkIHByb2R1Y3RzIiAlIGxlbihwcm9kdWN0cykpCiAgICByZXR1cm4gcmVuZGVyX3RlbXBsYXRlKCJlc3MvcHJvZHVjdF9saXN0Lmh0bWwiLCBwcm9kdWN0cz1wcm9kdWN0cykK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyBkYi5zZXNzaW9uLmZsdXNoKCkK</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="3" type="4">
+        <text encoding="base64">ICAgICAgICAjIG9iaiA9IGNscygqKmt3KQoKICAgICAgICAjIHdpdGggc2Vzc2lvbl9zY29wZSgpIGFzIHNlc3Npb246CiAgICAgICAgIyAgICAgc2Vzc2lvbi5hZGQob2JqKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBjb2RlX29iaiA9IE5vbmUK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICMgZGIuc2Vzc2lvbi5jb21taXQoKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZndfb2JqID0gbG9nX29iai5pbnN0YWxsZWRfY29kZQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICMgZGIuc2Vzc2lvbi5jb21taXQoKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29kZV9vYmogPSBsb2dfb2JqLmluc3RhbGxlZF9jb2RlCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBkcnZfb2JqID0gTm9uZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICByZXN1bHQgPSB7fQo=</text>
+      <register name="8" type="4">
+        <text encoding="base64">ICAgICMgZmluZCB0aGUgcHJvZHVjdCBlbnRyeSBpbiB0aGUgcHJvZHVjdCB0YWJsZSBhbmQgbGluay4gVGhpcyBtYXkgbm90IGJlIGFibGUgdG8gZXhlY3V0ZSBpZiBuZWNlc3NhcnkKICAgICMgYXR0cmlidXRlcyBhcmUgbWlzc2luZwogICAgIyBkZWYgbGlua19wcm9kdWN0KHNlbGYsIHByb2R1Y3RfbmFtZSwgcHJvZHVjdF90eXBlLCBwcm9kdWN0X3BhcnRfbnVtYmVyKToKICAgICMgICAgIHNlbGYucHJvZHVjdCA9IFByb2R1Y3QuZ2V0X29yX2NyZWF0ZShwcm9kdWN0X25hbWU9cHJvZHVjdF9uYW1lLAogICAgIyAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHByb2R1Y3RfdHlwZT1wcm9kdWN0X3R5cGUsCiAgICAjICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgcHJvZHVjdF9wYXJ0X251bWJlcj1wcm9kdWN0X3BhcnRfbnVtYmVyKQ==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW50ZXJmYWNlID0geyoqaW50ZXJmYWNlLCAqKnJlc30K</text>
+        <text encoding="base64">ICAgICMgY21kID0gJ2V0aHRvb2wgLWkge30gfCBlZ3JlcCAiXmRyaXZlcnxedmVyc2lvbnxeZmlybXdhcmUtdmVyc2lvbnxeYnVzLWluZm8iJy5mb3JtYXQoaWZfbmFtZSkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
