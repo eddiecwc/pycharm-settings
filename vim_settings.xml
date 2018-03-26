@@ -24,11 +24,11 @@
       <file name="/a.dummy" timestamp="1521421153771">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" timestamp="1522099214846">
-        <mark key="[" line="55" column="0" />
-        <mark key="]" line="55" column="74" />
-        <mark key="^" line="364" column="48" />
-        <mark key="." line="55" column="0" />
+      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" timestamp="1522101282620">
+        <mark key="[" line="361" column="32" />
+        <mark key="]" line="361" column="32" />
+        <mark key="^" line="361" column="33" />
+        <mark key="." line="361" column="32" />
       </file>
       <file name="$USER_HOME$/Sites/FlaskApp/templates/interactive.html" timestamp="1514787861252">
         <mark key="[" line="6" column="73" />
@@ -149,12 +149,12 @@
         <mark key="^" line="1" column="24" />
         <mark key="." line="1" column="24" />
       </file>
-      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/models.py" timestamp="1522050850021">
+      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/models.py" timestamp="1522101151649">
         <mark key="'" line="35" column="34" />
-        <mark key="[" line="664" column="0" />
-        <mark key="]" line="668" column="78" />
-        <mark key="." line="666" column="50" />
-        <mark key="^" line="666" column="64" />
+        <mark key="[" line="164" column="32" />
+        <mark key="]" line="164" column="43" />
+        <mark key="." line="164" column="43" />
+        <mark key="^" line="164" column="43" />
       </file>
       <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/constants.py" timestamp="1522091089369">
         <mark key="'" line="13" column="14" />
@@ -268,12 +268,12 @@
         <mark key="." line="75" column="0" />
         <mark key="^" line="76" column="58" />
       </file>
-      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/tasks.py" timestamp="1522100266950">
-        <mark key="'" line="1164" column="48" />
-        <mark key="[" line="125" column="0" />
-        <mark key="]" line="126" column="28" />
-        <mark key="^" line="126" column="28" />
-        <mark key="." line="126" column="28" />
+      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/tasks.py" timestamp="1522101990912">
+        <mark key="'" line="90" column="51" />
+        <mark key="[" line="1074" column="48" />
+        <mark key="]" line="1074" column="58" />
+        <mark key="^" line="1074" column="58" />
+        <mark key="." line="1074" column="58" />
       </file>
       <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/templates/ess/codelog_table_headers.html" timestamp="1520837161689">
         <mark key="[" line="1" column="0" />
@@ -444,12 +444,12 @@
         <mark key="." line="38" column="58" />
         <mark key="^" line="38" column="58" />
       </file>
-      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/templates/ess/node_list.html" timestamp="1522100500368">
+      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/templates/ess/node_list.html" timestamp="1522101385688">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="78" column="43" />
-        <mark key="]" line="78" column="43" />
-        <mark key="^" line="78" column="43" />
-        <mark key="." line="78" column="43" />
+        <mark key="[" line="78" column="45" />
+        <mark key="]" line="78" column="45" />
+        <mark key="^" line="78" column="45" />
+        <mark key="." line="78" column="45" />
       </file>
       <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/mod_cluster/__init__.py" timestamp="1516087743185">
         <mark key="[" line="0" column="59" />
@@ -470,7 +470,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="392" column="8" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" />
       <jump line="412" column="20" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" />
       <jump line="434" column="30" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" />
       <jump line="761" column="18" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/tasks.py" />
@@ -570,16 +569,17 @@
       <jump line="1106" column="35" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/tasks.py" />
       <jump line="1134" column="54" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/tasks.py" />
       <jump line="1163" column="48" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/tasks.py" />
+      <jump line="90" column="51" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/tasks.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">X2NvZGUg</text>
+        <text encoding="base64">IyA=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">X2NvZGUg</text>
+        <text encoding="base64">IyA=</text>
       </register>
       <register name="/" type="4">
-        <text>stdout</text>
+        <text>manifest</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBzY2FuX2NsdXN0ZXIucyhub2RlLmhvc3RuYW1lLCBpc190YXNrPUZhbHNlKSwK</text>
@@ -616,9 +616,9 @@
       </register>
     </registers>
     <search>
-      <last-search>stdout</last-search>
+      <last-search>manifest</last-search>
       <last-offset />
-      <last-pattern>stdout</last-pattern>
+      <last-pattern>manifest</last-pattern>
       <last-replace>code_add_form</last-replace>
       <last-substitute>product_add_form</last-substitute>
       <last-dir>1</last-dir>
@@ -626,7 +626,6 @@
     </search>
     <history>
       <history-search>
-        <entry>raise</entry>
         <entry>description</entry>
         <entry>extract_data</entry>
         <entry>re.search</entry>
@@ -646,6 +645,7 @@
         <entry>scan_gpfs</entry>
         <entry>scan_attr</entry>
         <entry>stdout</entry>
+        <entry>manifest</entry>
       </history-search>
       <history-cmd>
         <entry>449</entry>
