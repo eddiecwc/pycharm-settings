@@ -268,12 +268,12 @@
         <mark key="." line="75" column="0" />
         <mark key="^" line="76" column="58" />
       </file>
-      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/tasks.py" timestamp="1522099625508">
-        <mark key="'" line="1163" column="48" />
-        <mark key="[" line="126" column="33" />
-        <mark key="]" line="126" column="44" />
-        <mark key="^" line="126" column="44" />
-        <mark key="." line="126" column="44" />
+      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/tasks.py" timestamp="1522100266950">
+        <mark key="'" line="1164" column="48" />
+        <mark key="[" line="125" column="0" />
+        <mark key="]" line="126" column="28" />
+        <mark key="^" line="126" column="28" />
+        <mark key="." line="126" column="28" />
       </file>
       <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/templates/ess/codelog_table_headers.html" timestamp="1520837161689">
         <mark key="[" line="1" column="0" />
@@ -444,12 +444,12 @@
         <mark key="." line="38" column="58" />
         <mark key="^" line="38" column="58" />
       </file>
-      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/templates/ess/node_list.html" timestamp="1522053660497">
+      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/templates/ess/node_list.html" timestamp="1522100500368">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="76" column="41" />
-        <mark key="]" line="76" column="53" />
-        <mark key="^" line="76" column="53" />
-        <mark key="." line="76" column="53" />
+        <mark key="[" line="78" column="43" />
+        <mark key="]" line="78" column="43" />
+        <mark key="^" line="78" column="43" />
+        <mark key="." line="78" column="43" />
       </file>
       <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/mod_cluster/__init__.py" timestamp="1516087743185">
         <mark key="[" line="0" column="59" />
@@ -573,10 +573,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>None</text>
+        <text encoding="base64">X2NvZGUg</text>
       </register>
       <register name="-" type="4">
-        <text>None</text>
+        <text encoding="base64">X2NvZGUg</text>
       </register>
       <register name="/" type="4">
         <text>stdout</text>
