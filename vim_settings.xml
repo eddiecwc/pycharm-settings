@@ -436,12 +436,12 @@
       <file name="/Dummy.txt" timestamp="1521931430754">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/templates/header.html" timestamp="1521873500001">
+      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/templates/header.html" timestamp="1522124760052">
         <mark key="'" line="6" column="0" />
-        <mark key="[" line="38" column="50" />
-        <mark key="]" line="38" column="58" />
-        <mark key="." line="38" column="58" />
-        <mark key="^" line="38" column="58" />
+        <mark key="[" line="37" column="50" />
+        <mark key="]" line="37" column="55" />
+        <mark key="." line="37" column="55" />
+        <mark key="^" line="37" column="55" />
       </file>
       <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/templates/ess/node_list.html" timestamp="1522101385688">
         <mark key="'" line="0" column="0" />
@@ -571,17 +571,17 @@
       <jump line="325" column="13" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/models.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>sitemap</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IyA=</text>
+        <text>sitemap</text>
       </register>
       <register name="/" type="4">
         <text>dumps</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBzY2FuX2dwZnNfdmVyc2lvbi5zKG5vZGUuaG9zdG5hbWUsIGlzX3Rhc2s9RmFsc2UpLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHNjYW5fZ3Bmc19kYWVtb25fc3RhdGUucyhub2RlLmhvc3RuYW1lLCBpc190YXNrPUZhbHNlKSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBzY2FuX2VzYV92ZXJzaW9uLnMobm9kZS5ob3N0bmFtZSwgaXNfdGFzaz1GYWxzZSksCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgc2Nhbl9lc3NfdmVyc2lvbi5zKG5vZGUuaG9zdG5hbWUsIGlzX3Rhc2s9RmFsc2UpLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHNjYW5feGNhdF92ZXJzaW9uLnMobm9kZS5ob3N0bmFtZSwgaXNfdGFzaz1GYWxzZSks</text>
+        <text encoding="base64">ICAgICAgICAgICAgPCEtLSBBUEkgLS0+CiAgICAgICAgICAgICA8bGkgY2xhc3M9Im5hdi1pdGVtIiBkYXRhLXRvZ2dsZT0idG9vbHRpcCIgZGF0YS1wbGFjZW1lbnQ9InJpZ2h0IiB0aXRsZT0iQVBJIj4KICAgICAgICAgICAgICAgIDxhIGNsYXNzPSJuYXYtbGluayIgaHJlZj0iL2FwaS8iPgogICAgICAgICAgICAgICAgICAgIDxpIGNsYXNzPSJmYSBmYS1mdyBmYS10ZXJtaW5hbCI+PC9pPgogICAgICAgICAgICAgICAgICAgIDxzcGFuIGNsYXNzPSJuYXYtbGluay10ZXh0Ij5BUEk8L3NwYW4+CiAgICAgICAgICAgICAgICA8L2E+CiAgICAgICAgICAgIDwvbGk+</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
