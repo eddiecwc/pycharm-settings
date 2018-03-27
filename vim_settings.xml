@@ -268,12 +268,12 @@
         <mark key="." line="75" column="0" />
         <mark key="^" line="76" column="58" />
       </file>
-      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/tasks.py" timestamp="1522163272884">
-        <mark key="'" line="90" column="51" />
-        <mark key="[" line="887" column="0" />
-        <mark key="]" line="887" column="0" />
-        <mark key="." line="887" column="0" />
-        <mark key="^" line="885" column="59" />
+      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/tasks.py" timestamp="1522179703506">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="601" column="0" />
+        <mark key="]" line="603" column="3" />
+        <mark key="." line="603" column="3" />
+        <mark key="^" line="603" column="3" />
       </file>
       <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/templates/ess/codelog_table_headers.html" timestamp="1520837161689">
         <mark key="[" line="1" column="0" />
@@ -470,8 +470,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="775" column="43" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/tasks.py" />
-      <jump line="778" column="40" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/tasks.py" />
       <jump line="816" column="64" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/tasks.py" />
       <jump line="834" column="43" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/tasks.py" />
       <jump line="838" column="45" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/tasks.py" />
@@ -558,7 +556,6 @@
       <jump line="435" column="0" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/tasks.py" />
       <jump line="54" column="61" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" />
       <jump line="55" column="20" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/tasks.py" />
       <jump line="1024" column="4" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/tasks.py" />
       <jump line="1049" column="94" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/tasks.py" />
       <jump line="1078" column="35" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/tasks.py" />
@@ -570,55 +567,58 @@
       <jump line="169" column="64" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/models.py" />
       <jump line="170" column="6" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/models.py" />
       <jump line="325" column="13" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/models.py" />
+      <jump line="151" column="31" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/tasks.py" />
+      <jump line="399" column="75" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/tasks.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/tasks.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>False</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGlmIAo=</text>
       </register>
       <register name="-" type="4">
-        <text>False</text>
+        <text encoding="base64">Pz8/Jywg</text>
       </register>
       <register name="/" type="4">
-        <text>dumps</text>
+        <text>???</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIGludGVyZmFjZVsnZGVzY3JpcHRpb24nXSA9ICJCb25kZWQgSW50ZXJmYWNlICglcykiICUgIiwiLmpvaW4ocmVzWyJzbGF2ZXMiXSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">LSBUT0RPOiBjbHVzdGVyIGRpc3BsYXkgcGFnZQo=</text>
+        <text encoding="base64">ICAgIGlmIAo=</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">LSBUT0RPOiBjbHVzdGVyIGRpc3BsYXkgcGFnZQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">LSAK</text>
+        <text encoding="base64">LSBUT0RPOiBjbHVzdGVyIGRpc3BsYXkgcGFnZQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">IyMgMDMK</text>
+        <text encoding="base64">LSAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyMgMDMK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGludGVyZmFjZVsnZGVzY3JpcHRpb24nXSA9ICJCb25kZWQgSW50ZXJmYWNlICglcykiICUgIiwiLmpvaW4ocmVzWyJzbGF2ZXMiXSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZWxpZiBjb2RlX2xldmVsc1snZHJpdmVyX25hbWUnXSA9PSAnYm9uZGluZyc6Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGludGVyZmFjZVsnZGVzY3JpcHRpb24nXSA9ICJCb25kZWQgSW50ZXJmYWNlICglcykiICUgIiwiLmpvaW4ocmVzWyJzbGF2ZXMiXSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGludGVyZmFjZVsnZGVzY3JpcHRpb24nXQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZWxpZiBjb2RlX2xldmVsc1snZHJpdmVyX25hbWUnXSA9PSAnYm9uZGluZyc6Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>dumps</last-search>
+      <last-search>???</last-search>
       <last-offset />
-      <last-pattern>dumps</last-pattern>
+      <last-pattern>???</last-pattern>
       <last-replace>code_add_form</last-replace>
       <last-substitute>product_add_form</last-substitute>
       <last-dir>1</last-dir>
@@ -626,9 +626,6 @@
     </search>
     <history>
       <history-search>
-        <entry>extract_data</entry>
-        <entry>re.search</entry>
-        <entry>Node</entry>
         <entry>Cluster</entry>
         <entry>REPO</entry>
         <entry>default</entry>
@@ -646,6 +643,9 @@
         <entry>stdout</entry>
         <entry>manifest</entry>
         <entry>dumps</entry>
+        <entry>scan_cpu</entry>
+        <entry>cpu</entry>
+        <entry>???</entry>
       </history-search>
       <history-cmd>
         <entry>406</entry>
@@ -664,9 +664,9 @@
         <entry>438</entry>
         <entry>611</entry>
         <entry>wq</entry>
-        <entry>0</entry>
         <entry>$</entry>
         <entry>912</entry>
+        <entry>0</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
