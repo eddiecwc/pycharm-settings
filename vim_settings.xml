@@ -612,7 +612,7 @@
         <text encoding="base64">ICAgIC0gc2Nhbl9lc2FfdmVyc2lvbgo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>912</text>
       </register>
     </registers>
     <search>
@@ -648,7 +648,6 @@
         <entry>dumps</entry>
       </history-search>
       <history-cmd>
-        <entry>449</entry>
         <entry>406</entry>
         <entry>399</entry>
         <entry>437</entry>
@@ -668,6 +667,7 @@
         <entry>0</entry>
         <entry>$</entry>
         <entry>w</entry>
+        <entry>912</entry>
       </history-cmd>
       <history-expr />
       <history-input />
