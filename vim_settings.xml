@@ -24,11 +24,11 @@
       <file name="/a.dummy" timestamp="1521421153771">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" timestamp="1522110766183">
-        <mark key="[" line="360" column="0" />
-        <mark key="]" line="364" column="81" />
-        <mark key="^" line="361" column="33" />
-        <mark key="." line="361" column="32" />
+      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" timestamp="1522166764218">
+        <mark key="[" line="364" column="75" />
+        <mark key="]" line="364" column="78" />
+        <mark key="^" line="364" column="78" />
+        <mark key="." line="364" column="78" />
       </file>
       <file name="$USER_HOME$/Sites/FlaskApp/templates/interactive.html" timestamp="1514787861252">
         <mark key="[" line="6" column="73" />
@@ -572,11 +572,11 @@
       <jump line="325" column="13" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/models.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">LSBUT0RPOiBjbHVzdGVyIGRpc3BsYXkgcGFnZQo=</text>
+      <register name="&quot;" type="4">
+        <text>False</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text>False</text>
       </register>
       <register name="/" type="4">
         <text>dumps</text>
