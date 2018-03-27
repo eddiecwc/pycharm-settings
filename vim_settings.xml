@@ -31,11 +31,11 @@
       <file name="/a.dummy" timestamp="1521421153771">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" timestamp="1522166764218">
-        <mark key="[" line="364" column="75" />
-        <mark key="]" line="364" column="78" />
-        <mark key="^" line="364" column="78" />
-        <mark key="." line="364" column="78" />
+      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" timestamp="1522185590945">
+        <mark key="[" line="424" column="38" />
+        <mark key="]" line="424" column="38" />
+        <mark key="^" line="405" column="0" />
+        <mark key="." line="424" column="38" />
       </file>
       <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/templates/ess/node_table_headers.html" timestamp="1519890986097">
         <mark key="'" line="23" column="14" />
@@ -401,10 +401,10 @@
         <mark key="." line="75" column="0" />
         <mark key="^" line="76" column="58" />
       </file>
-      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/tasks.py" timestamp="1522183273093">
+      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/tasks.py" timestamp="1522185501396">
         <mark key="'" line="53" column="9" />
-        <mark key="[" line="58" column="33" />
-        <mark key="]" line="59" column="23" />
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="104" />
         <mark key="." line="59" column="23" />
         <mark key="^" line="59" column="23" />
       </file>
@@ -831,44 +831,44 @@
       <jump line="53" column="9" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/tasks.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGlmIAo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">RFVNUFMg</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Pz8/Jywg</text>
+        <text encoding="base64">RFVNUFMg</text>
       </register>
       <register name="/" type="4">
         <text>host_string</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGludGVyZmFjZVsnZGVzY3JpcHRpb24nXSA9ICJCb25kZWQgSW50ZXJmYWNlICglcykiICUgIiwiLmpvaW4ocmVzWyJzbGF2ZXMiXSkK</text>
+        <text encoding="base64">IyA9PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PSBEVU1QUyA9PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGlmIAo=</text>
+        <text encoding="base64">IyBERVZJQ0VTCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">LSBUT0RPOiBjbHVzdGVyIGRpc3BsYXkgcGFnZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">LSBUT0RPOiBjbHVzdGVyIGRpc3BsYXkgcGFnZQo=</text>
+        <text encoding="base64">IyBEVU1QUwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">LSAK</text>
+        <text encoding="base64">IyA9PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PSBGVU5DVElPTlMgPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">IyMgMDMK</text>
+        <text encoding="base64">IiIiCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Tk9ERVMK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IiIiCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGludGVyZmFjZVsnZGVzY3JpcHRpb24nXSA9ICJCb25kZWQgSW50ZXJmYWNlICglcykiICUgIiwiLmpvaW4ocmVzWyJzbGF2ZXMiXSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZWxpZiBjb2RlX2xldmVsc1snZHJpdmVyX25hbWUnXSA9PSAnYm9uZGluZyc6Cg==</text>
+        <text encoding="base64">IiIiCk5PTi1ST1VUSU5HIEZVTkNUSU9OUwoiIiIK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -925,8 +925,8 @@
         <entry>wq</entry>
         <entry>$</entry>
         <entry>912</entry>
-        <entry>0</entry>
         <entry>w</entry>
+        <entry>0</entry>
       </history-cmd>
       <history-expr />
       <history-input />
