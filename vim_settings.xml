@@ -10,11 +10,11 @@
         <mark key="." line="45" column="50" />
         <mark key="^" line="45" column="7" />
       </file>
-      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/templates/ess/device_table_headers.html" timestamp="1521881167452">
-        <mark key="[" line="21" column="15" />
-        <mark key="]" line="21" column="15" />
-        <mark key="." line="21" column="15" />
-        <mark key="^" line="21" column="15" />
+      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/templates/ess/device_table_headers.html" timestamp="1522296678947">
+        <mark key="[" line="29" column="19" />
+        <mark key="]" line="29" column="24" />
+        <mark key="." line="29" column="24" />
+        <mark key="^" line="29" column="24" />
       </file>
       <file name="$USER_HOME$/Sites/flask_movie/templates/profile.html" timestamp="1513931085789">
         <mark key="[" line="7" column="0" />
@@ -209,11 +209,12 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/templates/ess/device_list.html" timestamp="1522295852474">
-        <mark key="[" line="74" column="0" />
-        <mark key="]" line="74" column="0" />
-        <mark key="^" line="77" column="19" />
-        <mark key="." line="74" column="0" />
+      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/templates/ess/device_list.html" timestamp="1522296992691">
+        <mark key="'" line="64" column="18" />
+        <mark key="[" line="10" column="29" />
+        <mark key="]" line="10" column="29" />
+        <mark key="." line="10" column="29" />
+        <mark key="^" line="10" column="31" />
       </file>
       <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/utilities.py" timestamp="1522183215496">
         <mark key="'" line="0" column="11" />
@@ -694,12 +695,12 @@
         <mark key="." line="51" column="55" />
         <mark key="^" line="51" column="55" />
       </file>
-      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/templates/ess/node_list.html" timestamp="1522295674460">
-        <mark key="'" line="77" column="80" />
-        <mark key="[" line="107" column="0" />
-        <mark key="]" line="107" column="0" />
-        <mark key="." line="107" column="0" />
-        <mark key="^" line="12" column="54" />
+      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/templates/ess/node_list.html" timestamp="1522296310265">
+        <mark key="'" line="78" column="80" />
+        <mark key="[" line="78" column="76" />
+        <mark key="]" line="78" column="76" />
+        <mark key="^" line="75" column="23" />
+        <mark key="." line="78" column="76" />
       </file>
       <file name="$USER_HOME$/Sites/flask_movie/templates/layouts/layout1.html" timestamp="1513935198698">
         <mark key="'" line="10" column="41" />
@@ -748,7 +749,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="713" column="0" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/tasks.py" />
       <jump line="714" column="35" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/tasks.py" />
       <jump line="716" column="73" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/tasks.py" />
       <jump line="719" column="11" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/tasks.py" />
@@ -848,63 +848,63 @@
       <jump line="184" column="22" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/models.py" />
       <jump line="0" column="0" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/templates/ess/node_list.html" />
       <jump line="69" column="80" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/templates/ess/node_list.html" />
+      <jump line="64" column="18" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/templates/ess/device_list.html" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+      <register name="&quot;" type="4">
+        <text>e</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
-        <text>dataTable</text>
+        <text>node_display</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAkKCJ0ZFtjbGFzcyo9J19jZWxsJ10iKS5hZGRDbGFzcygnaGlkZGVuJyk7CiAgICAgICAgJCgidGhbY2xhc3MqPSdfY2VsbCddIikuYWRkQ2xhc3MoJ2hpZGRlbicpOwo=</text>
+      <register name="0" type="4">
+        <text encoding="base64">ICAgICAgICAgIDxkaXYgY2xhc3M9ImNvbnRhaW5lci1mbHVpZCI+RGlzcGxheToKICAgICAgICAgICAgPGRpdiBjbGFzcz0iZm9ybS1jaGVjayBmb3JtLWNoZWNrLWlubGluZSI+CiAgICAgICAgICAgICAgPGlucHV0IGNsYXNzPSJmb3JtLWNoZWNrLWlucHV0IiB0eXBlPSJyYWRpbyIgbmFtZT0ibm9kZURpc3BsYXlPcHRpb25zIiBpZD0ibm9kZV9kaXNwbGF5X2luZm8iIHZhbHVlPSJpbmZvIiBjaGVja2VkPgogICAgICAgICAgICAgIDxsYWJlbCBjbGFzcz0iZm9ybS1jaGVjay1sYWJlbCIgZm9yPSJub2RlX2Rpc3BsYXlfaW5mbyI+SW5mbzwvbGFiZWw+CiAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICA8ZGl2IGNsYXNzPSJmb3JtLWNoZWNrIGZvcm0tY2hlY2staW5saW5lIj4KICAgICAgICAgICAgICA8aW5wdXQgY2xhc3M9ImZvcm0tY2hlY2staW5wdXQiIHR5cGU9InJhZGlvIiBuYW1lPSJub2RlRGlzcGxheU9wdGlvbnMiIGlkPSJub2RlX2Rpc3BsYXlfc3RhdHVzIiB2YWx1ZT0ic3RhdHVzIj4KICAgICAgICAgICAgICA8bGFiZWwgY2xhc3M9ImZvcm0tY2hlY2stbGFiZWwiIGZvcj0ibm9kZV9kaXNwbGF5X3N0YXR1cyI+U3RhdHVzPC9sYWJlbD4KICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgIDxkaXYgY2xhc3M9ImZvcm0tY2hlY2sgZm9ybS1jaGVjay1pbmxpbmUiPgogICAgICAgICAgICAgIDxpbnB1dCBjbGFzcz0iZm9ybS1jaGVjay1pbnB1dCIgdHlwZT0icmFkaW8iIG5hbWU9Im5vZGVEaXNwbGF5T3B0aW9ucyIgaWQ9Im5vZGVfZGlzcGxheV9oYXJkd2FyZSIgdmFsdWU9ImhhcmR3YXJlIj4KICAgICAgICAgICAgICA8bGFiZWwgY2xhc3M9ImZvcm0tY2hlY2stbGFiZWwiIGZvcj0ibm9kZV9kaXNwbGF5X2hhcmR3YXJlIj5IYXJkd2FyZTwvbGFiZWw+CiAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICA8ZGl2IGNsYXNzPSJmb3JtLWNoZWNrIGZvcm0tY2hlY2staW5saW5lIj4KICAgICAgICAgICAgICA8aW5wdXQgY2xhc3M9ImZvcm0tY2hlY2staW5wdXQiIHR5cGU9InJhZGlvIiBuYW1lPSJub2RlRGlzcGxheU9wdGlvbnMiIGlkPSJub2RlX2Rpc3BsYXlfc29mdHdhcmUiIHZhbHVlPSJzb2Z0d2FyZSI+CiAgICAgICAgICAgICAgPGxhYmVsIGNsYXNzPSJmb3JtLWNoZWNrLWxhYmVsIiBmb3I9Im5vZGVfZGlzcGxheV9zb2Z0d2FyZSI+U29mdHdhcmU8L2xhYmVsPgogICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgPGRpdiBjbGFzcz0iZm9ybS1jaGVjayBmb3JtLWNoZWNrLWlubGluZSI+CiAgICAgICAgICAgICAgPGlucHV0IGNsYXNzPSJmb3JtLWNoZWNrLWlucHV0IiB0eXBlPSJyYWRpbyIgbmFtZT0ibm9kZURpc3BsYXlPcHRpb25zIiBpZD0ibm9kZV9kaXNwbGF5X2NsdXN0ZXIiIHZhbHVlPSJjbHVzdGVyIj4KICAgICAgICAgICAgICA8bGFiZWwgY2xhc3M9ImZvcm0tY2hlY2stbGFiZWwiIGZvcj0ibm9kZV9kaXNwbGF5X2NsdXN0ZXIiPkNsdXN0ZXI8L2xhYmVsPgogICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgPGRpdiBjbGFzcz0iZm9ybS1jaGVjayBmb3JtLWNoZWNrLWlubGluZSI+CiAgICAgICAgICAgICAgPGlucHV0IGNsYXNzPSJmb3JtLWNoZWNrLWlucHV0IiB0eXBlPSJyYWRpbyIgbmFtZT0ibm9kZURpc3BsYXlPcHRpb25zIiBpZD0ibm9kZV9kaXNwbGF5X2FsbCIgdmFsdWU9ImFsbCI+CiAgICAgICAgICAgICAgPGxhYmVsIGNsYXNzPSJmb3JtLWNoZWNrLWxhYmVsIiBmb3I9Im5vZGVfZGlzcGxheV9hbGwiPkFsbDwvbGFiZWw+CiAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgPC9kaXY+</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8dGQ+e3sgcyhkZXZpY2UuYWN0aXZlKSB9fTwvdGQ+Cg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">ICAgICAgICAgICAgPGRpdiBjbGFzcz0iZm9ybS1jaGVjayBmb3JtLWNoZWNrLWlubGluZSI+CiAgICAgICAgICAgICAgPGlucHV0IGNsYXNzPSJmb3JtLWNoZWNrLWlucHV0IiB0eXBlPSJyYWRpbyIgbmFtZT0ibm9kZURpc3BsYXlPcHRpb25zIiBpZD0ibm9kZV9kaXNwbGF5X3NvZnR3YXJlIiB2YWx1ZT0ic29mdHdhcmUiPgogICAgICAgICAgICAgIDxsYWJlbCBjbGFzcz0iZm9ybS1jaGVjay1sYWJlbCIgZm9yPSJub2RlX2Rpc3BsYXlfc29mdHdhcmUiPlNvZnR3YXJlPC9sYWJlbD4KICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgIDxkaXYgY2xhc3M9ImZvcm0tY2hlY2sgZm9ybS1jaGVjay1pbmxpbmUiPgogICAgICAgICAgICAgIDxpbnB1dCBjbGFzcz0iZm9ybS1jaGVjay1pbnB1dCIgdHlwZT0icmFkaW8iIG5hbWU9Im5vZGVEaXNwbGF5T3B0aW9ucyIgaWQ9Im5vZGVfZGlzcGxheV9jbHVzdGVyIiB2YWx1ZT0iY2x1c3RlciI+CiAgICAgICAgICAgICAgPGxhYmVsIGNsYXNzPSJmb3JtLWNoZWNrLWxhYmVsIiBmb3I9Im5vZGVfZGlzcGxheV9jbHVzdGVyIj5DbHVzdGVyPC9sYWJlbD4KICAgICAgICAgICAgPC9kaXY+</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgIDx0aD5NYXggUmF0ZTwvdGg+Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8dGQ+e3sgcyhkZXZpY2UubXR1KSB9fTwvdGQ+Cg==</text>
+        <text encoding="base64">ICAgIDx0aD5BZGRyZXNzPC90aD4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8dGQ+e3sgcyhkZXZpY2UubXR1KSB9fTwvdGQ+Cg==</text>
+        <text encoding="base64">ICAgIDx0aD5NVFU8L3RoPgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8dGQ+e3sgcyhkZXZpY2UuaWJfcG9ydF9ndWlkKSB9fTwvdGQ+CiAgICAgICAgICAgICAgICAgICAgPHRkPnt7IHMoZGV2aWNlLmliX2Rldl9uYW1lKSB9fTwvdGQ+Cg==</text>
+        <text encoding="base64">ICAgIDx0aD5Ecml2ZXI8L3RoPgogICAgPHRoPkZpcm13YXJlPC90aD4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8dGQ+e3sgcyhkZXZpY2UubmV0X2lwKSB9fTwvdGQ+Cg==</text>
+        <text encoding="base64">ICAgIDx0aD5EZXNjcmlwdGlvbjwvdGg+Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8dGQ+e3sgcyhkZXZpY2UuYm9uZF9tYXN0ZXIuZGV2X25hbWUpIH19PC90ZD4K</text>
+        <text encoding="base64">ICAgIDx0aD5Qcm9kdWN0PC90aD4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIDx0aD5TZXJpYWwgIzwvdGg+Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>dataTable</last-search>
+      <last-search>node_display</last-search>
       <last-offset />
-      <last-pattern>dataTable</last-pattern>
-      <last-replace>code_add_form</last-replace>
-      <last-substitute>product_add_form</last-substitute>
+      <last-pattern>node_display</last-pattern>
+      <last-replace>device_display</last-replace>
+      <last-substitute>node_display</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>scan_gpfs</entry>
         <entry>scan_attr</entry>
         <entry>stdout</entry>
         <entry>manifest</entry>
@@ -924,10 +924,9 @@
         <entry>scan_mofed</entry>
         <entry>mofed</entry>
         <entry>dataTable</entry>
+        <entry>node_display</entry>
       </history-search>
       <history-cmd>
-        <entry>399</entry>
-        <entry>437</entry>
         <entry>516</entry>
         <entry>201</entry>
         <entry encoding="base64">dyA=</entry>
@@ -942,9 +941,11 @@
         <entry>611</entry>
         <entry>912</entry>
         <entry>$</entry>
-        <entry>wq</entry>
-        <entry>0</entry>
         <entry>qw</entry>
+        <entry>wq</entry>
+        <entry encoding="base64">JzwsJz5nL25vZGVfZGlzcGxheS9kZXZpY2VfZGlzcGxheS9n</entry>
+        <entry encoding="base64">JzwsJz5zL25vZGVfZGlzcGxheS9kZXZpY2VfZGlzcGxheS9n</entry>
+        <entry>0</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
