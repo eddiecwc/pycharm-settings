@@ -695,12 +695,12 @@
         <mark key="." line="51" column="55" />
         <mark key="^" line="51" column="55" />
       </file>
-      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/templates/ess/node_list.html" timestamp="1522479466103">
+      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/templates/ess/node_list.html" timestamp="1522480251307">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="103" column="60" />
-        <mark key="]" line="103" column="60" />
-        <mark key="^" line="103" column="60" />
-        <mark key="." line="103" column="60" />
+        <mark key="[" line="152" column="71" />
+        <mark key="]" line="152" column="82" />
+        <mark key="^" line="152" column="82" />
+        <mark key="." line="152" column="82" />
       </file>
       <file name="$USER_HOME$/Sites/flask_movie/templates/layouts/layout1.html" timestamp="1513935198698">
         <mark key="'" line="10" column="41" />
@@ -852,10 +852,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>row</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>row</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>node-toggle</text>
@@ -945,8 +945,8 @@
         <entry encoding="base64">JzwsJz5nL25vZGVfZGlzcGxheS9kZXZpY2VfZGlzcGxheS9n</entry>
         <entry encoding="base64">JzwsJz5zL25vZGVfZGlzcGxheS9kZXZpY2VfZGlzcGxheS9n</entry>
         <entry>$</entry>
-        <entry>w</entry>
         <entry>0</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
