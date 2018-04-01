@@ -695,12 +695,12 @@
         <mark key="." line="51" column="55" />
         <mark key="^" line="51" column="55" />
       </file>
-      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/templates/ess/node_list.html" timestamp="1522542021992">
+      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/templates/ess/node_list.html" timestamp="1522611537756">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="154" column="81" />
-        <mark key="]" line="155" column="27" />
-        <mark key="^" line="155" column="27" />
-        <mark key="." line="155" column="27" />
+        <mark key="[" line="108" column="28" />
+        <mark key="]" line="109" column="26" />
+        <mark key="^" line="109" column="26" />
+        <mark key="." line="109" column="26" />
       </file>
       <file name="$USER_HOME$/Sites/flask_movie/templates/layouts/layout1.html" timestamp="1513935198698">
         <mark key="'" line="10" column="41" />
@@ -852,10 +852,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">ICAgIA==</text>
+        <text encoding="base64">ICAgICAgICA=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICAgIA==</text>
+        <text encoding="base64">ICAgICAgICA=</text>
       </register>
       <register name="/" type="4">
         <text>node-toggle</text>
