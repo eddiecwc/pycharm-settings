@@ -695,12 +695,12 @@
         <mark key="." line="51" column="55" />
         <mark key="^" line="51" column="55" />
       </file>
-      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/templates/ess/node_list.html" timestamp="1522620672849">
+      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/templates/ess/node_list.html" timestamp="1523823627696">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="24" column="0" />
-        <mark key="^" line="23" column="40" />
-        <mark key="." line="24" column="0" />
+        <mark key="[" line="94" column="74" />
+        <mark key="]" line="95" column="21" />
+        <mark key="^" line="95" column="21" />
+        <mark key="." line="95" column="21" />
       </file>
       <file name="$USER_HOME$/Sites/flask_movie/templates/layouts/layout1.html" timestamp="1513935198698">
         <mark key="'" line="10" column="41" />
@@ -721,10 +721,10 @@
         <mark key="." line="56" column="29" />
         <mark key="^" line="56" column="29" />
       </file>
-      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/templates/ess/node_add.html" timestamp="1522218835086">
-        <mark key="'" line="80" column="32" />
-        <mark key="[" line="117" column="0" />
-        <mark key="]" line="117" column="54" />
+      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/templates/ess/node_add.html" timestamp="1523823439660">
+        <mark key="'" line="119" column="20" />
+        <mark key="[" line="125" column="0" />
+        <mark key="]" line="125" column="80" />
         <mark key="." line="91" column="57" />
         <mark key="^" line="91" column="57" />
       </file>
@@ -749,7 +749,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="714" column="35" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/tasks.py" />
       <jump line="716" column="73" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/tasks.py" />
       <jump line="719" column="11" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/tasks.py" />
       <jump line="723" column="24" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/tasks.py" />
@@ -849,55 +848,56 @@
       <jump line="69" column="80" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/templates/ess/node_list.html" />
       <jump line="64" column="18" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/templates/ess/device_list.html" />
       <jump line="0" column="0" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/templates/ess/node_list.html" />
+      <jump line="119" column="20" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/templates/ess/node_add.html" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name="-" type="4">
-        <text>down</text>
+        <text>data_</text>
       </register>
       <register name="/" type="4">
-        <text>node-toggle</text>
+        <text>hidden</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaXRlbS5yZW1vdmVDbGFzcygiZmEtY2FyZXQtcmlnaHQiKTsKICAgICAgICAgICAgaXRlbS5hZGRDbGFzcygiZmEtY2FyZXQtZG93biIpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHslIGVuZGZvciAlfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaXRlbS5yZW1vdmVDbGFzcygiZmEtY2FyZXQtcmlnaHQiKTsK</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhpdGVtKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBoaQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBhbGVydCh0eXBlb2YoaXRlbSkpCg==</text>
+        <text encoding="base64">ICAgICAgICB7JSBmb3Igbm9kZSBpbiBub2RlcyAlfQogICAgICAgICAgICA8ZGl2IGlkPSJub2RlX2RldGFpbF97eyBuYW1lIH19IiBzdHlsZT0iZGlzcGxheTogbm9uZTsiPnt7IGluZm8gfX08L2Rpdj4KICAgICAgICB7JSBlbmRmb3IgJX0K</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgaXRlbS5yZW1vdmVDbGFzcygiZmEtY2FyZXQtcmlnaHQiKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBhbGVydChpdGVtKTsK</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhpdGVtKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGZ1bmN0aW9uIG5vZGVEaXNwbGF5VG9nZ2xlKGl0ZW0pIHsK</text>
+        <text encoding="base64">ICAgICAgICBhbGVydCh0eXBlb2YoaXRlbSkpCg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>$</text>
       </register>
     </registers>
     <search>
-      <last-search>node-toggle</last-search>
+      <last-search>hidden</last-search>
       <last-offset />
-      <last-pattern>node-toggle</last-pattern>
+      <last-pattern>hidden</last-pattern>
       <last-replace>device_display</last-replace>
       <last-substitute>node_display</last-substitute>
       <last-dir>1</last-dir>
@@ -905,7 +905,6 @@
     </search>
     <history>
       <history-search>
-        <entry>stdout</entry>
         <entry>manifest</entry>
         <entry>dumps</entry>
         <entry>scan_cpu</entry>
@@ -925,6 +924,7 @@
         <entry>dataTable</entry>
         <entry>node_display</entry>
         <entry>node-toggle</entry>
+        <entry>hidden</entry>
       </history-search>
       <history-cmd>
         <entry>516</entry>
@@ -944,9 +944,9 @@
         <entry>wq</entry>
         <entry encoding="base64">JzwsJz5nL25vZGVfZGlzcGxheS9kZXZpY2VfZGlzcGxheS9n</entry>
         <entry encoding="base64">JzwsJz5zL25vZGVfZGlzcGxheS9kZXZpY2VfZGlzcGxheS9n</entry>
-        <entry>$</entry>
-        <entry>0</entry>
         <entry>w</entry>
+        <entry>0</entry>
+        <entry>$</entry>
       </history-cmd>
       <history-expr />
       <history-input />
