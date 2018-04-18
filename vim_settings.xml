@@ -28,9 +28,6 @@
         <mark key="^" line="5" column="53" />
         <mark key="." line="5" column="53" />
       </file>
-      <file name="/a.dummy" timestamp="1521421153771">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" timestamp="1523831308548">
         <mark key="'" line="56" column="41" />
         <mark key="[" line="186" column="56" />
@@ -172,11 +169,11 @@
         <mark key="^" line="3" column="34" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/templates/ess/cluster_list.html" timestamp="1523952981142">
-        <mark key="[" line="18" column="19" />
-        <mark key="]" line="18" column="25" />
-        <mark key="^" line="18" column="25" />
-        <mark key="." line="18" column="25" />
+      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/templates/ess/cluster_list.html" timestamp="1524034639385">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="^" line="32" column="2" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/Sites/FlaskApp/templates/header.html" timestamp="1514758379486">
         <mark key="'" line="0" column="0" />
@@ -205,12 +202,11 @@
         <mark key="." line="68" column="47" />
         <mark key="^" line="68" column="47" />
       </file>
-      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/templates/ess/device_list.html" timestamp="1522296992691">
-        <mark key="'" line="64" column="18" />
-        <mark key="[" line="10" column="29" />
-        <mark key="]" line="10" column="29" />
-        <mark key="." line="10" column="29" />
-        <mark key="^" line="10" column="31" />
+      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/templates/ess/device_list.html" timestamp="1524034652888">
+        <mark key="'" line="40" column="18" />
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/utilities.py" timestamp="1522183215496">
         <mark key="'" line="0" column="11" />
@@ -475,6 +471,13 @@
         <mark key="." line="18" column="71" />
         <mark key="^" line="50" column="52" />
       </file>
+      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/static/js/ess-monitor.js" timestamp="1524034837857">
+        <mark key="'" line="45" column="9" />
+        <mark key="[" line="44" column="0" />
+        <mark key="]" line="44" column="62" />
+        <mark key="." line="44" column="62" />
+        <mark key="^" line="44" column="62" />
+      </file>
       <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/mod_support/support.py" timestamp="1515479760355">
         <mark key="[" line="23" column="0" />
         <mark key="]" line="47" column="96" />
@@ -549,9 +552,6 @@
         <mark key="]" line="4" column="11" />
         <mark key="." line="4" column="11" />
         <mark key="^" line="4" column="11" />
-      </file>
-      <file name="/PythonRegExp Fragment (tasks.py:42650).regexp" timestamp="1522053326393">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Sites/ESS-Monitor/nodetest.py" timestamp="1515145522602">
         <mark key="[" line="2" column="0" />
@@ -659,9 +659,6 @@
         <mark key="^" line="12" column="11" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1522211884149">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Sites/ESS-Monitor/scripts/collectLinuxNodeInfo.py" timestamp="1514356709242">
         <mark key="'" line="34" column="14" />
         <mark key="[" line="139" column="63" />
@@ -690,12 +687,12 @@
         <mark key="." line="8" column="3" />
         <mark key="^" line="8" column="3" />
       </file>
-      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/templates/ess/node_list.html" timestamp="1524031950639">
+      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/templates/ess/node_list.html" timestamp="1524034622505">
         <mark key="'" line="180" column="130" />
-        <mark key="[" line="39" column="28" />
-        <mark key="]" line="39" column="33" />
-        <mark key="^" line="39" column="33" />
-        <mark key="." line="39" column="33" />
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="^" line="56" column="2" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/Sites/flask_movie/templates/layouts/layout1.html" timestamp="1513935198698">
         <mark key="'" line="10" column="41" />
@@ -716,12 +713,12 @@
         <mark key="." line="56" column="29" />
         <mark key="^" line="56" column="29" />
       </file>
-      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/templates/ess/node_add.html" timestamp="1523823439660">
-        <mark key="'" line="119" column="20" />
-        <mark key="[" line="125" column="0" />
-        <mark key="]" line="125" column="80" />
-        <mark key="." line="91" column="57" />
-        <mark key="^" line="91" column="57" />
+      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/templates/ess/node_add.html" timestamp="1524034738588">
+        <mark key="'" line="112" column="20" />
+        <mark key="[" line="67" column="13" />
+        <mark key="]" line="68" column="6" />
+        <mark key="." line="68" column="6" />
+        <mark key="^" line="68" column="6" />
       </file>
       <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/conf/machine-types.conf" timestamp="1521365154430">
         <mark key="'" line="0" column="0" />
@@ -739,24 +736,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="447" column="2" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" />
-      <jump line="449" column="4" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" />
-      <jump line="384" column="4" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" />
-      <jump line="342" column="42" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/tasks.py" />
-      <jump line="378" column="0" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/tasks.py" />
-      <jump line="402" column="47" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/tasks.py" />
-      <jump line="513" column="4" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/tasks.py" />
-      <jump line="537" column="12" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/tasks.py" />
-      <jump line="600" column="12" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/tasks.py" />
-      <jump line="805" column="50" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/tasks.py" />
-      <jump line="183" column="4" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/tasks.py" />
-      <jump line="42" column="25" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/tasks.py" />
-      <jump line="129" column="50" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/tasks.py" />
-      <jump line="788" column="8" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/tasks.py" />
-      <jump line="826" column="16" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/tasks.py" />
-      <jump line="888" column="27" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/tasks.py" />
-      <jump line="39" column="4" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/models.py" />
-      <jump line="173" column="6" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/models.py" />
       <jump line="175" column="6" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/models.py" />
       <jump line="72" column="24" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/models.py" />
       <jump line="172" column="42" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/models.py" />
@@ -839,55 +818,84 @@
       <jump line="47" column="39" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/templates/ess/node_list.html" />
       <jump line="115" column="65" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/templates/ess/node_list.html" />
       <jump line="180" column="130" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/templates/ess/node_list.html" />
+      <jump line="25" column="4" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/static/js/ess-monitor.js" />
+      <jump line="28" column="16" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/static/js/ess-monitor.js" />
+      <jump line="55" column="8" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/static/js/ess-monitor.js" />
+      <jump line="59" column="4" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/static/js/ess-monitor.js" />
+      <jump line="57" column="11" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/static/js/ess-monitor.js" />
+      <jump line="76" column="6" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/static/js/ess-monitor.js" />
+      <jump line="22" column="25" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/static/js/ess-monitor.js" />
+      <jump line="65" column="0" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/static/js/ess-monitor.js" />
+      <jump line="67" column="15" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/static/js/ess-monitor.js" />
+      <jump line="71" column="7" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/static/js/ess-monitor.js" />
+      <jump line="72" column="16" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/static/js/ess-monitor.js" />
+      <jump line="74" column="24" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/static/js/ess-monitor.js" />
+      <jump line="31" column="8" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/static/js/ess-monitor.js" />
+      <jump line="66" column="7" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/static/js/ess-monitor.js" />
+      <jump line="18" column="9" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/static/js/ess-monitor.js" />
+      <jump line="50" column="0" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/static/js/ess-monitor.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/static/js/ess-monitor.js" />
+      <jump line="45" column="9" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/static/js/ess-monitor.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>e</text>
+        <text encoding="base64">ICAgIGZ1bmN0aW9uIGNvbmZpZ0NoYW5nZShpdGVtKSB7CiAgICAgICAgZGF0YV9pZCA9ICIjY29uZmlnX2RhdGFfIiArIGl0ZW0udmFsdWU7CiAgICAgICAgZGV0YWlscyA9ICQoZGF0YV9pZCkudGV4dCgpOwogICAgICAgICQoIiNjb25maWdfY29udGVudF9maWVsZCIpLnZhbChkZXRhaWxzKTsKCiAgICAgICAgbGluZXMgPSBkZXRhaWxzLnNwbGl0KCdcbicpOwogICAgICAgIGZvciAoaT0wOyBpIDwgbGluZXMubGVuZ3RoOyBpKyspIHsKICAgICAgICAgICAgbGluZSA9IGxpbmVzW2ldLm1hdGNoKC8uKzouKy8pICsgJyc7CiAgICAgICAgICAgIGlmIChsaW5lKSB7CiAgICAgICAgICAgICAgICBhdHRyID0gbGluZS5zcGxpdCgiOiIpWzBdLnRyaW0oKTsKICAgICAgICAgICAgICAgIHZhbCA9IGxpbmUuc3BsaXQoIjoiKVsxXS50cmltKCk7CiAgICAgICAgICAgICAgICBzd2l0Y2goYXR0cikgewogICAgICAgICAgICAgICAgICAgIGNhc2UgJ0xvZ2luIFVzZXInOgogICAgICAgICAgICAgICAgICAgICAgICAkKCIjbG9naW5fdXNlcl9maWVsZCIpLnZhbCh2YWwpOwogICAgICAgICAgICAgICAgICAgICAgICBicmVhazsKICAgICAgICAgICAgICAgICAgICBjYXNlICdMb2dpbiBQYXNzd29yZCc6CiAgICAgICAgICAgICAgICAgICAgICAgICQoIiNsb2dpbl9wYXNzd29yZF9maWVsZCIpLnZhbCh2YWwpOwogICAgICAgICAgICAgICAgICAgICAgICBicmVhazsKICAgICAgICAgICAgICAgICAgICBjYXNlICdQcmltYXJ5IE93bmVyJzoKICAgICAgICAgICAgICAgICAgICAgICAgJCgiI3ByaV9vd25lcl9maWVsZCBvcHRpb24gIikuZWFjaChmdW5jdGlvbihpLGspewogICAgICAgICAgICAgICAgICAgICAgICAgICAgdmFyIG9wdF9vYmogPSAkKHRoaXMpOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgdmFyIG9wdF9sYWJlbCA9IG9wdF9vYmoudGV4dCgpOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgdmFyIG9wdF92YWwgPSBvcHRfb2JqLmF0dHIoInZhbHVlIik7CgogICAgICAgICAgICAgICAgICAgICAgICAgICAgaWYgKG9wdF9sYWJlbC5zZWFyY2godmFsKSAhPSAtMSkgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIC8vIGZvdW5kIGRlZmF1bHQgdmFsdWUgaW4gb3B0aW9uCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgJCgiI3ByaV9vd25lcl9maWVsZCIpLnZhbChvcHRfdmFsKTsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICAgICAgICAgfSkKICAgICAgICAgICAgICAgICAgICAgICAgYnJlYWs7CiAgICAgICAgICAgICAgICAgICAgY2FzZSAnQmFja3VwIE93bmVyJzoKICAgICAgICAgICAgICAgICAgICAgICAgJCgiI2JrX293bmVyX2ZpZWxkIG9wdGlvbiAiKS5lYWNoKGZ1bmN0aW9uKGksayl7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICB2YXIgb3B0X29iaiA9ICQodGhpcyk7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICB2YXIgb3B0X2xhYmVsID0gb3B0X29iai50ZXh0KCk7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICB2YXIgb3B0X3ZhbCA9IG9wdF9vYmouYXR0cigidmFsdWUiKTsKCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBpZiAob3B0X2xhYmVsLnNlYXJjaCh2YWwpICE9IC0xKSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgLy8gZm91bmQgZGVmYXVsdCB2YWx1ZSBpbiBvcHRpb24KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAkKCIjYmtfb3duZXJfZmllbGQiKS52YWwob3B0X3ZhbCk7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgICAgIH0pCiAgICAgICAgICAgICAgICAgICAgICAgIGJyZWFrOwogICAgICAgICAgICAgICAgICAgIGNhc2UgJ0dhdGV3YXknOgogICAgICAgICAgICAgICAgICAgICAgICAkKCIjZ2F0ZXdheV9maWVsZCBvcHRpb24gIikuZWFjaChmdW5jdGlvbihpLGspewogICAgICAgICAgICAgICAgICAgICAgICAgICAgdmFyIG9wdF9vYmogPSAkKHRoaXMpOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgdmFyIG9wdF9sYWJlbCA9IG9wdF9vYmoudGV4dCgpOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgdmFyIG9wdF92YWwgPSBvcHRfb2JqLmF0dHIoInZhbHVlIik7CgogICAgICAgICAgICAgICAgICAgICAgICAgICAgaWYgKG9wdF9sYWJlbC5zZWFyY2godmFsKSAhPSAtMSkgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIC8vIGZvdW5kIGRlZmF1bHQgdmFsdWUgaW4gb3B0aW9uCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgJCgiI2dhdGV3YXlfZmllbGQiKS52YWwob3B0X3ZhbCk7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgICAgIH0pCiAgICAgICAgICAgICAgICAgICAgICAgIGJyZWFrOwogICAgICAgICAgICAgICAgICAgIGRlZmF1bHQ6CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0KICAgICAgICB9CiAgICB9Cg==</text>
       </register>
       <register name="-" type="4">
         <text>e</text>
       </register>
       <register name="/" type="4">
-        <text>toggle</text>
+        <text>configChange</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">ICAgIDxzY3JpcHQ+CiAgICBmdW5jdGlvbiBkaXNwbGF5Q2hhbmdlKGl0ZW0pIHsKICAgICAgICBpZiAoaXRlbS52YWx1ZSA9PSAiYWxsIikgewogICAgICAgICAgICAkKCJ0ZFtjbGFzcyo9J19jZWxsJ10sIHRoW2NsYXNzKj0nX2NlbGwnXSIpLnJlbW92ZUNsYXNzKCdkLW5vbmUnKTsKICAgICAgICB9CiAgICAgICAgZWxzZSB7CiAgICAgICAgICAgIGNsYXNzX25hbWUgPSAibm9kZV8iICsgaXRlbS52YWx1ZSArICJfY2VsbCI7CiAgICAgICAgICAgICQoInRkW2NsYXNzKj0nX2NlbGwnXSwgdGhbY2xhc3MqPSdfY2VsbCddIikuYWRkQ2xhc3MoJ2Qtbm9uZScpOwogICAgICAgICAgICAkKCJ0ZC4iICsgY2xhc3NfbmFtZSArICIsIHRoLiIgKyBjbGFzc19uYW1lKS5yZW1vdmVDbGFzcygnZC1ub25lJyk7CiAgICAgICAgfQogICAgfQoKICAgIGZ1bmN0aW9uIGNhcmV0VG9nZ2xlKGl0ZW0pIHsKICAgICAgICBjdXJyQ2xhc3MgPSBpdGVtLmF0dHIoJ2NsYXNzJyk7CiAgICAgICAgaWYgKGN1cnJDbGFzcy5zZWFyY2goImZhLWNhcmV0LXJpZ2h0IikgIT0gLTEpIHsKICAgICAgICAgICAgaXRlbS5yZW1vdmVDbGFzcygiZmEtY2FyZXQtcmlnaHQiKTsKICAgICAgICAgICAgaXRlbS5hZGRDbGFzcygiZmEtY2FyZXQtZG93biIpOwogICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgIGl0ZW0ucmVtb3ZlQ2xhc3MoImZhLWNhcmV0LWRvd24iKTsKICAgICAgICAgICAgaXRlbS5hZGRDbGFzcygiZmEtY2FyZXQtcmlnaHQiKTsKICAgICAgICB9CiAgICB9CgogICAgJChkb2N1bWVudCkucmVhZHkoZnVuY3Rpb24oKXsKICAgICAgICBlID0gJCgiaW5wdXRbdHlwZT1yYWRpb106Y2hlY2tlZCIpCiAgICAgICAgZGlzcGxheUNoYW5nZShlWzBdKQogICAgfSk7CgogICAgJChkb2N1bWVudCkucmVhZHkoZnVuY3Rpb24oKSB7CiAgICAgICAgJCgnaW5wdXRbdHlwZT1yYWRpb10nKS5vbigibG9hZCBjaGFuZ2UiLCBmdW5jdGlvbigpIHsKICAgICAgICAgICAgZGlzcGxheUNoYW5nZSh0aGlzKTsKICAgICAgICB9KTsKICAgIH0pOwoKICAgICQoZG9jdW1lbnQpLnJlYWR5KGZ1bmN0aW9uKCkgewogICAgICAgICQoInRkW2lkXj0nbm9kZS10b2dnbGUnXSIpLm9uKCJjbGljayIsIGZ1bmN0aW9uKCkgewogICAgICAgICAgICBjYXJldFRvZ2dsZSgkKHRoaXMpLmNoaWxkcmVuKCdpJykpOwogICAgICAgIH0pOwogICAgfSk7CgogICAgJChkb2N1bWVudCkucmVhZHkoZnVuY3Rpb24oKSB7CiAgICAgICAgJCgiZGl2W2lkXj0nbm9kZS1kZXRhaWwtaGVhZGVyJ10iKS5vbigiY2xpY2siLCBmdW5jdGlvbigpIHsKICAgICAgICAgICAgaG9zdG5hbWU9JCh0aGlzKS5hdHRyKCdkYXRhLWhvc3RuYW1lJyk7CiAgICAgICAgICAgIGNlbGw9JCgidGRbaWRePSdub2RlLXRvZ2dsZS0iICsgaG9zdG5hbWUgKyAiJ10iKTsKICAgICAgICAgICAgY2FyZXRUb2dnbGUoY2VsbC5jaGlsZHJlbignaScpKTsKICAgICAgICB9KTsKICAgIH0pOwogICAgPC9zY3JpcHQ+Cg==</text>
+        <text encoding="base64">ICAgIGZ1bmN0aW9uIGNvbmZpZ0NoYW5nZShpdGVtKSB7CiAgICAgICAgZGF0YV9pZCA9ICIjY29uZmlnX2RhdGFfIiArIGl0ZW0udmFsdWU7CiAgICAgICAgZGV0YWlscyA9ICQoZGF0YV9pZCkudGV4dCgpOwogICAgICAgICQoIiNjb25maWdfY29udGVudF9maWVsZCIpLnZhbChkZXRhaWxzKTsKCiAgICAgICAgbGluZXMgPSBkZXRhaWxzLnNwbGl0KCdcbicpOwogICAgICAgIGZvciAoaT0wOyBpIDwgbGluZXMubGVuZ3RoOyBpKyspIHsKICAgICAgICAgICAgbGluZSA9IGxpbmVzW2ldLm1hdGNoKC8uKzouKy8pICsgJyc7CiAgICAgICAgICAgIGlmIChsaW5lKSB7CiAgICAgICAgICAgICAgICBhdHRyID0gbGluZS5zcGxpdCgiOiIpWzBdLnRyaW0oKTsKICAgICAgICAgICAgICAgIHZhbCA9IGxpbmUuc3BsaXQoIjoiKVsxXS50cmltKCk7CiAgICAgICAgICAgICAgICBzd2l0Y2goYXR0cikgewogICAgICAgICAgICAgICAgICAgIGNhc2UgJ0xvZ2luIFVzZXInOgogICAgICAgICAgICAgICAgICAgICAgICAkKCIjbG9naW5fdXNlcl9maWVsZCIpLnZhbCh2YWwpOwogICAgICAgICAgICAgICAgICAgICAgICBicmVhazsKICAgICAgICAgICAgICAgICAgICBjYXNlICdMb2dpbiBQYXNzd29yZCc6CiAgICAgICAgICAgICAgICAgICAgICAgICQoIiNsb2dpbl9wYXNzd29yZF9maWVsZCIpLnZhbCh2YWwpOwogICAgICAgICAgICAgICAgICAgICAgICBicmVhazsKICAgICAgICAgICAgICAgICAgICBjYXNlICdQcmltYXJ5IE93bmVyJzoKICAgICAgICAgICAgICAgICAgICAgICAgJCgiI3ByaV9vd25lcl9maWVsZCBvcHRpb24gIikuZWFjaChmdW5jdGlvbihpLGspewogICAgICAgICAgICAgICAgICAgICAgICAgICAgdmFyIG9wdF9vYmogPSAkKHRoaXMpOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgdmFyIG9wdF9sYWJlbCA9IG9wdF9vYmoudGV4dCgpOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgdmFyIG9wdF92YWwgPSBvcHRfb2JqLmF0dHIoInZhbHVlIik7CgogICAgICAgICAgICAgICAgICAgICAgICAgICAgaWYgKG9wdF9sYWJlbC5zZWFyY2godmFsKSAhPSAtMSkgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIC8vIGZvdW5kIGRlZmF1bHQgdmFsdWUgaW4gb3B0aW9uCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgJCgiI3ByaV9vd25lcl9maWVsZCIpLnZhbChvcHRfdmFsKTsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICAgICAgICAgfSkKICAgICAgICAgICAgICAgICAgICAgICAgYnJlYWs7CiAgICAgICAgICAgICAgICAgICAgY2FzZSAnQmFja3VwIE93bmVyJzoKICAgICAgICAgICAgICAgICAgICAgICAgJCgiI2JrX293bmVyX2ZpZWxkIG9wdGlvbiAiKS5lYWNoKGZ1bmN0aW9uKGksayl7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICB2YXIgb3B0X29iaiA9ICQodGhpcyk7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICB2YXIgb3B0X2xhYmVsID0gb3B0X29iai50ZXh0KCk7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICB2YXIgb3B0X3ZhbCA9IG9wdF9vYmouYXR0cigidmFsdWUiKTsKCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBpZiAob3B0X2xhYmVsLnNlYXJjaCh2YWwpICE9IC0xKSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgLy8gZm91bmQgZGVmYXVsdCB2YWx1ZSBpbiBvcHRpb24KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAkKCIjYmtfb3duZXJfZmllbGQiKS52YWwob3B0X3ZhbCk7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgICAgIH0pCiAgICAgICAgICAgICAgICAgICAgICAgIGJyZWFrOwogICAgICAgICAgICAgICAgICAgIGNhc2UgJ0dhdGV3YXknOgogICAgICAgICAgICAgICAgICAgICAgICAkKCIjZ2F0ZXdheV9maWVsZCBvcHRpb24gIikuZWFjaChmdW5jdGlvbihpLGspewogICAgICAgICAgICAgICAgICAgICAgICAgICAgdmFyIG9wdF9vYmogPSAkKHRoaXMpOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgdmFyIG9wdF9sYWJlbCA9IG9wdF9vYmoudGV4dCgpOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgdmFyIG9wdF92YWwgPSBvcHRfb2JqLmF0dHIoInZhbHVlIik7CgogICAgICAgICAgICAgICAgICAgICAgICAgICAgaWYgKG9wdF9sYWJlbC5zZWFyY2godmFsKSAhPSAtMSkgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIC8vIGZvdW5kIGRlZmF1bHQgdmFsdWUgaW4gb3B0aW9uCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgJCgiI2dhdGV3YXlfZmllbGQiKS52YWwob3B0X3ZhbCk7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgICAgIH0pCiAgICAgICAgICAgICAgICAgICAgICAgIGJyZWFrOwogICAgICAgICAgICAgICAgICAgIGRlZmF1bHQ6CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0KICAgICAgICB9CiAgICB9Cg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text>/*
+    $(document).ready(function(){
+        e = $(&quot;input[type=radio]:checked&quot;)
+        configChange(e[0])
+    });
+
+    $(document).ready(function() {
+        $('input[type=radio]').on(&quot;load change&quot;, function() {
+            configChange(this);
+        });
+    });
+    */</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIH0pOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB9KTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGlzcGxheUNoYW5nZSh0aGlzKTsK</text>
+      <register name="4" type="4">
+        <text encoding="base64">PCEtLQogICAgPHNjcmlwdD4KICAgIGZ1bmN0aW9uIGRpc3BsYXlDaGFuZ2UoaXRlbSkgewogICAgICAgIGlmIChpdGVtLnZhbHVlID09ICJhbGwiKSB7CiAgICAgICAgICAgICQoInRkW2NsYXNzKj0nX2NlbGwnXSwgdGhbY2xhc3MqPSdfY2VsbCddIikucmVtb3ZlQ2xhc3MoJ2Qtbm9uZScpOwogICAgICAgIH0KICAgICAgICBlbHNlIHsKICAgICAgICAgICAgY2xhc3NfbmFtZSA9ICJkZXZfIiArIGl0ZW0udmFsdWUgKyAiX2NlbGwiOwogICAgICAgICAgICAkKCJ0ZFtjbGFzcyo9J19jZWxsJ10sIHRoW2NsYXNzKj0nX2NlbGwnXSIpLmFkZENsYXNzKCdkLW5vbmUnKTsKICAgICAgICAgICAgJCgidGQuIiArIGNsYXNzX25hbWUgKyAiLCB0aC4iICsgY2xhc3NfbmFtZSkucmVtb3ZlQ2xhc3MoJ2Qtbm9uZScpOwogICAgICAgIH0KICAgIH0KCiAgICAkKGRvY3VtZW50KS5yZWFkeShmdW5jdGlvbigpewogICAgICAgIGUgPSAkKCJpbnB1dFt0eXBlPXJhZGlvXTpjaGVja2VkIikKICAgICAgICBkaXNwbGF5Q2hhbmdlKGVbMF0pCiAgICB9KTsKCiAgICAkKGRvY3VtZW50KS5yZWFkeShmdW5jdGlvbigpIHsKICAgICAgICAkKCdpbnB1dFt0eXBlPXJhZGlvXScpLm9uKCJsb2FkIGNoYW5nZSIsIGZ1bmN0aW9uKCkgewogICAgICAgICAgICBkaXNwbGF5Q2hhbmdlKHRoaXMpOwogICAgICAgIH0pOwogICAgfSk7CiAgICA8L3NjcmlwdD4KLS0+</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAkKCdpbnB1dFt0eXBlPXJhZGlvXScpLm9uKCJsb2FkIGNoYW5nZSIsIGZ1bmN0aW9uKCkgewo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICQoZG9jdW1lbnQpLnJlYWR5KGZ1bmN0aW9uKCkgewo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIH0pOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBkaXNwbGF5Q2hhbmdlKGVbMF0pCg==</text>
+      <register name="9" type="4">
+        <text encoding="base64">PCEtLQogICAgPHNjcmlwdD4KCiAgICBmdW5jdGlvbiBjYXJldFRvZ2dsZShpdGVtKSB7CiAgICAgICAgY3VyckNsYXNzID0gaXRlbS5hdHRyKCdjbGFzcycpOwogICAgICAgIGlmIChjdXJyQ2xhc3Muc2VhcmNoKCJmYS1jYXJldC1yaWdodCIpICE9IC0xKSB7CiAgICAgICAgICAgIGl0ZW0ucmVtb3ZlQ2xhc3MoImZhLWNhcmV0LXJpZ2h0Iik7CiAgICAgICAgICAgIGl0ZW0uYWRkQ2xhc3MoImZhLWNhcmV0LWRvd24iKTsKICAgICAgICB9IGVsc2UgewogICAgICAgICAgICBpdGVtLnJlbW92ZUNsYXNzKCJmYS1jYXJldC1kb3duIik7CiAgICAgICAgICAgIGl0ZW0uYWRkQ2xhc3MoImZhLWNhcmV0LXJpZ2h0Iik7CiAgICAgICAgfQogICAgfQoKICAgICQoZG9jdW1lbnQpLnJlYWR5KGZ1bmN0aW9uKCkgewogICAgICAgICQoInRkW2lkXj0nY2x1c3Rlcl90b2dnbGUnXSIpLm9uKCJjbGljayIsIGZ1bmN0aW9uKCkgewogICAgICAgICAgICBjYXJldFRvZ2dsZSgkKHRoaXMpLmNoaWxkcmVuKCdpJykpOwogICAgICAgIH0pOwogICAgfSk7CgogICAgJChkb2N1bWVudCkucmVhZHkoZnVuY3Rpb24oKSB7CiAgICAgICAgJCgiZGl2W2lkXj0nY2x1c3Rlci1kZXRhaWwtaGVhZGVyJ10iKS5vbigiY2xpY2siLCBmdW5jdGlvbigpIHsKICAgICAgICAgICAgY2x1c3Rlcl9uYW1lPSQodGhpcykuYXR0cignZGF0YS1jbHVzdGVyLW5hbWUnKTsKICAgICAgICAgICAgY2VsbD0kKCJ0ZFtpZF49J2NsdXN0ZXJfdG9nZ2xlXyIgKyBjbHVzdGVyX25hbWUgKyAiJ10iKTsKICAgICAgICAgICAgY2FyZXRUb2dnbGUoY2VsbC5jaGlsZHJlbignaScpKTsKICAgICAgICB9KTsKICAgIH0pOwogICAgPC9zY3JpcHQ+Ci0tPg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>$</text>
       </register>
     </registers>
     <search>
-      <last-search>toggle</last-search>
+      <last-search>configChange</last-search>
       <last-offset />
-      <last-pattern>toggle</last-pattern>
+      <last-pattern>configChange</last-pattern>
       <last-replace>device_display</last-replace>
       <last-substitute>node_display</last-substitute>
       <last-dir>1</last-dir>
@@ -895,10 +903,6 @@
     </search>
     <history>
       <history-search>
-        <entry>env</entry>
-        <entry>hoststring</entry>
-        <entry>host_string</entry>
-        <entry>create_from_str</entry>
         <entry>Device</entry>
         <entry>systemd_ver</entry>
         <entry>SYSTEMD</entry>
@@ -915,6 +919,10 @@
         <entry>thead</entry>
         <entry>sm</entry>
         <entry>toggle</entry>
+        <entry>displayChange</entry>
+        <entry>node</entry>
+        <entry>console</entry>
+        <entry>configChange</entry>
       </history-search>
       <history-cmd>
         <entry>201</entry>
@@ -933,10 +941,10 @@
         <entry encoding="base64">JzwsJz5nL25vZGVfZGlzcGxheS9kZXZpY2VfZGlzcGxheS9n</entry>
         <entry encoding="base64">JzwsJz5zL25vZGVfZGlzcGxheS9kZXZpY2VfZGlzcGxheS9n</entry>
         <entry>374</entry>
-        <entry>$</entry>
         <entry>wq</entry>
-        <entry>0</entry>
         <entry>w</entry>
+        <entry>0</entry>
+        <entry>$</entry>
       </history-cmd>
       <history-expr />
       <history-input />
