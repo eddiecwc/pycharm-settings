@@ -690,12 +690,12 @@
         <mark key="." line="8" column="3" />
         <mark key="^" line="8" column="3" />
       </file>
-      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/templates/ess/node_list.html" timestamp="1523953037382">
+      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/templates/ess/node_list.html" timestamp="1524031950639">
         <mark key="'" line="180" column="130" />
-        <mark key="[" line="115" column="39" />
-        <mark key="]" line="115" column="40" />
-        <mark key="^" line="167" column="22" />
-        <mark key="." line="115" column="40" />
+        <mark key="[" line="39" column="28" />
+        <mark key="]" line="39" column="33" />
+        <mark key="^" line="39" column="33" />
+        <mark key="." line="39" column="33" />
       </file>
       <file name="$USER_HOME$/Sites/flask_movie/templates/layouts/layout1.html" timestamp="1513935198698">
         <mark key="'" line="10" column="41" />
