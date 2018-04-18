@@ -35,11 +35,12 @@
         <mark key="^" line="56" column="56" />
         <mark key="." line="186" column="56" />
       </file>
-      <file name="$USER_HOME$/Sites/ESS-Monitor/TODO.md" timestamp="1524039284819">
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="24" column="0" />
-        <mark key="^" line="27" column="17" />
-        <mark key="." line="24" column="0" />
+      <file name="$USER_HOME$/Sites/ESS-Monitor/TODO.md" timestamp="1524039909314">
+        <mark key="'" line="52" column="10" />
+        <mark key="[" line="78" column="3" />
+        <mark key="]" line="78" column="3" />
+        <mark key="^" line="78" column="3" />
+        <mark key="." line="78" column="3" />
       </file>
       <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/templates/ess/node_table_headers.html" timestamp="1523943351440">
         <mark key="'" line="32" column="14" />
@@ -119,11 +120,11 @@
         <mark key="." line="18" column="39" />
         <mark key="^" line="18" column="39" />
       </file>
-      <file name="$USER_HOME$/Sites/ESS-Monitor/README.md" timestamp="1523846180697">
-        <mark key="[" line="73" column="32" />
-        <mark key="]" line="74" column="24" />
-        <mark key="." line="74" column="24" />
-        <mark key="^" line="74" column="24" />
+      <file name="$USER_HOME$/Sites/ESS-Monitor/README.md" timestamp="1524039959346">
+        <mark key="[" line="64" column="0" />
+        <mark key="]" line="64" column="0" />
+        <mark key="^" line="69" column="64" />
+        <mark key="." line="64" column="0" />
       </file>
       <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/templates/ess/code_list.html" timestamp="1522211505335">
         <mark key="[" line="48" column="50" />
@@ -735,8 +736,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="247" column="90" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/models.py" />
-      <jump line="250" column="38" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/models.py" />
       <jump line="252" column="18" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/models.py" />
       <jump line="257" column="31" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/models.py" />
       <jump line="258" column="16" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/models.py" />
@@ -835,55 +834,57 @@
       <jump line="24" column="0" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/static/js/ess-monitor.js" />
       <jump line="117" column="0" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/static/js/ess-monitor.js" />
       <jump line="2" column="9" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/static/js/ess-monitor.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/Sites/ESS-Monitor/TODO.md" />
+      <jump line="52" column="10" filename="$USER_HOME$/Sites/ESS-Monitor/TODO.md" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgLSBtb2RhbCB0byBkaXNwbGF5IGRldGFpbCBmb3IgZWFjaCBub2RlIChpdGVtKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ZG8gICAgICAgICA=</text>
+        <text>etc</text>
       </register>
       <register name="/" type="4">
-        <text>console</text>
+        <text>discover</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGVfbG9nKHRhcmdldCk7Cg==</text>
+        <text encoding="base64">IyMgVE9ETzoKLSBhdXRvIG5vZGUgZGlzY292ZXJ5Ci0gcmVsb2FkIHByb2R1Y3QgaW5mbyBtb2R1bGUgKGh0dHBzOi8vZG9jcy5weXRob24ub3JnLzMuNS9saWJyYXJ5L2ltcG9ydGxpYi5odG1sI2ltcG9ydGxpYi5yZWxvYWQpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgLSBtb2RhbCB0byBkaXNwbGF5IGRldGFpbCBmb3IgZWFjaCBub2RlIChpdGVtKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgLSBleHBhbmRhYmxlIHJvd3MgdG8gZGlzcGxheSBub2RlIGRldGFpbAo=</text>
+        <text encoding="base64">LSByZWxvYWQgcHJvZHVjdCBpbmZvIG1vZHVsZSAoaHR0cHM6Ly9kb2NzLnB5dGhvbi5vcmcvMy41L2xpYnJhcnkvaW1wb3J0bGliLmh0bWwjaW1wb3J0bGliLnJlbG9hZCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">LSBhdXRvIG5vZGUgZGlzY292ZXJ5Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZV9sb2coInNoaWZ0IGtleSBwcmVzc2VkIikK</text>
+        <text encoding="base64">IyMgVE9ETzoK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoZS5zaGlmdEtleSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">ICAgICAgICBpZiAoZS5zaGlmdEtleSkgewogICAgICAgICAgICBjb25zb2xlX2xvZyhlLnRhcmdldC5pZCk7CiAgICAgICAgICAgIGhvc3RuYW1lID0gZS50YXJnZXQuaWQuc3BsaXQoJ18nKVsyXTsKICAgICAgICAgICAgY29uc29sZV9sb2coImhvc3RuYW1lID0gIiArIGhvc3RuYW1lKQogICAgICAgICAgICB0YXJnZXQgPSAkKCJkaXZbaWRePSdub2RlLWRldGFpbC0iICsgaG9zdG5hbWUgKyAiJ10iKTs7CiAgICAgICAgICAgIGNvbnNvbGVfbG9nKHRhcmdldCk7CiAgICAgICAgICAgICQoZG9jdW1lbnQpLnNjcm9sbFRvcCgkKHRhcmdldCkub2Zmc2V0KCkudG9wICk7CiAgICAgICAgfQ==</text>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZV9sb2coInNoaWZ0IGtleSBwcmVzc2VkIikK</text>
+        <text encoding="base64">LSBhZGQgbm9kZSBkZXRhaWwgZGlzcGxheQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoZS5zaGlmdEtleSkK</text>
+        <text encoding="base64">LSB0YWJsZSBtYWtlb3ZlciAoZXhwYW5kYWJsZSByb3dzLCBmaWx0ZXJzLCBldGMpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgLSBmaWx0ZXIgY29sdW1ucyB0byBkaXNwbGF5IChlc3BlY2lhbGx5IGZvciBjb2RlIGxvZykK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>console</last-search>
+      <last-search>discover</last-search>
       <last-offset />
-      <last-pattern>console</last-pattern>
+      <last-pattern>discover</last-pattern>
       <last-replace>device_display</last-replace>
       <last-substitute>node_display</last-substitute>
       <last-dir>1</last-dir>
@@ -891,8 +892,6 @@
     </search>
     <history>
       <history-search>
-        <entry>systemd_ver</entry>
-        <entry>SYSTEMD</entry>
         <entry>mlofed</entry>
         <entry>scan_mofed</entry>
         <entry>mofed</entry>
@@ -911,6 +910,8 @@
         <entry>configChange</entry>
         <entry>console.log</entry>
         <entry>console</entry>
+        <entry>auto</entry>
+        <entry>discover</entry>
       </history-search>
       <history-cmd>
         <entry>201</entry>
@@ -930,8 +931,8 @@
         <entry encoding="base64">JzwsJz5zL25vZGVfZGlzcGxheS9kZXZpY2VfZGlzcGxheS9n</entry>
         <entry>374</entry>
         <entry>$</entry>
-        <entry>0</entry>
         <entry>wq</entry>
+        <entry>0</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
