@@ -28,6 +28,9 @@
         <mark key="^" line="5" column="53" />
         <mark key="." line="5" column="53" />
       </file>
+      <file name="$USER_HOME$/Sites/ESS-Monitor/misc/startbootstrap-sb-admin-gh-pages/navbar.html" timestamp="1524166827879">
+        <mark key="'" line="23" column="35" />
+      </file>
       <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" timestamp="1523831308548">
         <mark key="'" line="56" column="41" />
         <mark key="[" line="186" column="56" />
@@ -674,12 +677,12 @@
         <mark key="^" line="51" column="0" />
         <mark key="." line="51" column="0" />
       </file>
-      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/templates/header.html" timestamp="1524164617241">
-        <mark key="'" line="6" column="73" />
-        <mark key="[" line="29" column="0" />
-        <mark key="]" line="32" column="27" />
-        <mark key="." line="37" column="55" />
-        <mark key="^" line="37" column="55" />
+      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/templates/header.html" timestamp="1524166834100">
+        <mark key="'" line="150" column="24" />
+        <mark key="[" line="99" column="56" />
+        <mark key="]" line="99" column="60" />
+        <mark key="." line="99" column="60" />
+        <mark key="^" line="99" column="60" />
       </file>
       <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/templates/layouts/layout.html" timestamp="1523846156274">
         <mark key="'" line="0" column="0" />
@@ -736,9 +739,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="257" column="31" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/models.py" />
-      <jump line="258" column="16" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/models.py" />
-      <jump line="4" column="0" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/models.py" />
       <jump line="35" column="34" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/models.py" />
       <jump line="783" column="37" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/tasks.py" />
       <jump line="178" column="43" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/tasks.py" />
@@ -836,19 +836,22 @@
       <jump line="0" column="0" filename="$USER_HOME$/Sites/ESS-Monitor/TODO.md" />
       <jump line="52" column="10" filename="$USER_HOME$/Sites/ESS-Monitor/TODO.md" />
       <jump line="6" column="73" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/templates/header.html" />
+      <jump line="20" column="31" filename="$USER_HOME$/Sites/ESS-Monitor/misc/startbootstrap-sb-admin-gh-pages/navbar.html" />
+      <jump line="23" column="35" filename="$USER_HOME$/Sites/ESS-Monitor/misc/startbootstrap-sb-admin-gh-pages/navbar.html" />
+      <jump line="150" column="24" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/templates/header.html" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>Products</text>
       </register>
       <register name="-" type="4">
-        <text>etc</text>
+        <text>Products</text>
       </register>
       <register name="/" type="4">
-        <text>Dashboard</text>
+        <text>sidenavToggler</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">IyMgVE9ETzoKLSBhdXRvIG5vZGUgZGlzY292ZXJ5Ci0gcmVsb2FkIHByb2R1Y3QgaW5mbyBtb2R1bGUgKGh0dHBzOi8vZG9jcy5weXRob24ub3JnLzMuNS9saWJyYXJ5L2ltcG9ydGxpYi5odG1sI2ltcG9ydGxpYi5yZWxvYWQpCg==</text>
+      <register name="0" type="4">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8bGk+CiAgICAgICAgICAgICAgICAgICAgICAgIDxhIGhyZWY9Ii9wcm9kdWN0LyI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8aSBjbGFzcz0iZmEgZmEtZncgZmEtYmFyY29kZSI+PC9pPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPHNwYW4gY2xhc3M9Im5hdi1saW5rLXRleHQiPlByb2R1Y3RzPC9zcGFuPgogICAgICAgICAgICAgICAgICAgICAgICA8L2E+CiAgICAgICAgICAgICAgICAgICAgPC9saT4gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -882,9 +885,9 @@
       </register>
     </registers>
     <search>
-      <last-search>Dashboard</last-search>
+      <last-search>sidenavToggler</last-search>
       <last-offset />
-      <last-pattern>Dashboard</last-pattern>
+      <last-pattern>sidenavToggler</last-pattern>
       <last-replace>device_display</last-replace>
       <last-substitute>node_display</last-substitute>
       <last-dir>1</last-dir>
@@ -892,8 +895,6 @@
     </search>
     <history>
       <history-search>
-        <entry>scan_mofed</entry>
-        <entry>mofed</entry>
         <entry>dataTable</entry>
         <entry>node_display</entry>
         <entry>node-toggle</entry>
@@ -912,6 +913,8 @@
         <entry>auto</entry>
         <entry>discover</entry>
         <entry>Dashboard</entry>
+        <entry>Registration</entry>
+        <entry>sidenavToggler</entry>
       </history-search>
       <history-cmd>
         <entry>201</entry>
