@@ -674,8 +674,8 @@
         <mark key="^" line="51" column="0" />
         <mark key="." line="51" column="0" />
       </file>
-      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/templates/header.html" timestamp="1522476613574">
-        <mark key="'" line="6" column="0" />
+      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/templates/header.html" timestamp="1524164617241">
+        <mark key="'" line="6" column="73" />
         <mark key="[" line="29" column="0" />
         <mark key="]" line="32" column="27" />
         <mark key="." line="37" column="55" />
@@ -736,7 +736,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="252" column="18" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/models.py" />
       <jump line="257" column="31" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/models.py" />
       <jump line="258" column="16" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/models.py" />
       <jump line="4" column="0" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/models.py" />
@@ -836,6 +835,7 @@
       <jump line="2" column="9" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/static/js/ess-monitor.js" />
       <jump line="0" column="0" filename="$USER_HOME$/Sites/ESS-Monitor/TODO.md" />
       <jump line="52" column="10" filename="$USER_HOME$/Sites/ESS-Monitor/TODO.md" />
+      <jump line="6" column="73" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/templates/header.html" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -845,7 +845,7 @@
         <text>etc</text>
       </register>
       <register name="/" type="4">
-        <text>discover</text>
+        <text>Dashboard</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">IyMgVE9ETzoKLSBhdXRvIG5vZGUgZGlzY292ZXJ5Ci0gcmVsb2FkIHByb2R1Y3QgaW5mbyBtb2R1bGUgKGh0dHBzOi8vZG9jcy5weXRob24ub3JnLzMuNS9saWJyYXJ5L2ltcG9ydGxpYi5odG1sI2ltcG9ydGxpYi5yZWxvYWQpCg==</text>
@@ -882,9 +882,9 @@
       </register>
     </registers>
     <search>
-      <last-search>discover</last-search>
+      <last-search>Dashboard</last-search>
       <last-offset />
-      <last-pattern>discover</last-pattern>
+      <last-pattern>Dashboard</last-pattern>
       <last-replace>device_display</last-replace>
       <last-substitute>node_display</last-substitute>
       <last-dir>1</last-dir>
@@ -892,7 +892,6 @@
     </search>
     <history>
       <history-search>
-        <entry>mlofed</entry>
         <entry>scan_mofed</entry>
         <entry>mofed</entry>
         <entry>dataTable</entry>
@@ -912,6 +911,7 @@
         <entry>console</entry>
         <entry>auto</entry>
         <entry>discover</entry>
+        <entry>Dashboard</entry>
       </history-search>
       <history-cmd>
         <entry>201</entry>
