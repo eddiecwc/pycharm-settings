@@ -233,12 +233,6 @@
         <mark key="^" line="190" column="24" />
         <mark key="." line="215" column="0" />
       </file>
-      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/static/js/sb-admin.js" timestamp="1524205453673">
-        <mark key="[" line="18" column="27" />
-        <mark key="]" line="18" column="37" />
-        <mark key="^" line="18" column="37" />
-        <mark key="." line="18" column="37" />
-      </file>
       <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/mod_support/product_number.py" timestamp="1516348109317">
         <mark key="'" line="47" column="10" />
         <mark key="[" line="58" column="50" />
@@ -593,11 +587,12 @@
         <mark key="^" line="16" column="57" />
         <mark key="." line="16" column="57" />
       </file>
-      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/static/css/ess-monitor.css" timestamp="1524258452161">
-        <mark key="[" line="33" column="1" />
-        <mark key="]" line="34" column="1" />
-        <mark key="." line="34" column="1" />
-        <mark key="^" line="34" column="1" />
+      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/static/css/ess-monitor.css" timestamp="1524262059193">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="0" />
+        <mark key="^" line="38" column="16" />
+        <mark key="." line="26" column="0" />
       </file>
       <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/mod_ess/EssNode.py" timestamp="1515145664892">
         <mark key="[" line="13" column="5" />
@@ -747,7 +742,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="15" column="35" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/tasks.py" />
       <jump line="17" column="76" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/tasks.py" />
       <jump line="13" column="14" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/constants.py" />
       <jump line="1018" column="43" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/tasks.py" />
@@ -847,55 +841,64 @@
       <jump line="0" column="0" filename="$USER_HOME$/Sites/ESS-Monitor/misc/startbootstrap-sb-admin-gh-pages/navbar.html" />
       <jump line="27" column="8" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/static/js/ess-monitor.js" />
       <jump line="0" column="0" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/templates/header.html" />
+      <jump line="0" column="0" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/static/css/ess-monitor.css" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>max-height</text>
+        <text>red</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICBvdmVyZmxvdy14OiBoaWRlOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">d2Via2l0IGRvZXNuJ3Qgd29yayBmb3IgZmYgeWV0Cg==</text>
-      </register>
-      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
+      </register>
+      <register name="2" type="4">
+        <text>.TEMPnav-scrollbar {
+  overflow-y: auto;
+}
+
+/*
+#navbarResponsive {
+    overflow: hidden;
+}
+*/</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICA8IS0tPGltZyBzdHlsZT0ibWF4LWhlaWdodDo0MHB4OyIgc3JjPSJ7eyB1cmxfZm9yKCdzdGF0aWMnLCBmaWxlbmFtZT0naW1hZ2VzL2libV9sb2dvLnBuZycpIH19Ij4tLT4K</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIG92ZXJmbG93LXg6IGhpZGU7Cg==</text>
+        <text encoding="base64">ICAgIGJhY2tncm91bmQ6ICNGRjAwMDA7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ojotd2Via2l0LXNjcm9sbGJhci10aHVtYiB7Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8IS0tCiAgICAgICAgICAgICAgICAgICAgPGxpIGNsYXNzPSJuYXYtaXRlbSIgZGF0YS10b2dnbGU9InRvb2x0aXAiIGRhdGEtcGxhY2VtZW50PSJyaWdodCIgdGl0bGU9IkNvZGVzIj4KICAgICAgICAgICAgICAgICAgICAgICAgPGEgY2xhc3M9Im5hdi1saW5rIiBocmVmPSIvY29kZS8iPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPGkgY2xhc3M9ImZhIGZhLWZ3IGZhLWZpbGUtY29kZS1vIj48L2k+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8c3BhbiBjbGFzcz0ibmF2LWxpbmstdGV4dCI+Q29kZXM8L3NwYW4+CiAgICAgICAgICAgICAgICAgICAgICAgIDwvYT4KICAgICAgICAgICAgICAgICAgICA8L2xpPgogICAgICAgICAgICAgICAgICAgIC0tPg==</text>
+      <register name="7" type="2">
+        <text encoding="base64">Lyogb3B0aW9uYWw6IHNob3cgcG9zaXRpb24gaW5kaWNhdG9yIGluIHJlZCAqLwo=</text>
       </register>
       <register name="8" type="2">
+        <text encoding="base64">d2Via2l0IGRvZXNuJ3Qgd29yayBmb3IgZmYgeWV0Cg==</text>
+      </register>
+      <register name="9" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8IS0tCiAgICAgICAgICAgICAgICAgICAgPGxpIGNsYXNzPSJuYXYtaXRlbSIgZGF0YS10b2dnbGU9InRvb2x0aXAiIGRhdGEtcGxhY2VtZW50PSJyaWdodCIgdGl0bGU9IlByb2R1Y3RzIj4KICAgICAgICAgICAgICAgICAgICAgICAgPGEgY2xhc3M9Im5hdi1saW5rIiBocmVmPSIvcHJvZHVjdC8iPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPGkgY2xhc3M9ImZhIGZhLWZ3IGZhLWJhcmNvZGUiPjwvaT4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxzcGFuIGNsYXNzPSJuYXYtbGluay10ZXh0Ij5Qcm9kdWN0czwvc3Bhbj4KICAgICAgICAgICAgICAgICAgICAgICAgPC9hPgogICAgICAgICAgICAgICAgICAgIDwvbGk+CiAgICAgICAgICAgICAgICAgICAgLS0+</text>
-      </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>max-height</last-search>
+      <last-search>red</last-search>
       <last-offset />
-      <last-pattern>max-height</last-pattern>
+      <last-pattern>red</last-pattern>
       <last-replace>device_display</last-replace>
       <last-substitute>node_display</last-substitute>
       <last-dir>1</last-dir>
@@ -903,7 +906,6 @@
     </search>
     <history>
       <history-search>
-        <entry>node-toggle</entry>
         <entry>hidden</entry>
         <entry>css</entry>
         <entry>sorting_asc</entry>
@@ -923,6 +925,7 @@
         <entry>sidenavToggler</entry>
         <entry>child</entry>
         <entry>max-height</entry>
+        <entry>red</entry>
       </history-search>
       <history-cmd>
         <entry>201</entry>
@@ -942,9 +945,9 @@
         <entry>374</entry>
         <entry>q</entry>
         <entry>$</entry>
+        <entry>wq</entry>
         <entry>0</entry>
         <entry>w</entry>
-        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
