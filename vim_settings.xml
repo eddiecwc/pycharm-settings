@@ -478,12 +478,11 @@
         <mark key="." line="18" column="71" />
         <mark key="^" line="50" column="52" />
       </file>
-      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/static/js/ess-monitor.js" timestamp="1524378623273">
+      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/static/js/ess-monitor.js" timestamp="1524380375976">
         <mark key="'" line="27" column="8" />
-        <mark key="[" line="143" column="0" />
-        <mark key="]" line="143" column="7" />
-        <mark key="." line="143" column="7" />
-        <mark key="^" line="143" column="7" />
+        <mark key="[" line="146" column="0" />
+        <mark key="]" line="146" column="0" />
+        <mark key="." line="146" column="0" />
       </file>
       <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/mod_support/support.py" timestamp="1515479760355">
         <mark key="[" line="23" column="0" />
@@ -697,12 +696,12 @@
         <mark key="." line="30" column="59" />
         <mark key="^" line="30" column="59" />
       </file>
-      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/templates/ess/node_list.html" timestamp="1524376224641">
+      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/templates/ess/node_list.html" timestamp="1524380618577">
         <mark key="'" line="52" column="17" />
-        <mark key="[" line="69" column="124" />
-        <mark key="]" line="69" column="126" />
-        <mark key="^" line="69" column="126" />
-        <mark key="." line="69" column="126" />
+        <mark key="[" line="56" column="68" />
+        <mark key="]" line="56" column="79" />
+        <mark key="^" line="56" column="79" />
+        <mark key="." line="56" column="79" />
       </file>
       <file name="$USER_HOME$/Sites/flask_movie/templates/layouts/layout1.html" timestamp="1513935198698">
         <mark key="'" line="10" column="41" />
@@ -848,10 +847,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">ICA=</text>
+        <text>compact</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICA=</text>
+        <text>compact</text>
       </register>
       <register name="/" type="4">
         <text>dataTable</text>
@@ -860,31 +859,31 @@
         <text encoding="base64">ICAgICAgICAgICAgPCEtLTx0YWJsZSBjbGFzcz0idGFibGUgdGFibGUtYm9yZGVyZWQgdGFibGUtaG92ZXIgbm93cmFwIiBpZD0ibm9kZV9kYXRhVGFibGUiIHdpZHRoPSIxMDAlIiBjZWxsc3BhY2luZz0iMCIgZGF0YS1vcmRlcj0nW1sgMSwgImFzYyIgXV0nPi0tPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAqLwo=</text>
+        <text encoding="base64">ICAgICAgICAiY29tcGFjdCIK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAic2Nyb2xsWSI6IDIwMCwK</text>
+        <text encoding="base64">ICAgICAgICAiZG9tIjogJzwidG9wImlmbHA8ImNsZWFyIj4+cnQ8ImJvdHRvbSJpZmxwPCJjbGVhciI+PicsCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBzY3JvbGxDb2xsYXBzZTogdHJ1ZSwK</text>
+        <text encoding="base64">ICAgICAgICAiZG9tIjogJ2lsZnJ0cCcsCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBzY3JvbGxZOiAyMDAsCg==</text>
+        <text encoding="base64">ICAgICAgICAiZG9tIjogJ2lsZnJ0cCcsCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICA8dGFibGUgY2xhc3M9InRhYmxlIHRhYmxlLWJvcmRlcmVkIHRhYmxlLWhvdmVyIG5vd3JhcCIgaWQ9Im5vZGVfZGF0YVRhYmxlIiB3aWR0aD0iMTAwJSIgY2VsbHNwYWNpbmc9IjAiPgo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAqLwo=</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAic2Nyb2xsWSI6IDIwMCwK</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAvKgo=</text>
+        <text encoding="base64">ICAgICAgICBzY3JvbGxDb2xsYXBzZTogdHJ1ZSwK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">LyoK</text>
+        <text encoding="base64">ICAgICAgICBzY3JvbGxZOiAyMDAsCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">InBhZ2luZyI6IGZhbHNlCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICA8dGFibGUgY2xhc3M9InRhYmxlIHRhYmxlLWJvcmRlcmVkIHRhYmxlLWhvdmVyIG5vd3JhcCIgaWQ9Im5vZGVfZGF0YVRhYmxlIiB3aWR0aD0iMTAwJSIgY2VsbHNwYWNpbmc9IjAiPgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
