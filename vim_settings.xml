@@ -45,12 +45,12 @@
         <mark key="^" line="78" column="3" />
         <mark key="." line="78" column="3" />
       </file>
-      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/templates/ess/node_table_headers.html" timestamp="1524369130191">
+      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/templates/ess/node_table_headers.html" timestamp="1524375990945">
         <mark key="'" line="33" column="14" />
-        <mark key="[" line="2" column="8" />
-        <mark key="]" line="2" column="51" />
-        <mark key="." line="2" column="51" />
-        <mark key="^" line="2" column="51" />
+        <mark key="[" line="2" column="7" />
+        <mark key="]" line="2" column="25" />
+        <mark key="." line="2" column="25" />
+        <mark key="^" line="2" column="25" />
       </file>
       <file name="$USER_HOME$/Sites/FlaskApp/templates/interactive.html" timestamp="1514787861252">
         <mark key="[" line="6" column="73" />
@@ -478,12 +478,11 @@
         <mark key="." line="18" column="71" />
         <mark key="^" line="50" column="52" />
       </file>
-      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/static/js/ess-monitor.js" timestamp="1524371309115">
+      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/static/js/ess-monitor.js" timestamp="1524375035874">
         <mark key="'" line="27" column="8" />
-        <mark key="[" line="133" column="11" />
-        <mark key="]" line="133" column="11" />
-        <mark key="^" line="133" column="11" />
-        <mark key="." line="133" column="11" />
+        <mark key="[" line="142" column="0" />
+        <mark key="]" line="142" column="10" />
+        <mark key="." line="142" column="0" />
       </file>
       <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/mod_support/support.py" timestamp="1515479760355">
         <mark key="[" line="23" column="0" />
@@ -697,12 +696,12 @@
         <mark key="." line="30" column="59" />
         <mark key="^" line="30" column="59" />
       </file>
-      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/templates/ess/node_list.html" timestamp="1524370718337">
-        <mark key="'" line="185" column="130" />
-        <mark key="[" line="56" column="0" />
-        <mark key="]" line="56" column="0" />
-        <mark key="^" line="54" column="53" />
-        <mark key="." line="56" column="0" />
+      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/templates/ess/node_list.html" timestamp="1524376059554">
+        <mark key="'" line="52" column="17" />
+        <mark key="[" line="69" column="33" />
+        <mark key="]" line="69" column="36" />
+        <mark key="^" line="69" column="36" />
+        <mark key="." line="69" column="36" />
       </file>
       <file name="$USER_HOME$/Sites/flask_movie/templates/layouts/layout1.html" timestamp="1513935198698">
         <mark key="'" line="10" column="41" />
@@ -745,8 +744,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="422" column="45" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/tasks.py" />
-      <jump line="936" column="58" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/tasks.py" />
       <jump line="192" column="25" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" />
       <jump line="338" column="65" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" />
       <jump line="37" column="27" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/tasks.py" />
@@ -798,7 +795,6 @@
       <jump line="119" column="20" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/templates/ess/node_add.html" />
       <jump line="96" column="63" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/templates/ess/node_list.html" />
       <jump line="13" column="36" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/static/vendor/datatables/dataTables.bootstrap4.css" />
-      <jump line="0" column="0" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/templates/ess/node_list.html" />
       <jump line="102" column="68" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/templates/ess/node_list.html" />
       <jump line="187" column="32" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/templates/ess/node_list.html" />
       <jump line="9" column="13" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/templates/ess/node_list.html" />
@@ -845,63 +841,58 @@
       <jump line="0" column="13" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/static/js/sb-admin.js" />
       <jump line="3" column="22" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/static/js/sb-admin.js" />
       <jump line="35" column="6" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/static/js/sb-admin.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/templates/ess/node_list.html" />
+      <jump line="56" column="77" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/templates/ess/node_list.html" />
+      <jump line="52" column="17" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/templates/ess/node_list.html" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>true</text>
+        <text>n</text>
       </register>
       <register name="-" type="4">
-        <text>true</text>
+        <text>n</text>
       </register>
       <register name="/" type="4">
-        <text>data</text>
+        <text>dataTable</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBvdmVyZmxvdy14OiBoaWRlOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgPCEtLTx0YWJsZSBjbGFzcz0idGFibGUgdGFibGUtYm9yZGVyZWQgdGFibGUtaG92ZXIgbm93cmFwIiBpZD0ibm9kZV9kYXRhVGFibGUiIHdpZHRoPSIxMDAlIiBjZWxsc3BhY2luZz0iMCIgZGF0YS1vcmRlcj0nW1sgMSwgImFzYyIgXV0nPi0tPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAqLwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAic2Nyb2xsWSI6IDIwMCwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBzY3JvbGxDb2xsYXBzZTogdHJ1ZSwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzY3JvbGxZOiAyMDAsCg==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">ICAgICAgICAiY29sdW1ucyI6IFsKICAgICAgICAgICAgeyAib3JkZXJhYmxlIjogZmFsc2UgfSwKICAgICAgICAgICAgbnVsbCwKICAgICAgICAgICAgbnVsbCwKICAgICAgICAgICAgbnVsbCwKICAgICAgICAgICAgbnVsbAogICAgICAgIF0=</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICA8dGFibGUgY2xhc3M9InRhYmxlIHRhYmxlLWJvcmRlcmVkIHRhYmxlLWhvdmVyIG5vd3JhcCIgaWQ9Im5vZGVfZGF0YVRhYmxlIiB3aWR0aD0iMTAwJSIgY2VsbHNwYWNpbmc9IjAiPgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAib3JkZXJpbmciOiBmYWxzZQo=</text>
+        <text encoding="base64">ICAgICAgICAqLwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAvKgo=</text>
       </register>
-      <register name="8" type="4">
-        <text>.TEMPnav-scrollbar {
-  overflow-y: auto;
-}
-
-/*
-#navbarResponsive {
-    overflow: hidden;
-}
-*/</text>
+      <register name="8" type="2">
+        <text encoding="base64">LyoK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">InBhZ2luZyI6IGZhbHNlCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>data</last-search>
+      <last-search>dataTable</last-search>
       <last-offset />
-      <last-pattern>data</last-pattern>
+      <last-pattern>dataTable</last-pattern>
       <last-replace>device_display</last-replace>
       <last-substitute>node_display</last-substitute>
       <last-dir>1</last-dir>
@@ -909,7 +900,6 @@
     </search>
     <history>
       <history-search>
-        <entry>css</entry>
         <entry>sorting_asc</entry>
         <entry>asc_sort</entry>
         <entry>thead</entry>
@@ -929,6 +919,7 @@
         <entry>max-height</entry>
         <entry>red</entry>
         <entry>data</entry>
+        <entry>dataTable</entry>
       </history-search>
       <history-cmd>
         <entry>201</entry>
@@ -948,8 +939,8 @@
         <entry>374</entry>
         <entry>q</entry>
         <entry>wq</entry>
-        <entry>0</entry>
         <entry>$</entry>
+        <entry>0</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
