@@ -233,6 +233,9 @@
         <mark key="^" line="190" column="24" />
         <mark key="." line="215" column="0" />
       </file>
+      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/static/js/sb-admin.js" timestamp="1524370029622">
+        <mark key="'" line="35" column="6" />
+      </file>
       <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/mod_support/product_number.py" timestamp="1516348109317">
         <mark key="'" line="47" column="10" />
         <mark key="[" line="58" column="50" />
@@ -475,12 +478,12 @@
         <mark key="." line="18" column="71" />
         <mark key="^" line="50" column="52" />
       </file>
-      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/static/js/ess-monitor.js" timestamp="1524202227083">
+      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/static/js/ess-monitor.js" timestamp="1524371309115">
         <mark key="'" line="27" column="8" />
-        <mark key="[" line="52" column="9" />
-        <mark key="]" line="53" column="9" />
-        <mark key="^" line="53" column="9" />
-        <mark key="." line="53" column="9" />
+        <mark key="[" line="133" column="11" />
+        <mark key="]" line="133" column="11" />
+        <mark key="^" line="133" column="11" />
+        <mark key="." line="133" column="11" />
       </file>
       <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/mod_support/support.py" timestamp="1515479760355">
         <mark key="[" line="23" column="0" />
@@ -694,12 +697,12 @@
         <mark key="." line="30" column="59" />
         <mark key="^" line="30" column="59" />
       </file>
-      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/templates/ess/node_list.html" timestamp="1524369173870">
-        <mark key="'" line="181" column="130" />
-        <mark key="[" line="64" column="35" />
-        <mark key="]" line="65" column="67" />
-        <mark key="^" line="65" column="67" />
-        <mark key="." line="65" column="67" />
+      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/templates/ess/node_list.html" timestamp="1524370718337">
+        <mark key="'" line="185" column="130" />
+        <mark key="[" line="56" column="0" />
+        <mark key="]" line="56" column="0" />
+        <mark key="^" line="54" column="53" />
+        <mark key="." line="56" column="0" />
       </file>
       <file name="$USER_HOME$/Sites/flask_movie/templates/layouts/layout1.html" timestamp="1513935198698">
         <mark key="'" line="10" column="41" />
@@ -742,10 +745,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="17" column="76" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/tasks.py" />
-      <jump line="13" column="14" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/constants.py" />
-      <jump line="1018" column="43" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/tasks.py" />
-      <jump line="358" column="49" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/tasks.py" />
       <jump line="422" column="45" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/tasks.py" />
       <jump line="936" column="58" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/tasks.py" />
       <jump line="192" column="25" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" />
@@ -842,16 +841,20 @@
       <jump line="27" column="8" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/static/js/ess-monitor.js" />
       <jump line="0" column="0" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/templates/header.html" />
       <jump line="0" column="0" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/static/css/ess-monitor.css" />
+      <jump line="1" column="37" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/static/js/sb-admin.js" />
+      <jump line="0" column="13" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/static/js/sb-admin.js" />
+      <jump line="3" column="22" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/static/js/sb-admin.js" />
+      <jump line="35" column="6" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/static/js/sb-admin.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>true</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>true</text>
       </register>
       <register name="/" type="4">
-        <text>red</text>
+        <text>data</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICBvdmVyZmxvdy14OiBoaWRlOwo=</text>
@@ -859,7 +862,25 @@
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="4">
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="4">
+        <text encoding="base64">ICAgICAgICAiY29sdW1ucyI6IFsKICAgICAgICAgICAgeyAib3JkZXJhYmxlIjogZmFsc2UgfSwKICAgICAgICAgICAgbnVsbCwKICAgICAgICAgICAgbnVsbCwKICAgICAgICAgICAgbnVsbCwKICAgICAgICAgICAgbnVsbAogICAgICAgIF0=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAib3JkZXJpbmciOiBmYWxzZQo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="4">
         <text>.TEMPnav-scrollbar {
   overflow-y: auto;
 }
@@ -870,24 +891,6 @@
 }
 */</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">fQo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIGJhY2tncm91bmQ6ICNGRjAwMDA7Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">Ojotd2Via2l0LXNjcm9sbGJhci10aHVtYiB7Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">Lyogb3B0aW9uYWw6IHNob3cgcG9zaXRpb24gaW5kaWNhdG9yIGluIHJlZCAqLwo=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">d2Via2l0IGRvZXNuJ3Qgd29yayBmb3IgZmYgeWV0Cg==</text>
-      </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
       </register>
@@ -896,9 +899,9 @@
       </register>
     </registers>
     <search>
-      <last-search>red</last-search>
+      <last-search>data</last-search>
       <last-offset />
-      <last-pattern>red</last-pattern>
+      <last-pattern>data</last-pattern>
       <last-replace>device_display</last-replace>
       <last-substitute>node_display</last-substitute>
       <last-dir>1</last-dir>
@@ -906,7 +909,6 @@
     </search>
     <history>
       <history-search>
-        <entry>hidden</entry>
         <entry>css</entry>
         <entry>sorting_asc</entry>
         <entry>asc_sort</entry>
@@ -926,6 +928,7 @@
         <entry>child</entry>
         <entry>max-height</entry>
         <entry>red</entry>
+        <entry>data</entry>
       </history-search>
       <history-cmd>
         <entry>201</entry>
@@ -944,9 +947,9 @@
         <entry encoding="base64">JzwsJz5zL25vZGVfZGlzcGxheS9kZXZpY2VfZGlzcGxheS9n</entry>
         <entry>374</entry>
         <entry>q</entry>
-        <entry>$</entry>
         <entry>wq</entry>
         <entry>0</entry>
+        <entry>$</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
