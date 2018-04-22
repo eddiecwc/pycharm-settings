@@ -45,12 +45,12 @@
         <mark key="^" line="78" column="3" />
         <mark key="." line="78" column="3" />
       </file>
-      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/templates/ess/node_table_headers.html" timestamp="1523943351440">
-        <mark key="'" line="32" column="14" />
-        <mark key="[" line="50" column="0" />
-        <mark key="]" line="50" column="48" />
-        <mark key="." line="50" column="0" />
-        <mark key="^" line="50" column="6" />
+      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/templates/ess/node_table_headers.html" timestamp="1524369130191">
+        <mark key="'" line="33" column="14" />
+        <mark key="[" line="2" column="8" />
+        <mark key="]" line="2" column="51" />
+        <mark key="." line="2" column="51" />
+        <mark key="^" line="2" column="51" />
       </file>
       <file name="$USER_HOME$/Sites/FlaskApp/templates/interactive.html" timestamp="1514787861252">
         <mark key="[" line="6" column="73" />
@@ -694,12 +694,12 @@
         <mark key="." line="30" column="59" />
         <mark key="^" line="30" column="59" />
       </file>
-      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/templates/ess/node_list.html" timestamp="1524037365971">
-        <mark key="'" line="180" column="130" />
-        <mark key="[" line="129" column="0" />
-        <mark key="]" line="129" column="0" />
-        <mark key="^" line="128" column="17" />
-        <mark key="." line="129" column="0" />
+      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/templates/ess/node_list.html" timestamp="1524369173870">
+        <mark key="'" line="181" column="130" />
+        <mark key="[" line="64" column="35" />
+        <mark key="]" line="65" column="67" />
+        <mark key="^" line="65" column="67" />
+        <mark key="." line="65" column="67" />
       </file>
       <file name="$USER_HOME$/Sites/flask_movie/templates/layouts/layout1.html" timestamp="1513935198698">
         <mark key="'" line="10" column="41" />
