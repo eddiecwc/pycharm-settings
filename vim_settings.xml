@@ -478,11 +478,12 @@
         <mark key="." line="18" column="71" />
         <mark key="^" line="50" column="52" />
       </file>
-      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/static/js/ess-monitor.js" timestamp="1524380375976">
+      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/static/js/ess-monitor.js" timestamp="1524381660439">
         <mark key="'" line="27" column="8" />
-        <mark key="[" line="146" column="0" />
-        <mark key="]" line="146" column="0" />
-        <mark key="." line="146" column="0" />
+        <mark key="[" line="150" column="32" />
+        <mark key="]" line="150" column="35" />
+        <mark key="." line="150" column="35" />
+        <mark key="^" line="150" column="35" />
       </file>
       <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/mod_support/support.py" timestamp="1515479760355">
         <mark key="[" line="23" column="0" />
@@ -847,10 +848,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>compact</text>
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>compact</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>dataTable</text>
