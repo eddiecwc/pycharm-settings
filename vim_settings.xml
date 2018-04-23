@@ -38,12 +38,11 @@
         <mark key="^" line="413" column="0" />
         <mark key="." line="413" column="12" />
       </file>
-      <file name="$USER_HOME$/Sites/ESS-Monitor/TODO.md" timestamp="1524039909314">
+      <file name="$USER_HOME$/Sites/ESS-Monitor/TODO.md" timestamp="1524466043750">
         <mark key="'" line="52" column="10" />
-        <mark key="[" line="78" column="3" />
-        <mark key="]" line="78" column="3" />
-        <mark key="^" line="78" column="3" />
-        <mark key="." line="78" column="3" />
+        <mark key="[" line="78" column="0" />
+        <mark key="]" line="78" column="0" />
+        <mark key="." line="78" column="0" />
       </file>
       <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/templates/ess/node_table_headers.html" timestamp="1524376111299">
         <mark key="'" line="33" column="14" />
@@ -123,7 +122,7 @@
         <mark key="." line="18" column="39" />
         <mark key="^" line="18" column="39" />
       </file>
-      <file name="$USER_HOME$/Sites/ESS-Monitor/README.md" timestamp="1524464440104">
+      <file name="$USER_HOME$/Sites/ESS-Monitor/README.md" timestamp="1524464481182">
         <mark key="[" line="65" column="3" />
         <mark key="]" line="65" column="9" />
         <mark key="." line="65" column="9" />
@@ -847,8 +846,8 @@
       <jump line="180" column="47" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/static/js/ess-monitor.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>TBD</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIC0gZmlsdGVyIGNvbHVtbnMgdG8gZGlzcGxheSAoZXNwZWNpYWxseSBmb3IgY29kZSBsb2cpCg==</text>
       </register>
       <register name="-" type="4">
         <text>TBD</text>
@@ -860,31 +859,31 @@
         <text encoding="base64">ICAgICAgICAgICAgJCgic2VsZWN0W2NsYXNzPSdjb2x1bW4tZmlsdGVycyddIikuc2hvdygpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICgnY2hlY2tlZCcsIGZhbHNlKTsK</text>
+        <text encoding="base64">ICAgIC0gZmlsdGVyIGNvbHVtbnMgdG8gZGlzcGxheSAoZXNwZWNpYWxseSBmb3IgY29kZSBsb2cpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICApCg==</text>
+        <text encoding="base64">ICAgICgnY2hlY2tlZCcsIGZhbHNlKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICApCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICQoJyNjaGtfZGlzcGxheV9jb2xfZmlsdGVyJykucHJvcCgnY2hlY2tlZCcsIGZhbHNlKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIC8vIHNldCBjb2x1bW4gZmlsdGVyIG9wdGlvbiBkZWZhdWx0IHRvIHVuY2hlY2tlZAo=</text>
+        <text encoding="base64">ICAgICQoJyNjaGtfZGlzcGxheV9jb2xfZmlsdGVyJykucHJvcCgnY2hlY2tlZCcsIGZhbHNlKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIC8vIFVuY2hlY2tzIGl0Cg==</text>
+        <text encoding="base64">ICAgIC8vIHNldCBjb2x1bW4gZmlsdGVyIG9wdGlvbiBkZWZhdWx0IHRvIHVuY2hlY2tlZAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzZWxlY3QuaGlkZSgpCg==</text>
+        <text encoding="base64">ICAgIC8vIFVuY2hlY2tzIGl0Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzZWxlY3QuaGlkZSgpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzZWxlY3QuaGlkZSgpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
