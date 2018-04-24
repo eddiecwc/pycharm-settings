@@ -468,11 +468,10 @@
         <mark key="." line="20" column="28" />
         <mark key="^" line="20" column="28" />
       </file>
-      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/api/routes.py" timestamp="1524555499108">
-        <mark key="[" line="42" column="41" />
-        <mark key="]" line="42" column="41" />
-        <mark key="^" line="63" column="0" />
-        <mark key="." line="42" column="41" />
+      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/api/routes.py" timestamp="1524593652016">
+        <mark key="[" line="69" column="0" />
+        <mark key="]" line="73" column="0" />
+        <mark key="." line="69" column="0" />
       </file>
       <file name="$USER_HOME$/Sites/flask_movie/main.py" timestamp="1513933434536">
         <mark key="'" line="7" column="0" />
@@ -858,46 +857,48 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>,</text>
+        <text encoding="base64">cGFyc2VyID0gcmVxcGFyc2UuUmVxdWVzdFBhcnNlcigpCnBhcnNlci5hZGRfYXJndW1lbnQoJ251bScsIHR5cGU9aW50LCBoZWxwPSdEdW1teSBpbnB1dCBpbnRlZ2VyJykKYXJncyA9IHBhcnNlci5wYXJzZV9hcmdzKCkKCg==</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>rate</text>
       </register>
       <register name="/" type="4">
         <text>api</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">ZnJvbSAubW9kZWxzIGltcG9ydCAqCmZyb20gLnNjaGVtYXMgaW1wb3J0ICoKZnJvbSAucm91dGVzIGltcG9ydCBtb2RfZXNzCg==</text>
+        <text>parser = reqparse.RequestParser()
+parser.add_argument('num', type=int, help='Dummy input integer')
+args = parser.parse_args()</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">cGFyc2VyID0gcmVxcGFyc2UuUmVxdWVzdFBhcnNlcigpCnBhcnNlci5hZGRfYXJndW1lbnQoJ251bScsIHR5cGU9aW50LCBoZWxwPSdEdW1teSBpbnB1dCBpbnRlZ2VyJykKYXJncyA9IHBhcnNlci5wYXJzZV9hcmdzKCkKCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGFwaS5pbml0X2FwcChhcHApCg==</text>
+        <text encoding="base64">Y2xhc3MgR2V0Tm9kZXMK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICMgZmxhc2stcmVzdHBsdXMgaW5pdGlhbGl6YXRpb24K</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ZnJvbSBmbGFza19yZXN0cGx1cyBpbXBvcnQgQXBpCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">YXBpID0gQXBpKCkK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ZnJvbSAuc2NoZW1hcyBpbXBvcnQgKgo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ZnJvbSAubW9kZWxzIGltcG9ydCAqCg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIGFwaS5pbml0X2FwcChhcHApCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICMgZmxhc2stcmVzdHBsdXMgaW5pdGlhbGl6YXRpb24K</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ZnJvbSBmbGFza19yZXN0cGx1cyBpbXBvcnQgQXBpCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">YXBpID0gQXBpKCkK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ZnJvbSAuc2NoZW1hcyBpbXBvcnQgKgo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC0gZmlsdGVyIGNvbHVtbnMgdG8gZGlzcGxheSAoZXNwZWNpYWxseSBmb3IgY29kZSBsb2cpCg==</text>
+        <text encoding="base64">ZnJvbSAubW9kZWxzIGltcG9ydCAqCg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>$</text>
       </register>
     </registers>
     <search>
@@ -950,9 +951,9 @@
         <entry>q</entry>
         <entry>wq</entry>
         <entry>13</entry>
-        <entry>$</entry>
-        <entry>0</entry>
         <entry>w</entry>
+        <entry>0</entry>
+        <entry>$</entry>
       </history-cmd>
       <history-expr />
       <history-input />
