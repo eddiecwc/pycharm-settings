@@ -281,12 +281,12 @@
         <mark key="^" line="10" column="35" />
         <mark key="." line="10" column="35" />
       </file>
-      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/models.py" timestamp="1523866151843">
+      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/models.py" timestamp="1524723724194">
         <mark key="'" line="184" column="22" />
-        <mark key="[" line="538" column="35" />
-        <mark key="]" line="538" column="56" />
-        <mark key="." line="538" column="56" />
-        <mark key="^" line="538" column="56" />
+        <mark key="[" line="216" column="0" />
+        <mark key="]" line="541" column="56" />
+        <mark key="." line="541" column="56" />
+        <mark key="^" line="541" column="56" />
       </file>
       <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/constants.py" timestamp="1522475558701">
         <mark key="'" line="33" column="22" />
@@ -691,7 +691,6 @@
         <mark key="^" line="51" column="0" />
         <mark key="." line="51" column="0" />
       </file>
-      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/static/css/sb-admin.css" timestamp="1524257775156" />
       <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/templates/header.html" timestamp="1524258428723">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="5" column="0" />
