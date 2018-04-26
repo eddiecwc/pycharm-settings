@@ -281,12 +281,12 @@
         <mark key="^" line="10" column="35" />
         <mark key="." line="10" column="35" />
       </file>
-      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/models.py" timestamp="1524723724194">
+      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/models.py" timestamp="1524729749263">
         <mark key="'" line="184" column="22" />
-        <mark key="[" line="216" column="0" />
-        <mark key="]" line="541" column="56" />
-        <mark key="." line="541" column="56" />
-        <mark key="^" line="541" column="56" />
+        <mark key="[" line="218" column="24" />
+        <mark key="]" line="219" column="22" />
+        <mark key="." line="219" column="22" />
+        <mark key="^" line="219" column="22" />
       </file>
       <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/constants.py" timestamp="1522475558701">
         <mark key="'" line="33" column="22" />
@@ -856,10 +856,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">cGFyc2VyID0gcmVxcGFyc2UuUmVxdWVzdFBhcnNlcigpCnBhcnNlci5hZGRfYXJndW1lbnQoJ251bScsIHR5cGU9aW50LCBoZWxwPSdEdW1teSBpbnB1dCBpbnRlZ2VyJykKYXJncyA9IHBhcnNlci5wYXJzZV9hcmdzKCkKCg==</text>
+        <text>__repr__</text>
       </register>
       <register name="-" type="4">
-        <text>rate</text>
+        <text>__repr__</text>
       </register>
       <register name="/" type="4">
         <text>api</text>
@@ -950,9 +950,9 @@ args = parser.parse_args()</text>
         <entry>q</entry>
         <entry>wq</entry>
         <entry>13</entry>
-        <entry>0</entry>
         <entry>$</entry>
         <entry>w</entry>
+        <entry>0</entry>
       </history-cmd>
       <history-expr />
       <history-input />
