@@ -281,12 +281,12 @@
         <mark key="^" line="10" column="35" />
         <mark key="." line="10" column="35" />
       </file>
-      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/models.py" timestamp="1524729749263">
+      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/models.py" timestamp="1524787945951">
         <mark key="'" line="184" column="22" />
-        <mark key="[" line="218" column="24" />
-        <mark key="]" line="219" column="22" />
-        <mark key="." line="219" column="22" />
-        <mark key="^" line="219" column="22" />
+        <mark key="[" line="220" column="25" />
+        <mark key="]" line="220" column="28" />
+        <mark key="." line="220" column="28" />
+        <mark key="^" line="220" column="28" />
       </file>
       <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/constants.py" timestamp="1522475558701">
         <mark key="'" line="33" column="22" />
@@ -856,10 +856,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>__repr__</text>
+        <text>node</text>
       </register>
       <register name="-" type="4">
-        <text>__repr__</text>
+        <text>node</text>
       </register>
       <register name="/" type="4">
         <text>api</text>
@@ -869,32 +869,32 @@
 parser.add_argument('num', type=int, help='Dummy input integer')
 args = parser.parse_args()</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="2" type="4">
         <text encoding="base64">cGFyc2VyID0gcmVxcGFyc2UuUmVxdWVzdFBhcnNlcigpCnBhcnNlci5hZGRfYXJndW1lbnQoJ251bScsIHR5cGU9aW50LCBoZWxwPSdEdW1teSBpbnB1dCBpbnRlZ2VyJykKYXJncyA9IHBhcnNlci5wYXJzZV9hcmdzKCkKCg==</text>
       </register>
-      <register name="2" type="2">
+      <register name="3" type="2">
         <text encoding="base64">Y2xhc3MgR2V0Tm9kZXMK</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgIGFwaS5pbml0X2FwcChhcHApCg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICMgZmxhc2stcmVzdHBsdXMgaW5pdGlhbGl6YXRpb24K</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ZnJvbSBmbGFza19yZXN0cGx1cyBpbXBvcnQgQXBpCg==</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">YXBpID0gQXBpKCkK</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ZnJvbSAuc2NoZW1hcyBpbXBvcnQgKgo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ZnJvbSAubW9kZWxzIGltcG9ydCAqCg==</text>
+        <text encoding="base64">ZnJvbSAuc2NoZW1hcyBpbXBvcnQgKgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
