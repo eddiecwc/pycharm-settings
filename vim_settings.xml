@@ -31,12 +31,12 @@
       <file name="/a.dummy" timestamp="1524864485256">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" timestamp="1524554039454">
-        <mark key="'" line="56" column="41" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="62" column="60" />
-        <mark key="^" line="413" column="0" />
-        <mark key="." line="413" column="12" />
+      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" timestamp="1524866235066">
+        <mark key="'" line="53" column="41" />
+        <mark key="[" line="43" column="93" />
+        <mark key="]" line="43" column="93" />
+        <mark key="." line="43" column="93" />
+        <mark key="^" line="43" column="93" />
       </file>
       <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/models/node.py" timestamp="1524864653362">
         <mark key="'" line="149" column="31" />
@@ -447,12 +447,12 @@
         <mark key="." line="75" column="0" />
         <mark key="^" line="76" column="58" />
       </file>
-      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/tasks.py" timestamp="1524865339289">
+      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/tasks.py" timestamp="1524865997388">
         <mark key="'" line="0" column="2" />
-        <mark key="[" line="895" column="40" />
-        <mark key="]" line="895" column="40" />
-        <mark key="." line="895" column="40" />
-        <mark key="^" line="895" column="40" />
+        <mark key="[" line="1253" column="0" />
+        <mark key="]" line="1253" column="0" />
+        <mark key="." line="1253" column="0" />
+        <mark key="^" line="889" column="34" />
       </file>
       <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/templates/ess/codelog_table_headers.html" timestamp="1520837161689">
         <mark key="[" line="1" column="0" />
@@ -892,11 +892,11 @@
       <jump line="13" column="47" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/models/schemas.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">bmFtZSA=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">IyBteV9zdHJpcCwgcnVuX3JlbW90ZV9jbWQK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">bmFtZSA=</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text>Product</text>
@@ -905,31 +905,31 @@
         <text encoding="base64">IyBNYXJzaG1hbGxvdwpmcm9tIG1hcnNobWFsbG93IGltcG9ydCBmaWVsZHMK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyBteV9zdHJpcCwgcnVuX3JlbW90ZV9jbWQK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZnJvbSAuc2NoZW1hcyBpbXBvcnQgKgo=</text>
+        <text encoding="base64">ICAgIGlzX2xvY2FsLCByZV9pcHY0LCBnZXRfbG9nZ2VyX2ZpbGVzCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZnJvbSAucm91dGVzIGltcG9ydCBtb2RfZXNzCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ZnJvbSAuc2NoZW1hcyBpbXBvcnQgKgo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ZnJvbSAubW9kZWxzIGltcG9ydCAqCg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">aW1wb3J0IHJlCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ZnJvbSAubW9kZWxzLmR1bXAgaW1wb3J0IER1bXAK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ZnJvbSAubW9kZWxzIGltcG9ydCBOb2RlLCBDb2RlLCBDb2RlVXBkYXRlTG9nLCBEdW1wLCBEZXZpY2UsIFByb2R1Y3QsIENsdXN0ZXIK</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICMgICAgIHJldHVybiBjaGVja19wYXNzd29yZF9oYXNoKHNlbGYubG9naW5fcGFzc3dvcmQsIGxvZ2luX3Bhc3N3b3JkKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICMgICAgICAgICByZXR1cm4gRmFsc2UK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICMgICAgIGlmIHNlbGYubG9naW5fcGFzc3dvcmQgaXMgTm9uZToK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -968,7 +968,6 @@
         <entry>Product</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">dyA=</entry>
         <entry>624</entry>
         <entry encoding="base64">IA==</entry>
         <entry>46</entry>
@@ -985,6 +984,7 @@
         <entry>q</entry>
         <entry>13</entry>
         <entry>$</entry>
+        <entry>w0</entry>
         <entry>wq</entry>
         <entry>0</entry>
         <entry>w</entry>
