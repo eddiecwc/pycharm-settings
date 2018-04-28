@@ -38,7 +38,7 @@
         <mark key="." line="712" column="19" />
         <mark key="^" line="656" column="32" />
       </file>
-      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/models/node.py" timestamp="1524901613161">
+      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/models/node.py" timestamp="1524902445676">
         <mark key="'" line="176" column="32" />
         <mark key="[" line="192" column="0" />
         <mark key="]" line="192" column="48" />
@@ -89,7 +89,7 @@
         <mark key="^" line="46" column="31" />
         <mark key="." line="46" column="31" />
       </file>
-      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/models/product.py" timestamp="1524863826807">
+      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/models/product.py" timestamp="1524902453012">
         <mark key="[" line="61" column="0" />
         <mark key="]" line="61" column="0" />
         <mark key="^" line="56" column="0" />
@@ -135,7 +135,7 @@
         <mark key="." line="68" column="0" />
         <mark key="^" line="68" column="0" />
       </file>
-      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/models/gateway.py" timestamp="1524864542539">
+      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/models/gateway.py" timestamp="1524902413954">
         <mark key="[" line="64" column="35" />
         <mark key="]" line="66" column="7" />
         <mark key="." line="66" column="7" />
@@ -147,7 +147,7 @@
         <mark key="." line="48" column="50" />
         <mark key="^" line="48" column="7" />
       </file>
-      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/models/code.py" timestamp="1524868674964">
+      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/models/code.py" timestamp="1524902360287">
         <mark key="'" line="28" column="15" />
         <mark key="[" line="74" column="25" />
         <mark key="]" line="74" column="43" />
@@ -348,18 +348,18 @@
         <mark key="." line="1" column="36" />
         <mark key="^" line="5" column="25" />
       </file>
-      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/__init__.py" timestamp="1524901727389">
-        <mark key="[" line="0" column="26" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
-        <mark key="^" line="8" column="0" />
+      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/__init__.py" timestamp="1524902227759">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="26" />
+        <mark key="." line="5" column="0" />
+        <mark key="^" line="4" column="0" />
       </file>
       <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/models/__init__.py" timestamp="1524864821737">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/models/cluster.py" timestamp="1524864324487">
+      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/models/cluster.py" timestamp="1524902340464">
         <mark key="[" line="14" column="0" />
         <mark key="]" line="14" column="0" />
         <mark key="^" line="17" column="0" />
@@ -402,7 +402,7 @@
         <mark key="^" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/models/dump.py" timestamp="1524877496112">
+      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/models/dump.py" timestamp="1524902401364">
         <mark key="'" line="41" column="51" />
         <mark key="[" line="55" column="33" />
         <mark key="]" line="55" column="33" />
@@ -716,7 +716,7 @@
         <mark key="." line="49" column="22" />
         <mark key="^" line="49" column="22" />
       </file>
-      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/models/device.py" timestamp="1524901413743">
+      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/models/device.py" timestamp="1524902381680">
         <mark key="'" line="18" column="55" />
         <mark key="[" line="194" column="3" />
         <mark key="]" line="195" column="2" />
@@ -902,7 +902,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ZnJvbSBtb25pdG9yLmVzc191c2Vycy5zY2hlbWFzIGltcG9ydCBVc2VyU2NoZW1hCg==</text>
+        <text encoding="base64">ZnJvbSAubW9kZWxzLmNvZGUgaW1wb3J0ICoK</text>
       </register>
       <register name="-" type="4">
         <text>,</text>
@@ -914,34 +914,34 @@
         <text encoding="base64">ZnJvbSBtb25pdG9yLmVzcy5tb2RlbHMuY29kZSBpbXBvcnQgQ29kZVNjaGVtYSwgQ29kZVVwZGF0ZUxvZwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZnJvbSBtb25pdG9yLmVzc191c2Vycy5zY2hlbWFzIGltcG9ydCBVc2VyU2NoZW1hCg==</text>
+        <text encoding="base64">ZnJvbSAubW9kZWxzLmNvZGUgaW1wb3J0ICoK</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">ZnJvbSBtb25pdG9yLmVzcy5tb2RlbHMuY29kZSBpbXBvcnQgQ29kZVNjaGVtYQpmcm9tIG1vbml0b3IuZXNzLm1vZGVscy5wcm9kdWN0IGltcG9ydCBQcm9kdWN0U2NoZW1hCg==</text>
+      <register name="2" type="2">
+        <text encoding="base64">ZnJvbSAubW9kZWxzLmNsdXN0ZXIgaW1wb3J0ICoK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZnJvbSBtb25pdG9yLmVzcy5tb2RlbHMuY29kZSBpbXBvcnQgQ29kZVNjaGVtYQo=</text>
+        <text encoding="base64">ZnJvbSAubW9kZWxzLmdhdGV3YXkgaW1wb3J0ICoK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnJvbSAubW9kZWxzLnNjYW5fY29tbWFuZCBpbXBvcnQgKgo=</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">ZnJvbSBtb25pdG9yLmVzcy5tb2RlbHMuY29kZSBpbXBvcnQgQ29kZVNjaGVtYSwgQ29kZVVwZGF0ZUxvZ1NjaGVtYQpmcm9tIG1vbml0b3IuZXNzLm1vZGVscy5kdW1wIGltcG9ydCBEdW1wU2NoZW1hCmZyb20gbW9uaXRvci5lc3MubW9kZWxzLnByb2R1Y3QgaW1wb3J0IFByb2R1Y3RTY2hlbWEKZnJvbSBtb25pdG9yLmVzcy5tb2RlbHMuZ2F0ZXdheSBpbXBvcnQgR2F0ZXdheVNjaGVtYQpmcm9tIG1vbml0b3IuZXNzX3VzZXJzLnNjaGVtYXMgaW1wb3J0IFVzZXJTY2hlbWEK</text>
+      <register name="5" type="2">
+        <text encoding="base64">ZnJvbSAubW9kZWxzLmRldmljZSBpbXBvcnQgKgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnJvbSAubW9kZWxzLm5vZGUgaW1wb3J0ICoK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnJvbSBtb25pdG9yLmVzc191c2Vycy5zY2hlbWFzIGltcG9ydCBVc2VyU2NoZW1hCg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="8" type="4">
+        <text encoding="base64">ZnJvbSBtb25pdG9yLmVzcy5tb2RlbHMuY29kZSBpbXBvcnQgQ29kZVNjaGVtYQpmcm9tIG1vbml0b3IuZXNzLm1vZGVscy5wcm9kdWN0IGltcG9ydCBQcm9kdWN0U2NoZW1hCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">IyBteV9zdHJpcCwgcnVuX3JlbW90ZV9jbWQK</text>
+        <text encoding="base64">ZnJvbSBtb25pdG9yLmVzcy5tb2RlbHMuY29kZSBpbXBvcnQgQ29kZVNjaGVtYQo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
@@ -977,7 +977,6 @@
         <entry>User</entry>
       </history-search>
       <history-cmd>
-        <entry>624</entry>
         <entry encoding="base64">IA==</entry>
         <entry>46</entry>
         <entry encoding="base64">JzwsJz5zL3Byb2R1Y3RfYWRkX2Zvcm0vY29kZV9hZGRfZm9ybS9n</entry>
@@ -990,13 +989,14 @@
         <entry encoding="base64">JzwsJz5nL25vZGVfZGlzcGxheS9kZXZpY2VfZGlzcGxheS9n</entry>
         <entry encoding="base64">JzwsJz5zL25vZGVfZGlzcGxheS9kZXZpY2VfZGlzcGxheS9n</entry>
         <entry>374</entry>
-        <entry>q</entry>
         <entry>13</entry>
         <entry>w0</entry>
+        <entry>82</entry>
+        <entry>w</entry>
         <entry>$</entry>
         <entry>wq</entry>
         <entry>0</entry>
-        <entry>w</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
