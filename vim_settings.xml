@@ -38,8 +38,8 @@
         <mark key="." line="712" column="19" />
         <mark key="^" line="656" column="32" />
       </file>
-      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/models/node.py" timestamp="1524877429157">
-        <mark key="'" line="206" column="18" />
+      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/models/node.py" timestamp="1524885502585">
+        <mark key="'" line="18" column="36" />
         <mark key="[" line="18" column="0" />
         <mark key="]" line="18" column="0" />
         <mark key="." line="18" column="0" />
@@ -890,8 +890,6 @@
       <jump line="45" column="28" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/models/dump.py" />
       <jump line="125" column="18" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/models/node.py" />
       <jump line="235" column="16" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/models/node.py" />
-      <jump line="18" column="37" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/models/node.py" />
-      <jump line="263" column="25" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/models/node.py" />
       <jump line="206" column="18" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/models/node.py" />
       <jump line="47" column="73" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/models/dump.py" />
       <jump line="54" column="51" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/models/dump.py" />
@@ -899,6 +897,8 @@
       <jump line="83" column="43" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/models/dump.py" />
       <jump line="21" column="28" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/models/dump.py" />
       <jump line="41" column="51" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/models/dump.py" />
+      <jump line="263" column="26" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/models/node.py" />
+      <jump line="18" column="36" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/models/node.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -908,7 +908,7 @@
         <text>]</text>
       </register>
       <register name="/" type="4">
-        <text>node</text>
+        <text>DumpSchema</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIEBwcm9wZXJ0eQogICAgZGVmIGdldF9kdW1wX3R5cGUoc2VsZik6CiAgICAgICAgcmV0dXJuIERVTVBfVFlQRVNbc2VsZi5kdW1wX3R5cGVfY29kZV0K</text>
@@ -945,9 +945,9 @@
       </register>
     </registers>
     <search>
-      <last-search>node</last-search>
+      <last-search>DumpSchema</last-search>
       <last-offset />
-      <last-pattern>node</last-pattern>
+      <last-pattern>DumpSchema</last-pattern>
       <last-replace>device_display</last-replace>
       <last-substitute>node_display</last-substitute>
       <last-dir>1</last-dir>
@@ -955,7 +955,6 @@
     </search>
     <history>
       <history-search>
-        <entry>rest</entry>
         <entry>api</entry>
         <entry>schema</entry>
         <entry>NodeSchem</entry>
@@ -975,6 +974,7 @@
         <entry>dump</entry>
         <entry>Dump</entry>
         <entry>node</entry>
+        <entry>DumpSchema</entry>
       </history-search>
       <history-cmd>
         <entry>624</entry>
