@@ -222,10 +222,10 @@
         <mark key="." line="1" column="36" />
         <mark key="^" line="5" column="25" />
       </file>
-      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/__init__.py" timestamp="1524905518260">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="17" column="0" />
-        <mark key="." line="17" column="0" />
+      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/__init__.py" timestamp="1524906958233">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
         <mark key="^" line="17" column="0" />
       </file>
       <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/models/cluster.py" timestamp="1524902340464">
@@ -240,11 +240,11 @@
         <mark key="^" line="21" column="103" />
         <mark key="." line="21" column="103" />
       </file>
-      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/schemas/gateway_schema.py" timestamp="1524903010791">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="^" line="6" column="45" />
-        <mark key="." line="4" column="0" />
+      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/schemas/gateway_schema.py" timestamp="1524907027200">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="8" column="47" />
+        <mark key="^" line="8" column="47" />
+        <mark key="." line="8" column="47" />
       </file>
       <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/templates/ess_users/user_list.html" timestamp="1517378988111">
         <mark key="[" line="37" column="39" />
@@ -470,11 +470,11 @@
         <mark key="^" line="5" column="3" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/Sites/ESS-Monitor/run.py" timestamp="1520929149310">
-        <mark key="[" line="56" column="37" />
-        <mark key="]" line="56" column="44" />
-        <mark key="." line="56" column="44" />
-        <mark key="^" line="56" column="44" />
+      <file name="$USER_HOME$/Sites/ESS-Monitor/run.py" timestamp="1524907136577">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="1" />
+        <mark key="." line="16" column="1" />
+        <mark key="^" line="16" column="1" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/playground/first.py" timestamp="1510732076473">
         <mark key="[" line="66" column="71" />
@@ -612,11 +612,11 @@
       <jump line="176" column="32" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/models/node.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ZnJvbSBtb25pdG9yLmVzc191c2VycyBpbXBvcnQgVXNlcgo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IyA=</text>
       </register>
       <register name="-" type="4">
-        <text>db</text>
+        <text encoding="base64">IyA=</text>
       </register>
       <register name="/" type="4">
         <text>User</text>
