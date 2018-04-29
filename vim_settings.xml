@@ -225,6 +225,13 @@
         <mark key="." line="29" column="0" />
         <mark key="^" line="29" column="0" />
       </file>
+      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/schemas.py" timestamp="1524861628097">
+        <mark key="'" line="39" column="0" />
+        <mark key="[" line="62" column="0" />
+        <mark key="]" line="120" column="44" />
+        <mark key="." line="59" column="46" />
+        <mark key="^" line="59" column="46" />
+      </file>
       <file name="$USER_HOME$/Sites/ESS-Monitor/scripts/utilities.py" timestamp="1515022758096">
         <mark key="'" line="97" column="4" />
         <mark key="[" line="67" column="42" />
@@ -355,11 +362,12 @@
         <mark key="^" line="15" column="11" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/schemas/node_schema.py" timestamp="1524949313730">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="^" line="8" column="104" />
-        <mark key="." line="9" column="0" />
+      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/schemas/node_schema.py" timestamp="1524971506695">
+        <mark key="'" line="14" column="41" />
+        <mark key="[" line="47" column="0" />
+        <mark key="]" line="47" column="0" />
+        <mark key="^" line="47" column="2" />
+        <mark key="." line="47" column="0" />
       </file>
       <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/templates/macros/macros.html" timestamp="1523829150130">
         <mark key="[" line="1" column="36" />
@@ -669,11 +677,11 @@
         <mark key="." line="50" column="0" />
         <mark key="^" line="46" column="5" />
       </file>
-      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/ess_users/schemas.py" timestamp="1516698204661">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="^" line="3" column="0" />
-        <mark key="." line="3" column="0" />
+      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/ess_users/schemas.py" timestamp="1524971531490">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="9" column="20" />
+        <mark key="^" line="11" column="0" />
+        <mark key="." line="11" column="0" />
       </file>
       <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/templates/ess_users/user_add.html" timestamp="1517099120049">
         <mark key="[" line="16" column="57" />
@@ -714,12 +722,6 @@
         <mark key="." line="38" column="27" />
         <mark key="^" line="38" column="27" />
       </file>
-      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/schemas/scan_command_schema.py" timestamp="1524903211952">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="1" />
-        <mark key="." line="4" column="1" />
-        <mark key="^" line="4" column="1" />
-      </file>
       <file name="$USER_HOME$/Sites/FlaskApp/templates/include_example.html" timestamp="1514778315776">
         <mark key="[" line="4" column="3" />
         <mark key="]" line="7" column="0" />
@@ -740,10 +742,11 @@
         <mark key="." line="221" column="12" />
         <mark key="^" line="221" column="12" />
       </file>
-      <file name="$USER_HOME$/Sites/ESS-Monitor/run.py" timestamp="1524948901642">
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="0" />
-        <mark key="." line="18" column="0" />
+      <file name="$USER_HOME$/Sites/ESS-Monitor/run.py" timestamp="1524972679915">
+        <mark key="[" line="36" column="0" />
+        <mark key="]" line="36" column="0" />
+        <mark key="." line="36" column="0" />
+        <mark key="^" line="36" column="24" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/playground/first.py" timestamp="1510732076473">
         <mark key="[" line="66" column="71" />
@@ -802,10 +805,10 @@
         <mark key="." line="30" column="59" />
         <mark key="^" line="30" column="59" />
       </file>
-      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/templates/ess/node_list.html" timestamp="1524462822393">
+      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/templates/ess/node_list.html" timestamp="1524971404244">
         <mark key="'" line="18" column="0" />
-        <mark key="[" line="25" column="49" />
-        <mark key="]" line="25" column="49" />
+        <mark key="[" line="90" column="0" />
+        <mark key="]" line="136" column="22" />
         <mark key="." line="25" column="49" />
         <mark key="^" line="25" column="64" />
       </file>
@@ -850,14 +853,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="31" column="8" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/static/js/ess-monitor.js" />
-      <jump line="66" column="7" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/static/js/ess-monitor.js" />
-      <jump line="18" column="9" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/static/js/ess-monitor.js" />
-      <jump line="50" column="0" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/static/js/ess-monitor.js" />
-      <jump line="45" column="9" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/static/js/ess-monitor.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/static/js/ess-monitor.js" />
-      <jump line="3" column="14" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/static/js/ess-monitor.js" />
-      <jump line="118" column="15" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/static/js/ess-monitor.js" />
       <jump line="4" column="8" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/static/js/ess-monitor.js" />
       <jump line="24" column="0" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/static/js/ess-monitor.js" />
       <jump line="117" column="0" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/static/js/ess-monitor.js" />
@@ -950,64 +945,63 @@
       <jump line="0" column="0" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/models/code.py" />
       <jump line="19" column="0" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/models/code.py" />
       <jump line="56" column="20" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" />
+      <jump line="8" column="0" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/schemas/node_schema.py" />
+      <jump line="16" column="52" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/schemas/node_schema.py" />
+      <jump line="65" column="13" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/schemas/node_schema.py" />
+      <jump line="64" column="13" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/schemas/node_schema.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/schemas/node_schema.py" />
+      <jump line="12" column="43" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/schemas/node_schema.py" />
+      <jump line="80" column="13" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/schemas/node_schema.py" />
+      <jump line="14" column="41" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/schemas/node_schema.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">IyBmcm9tIC5tb2RlbHMgaW1wb3J0IE5vZGUK</text>
+        <text encoding="base64">ICAgIHByaW50KHVzZXJfanNvbi5kYXRhKQo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Z2F0ZXdheSA=</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>mod_ess</text>
+        <text>pri_owner</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ZnJvbSBtb25pdG9yLmVzc191c2VycyBpbXBvcnQgVXNlcgo=</text>
+      <register name="0" type="4">
+        <text encoding="base64">Y2xhc3MgVXNlclNjaGVtYShtYS5Nb2RlbFNjaGVtYSk6CiAgICBjbGFzcyBNZXRhOgogICAgICAgIG1vZGVsID0gVXNlcgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">IyBmcm9tIC5tb2RlbHMgaW1wb3J0IE5vZGUK</text>
+        <text encoding="base64">ICAgIHByaW50KHVzZXJfanNvbi5kYXRhKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHVzZXJfanNvbiA9IHVzZXJfc2NoZW1hLmR1bXAodXNlcl9saXN0KQo=</text>
       </register>
-      <register name="3" type="4">
-        <text>from .models.node import Node
-from .models.code import Code, CodeUpdateLog
-from .models.device import Device
-from .models.product import Product
-from .models.cluster import Cluster</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIDx0ZCBjbGFzcz0ibm9kZV9jbHVzdGVyX2NlbGwiPnt7IHMobm9kZS5ub2RlX25hbWUpIH19PC90ZD4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIDx0ZCBjbGFzcz0ibm9kZV9oYXJkd2FyZV9jZWxsIj57eyBzKG5vZGUubWVtb3J5KSB9fTwvdGQ+Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text>from .models.node import Node
-from .models.code import CodeUpdateLog
-from .models.dump import Dump
-from .models.device import Device
-from .models.product import Product
-from .models.cluster import Cluster</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIDx0ZCBjbGFzcz0ibm9kZV9oYXJkd2FyZV9jZWxsIj57eyBzKG5vZGUuY3B1KSB9fTwvdGQ+Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZnJvbSAubW9kZWxzCg==</text>
+        <text encoding="base64">ICAgIDx0ZCBjbGFzcz0ibm9kZV9oYXJkd2FyZV9jZWxsIj57eyBzKG5vZGUuc2VyaWFsKSB9fTwvdGQ+Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIDx0ZCBjbGFzcz0ibm9kZV9pbmZvX2NlbGwiPnt7IG5vZGUuYWNjZXNzX2lwIH19PC90ZD4K</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">CiMgZnJvbSAuc2NoZW1hcy5zY2FuX2NvbW1hbmRfc2NoZW1hIGltcG9ydCAqCiMgZnJvbSAuc2NoZW1hcy5wcm9kdWN0X3NjaGVtYSBpbXBvcnQgKgojIGZyb20gLnNjaGVtYXMuZ2F0ZXdheV9zY2hlbWEgaW1wb3J0ICoKIyBmcm9tIC5zY2hlbWFzLmR1bXBfc2NoZW1hIGltcG9ydCAqCiMgZnJvbSAuc2NoZW1hcy5jbHVzdGVyX3NjaGVtYSBpbXBvcnQgKgojIGZyb20gLnNjaGVtYXMuY29kZV9zY2hlbWEgaW1wb3J0ICoKIyBmcm9tIC5zY2hlbWFzLmRldmljZV9zY2hlbWEgaW1wb3J0ICoKIyBmcm9tIC5zY2hlbWFzLm5vZGVfc2NoZW1hIGltcG9ydCAqCgojIGZyb20gLnNjaGVtYXMgaW1wb3J0ICo=</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIC0tPgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIDwhLS0gSGlkZSBzb21lIGF0dHJpYnV0ZXMgdGhhdCBhcmUgbm90IG5lZWRlZCBpbiB0YWJsZSBidXQgZGlzcGxheWVkIGluIG5vZGUgZGV0YWlscwo=</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">dyA=</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>mod_ess</last-search>
+      <last-search>pri_owner</last-search>
       <last-offset />
-      <last-pattern>mod_ess</last-pattern>
+      <last-pattern>pri_owner</last-pattern>
       <last-replace>device_display</last-replace>
       <last-substitute>node_display</last-substitute>
       <last-dir>1</last-dir>
@@ -1015,12 +1009,6 @@ from .models.cluster import Cluster</text>
     </search>
     <history>
       <history-search>
-        <entry>NodeSchem</entry>
-        <entry>NodeSchema</entry>
-        <entry>ma</entry>
-        <entry>backref</entry>
-        <entry>generate_password</entry>
-        <entry>Device</entry>
         <entry>fields</entry>
         <entry>CodeUpdate</entry>
         <entry>CodeUpdateLog</entry>
@@ -1035,6 +1023,12 @@ from .models.cluster import Cluster</text>
         <entry>User</entry>
         <entry>logger</entry>
         <entry>mod_ess</entry>
+        <entry>hostname</entry>
+        <entry>fqdn</entry>
+        <entry>serial</entry>
+        <entry>arch</entry>
+        <entry>node_name</entry>
+        <entry>pri_owner</entry>
       </history-search>
       <history-cmd>
         <entry>46</entry>
@@ -1054,9 +1048,9 @@ from .models.cluster import Cluster</text>
         <entry>$</entry>
         <entry>wq</entry>
         <entry>q</entry>
-        <entry>w</entry>
         <entry encoding="base64">dyA=</entry>
         <entry>0</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
