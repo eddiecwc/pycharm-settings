@@ -28,8 +28,8 @@
         <mark key="^" line="5" column="53" />
         <mark key="." line="5" column="53" />
       </file>
-      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" timestamp="1524949685196">
-        <mark key="'" line="53" column="41" />
+      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" timestamp="1524961285785">
+        <mark key="'" line="56" column="20" />
         <mark key="[" line="54" column="0" />
         <mark key="]" line="54" column="0" />
         <mark key="^" line="54" column="70" />
@@ -851,7 +851,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="74" column="24" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/static/js/ess-monitor.js" />
       <jump line="31" column="8" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/static/js/ess-monitor.js" />
       <jump line="66" column="7" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/static/js/ess-monitor.js" />
       <jump line="18" column="9" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/static/js/ess-monitor.js" />
@@ -951,6 +950,7 @@
       <jump line="75" column="16" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/models/code.py" />
       <jump line="0" column="0" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/models/code.py" />
       <jump line="19" column="0" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/models/code.py" />
+      <jump line="56" column="20" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -960,7 +960,7 @@
         <text encoding="base64">Z2F0ZXdheSA=</text>
       </register>
       <register name="/" type="4">
-        <text>logger</text>
+        <text>mod_ess</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ZnJvbSBtb25pdG9yLmVzc191c2VycyBpbXBvcnQgVXNlcgo=</text>
@@ -1006,9 +1006,9 @@ from .models.cluster import Cluster</text>
       </register>
     </registers>
     <search>
-      <last-search>logger</last-search>
+      <last-search>mod_ess</last-search>
       <last-offset />
-      <last-pattern>logger</last-pattern>
+      <last-pattern>mod_ess</last-pattern>
       <last-replace>device_display</last-replace>
       <last-substitute>node_display</last-substitute>
       <last-dir>1</last-dir>
@@ -1016,7 +1016,6 @@ from .models.cluster import Cluster</text>
     </search>
     <history>
       <history-search>
-        <entry>schema</entry>
         <entry>NodeSchem</entry>
         <entry>NodeSchema</entry>
         <entry>ma</entry>
@@ -1036,6 +1035,7 @@ from .models.cluster import Cluster</text>
         <entry>DumpSchema</entry>
         <entry>User</entry>
         <entry>logger</entry>
+        <entry>mod_ess</entry>
       </history-search>
       <history-cmd>
         <entry>46</entry>
@@ -1055,9 +1055,9 @@ from .models.cluster import Cluster</text>
         <entry>$</entry>
         <entry>wq</entry>
         <entry>q</entry>
-        <entry>0</entry>
         <entry>w</entry>
         <entry encoding="base64">dyA=</entry>
+        <entry>0</entry>
       </history-cmd>
       <history-expr />
       <history-input />
