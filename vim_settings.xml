@@ -28,6 +28,9 @@
         <mark key="^" line="5" column="53" />
         <mark key="." line="5" column="53" />
       </file>
+      <file name="/a.dummy" timestamp="1524864485256">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" timestamp="1524961285785">
         <mark key="'" line="56" column="20" />
         <mark key="[" line="54" column="0" />
@@ -158,13 +161,6 @@
         <mark key="]" line="48" column="50" />
         <mark key="." line="48" column="50" />
         <mark key="^" line="48" column="7" />
-      </file>
-      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/models/code.py" timestamp="1524948277902">
-        <mark key="'" line="17" column="0" />
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="^" line="72" column="43" />
-        <mark key="." line="16" column="0" />
       </file>
       <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/app.py" timestamp="1524555468499">
         <mark key="'" line="69" column="0" />
@@ -774,6 +770,9 @@
         <mark key="]" line="12" column="0" />
         <mark key="^" line="12" column="11" />
         <mark key="." line="12" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1524964823157">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Sites/ESS-Monitor/scripts/collectLinuxNodeInfo.py" timestamp="1514356709242">
         <mark key="'" line="34" column="14" />
