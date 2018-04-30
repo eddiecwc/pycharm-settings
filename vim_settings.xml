@@ -194,11 +194,11 @@
         <mark key="^" line="32" column="2" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/schemas/product_schema.py" timestamp="1525062871678">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="^" line="13" column="7" />
-        <mark key="." line="14" column="0" />
+      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/schemas/product_schema.py" timestamp="1525063700341">
+        <mark key="[" line="12" column="26" />
+        <mark key="]" line="12" column="39" />
+        <mark key="^" line="12" column="39" />
+        <mark key="." line="12" column="39" />
       </file>
       <file name="$USER_HOME$/Sites/FlaskApp/templates/header.html" timestamp="1514758379486">
         <mark key="'" line="0" column="0" />
@@ -930,11 +930,11 @@
       <jump line="14" column="41" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/schemas/node_schema.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="&quot;" type="4">
+        <text>'</text>
       </register>
       <register name="-" type="4">
-        <text>category</text>
+        <text>'</text>
       </register>
       <register name="/" type="4">
         <text>pri_owner</text>
