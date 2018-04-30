@@ -150,12 +150,12 @@
         <mark key="." line="48" column="50" />
         <mark key="^" line="48" column="7" />
       </file>
-      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/app.py" timestamp="1525068488776">
-        <mark key="'" line="72" column="0" />
-        <mark key="[" line="46" column="11" />
-        <mark key="]" line="46" column="27" />
-        <mark key="^" line="46" column="27" />
-        <mark key="." line="46" column="27" />
+      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/app.py" timestamp="1525070038119">
+        <mark key="'" line="2" column="0" />
+        <mark key="[" line="46" column="19" />
+        <mark key="]" line="46" column="24" />
+        <mark key="^" line="46" column="24" />
+        <mark key="." line="46" column="24" />
       </file>
       <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/decorators.py" timestamp="1518397790247">
         <mark key="[" line="13" column="0" />
@@ -829,7 +829,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="4" column="8" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/static/js/ess-monitor.js" />
       <jump line="24" column="0" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/static/js/ess-monitor.js" />
       <jump line="117" column="0" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/static/js/ess-monitor.js" />
       <jump line="2" column="9" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/static/js/ess-monitor.js" />
@@ -929,16 +928,17 @@
       <jump line="12" column="43" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/schemas/node_schema.py" />
       <jump line="80" column="13" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/schemas/node_schema.py" />
       <jump line="14" column="41" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/schemas/node_schema.py" />
+      <jump line="2" column="0" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/app.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>False</text>
+        <text>close_all</text>
       </register>
       <register name="-" type="4">
-        <text>False</text>
+        <text>close_all</text>
       </register>
       <register name="/" type="4">
-        <text>pri_owner</text>
+        <text>drop_all</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBkYi5kcm9wX2FsbCgpCg==</text>
@@ -975,9 +975,9 @@
       </register>
     </registers>
     <search>
-      <last-search>pri_owner</last-search>
+      <last-search>drop_all</last-search>
       <last-offset />
-      <last-pattern>pri_owner</last-pattern>
+      <last-pattern>drop_all</last-pattern>
       <last-replace>device_display</last-replace>
       <last-substitute>node_display</last-substitute>
       <last-dir>1</last-dir>
@@ -985,7 +985,6 @@
     </search>
     <history>
       <history-search>
-        <entry>fields</entry>
         <entry>CodeUpdate</entry>
         <entry>CodeUpdateLog</entry>
         <entry>Code</entry>
@@ -1005,6 +1004,7 @@
         <entry>arch</entry>
         <entry>node_name</entry>
         <entry>pri_owner</entry>
+        <entry>drop_all</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL3Byb2R1Y3RfYWRkX2Zvcm0vY29kZV9hZGRfZm9ybS9n</entry>
