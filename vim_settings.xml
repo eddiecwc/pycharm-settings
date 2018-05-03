@@ -234,12 +234,12 @@
         <mark key="." line="62" column="10" />
         <mark key="^" line="62" column="10" />
       </file>
-      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/mixin.py" timestamp="1525309676391">
-        <mark key="'" line="25" column="4" />
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="18" column="3" />
-        <mark key="^" line="18" column="3" />
-        <mark key="." line="18" column="3" />
+      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/mixin.py" timestamp="1525310148483">
+        <mark key="'" line="35" column="4" />
+        <mark key="[" line="27" column="16" />
+        <mark key="]" line="27" column="22" />
+        <mark key="^" line="27" column="22" />
+        <mark key="." line="27" column="22" />
       </file>
       <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/mod_device/device.py" timestamp="1516579356573">
         <mark key="'" line="0" column="0" />
@@ -659,11 +659,11 @@
         <mark key="." line="50" column="0" />
         <mark key="^" line="46" column="5" />
       </file>
-      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/ess_users/schemas.py" timestamp="1525306827859">
-        <mark key="[" line="21" column="23" />
-        <mark key="]" line="21" column="61" />
-        <mark key="^" line="21" column="61" />
-        <mark key="." line="21" column="61" />
+      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/ess_users/schemas.py" timestamp="1525310188054">
+        <mark key="[" line="6" column="5" />
+        <mark key="]" line="6" column="28" />
+        <mark key="." line="6" column="28" />
+        <mark key="^" line="6" column="28" />
       </file>
       <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/templates/ess_users/user_add.html" timestamp="1517099120049">
         <mark key="[" line="16" column="57" />
@@ -931,11 +931,11 @@
       <jump line="2" column="0" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/app.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ZnJvbSAuZXh0ZW5zaW9ucyBpbXBvcnQgZGIK</text>
+      <register name="&quot;" type="4">
+        <text>.</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ZXh0ZW5zaW9ucyA=</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text>drop_all</text>
@@ -944,31 +944,31 @@
         <text encoding="base64">ICAgIGZpcnN0X25hbWUgPSBmaWVsZHMuU3RyKHJlcXVpcmVkPVRydWUpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZnJvbSAuZXh0ZW5zaW9ucyBpbXBvcnQgZGIK</text>
+        <text encoding="base64">ZnJvbSBtb25pdG9yLmV4dGVuc2lvbnMgaW1wb3J0IG1hCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZnJvbSAuZXh0ZW5zaW9ucyBpbXBvcnQgZGIK</text>
+        <text encoding="base64">ZnJvbSBtb25pdG9yLmNvbnN0YW50cyBpbXBvcnQgU1RSSU5HX0xFTgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIHZhbGlkYXRlLkxlbmd0aChtYXg9U1RSSU5HX0xFTikpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICIiIgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICB2YWxpZGF0ZS5MZW5ndGgobWF4PVNUUklOR19MRU4pKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">dmFsaWRhdGU9dmFsaWRhdGUuRW1haWwoZXJyb3I9Ik5vdCBhIFZhbGlkIEVtYWlsIEFkZHJlc3MiKSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgIHZhbGlkYXRlPXZhbGlkYXRlLkxlbmd0aChtYXg9U1RSSU5HX0xFTikpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGZpZWxkcy5FbWFpbAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgdmFsaWRhdGU9dmFsaWRhdGUuTGVuZ3RoKG1heD1TVFJJTkdfTEVOKSkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHZhbGlkYXRlLkxlbmd0aChtYXg9U1RSSU5HX0xFTikpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBmaWVsZHMgPSAoJ2ZpcnN0X25hbWUnLCAnbGFzdF9uYW1lJywgJ2VtYWlsJywgJ3Bob25lJywgJ25vdGVzJykK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCh1c2VyKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
