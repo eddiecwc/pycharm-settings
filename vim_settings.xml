@@ -311,11 +311,11 @@
         <mark key="." line="124" column="21" />
         <mark key="^" line="124" column="21" />
       </file>
-      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/schemas/dump_schema.py" timestamp="1525336014421">
-        <mark key="[" line="29" column="68" />
-        <mark key="]" line="29" column="68" />
-        <mark key="." line="29" column="68" />
-        <mark key="^" line="29" column="83" />
+      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/schemas/dump_schema.py" timestamp="1525336151448">
+        <mark key="[" line="31" column="26" />
+        <mark key="]" line="31" column="71" />
+        <mark key="." line="31" column="71" />
+        <mark key="^" line="31" column="71" />
       </file>
       <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/mod_tester/__init__.py" timestamp="1515867144650">
         <mark key="[" line="0" column="26" />
@@ -433,11 +433,11 @@
         <mark key="^" line="25" column="37" />
         <mark key="." line="27" column="0" />
       </file>
-      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/schemas/__init__.py" timestamp="1525333861334">
-        <mark key="[" line="1" column="41" />
-        <mark key="]" line="1" column="58" />
-        <mark key="^" line="1" column="58" />
-        <mark key="." line="1" column="58" />
+      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/schemas/__init__.py" timestamp="1525336192920">
+        <mark key="[" line="3" column="35" />
+        <mark key="]" line="3" column="49" />
+        <mark key="^" line="3" column="49" />
+        <mark key="." line="3" column="49" />
       </file>
       <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/extensions.py" timestamp="1524555454492">
         <mark key="[" line="3" column="0" />
@@ -929,10 +929,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>'</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>'</text>
       </register>
       <register name="/" type="4">
         <text>User</text>
