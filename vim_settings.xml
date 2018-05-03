@@ -659,11 +659,11 @@
         <mark key="." line="50" column="0" />
         <mark key="^" line="46" column="5" />
       </file>
-      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/ess_users/schemas.py" timestamp="1525248372122">
-        <mark key="[" line="2" column="40" />
-        <mark key="]" line="2" column="40" />
-        <mark key="^" line="12" column="3" />
-        <mark key="." line="2" column="40" />
+      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/ess_users/schemas.py" timestamp="1525306827859">
+        <mark key="[" line="21" column="23" />
+        <mark key="]" line="21" column="61" />
+        <mark key="^" line="21" column="61" />
+        <mark key="." line="21" column="61" />
       </file>
       <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/templates/ess_users/user_add.html" timestamp="1517099120049">
         <mark key="[" line="16" column="57" />
@@ -932,10 +932,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>,</text>
+        <text encoding="base64">ZXh0ZW5zaW9ucyA=</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text encoding="base64">ZXh0ZW5zaW9ucyA=</text>
       </register>
       <register name="/" type="4">
         <text>drop_all</text>
