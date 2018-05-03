@@ -380,11 +380,11 @@
         <mark key="^" line="21" column="103" />
         <mark key="." line="21" column="103" />
       </file>
-      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/schemas/gateway_schema.py" timestamp="1525332113798">
-        <mark key="[" line="6" column="23" />
-        <mark key="]" line="6" column="23" />
-        <mark key="." line="6" column="23" />
-        <mark key="^" line="6" column="23" />
+      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/schemas/gateway_schema.py" timestamp="1525332868517">
+        <mark key="[" line="20" column="15" />
+        <mark key="]" line="6" column="55" />
+        <mark key="." line="6" column="55" />
+        <mark key="^" line="6" column="55" />
       </file>
       <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/templates/ess_users/user_list.html" timestamp="1517378988111">
         <mark key="[" line="37" column="39" />
@@ -930,11 +930,11 @@
       <jump line="368" column="0" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/tasks.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>validate</text>
       </register>
       <register name="-" type="4">
-        <text>n</text>
+        <text>validate</text>
       </register>
       <register name="/" type="4">
         <text>get_net_dev_product</text>
