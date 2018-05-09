@@ -54,11 +54,11 @@
         <mark key="^" line="14" column="36" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/schemas/code_schema.py" timestamp="1525420792026">
-        <mark key="[" line="22" column="23" />
-        <mark key="]" line="22" column="23" />
-        <mark key="." line="22" column="23" />
-        <mark key="^" line="22" column="23" />
+      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/schemas/code_schema.py" timestamp="1525851997102">
+        <mark key="[" line="35" column="59" />
+        <mark key="]" line="35" column="58" />
+        <mark key="." line="35" column="58" />
+        <mark key="^" line="35" column="58" />
       </file>
       <file name="$USER_HOME$/Sites/FlaskApp/templates/interactive.html" timestamp="1514787861252">
         <mark key="[" line="6" column="73" />
@@ -196,9 +196,9 @@
         <mark key="^" line="32" column="2" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/schemas/product_schema.py" timestamp="1525849674436">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
+      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/schemas/product_schema.py" timestamp="1525851772305">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="83" />
         <mark key="." line="8" column="0" />
       </file>
       <file name="$USER_HOME$/Sites/FlaskApp/templates/header.html" timestamp="1514758379486">
@@ -907,23 +907,25 @@
       <jump line="0" column="0" filename="$USER_HOME$/Sites/ESS-Monitor/run.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ZnJvbSBtb25pdG9yLmV4dGVuc2lvbnMgaW1wb3J0IG1hCg==</text>
+      <register name="&quot;" type="4">
+        <text>,</text>
       </register>
       <register name="-" type="4">
-        <text>i</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text>User</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">ICAgICAgICAjIGh0dHBzOi8vZ2l0aHViLmNvbS9tYXJzaG1hbGxvdy1jb2RlL21hcnNobWFsbG93LXNxbGFsY2hlbXkvaXNzdWVzLzExMwogICAgICAgICMgYnVnIHdpdGggc3lub255bSBmaWVsZHMgc28gbmVlZCB0byBleHBsaWNpdGx5IGRlZmluZSBmaWVsZHMKICAgICAgICAjIGRvbid0IHdhbnQgdG8gZXhwb3NlIHBhc3N3b3JkcyBhbnl3YXkKIA==</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB2YWxpZGF0ZT1sYW1iZGEgbjogMCA8PSBuIDw9IGxlbihQUk9EVUNUX1RZUEVTKSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZnJvbSBtb25pdG9yLmV4dGVuc2lvbnMgaW1wb3J0IG1hCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ZnJvbSBtb25pdG9yLmV4dGVuc2lvbnMgaW1wb3J0IG1hCg==</text>
+      <register name="2" type="4">
+        <text>class CodeSchema(BaseMonitorSchema):
+    class Meta:
+        model = Code</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ZnJvbSBtb25pdG9yLmV4dGVuc2lvbnMgaW1wb3J0IG1hCg==</text>
@@ -932,22 +934,22 @@
         <text encoding="base64">ZnJvbSBtb25pdG9yLmV4dGVuc2lvbnMgaW1wb3J0IG1hCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ZnJvbSBtb25pdG9yLmV4dGVuc2lvbnMgaW1wb3J0IG1hCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ZnJvbSBtb25pdG9yLmV4dGVuc2lvbnMgaW1wb3J0IG1hCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZnJvbSBtb25pdG9yLgo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnJvbSBtb25pdG9yLgo=</text>
       </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -998,11 +1000,11 @@
         <entry>82</entry>
         <entry>45</entry>
         <entry>q</entry>
-        <entry>0</entry>
         <entry>$</entry>
         <entry encoding="base64">dyA=</entry>
-        <entry>w</entry>
         <entry>wq</entry>
+        <entry>w</entry>
+        <entry>0</entry>
       </history-cmd>
       <history-expr />
       <history-input />
