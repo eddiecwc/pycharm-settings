@@ -343,11 +343,12 @@
         <mark key="^" line="15" column="11" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/schemas/node_schema.py" timestamp="1525904480016">
-        <mark key="[" line="85" column="0" />
-        <mark key="]" line="191" column="3" />
-        <mark key="." line="191" column="3" />
-        <mark key="^" line="191" column="3" />
+      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/schemas/node_schema.py" timestamp="1525906518884">
+        <mark key="'" line="108" column="8" />
+        <mark key="[" line="94" column="0" />
+        <mark key="]" line="94" column="0" />
+        <mark key="." line="94" column="0" />
+        <mark key="^" line="91" column="3" />
       </file>
       <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/templates/macros/macros.html" timestamp="1523829150130">
         <mark key="[" line="1" column="36" />
@@ -378,9 +379,9 @@
         <mark key="^" line="21" column="103" />
         <mark key="." line="21" column="103" />
       </file>
-      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/schemas/gateway_schema.py" timestamp="1525849666612">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
+      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/schemas/gateway_schema.py" timestamp="1525905242452">
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="27" column="43" />
         <mark key="." line="6" column="0" />
         <mark key="^" line="23" column="3" />
       </file>
@@ -824,7 +825,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="157" column="44" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/models/node.py" />
       <jump line="269" column="26" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/models/node.py" />
       <jump line="17" column="48" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/models/node.py" />
       <jump line="155" column="20" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/models/node.py" />
@@ -924,57 +924,56 @@
       <jump line="336" column="13" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" />
       <jump line="43" column="67" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" />
       <jump line="0" column="0" filename="$USER_HOME$/Sites/ESS-Monitor/run.py" />
+      <jump line="99" column="8" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/schemas/node_schema.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IiIiICAgIA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICMgb25seSBmb3IgaW5wdXQuIERvIG5vdCBpbmNsdWRlIGluIGR1bXAgICAK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IiIiICAgIA==</text>
+        <text encoding="base64">ICAgICA=</text>
       </register>
       <register name="/" type="4">
-        <text>User</text>
+        <text>pass</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">ICAgICMgcm9sZSBlbnVtZXJhdGlvbgogICAgcm9sZV9jb2RlID0gQ29sdW1uKGRiLlNtYWxsSW50ZWdlciwgZGVmYXVsdD1GUkVFLCBudWxsYWJsZT1GYWxzZSkKCiAgICBAcHJvcGVydHkKICAgIGRlZiByb2xlKHNlbGYpOgogICAgICAgIHJldHVybiBOT0RFX1JPTEVbc2VsZi5yb2xlX2NvZGVdCgogICAgQHByb3BlcnR5CiAgICBkZWYgb3Moc2VsZik6CiAgICAgICAgcmV0dXJuICIlcyAlcyIgJSAoc2VsZi5vc192ZXIuY29kZV9sYWJlbCwgc2VsZi5vc192ZXIuY29kZV92ZXJzaW9uKQoKICAgIGRlZiBpc19lbXMoc2VsZik6CiAgICAgICAgcmV0dXJuIHNlbGYucm9sZV9jb2RlID09IEVNUwoKICAgIGRlZiBpc19pbyhzZWxmKToKICAgICAgICByZXR1cm4gc2VsZi5yb2xlX2NvZGUgPT0gSU8KCiAgICAjIGdwZnMgc3RhdGUgZW51bWVyYXRpb24KICAgIGdwZnNfc3RhdHVzX2NvZGUgPSBDb2x1bW4oZGIuU21hbGxJbnRlZ2VyKQoKICAgIEBwcm9wZXJ0eQogICAgZGVmIGdwZnNfc3RhdHVzKHNlbGYpOgogICAgICAgIGlmIHNlbGYuZ3Bmc19zdGF0dXNfY29kZSBpcyBub3QgTm9uZToKICAgICAgICAgICAgcmV0dXJuIEdQRlNfU1RBVFVTW3NlbGYuZ3Bmc19zdGF0dXNfY29kZV0KICAgICAgICBlbHNlOgogICAgICAgICAgICByZXR1cm4gTm9uZQoKICAgICMgQ29ubmVjdGlvbiB0byBDb2RlVXBkYXRlTG9ncyAtIE5vZGUudXBkYXRlcyBzaG91bGQgcmVzdWx0IGluIGluc3RhbGwgbG9nIGZvciB0aGF0IGNvZGUKICAgIHVwZGF0ZXMgPSBkYi5yZWxhdGlvbnNoaXAoJ0NvZGVVcGRhdGVMb2cnLCBiYWNrcmVmPSdzY2FubmVkX3N5c3RlbScsIGxhenk9J2R5bmFtaWMnLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICBmb3JlaWduX2tleXM9J0NvZGVVcGRhdGVMb2cuaWRfbm9kZScpCgogICAgIyBDb25uZWN0aW9uIHRvIENvZGUKICAgIGlkX3NwX2Z3X3ZlciA9IGRiLkNvbHVtbihkYi5JbnRlZ2VyLCBkYi5Gb3JlaWduS2V5KCdjb2Rlcy5pZCcpKQogICAgaWRfc3lzX2Z3X3ZlciA9IGRiLkNvbHVtbihkYi5JbnRlZ2VyLCBkYi5Gb3JlaWduS2V5KCdjb2Rlcy5pZCcpKQogICAgaWRfZXNzX3ZlciA9IGRiLkNvbHVtbihkYi5JbnRlZ2VyLCBkYi5Gb3JlaWduS2V5KCdjb2Rlcy5pZCcpKQogICAgaWRfZ3Bmc192ZXIgPSBkYi5Db2x1bW4oZGIuSW50ZWdlciwgZGIuRm9yZWlnbktleSgnY29kZXMuaWQnKSkKICAgIGlkX2VzYV92ZXIgPSBkYi5Db2x1bW4oZGIuSW50ZWdlciwgZGIuRm9yZWlnbktleSgnY29kZXMuaWQnKSkKICAgIGlkX3hjYXRfdmVyID0gZGIuQ29sdW1uKGRiLkludGVnZXIsIGRiLkZvcmVpZ25LZXkoJ2NvZGVzLmlkJykpCiAgICBpZF9vc192ZXIgPSBkYi5Db2x1bW4oZGIuSW50ZWdlciwgZGIuRm9yZWlnbktleSgnY29kZXMuaWQnKSkKICAgIGlkX2tlcm5lbF92ZXIgPSBkYi5Db2x1bW4oZGIuSW50ZWdlciwgZGIuRm9yZWlnbktleSgnY29kZXMuaWQnKSkKICAgIGlkX3N5c3RlbWRfdmVyID0gZGIuQ29sdW1uKGRiLkludGVnZXIsIGRiLkZvcmVpZ25LZXkoJ2NvZGVzLmlkJykpCiAgICBpZF9tb2ZlZF92ZXIgPSBkYi5Db2x1bW4oZGIuSW50ZWdlciwgZGIuRm9yZWlnbktleSgnY29kZXMuaWQnKSkKICAgIGlkX2xpYnZlcnRfdmVyID0gZGIuQ29sdW1uKGRiLkludGVnZXIsIGRiLkZvcmVpZ25LZXkoJ2NvZGVzLmlkJykpCgogICAgc3BfZndfdmVyID0gZGIucmVsYXRpb25zaGlwKCJDb2RlIiwgZm9yZWlnbl9rZXlzPVtpZF9zcF9md192ZXJdKQogICAgc3lzX2Z3X3ZlciA9IGRiLnJlbGF0aW9uc2hpcCgiQ29kZSIsIGZvcmVpZ25fa2V5cz1baWRfc3lzX2Z3X3Zlcl0pCiAgICBlc3NfdmVyID0gZGIucmVsYXRpb25zaGlwKCJDb2RlIiwgZm9yZWlnbl9rZXlzPVtpZF9lc3NfdmVyXSkKICAgIGdwZnNfdmVyID0gZGIucmVsYXRpb25zaGlwKCJDb2RlIiwgZm9yZWlnbl9rZXlzPVtpZF9ncGZzX3Zlcl0pCiAgICBlc2FfdmVyID0gZGIucmVsYXRpb25zaGlwKCJDb2RlIiwgZm9yZWlnbl9rZXlzPVtpZF9lc2FfdmVyXSkKICAgIHhjYXRfdmVyID0gZGIucmVsYXRpb25zaGlwKCJDb2RlIiwgZm9yZWlnbl9rZXlzPVtpZF94Y2F0X3Zlcl0pCiAgICBvc192ZXIgPSBkYi5yZWxhdGlvbnNoaXAoIkNvZGUiLCBmb3JlaWduX2tleXM9W2lkX29zX3Zlcl0pCiAgICBrZXJuZWxfdmVyID0gZGIucmVsYXRpb25zaGlwKCJDb2RlIiwgZm9yZWlnbl9rZXlzPVtpZF9rZXJuZWxfdmVyXSkKICAgIHN5c3RlbWRfdmVyID0gZGIucmVsYXRpb25zaGlwKCJDb2RlIiwgZm9yZWlnbl9rZXlzPVtpZF9zeXN0ZW1kX3Zlcl0pCiAgICBtb2ZlZF92ZXIgPSBkYi5yZWxhdGlvbnNoaXAoIkNvZGUiLCBmb3JlaWduX2tleXM9W2lkX21vZmVkX3Zlcl0pCiAgICBsaWJ2ZXJ0X3ZlciA9IGRiLnJlbGF0aW9uc2hpcCgiQ29kZSIsIGZvcmVpZ25fa2V5cz1baWRfbGlidmVydF92ZXJdKQoKICAgICMgT3duZXJzCiAgICBpZF9wcmlfb3duZXIgPSBkYi5Db2x1bW4oZGIuSW50ZWdlciwgZGIuRm9yZWlnbktleSgndXNlcnMuaWQnKSkKICAgIGlkX2JrX293bmVyID0gZGIuQ29sdW1uKGRiLkludGVnZXIsIGRiLkZvcmVpZ25LZXkoJ3VzZXJzLmlkJykpCiAgICBwcmlfb3duZXIgPSBkYi5yZWxhdGlvbnNoaXAoIlVzZXIiLCBiYWNrcmVmPSJwcmlfb3duZXJfb2YiLCBmb3JlaWduX2tleXM9W2lkX3ByaV9vd25lcl0pCiAgICBia19vd25lciA9IGRiLnJlbGF0aW9uc2hpcCgiVXNlciIsIGJhY2tyZWY9ImJrX293bmVyX29mIiwgZm9yZWlnbl9rZXlzPVtpZF9ia19vd25lcl0pCgogICAgIyBwcm9kdWN0IG51bWJlcgogICAgaWRfcHJvZHVjdCA9IGRiLkNvbHVtbihkYi5JbnRlZ2VyLCBkYi5Gb3JlaWduS2V5KCJwcm9kdWN0cy5pZCIpKQogICAgcHJvZHVjdCA9IGRiLnJlbGF0aW9uc2hpcCgiUHJvZHVjdCIsIGJhY2tyZWY9InByb2R1Y3RzIiwgZm9yZWlnbl9rZXlzPVtpZF9wcm9kdWN0XSkKCiAgICAjIGdhdGV3YXkgc3lzdGVtCiAgICBpZF9nYXRld2F5ID0gZGIuQ29sdW1uKGRiLkludGVnZXIsIGRiLkZvcmVpZ25LZXkoImdhdGV3YXlzLmlkIikpCiAgICBnYXRld2F5ID0gZGIucmVsYXRpb25zaGlwKCJHYXRld2F5IiwgZm9yZWlnbl9rZXlzPVtpZF9nYXRld2F5XSkKCiAgICAjIGNsdXN0ZXIKICAgIGlkX2NsdXN0ZXIgPSBkYi5Db2x1bW4oZGIuSW50ZWdlciwgZGIuRm9yZWlnbktleSgiY2x1c3RlcnMuaWQiKSkKICAgIGNsdXN0ZXIgPSBkYi5yZWxhdGlvbnNoaXAoIkNsdXN0ZXIiLCBiYWNrcmVmPSJzeXN0ZW1zIiwgZm9yZWlnbl9rZXlzPVtpZF9jbHVzdGVyXSk=</text>
+        <text encoding="base64">ICAgICMgaHR0cHM6Ly9naXRodWIuY29tL21hcnNobWFsbG93LWNvZGUvbWFyc2htYWxsb3ctc3FsYWxjaGVteS9pc3N1ZXMvMTEzCiAgICAjIGJ1ZyB3aXRoIHN5bm9ueW0gZmllbGRzIHNvIG5lZWQgdG8gZXhwbGljaXRseSBkZWZpbmUgZmllbGRzCiAgICAjIGRvbid0IHdhbnQgdG8gZXhwb3NlIHBhc3N3b3JkcyBhbnl3YXkKICAgICMgb25seSBmb3IgaW5wdXQuIERvIG5vdCBpbmNsdWRlIGluIGR1bXA=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICMgb25seSBmb3IgaW5wdXQuIERvIG5vdCBpbmNsdWRlIGluIGR1bXAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGlkXwo=</text>
+        <text encoding="base64">IDAwICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGxvZ2luX3Bhc3N3b3JkID0gZGIuc3lub255bSgiX2xvZ2luX3Bhc3N3b3JkIiwgZGVzY3JpcHRvcj1wcm9wZXJ0eShfZ2V0X2xvZ2luX3Bhc3N3b3JkLCBfc2V0X2xvZ2luX3Bhc3N3b3JkKSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAK</text>
+        <text encoding="base64">ICAgIGxvZ2luX3Bhc3N3b3JkID0gZGIuc3lub255bSgiX2xvZ2luX3Bhc3N3b3JkIiwgZGVzY3JpcHRvcj1wcm9wZXJ0eShfZ2V0X2xvZ2luX3Bhc3N3b3JkLCBfc2V0X2xvZ2luX3Bhc3N3b3JkKSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGlkX25vZGUgPSBmaWVsZHMuSW50KCkK</text>
+        <text encoding="base64">ICAgIGxvZ2luX3Bhc3N3b3JkID0gZGIuc3lub255bSgiX2xvZ2luX3Bhc3N3b3JkIiwgZGVzY3JpcHRvcj1wcm9wZXJ0eShfZ2V0X2xvZ2luX3Bhc3N3b3JkLCBfc2V0X2xvZ2luX3Bhc3N3b3JkKSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZnJvbSBtb25pdG9yLmV4dGVuc2lvbnMgaW1wb3J0IG1hCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIF9sb2dpbl9wYXNzd29yZCA9IENvbHVtbignbG9naW5fcGFzc3dvcmQnLCBkYi5TdHJpbmcoMjAwKSwgbnVsbGFibGU9RmFsc2UpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICMgcGFzc3dvcmQK</text>
       </register>
-      <register name="9" type="4">
-        <text>class CodeSchema(BaseMonitorSchema):
-    class Meta:
-        model = Code</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIGxvZ2luX3VzZXIgPSBDb2x1bW4oZGIuU3RyaW5nKFNUUklOR19MRU4pLCBudWxsYWJsZT1GYWxzZSkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>User</last-search>
+      <last-search>pass</last-search>
       <last-offset />
-      <last-pattern>User</last-pattern>
+      <last-pattern>pass</last-pattern>
       <last-replace>device_display</last-replace>
       <last-substitute>node_display</last-substitute>
       <last-dir>1</last-dir>
@@ -982,7 +981,6 @@
     </search>
     <history>
       <history-search>
-        <entry>logger</entry>
         <entry>mod_ess</entry>
         <entry>hostname</entry>
         <entry>fqdn</entry>
@@ -1002,6 +1000,7 @@
         <entry>re_ipv4</entry>
         <entry>is_ip</entry>
         <entry>User</entry>
+        <entry>pass</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL3Byb2R1Y3RfYWRkX2Zvcm0vY29kZV9hZGRfZm9ybS9n</entry>
@@ -1022,8 +1021,8 @@
         <entry encoding="base64">dyA=</entry>
         <entry>wq</entry>
         <entry>q</entry>
-        <entry>w</entry>
         <entry>0</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
