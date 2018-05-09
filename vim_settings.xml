@@ -35,9 +35,9 @@
         <mark key="^" line="54" column="70" />
         <mark key="." line="54" column="0" />
       </file>
-      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/models/node.py" timestamp="1525847696343">
-        <mark key="[" line="188" column="56" />
-        <mark key="]" line="188" column="56" />
+      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/models/node.py" timestamp="1525904444108">
+        <mark key="[" line="116" column="0" />
+        <mark key="]" line="188" column="85" />
         <mark key="^" line="188" column="56" />
         <mark key="." line="188" column="56" />
       </file>
@@ -343,11 +343,11 @@
         <mark key="^" line="15" column="11" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/schemas/node_schema.py" timestamp="1525848256200">
-        <mark key="[" line="87" column="0" />
-        <mark key="]" line="88" column="0" />
-        <mark key="." line="88" column="0" />
-        <mark key="^" line="88" column="0" />
+      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/schemas/node_schema.py" timestamp="1525904480016">
+        <mark key="[" line="85" column="0" />
+        <mark key="]" line="191" column="3" />
+        <mark key="." line="191" column="3" />
+        <mark key="^" line="191" column="3" />
       </file>
       <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/templates/macros/macros.html" timestamp="1523829150130">
         <mark key="[" line="1" column="36" />
@@ -434,11 +434,11 @@
         <mark key="^" line="25" column="37" />
         <mark key="." line="27" column="0" />
       </file>
-      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/schemas/__init__.py" timestamp="1525853032084">
-        <mark key="[" line="5" column="56" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
-        <mark key="^" line="6" column="0" />
+      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/schemas/__init__.py" timestamp="1525903759068">
+        <mark key="[" line="8" column="25" />
+        <mark key="]" line="8" column="36" />
+        <mark key="." line="8" column="36" />
+        <mark key="^" line="8" column="36" />
       </file>
       <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/extensions.py" timestamp="1524555454492">
         <mark key="[" line="3" column="0" />
@@ -926,17 +926,17 @@
       <jump line="0" column="0" filename="$USER_HOME$/Sites/ESS-Monitor/run.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IiIiICAgIA==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Y29kZSA=</text>
+        <text encoding="base64">IiIiICAgIA==</text>
       </register>
       <register name="/" type="4">
         <text>User</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIGlkX2NvZGUgPSBmaWVsZHMuSW50KCkK</text>
+      <register name="0" type="4">
+        <text encoding="base64">ICAgICMgcm9sZSBlbnVtZXJhdGlvbgogICAgcm9sZV9jb2RlID0gQ29sdW1uKGRiLlNtYWxsSW50ZWdlciwgZGVmYXVsdD1GUkVFLCBudWxsYWJsZT1GYWxzZSkKCiAgICBAcHJvcGVydHkKICAgIGRlZiByb2xlKHNlbGYpOgogICAgICAgIHJldHVybiBOT0RFX1JPTEVbc2VsZi5yb2xlX2NvZGVdCgogICAgQHByb3BlcnR5CiAgICBkZWYgb3Moc2VsZik6CiAgICAgICAgcmV0dXJuICIlcyAlcyIgJSAoc2VsZi5vc192ZXIuY29kZV9sYWJlbCwgc2VsZi5vc192ZXIuY29kZV92ZXJzaW9uKQoKICAgIGRlZiBpc19lbXMoc2VsZik6CiAgICAgICAgcmV0dXJuIHNlbGYucm9sZV9jb2RlID09IEVNUwoKICAgIGRlZiBpc19pbyhzZWxmKToKICAgICAgICByZXR1cm4gc2VsZi5yb2xlX2NvZGUgPT0gSU8KCiAgICAjIGdwZnMgc3RhdGUgZW51bWVyYXRpb24KICAgIGdwZnNfc3RhdHVzX2NvZGUgPSBDb2x1bW4oZGIuU21hbGxJbnRlZ2VyKQoKICAgIEBwcm9wZXJ0eQogICAgZGVmIGdwZnNfc3RhdHVzKHNlbGYpOgogICAgICAgIGlmIHNlbGYuZ3Bmc19zdGF0dXNfY29kZSBpcyBub3QgTm9uZToKICAgICAgICAgICAgcmV0dXJuIEdQRlNfU1RBVFVTW3NlbGYuZ3Bmc19zdGF0dXNfY29kZV0KICAgICAgICBlbHNlOgogICAgICAgICAgICByZXR1cm4gTm9uZQoKICAgICMgQ29ubmVjdGlvbiB0byBDb2RlVXBkYXRlTG9ncyAtIE5vZGUudXBkYXRlcyBzaG91bGQgcmVzdWx0IGluIGluc3RhbGwgbG9nIGZvciB0aGF0IGNvZGUKICAgIHVwZGF0ZXMgPSBkYi5yZWxhdGlvbnNoaXAoJ0NvZGVVcGRhdGVMb2cnLCBiYWNrcmVmPSdzY2FubmVkX3N5c3RlbScsIGxhenk9J2R5bmFtaWMnLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICBmb3JlaWduX2tleXM9J0NvZGVVcGRhdGVMb2cuaWRfbm9kZScpCgogICAgIyBDb25uZWN0aW9uIHRvIENvZGUKICAgIGlkX3NwX2Z3X3ZlciA9IGRiLkNvbHVtbihkYi5JbnRlZ2VyLCBkYi5Gb3JlaWduS2V5KCdjb2Rlcy5pZCcpKQogICAgaWRfc3lzX2Z3X3ZlciA9IGRiLkNvbHVtbihkYi5JbnRlZ2VyLCBkYi5Gb3JlaWduS2V5KCdjb2Rlcy5pZCcpKQogICAgaWRfZXNzX3ZlciA9IGRiLkNvbHVtbihkYi5JbnRlZ2VyLCBkYi5Gb3JlaWduS2V5KCdjb2Rlcy5pZCcpKQogICAgaWRfZ3Bmc192ZXIgPSBkYi5Db2x1bW4oZGIuSW50ZWdlciwgZGIuRm9yZWlnbktleSgnY29kZXMuaWQnKSkKICAgIGlkX2VzYV92ZXIgPSBkYi5Db2x1bW4oZGIuSW50ZWdlciwgZGIuRm9yZWlnbktleSgnY29kZXMuaWQnKSkKICAgIGlkX3hjYXRfdmVyID0gZGIuQ29sdW1uKGRiLkludGVnZXIsIGRiLkZvcmVpZ25LZXkoJ2NvZGVzLmlkJykpCiAgICBpZF9vc192ZXIgPSBkYi5Db2x1bW4oZGIuSW50ZWdlciwgZGIuRm9yZWlnbktleSgnY29kZXMuaWQnKSkKICAgIGlkX2tlcm5lbF92ZXIgPSBkYi5Db2x1bW4oZGIuSW50ZWdlciwgZGIuRm9yZWlnbktleSgnY29kZXMuaWQnKSkKICAgIGlkX3N5c3RlbWRfdmVyID0gZGIuQ29sdW1uKGRiLkludGVnZXIsIGRiLkZvcmVpZ25LZXkoJ2NvZGVzLmlkJykpCiAgICBpZF9tb2ZlZF92ZXIgPSBkYi5Db2x1bW4oZGIuSW50ZWdlciwgZGIuRm9yZWlnbktleSgnY29kZXMuaWQnKSkKICAgIGlkX2xpYnZlcnRfdmVyID0gZGIuQ29sdW1uKGRiLkludGVnZXIsIGRiLkZvcmVpZ25LZXkoJ2NvZGVzLmlkJykpCgogICAgc3BfZndfdmVyID0gZGIucmVsYXRpb25zaGlwKCJDb2RlIiwgZm9yZWlnbl9rZXlzPVtpZF9zcF9md192ZXJdKQogICAgc3lzX2Z3X3ZlciA9IGRiLnJlbGF0aW9uc2hpcCgiQ29kZSIsIGZvcmVpZ25fa2V5cz1baWRfc3lzX2Z3X3Zlcl0pCiAgICBlc3NfdmVyID0gZGIucmVsYXRpb25zaGlwKCJDb2RlIiwgZm9yZWlnbl9rZXlzPVtpZF9lc3NfdmVyXSkKICAgIGdwZnNfdmVyID0gZGIucmVsYXRpb25zaGlwKCJDb2RlIiwgZm9yZWlnbl9rZXlzPVtpZF9ncGZzX3Zlcl0pCiAgICBlc2FfdmVyID0gZGIucmVsYXRpb25zaGlwKCJDb2RlIiwgZm9yZWlnbl9rZXlzPVtpZF9lc2FfdmVyXSkKICAgIHhjYXRfdmVyID0gZGIucmVsYXRpb25zaGlwKCJDb2RlIiwgZm9yZWlnbl9rZXlzPVtpZF94Y2F0X3Zlcl0pCiAgICBvc192ZXIgPSBkYi5yZWxhdGlvbnNoaXAoIkNvZGUiLCBmb3JlaWduX2tleXM9W2lkX29zX3Zlcl0pCiAgICBrZXJuZWxfdmVyID0gZGIucmVsYXRpb25zaGlwKCJDb2RlIiwgZm9yZWlnbl9rZXlzPVtpZF9rZXJuZWxfdmVyXSkKICAgIHN5c3RlbWRfdmVyID0gZGIucmVsYXRpb25zaGlwKCJDb2RlIiwgZm9yZWlnbl9rZXlzPVtpZF9zeXN0ZW1kX3Zlcl0pCiAgICBtb2ZlZF92ZXIgPSBkYi5yZWxhdGlvbnNoaXAoIkNvZGUiLCBmb3JlaWduX2tleXM9W2lkX21vZmVkX3Zlcl0pCiAgICBsaWJ2ZXJ0X3ZlciA9IGRiLnJlbGF0aW9uc2hpcCgiQ29kZSIsIGZvcmVpZ25fa2V5cz1baWRfbGlidmVydF92ZXJdKQoKICAgICMgT3duZXJzCiAgICBpZF9wcmlfb3duZXIgPSBkYi5Db2x1bW4oZGIuSW50ZWdlciwgZGIuRm9yZWlnbktleSgndXNlcnMuaWQnKSkKICAgIGlkX2JrX293bmVyID0gZGIuQ29sdW1uKGRiLkludGVnZXIsIGRiLkZvcmVpZ25LZXkoJ3VzZXJzLmlkJykpCiAgICBwcmlfb3duZXIgPSBkYi5yZWxhdGlvbnNoaXAoIlVzZXIiLCBiYWNrcmVmPSJwcmlfb3duZXJfb2YiLCBmb3JlaWduX2tleXM9W2lkX3ByaV9vd25lcl0pCiAgICBia19vd25lciA9IGRiLnJlbGF0aW9uc2hpcCgiVXNlciIsIGJhY2tyZWY9ImJrX293bmVyX29mIiwgZm9yZWlnbl9rZXlzPVtpZF9ia19vd25lcl0pCgogICAgIyBwcm9kdWN0IG51bWJlcgogICAgaWRfcHJvZHVjdCA9IGRiLkNvbHVtbihkYi5JbnRlZ2VyLCBkYi5Gb3JlaWduS2V5KCJwcm9kdWN0cy5pZCIpKQogICAgcHJvZHVjdCA9IGRiLnJlbGF0aW9uc2hpcCgiUHJvZHVjdCIsIGJhY2tyZWY9InByb2R1Y3RzIiwgZm9yZWlnbl9rZXlzPVtpZF9wcm9kdWN0XSkKCiAgICAjIGdhdGV3YXkgc3lzdGVtCiAgICBpZF9nYXRld2F5ID0gZGIuQ29sdW1uKGRiLkludGVnZXIsIGRiLkZvcmVpZ25LZXkoImdhdGV3YXlzLmlkIikpCiAgICBnYXRld2F5ID0gZGIucmVsYXRpb25zaGlwKCJHYXRld2F5IiwgZm9yZWlnbl9rZXlzPVtpZF9nYXRld2F5XSkKCiAgICAjIGNsdXN0ZXIKICAgIGlkX2NsdXN0ZXIgPSBkYi5Db2x1bW4oZGIuSW50ZWdlciwgZGIuRm9yZWlnbktleSgiY2x1c3RlcnMuaWQiKSkKICAgIGNsdXN0ZXIgPSBkYi5yZWxhdGlvbnNoaXAoIkNsdXN0ZXIiLCBiYWNrcmVmPSJzeXN0ZW1zIiwgZm9yZWlnbl9rZXlzPVtpZF9jbHVzdGVyXSk=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -1020,10 +1020,10 @@
         <entry>45</entry>
         <entry>$</entry>
         <entry encoding="base64">dyA=</entry>
-        <entry>0</entry>
         <entry>wq</entry>
         <entry>q</entry>
         <entry>w</entry>
+        <entry>0</entry>
       </history-cmd>
       <history-expr />
       <history-input />
