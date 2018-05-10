@@ -53,11 +53,11 @@
         <mark key="]" line="26" column="0" />
         <mark key="." line="26" column="0" />
       </file>
-      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/schemas/code_schema.py" timestamp="1525907819768">
-        <mark key="[" line="64" column="0" />
-        <mark key="]" line="69" column="19" />
-        <mark key="." line="29" column="31" />
-        <mark key="^" line="29" column="31" />
+      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/schemas/code_schema.py" timestamp="1525920918450">
+        <mark key="[" line="46" column="0" />
+        <mark key="]" line="47" column="0" />
+        <mark key="." line="47" column="0" />
+        <mark key="^" line="47" column="0" />
       </file>
       <file name="$USER_HOME$/Sites/FlaskApp/templates/interactive.html" timestamp="1514787861252">
         <mark key="[" line="6" column="73" />
@@ -313,11 +313,11 @@
         <mark key="." line="124" column="21" />
         <mark key="^" line="124" column="21" />
       </file>
-      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/schemas/dump_schema.py" timestamp="1525852733110">
-        <mark key="[" line="32" column="0" />
-        <mark key="]" line="32" column="0" />
-        <mark key="." line="32" column="0" />
-        <mark key="^" line="35" column="24" />
+      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/schemas/dump_schema.py" timestamp="1525920429678">
+        <mark key="[" line="32" column="25" />
+        <mark key="]" line="32" column="38" />
+        <mark key="." line="32" column="38" />
+        <mark key="^" line="32" column="38" />
       </file>
       <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/mod_tester/__init__.py" timestamp="1515867144650">
         <mark key="[" line="0" column="26" />
@@ -343,11 +343,12 @@
         <mark key="^" line="15" column="11" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/schemas/node_schema.py" timestamp="1525909467140">
-        <mark key="[" line="126" column="0" />
-        <mark key="]" line="127" column="3" />
-        <mark key="^" line="127" column="3" />
-        <mark key="." line="127" column="3" />
+      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/schemas/node_schema.py" timestamp="1525920836614">
+        <mark key="'" line="172" column="0" />
+        <mark key="[" line="172" column="0" />
+        <mark key="]" line="173" column="0" />
+        <mark key="^" line="173" column="0" />
+        <mark key="." line="173" column="0" />
       </file>
       <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/templates/macros/macros.html" timestamp="1523829150130">
         <mark key="[" line="1" column="36" />
@@ -824,8 +825,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="269" column="26" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/models/node.py" />
-      <jump line="17" column="48" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/models/node.py" />
       <jump line="155" column="20" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/models/node.py" />
       <jump line="156" column="31" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/models/node.py" />
       <jump line="105" column="31" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/models/device.py" />
@@ -924,31 +923,33 @@
       <jump line="43" column="67" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" />
       <jump line="0" column="0" filename="$USER_HOME$/Sites/ESS-Monitor/run.py" />
       <jump line="99" column="8" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/schemas/node_schema.py" />
+      <jump line="138" column="0" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/schemas/node_schema.py" />
+      <jump line="150" column="0" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/schemas/node_schema.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="&quot;" type="4">
+        <text>n</text>
       </register>
       <register name="-" type="4">
-        <text>only</text>
+        <text>n</text>
       </register>
       <register name="/" type="4">
-        <text>pass</text>
+        <text>db.relationship.*</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB2YWxpZGF0ZT1sYW1iZGEgbjogMCA8PSBuIDw9IGxlbihQUk9EVUNUX1RZUEVTKSkK</text>
+      <register name="0" type="4">
+        <text encoding="base64">ICAgIHNwX2Z3X3ZlciA9IGRiLnJlbGF0aW9uc2hpcCgiQ29kZSIsIGZvcmVpZ25fa2V5cz1baWRfc3BfZndfdmVyXSkKICAgIHN5c19md192ZXIgPSBkYi5yZWxhdGlvbnNoaXAoIkNvZGUiLCBmb3JlaWduX2tleXM9W2lkX3N5c19md192ZXJdKQogICAgZXNzX3ZlciA9IGRiLnJlbGF0aW9uc2hpcCgiQ29kZSIsIGZvcmVpZ25fa2V5cz1baWRfZXNzX3Zlcl0pCiAgICBncGZzX3ZlciA9IGRiLnJlbGF0aW9uc2hpcCgiQ29kZSIsIGZvcmVpZ25fa2V5cz1baWRfZ3Bmc192ZXJdKQogICAgZXNhX3ZlciA9IGRiLnJlbGF0aW9uc2hpcCgiQ29kZSIsIGZvcmVpZ25fa2V5cz1baWRfZXNhX3Zlcl0pCiAgICB4Y2F0X3ZlciA9IGRiLnJlbGF0aW9uc2hpcCgiQ29kZSIsIGZvcmVpZ25fa2V5cz1baWRfeGNhdF92ZXJdKQogICAgb3NfdmVyID0gZGIucmVsYXRpb25zaGlwKCJDb2RlIiwgZm9yZWlnbl9rZXlzPVtpZF9vc192ZXJdKQogICAga2VybmVsX3ZlciA9IGRiLnJlbGF0aW9uc2hpcCgiQ29kZSIsIGZvcmVpZ25fa2V5cz1baWRfa2VybmVsX3Zlcl0pCiAgICBzeXN0ZW1kX3ZlciA9IGRiLnJlbGF0aW9uc2hpcCgiQ29kZSIsIGZvcmVpZ25fa2V5cz1baWRfc3lzdGVtZF92ZXJdKQogICAgbW9mZWRfdmVyID0gZGIucmVsYXRpb25zaGlwKCJDb2RlIiwgZm9yZWlnbl9rZXlzPVtpZF9tb2ZlZF92ZXJdKQogICAgbGlidmVydF92ZXIgPSBkYi5yZWxhdGlvbnNoaXAoIkNvZGUiLCBmb3JlaWduX2tleXM9W2lkX2xpYnZlcnRfdmVyXSk=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="1" type="4">
+        <text encoding="base64">ICAgIHNwX2Z3X3ZlciA9IGRiLnJlbGF0aW9uc2hpcCgiQ29kZSIsIGZvcmVpZ25fa2V5cz1baWRfc3BfZndfdmVyXSkKICAgIHN5c19md192ZXIgPSBkYi5yZWxhdGlvbnNoaXAoIkNvZGUiLCBmb3JlaWduX2tleXM9W2lkX3N5c19md192ZXJdKQogICAgZXNzX3ZlciA9IGRiLnJlbGF0aW9uc2hpcCgiQ29kZSIsIGZvcmVpZ25fa2V5cz1baWRfZXNzX3Zlcl0pCiAgICBncGZzX3ZlciA9IGRiLnJlbGF0aW9uc2hpcCgiQ29kZSIsIGZvcmVpZ25fa2V5cz1baWRfZ3Bmc192ZXJdKQogICAgZXNhX3ZlciA9IGRiLnJlbGF0aW9uc2hpcCgiQ29kZSIsIGZvcmVpZ25fa2V5cz1baWRfZXNhX3Zlcl0pCiAgICB4Y2F0X3ZlciA9IGRiLnJlbGF0aW9uc2hpcCgiQ29kZSIsIGZvcmVpZ25fa2V5cz1baWRfeGNhdF92ZXJdKQogICAgb3NfdmVyID0gZGIucmVsYXRpb25zaGlwKCJDb2RlIiwgZm9yZWlnbl9rZXlzPVtpZF9vc192ZXJdKQogICAga2VybmVsX3ZlciA9IGRiLnJlbGF0aW9uc2hpcCgiQ29kZSIsIGZvcmVpZ25fa2V5cz1baWRfa2VybmVsX3Zlcl0pCiAgICBzeXN0ZW1kX3ZlciA9IGRiLnJlbGF0aW9uc2hpcCgiQ29kZSIsIGZvcmVpZ25fa2V5cz1baWRfc3lzdGVtZF92ZXJdKQogICAgbW9mZWRfdmVyID0gZGIucmVsYXRpb25zaGlwKCJDb2RlIiwgZm9yZWlnbl9rZXlzPVtpZF9tb2ZlZF92ZXJdKQogICAgbGlidmVydF92ZXIgPSBkYi5yZWxhdGlvbnNoaXAoIkNvZGUiLCBmb3JlaWduX2tleXM9W2lkX2xpYnZlcnRfdmVyXSkKCiAgICAjIE93bmVycwog</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZm9yZWlnbl9rZXlzPSdDb2RlVXBkYXRlTG9nLmlkX25vZGUnKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIHVwZGF0ZXMgPSBkYi5yZWxhdGlvbnNoaXAoJ0NvZGVVcGRhdGVMb2cnLCBiYWNrcmVmPSdzY2FubmVkX3N5c3RlbScsIGxhenk9J2R5bmFtaWMnLAo=</text>
+      <register name="3" type="4">
+        <text encoding="base64">CiAgICAjIENvbm5lY3Rpb24gdG8gQ29kZQogICAgaWRfc3BfZndfdmVyID0gZGIuQ29sdW1uKGRiLkludGVnZXIsIGRiLkZvcmVpZ25LZXkoJ2NvZGVzLmlkJykpCiAgICBpZF9zeXNfZndfdmVyID0gZGIuQ29sdW1uKGRiLkludGVnZXIsIGRiLkZvcmVpZ25LZXkoJ2NvZGVzLmlkJykpCiAgICBpZF9lc3NfdmVyID0gZGIuQ29sdW1uKGRiLkludGVnZXIsIGRiLkZvcmVpZ25LZXkoJ2NvZGVzLmlkJykpCiAgICBpZF9ncGZzX3ZlciA9IGRiLkNvbHVtbihkYi5JbnRlZ2VyLCBkYi5Gb3JlaWduS2V5KCdjb2Rlcy5pZCcpKQogICAgaWRfZXNhX3ZlciA9IGRiLkNvbHVtbihkYi5JbnRlZ2VyLCBkYi5Gb3JlaWduS2V5KCdjb2Rlcy5pZCcpKQogICAgaWRfeGNhdF92ZXIgPSBkYi5Db2x1bW4oZGIuSW50ZWdlciwgZGIuRm9yZWlnbktleSgnY29kZXMuaWQnKSkKICAgIGlkX29zX3ZlciA9IGRiLkNvbHVtbihkYi5JbnRlZ2VyLCBkYi5Gb3JlaWduS2V5KCdjb2Rlcy5pZCcpKQogICAgaWRfa2VybmVsX3ZlciA9IGRiLkNvbHVtbihkYi5JbnRlZ2VyLCBkYi5Gb3JlaWduS2V5KCdjb2Rlcy5pZCcpKQogICAgaWRfc3lzdGVtZF92ZXIgPSBkYi5Db2x1bW4oZGIuSW50ZWdlciwgZGIuRm9yZWlnbktleSgnY29kZXMuaWQnKSkKICAgIGlkX21vZmVkX3ZlciA9IGRiLkNvbHVtbihkYi5JbnRlZ2VyLCBkYi5Gb3JlaWduS2V5KCdjb2Rlcy5pZCcpKQogICAgaWRfbGlidmVydF92ZXIgPSBkYi5Db2x1bW4oZGIuSW50ZWdlciwgZGIuRm9yZWlnbktleSgnY29kZXMuaWQnKSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICMgQ29ubmVjdGlvbiB0byBDb2RlVXBkYXRlTG9ncyAtIE5vZGUudXBkYXRlcyBzaG91bGQgcmVzdWx0IGluIGluc3RhbGwgbG9nIGZvciB0aGF0IGNvZGUK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
@@ -956,32 +957,30 @@
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">ICAgIEBwcm9wZXJ0eQogICAgZGVmIGdwZnNfc3RhdHVzKHNlbGYpOgogICAgICAgIGlmIHNlbGYuZ3Bmc19zdGF0dXNfY29kZSBpcyBub3QgTm9uZToKICAgICAgICAgICAgcmV0dXJuIEdQRlNfU1RBVFVTW3NlbGYuZ3Bmc19zdGF0dXNfY29kZV0KICAgICAgICBlbHNlOgogICAgICAgICAgICByZXR1cm4gTm9uZQ==</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIGlkX3NwX2Z3X3Zlcgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGdwZnNfc3RhdHVzX2NvZGUgPSBDb2x1bW4oZGIuU21hbGxJbnRlZ2VyKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZm9yZWlnbl9rZXlzPSdDb2RlVXBkYXRlTG9nLmlkX25vZGUnKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>pass</last-search>
+      <last-search>db.relationship.*</last-search>
       <last-offset />
-      <last-pattern>pass</last-pattern>
-      <last-replace>device_display</last-replace>
-      <last-substitute>node_display</last-substitute>
+      <last-pattern>db.relationship.*</last-pattern>
+      <last-replace>fields.Nested(CodeSchema, dump_only=True, exclude=('installs',))</last-replace>
+      <last-substitute>db.relationship.*</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>mod_ess</entry>
-        <entry>hostname</entry>
         <entry>fqdn</entry>
         <entry>serial</entry>
         <entry>arch</entry>
@@ -1000,10 +999,10 @@
         <entry>is_ip</entry>
         <entry>User</entry>
         <entry>pass</entry>
+        <entry>db.Column(db.Integer, db.ForeignKey('codes.id'))</entry>
+        <entry>db.relationship.*</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zL3Byb2R1Y3RfYWRkX2Zvcm0vY29kZV9hZGRfZm9ybS9n</entry>
-        <entry>691</entry>
         <entry>388</entry>
         <entry>438</entry>
         <entry>611</entry>
@@ -1018,9 +1017,11 @@
         <entry>45</entry>
         <entry>$</entry>
         <entry encoding="base64">dyA=</entry>
-        <entry>wq</entry>
         <entry>q</entry>
         <entry>0</entry>
+        <entry>wq</entry>
+        <entry encoding="base64">JzwsJz5zL2RiLkNvbHVtbihkYi5JbnRlZ2VyLCBkYi5Gb3JlaWduS2V5KCdjb2Rlcy5pZCcpKS9maWVsZHMuSW50KGxvYWRfb25seT1UcnVlKS9n</entry>
+        <entry encoding="base64">JzwsJz5zL2RiLnJlbGF0aW9uc2hpcC4qL2ZpZWxkcy5OZXN0ZWQoQ29kZVNjaGVtYSwgZHVtcF9vbmx5PVRydWUsIGV4Y2x1ZGU9KCdpbnN0YWxscycsKSkvZw==</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
