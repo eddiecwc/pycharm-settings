@@ -350,12 +350,12 @@
         <mark key="^" line="15" column="11" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/schemas/node_schema.py" timestamp="1526022819033">
-        <mark key="'" line="8" column="30" />
-        <mark key="[" line="37" column="30" />
-        <mark key="]" line="37" column="49" />
-        <mark key="." line="37" column="49" />
-        <mark key="^" line="37" column="49" />
+      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/schemas/node_schema.py" timestamp="1526027703428">
+        <mark key="'" line="12" column="40" />
+        <mark key="[" line="82" column="0" />
+        <mark key="]" line="84" column="3" />
+        <mark key="." line="84" column="3" />
+        <mark key="^" line="84" column="3" />
       </file>
       <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/templates/macros/macros.html" timestamp="1523829150130">
         <mark key="[" line="1" column="36" />
@@ -834,7 +834,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="11" column="0" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/schemas/cluster_schema.py" />
       <jump line="18" column="28" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/tasks.py" />
       <jump line="27" column="24" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/tasks.py" />
       <jump line="96" column="4" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" />
@@ -934,55 +933,56 @@
       <jump line="718" column="17" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/tasks.py" />
       <jump line="15" column="82" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/tasks.py" />
       <jump line="0" column="0" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/tasks.py" />
+      <jump line="12" column="40" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/schemas/node_schema.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICIiIgo=</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text encoding="base64">IyA=</text>
       </register>
       <register name="/" type="4">
-        <text>current_time</text>
+        <text>UserSchema</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHByaW50KCJEQVRFVElNRS1ERUJVRyAoJXMpOiAlcyIgJSAodHlwZSh0cyksIHRzKSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICIiIgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICIiIgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZGVmIHRpbWVzdGFtcCgpOgogICAgcmV0dXJuIGZvcm1hdF9kYXRldGltZShkYXRldGltZS51dGNub3coKSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBmb3JtYXRfZGF0ZXRpbWUoZGF0ZXRpbWUudXRjbm93KCkpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGZvcm1hdF9kYXRldGltZShkYXRldGltZS51dGNub3coKSkpCg==</text>
+        <text encoding="base64">ZGVmIHRpbWVzdGFtcCgpOgogICAgcmV0dXJuIGZvcm1hdF9kYXRldGltZShkYXRldGltZS51dGNub3coKSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGZvcm1hdF9kYXRldGltZShkYXRldGltZS51dGNub3coKSkpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBmb3JtYXRfZGF0ZXRpbWUoZGF0ZXRpbWUudXRjbm93KCkpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBmb3JtYXRfZGF0ZXRpbWUoZGF0ZXRpbWUudXRjbm93KCkpKQo=</text>
+        <text encoding="base64">ICAgIGZvcm1hdF9kYXRldGltZShkYXRldGltZS51dGNub3coKSkpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZnJvbSBkYXRldGltZSBpbXBvcnQgZGF0ZXRpbWUK</text>
+        <text encoding="base64">ICAgIGZvcm1hdF9kYXRldGltZShkYXRldGltZS51dGNub3coKSkpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGZvcm1hdF9kYXRldGltZShkYXRldGltZS51dGNub3coKSkpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBmb3JtYXRfZGF0ZXRpbWUoZGF0ZXRpbWUudXRjbm93KCkpKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>current_time</last-search>
+      <last-search>UserSchema</last-search>
       <last-offset />
-      <last-pattern>current_time</last-pattern>
+      <last-pattern>UserSchema</last-pattern>
       <last-replace>CodeSimpleSchema</last-replace>
       <last-substitute>CodeSchema</last-substitute>
       <last-dir>1</last-dir>
@@ -990,7 +990,6 @@
     </search>
     <history>
       <history-search>
-        <entry>reset_db</entry>
         <entry>reset</entry>
         <entry>Nest</entry>
         <entry>utc</entry>
@@ -1010,6 +1009,7 @@
         <entry>format_datetime</entry>
         <entry>format_time</entry>
         <entry>current_time</entry>
+        <entry>UserSchema</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5nL25vZGVfZGlzcGxheS9kZXZpY2VfZGlzcGxheS9n</entry>
