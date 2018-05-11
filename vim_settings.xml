@@ -55,12 +55,12 @@
         <mark key="." line="11" column="0" />
         <mark key="^" line="25" column="39" />
       </file>
-      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/schemas/code_schema.py" timestamp="1526021993212">
+      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/schemas/code_schema.py" timestamp="1526076746845">
         <mark key="'" line="8" column="54" />
-        <mark key="[" line="8" column="30" />
-        <mark key="]" line="8" column="30" />
-        <mark key="." line="8" column="30" />
-        <mark key="^" line="8" column="30" />
+        <mark key="[" line="43" column="88" />
+        <mark key="]" line="43" column="88" />
+        <mark key="." line="43" column="88" />
+        <mark key="^" line="43" column="88" />
       </file>
       <file name="$USER_HOME$/Sites/FlaskApp/templates/interactive.html" timestamp="1514787861252">
         <mark key="[" line="6" column="73" />
@@ -350,12 +350,12 @@
         <mark key="^" line="15" column="11" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/schemas/node_schema.py" timestamp="1526027703428">
+      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/schemas/node_schema.py" timestamp="1526077070552">
         <mark key="'" line="12" column="40" />
-        <mark key="[" line="82" column="0" />
-        <mark key="]" line="84" column="3" />
-        <mark key="." line="84" column="3" />
-        <mark key="^" line="84" column="3" />
+        <mark key="[" line="80" column="64" />
+        <mark key="]" line="80" column="87" />
+        <mark key="." line="80" column="87" />
+        <mark key="^" line="80" column="87" />
       </file>
       <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/templates/macros/macros.html" timestamp="1523829150130">
         <mark key="[" line="1" column="36" />
@@ -629,12 +629,12 @@
         <mark key="^" line="188" column="14" />
         <mark key="." line="188" column="14" />
       </file>
-      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/schemas/device_schema.py" timestamp="1526005285813">
+      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/schemas/device_schema.py" timestamp="1526077088344">
         <mark key="'" line="32" column="45" />
-        <mark key="[" line="59" column="40" />
-        <mark key="]" line="60" column="7" />
-        <mark key="." line="60" column="7" />
-        <mark key="^" line="60" column="7" />
+        <mark key="[" line="27" column="67" />
+        <mark key="]" line="27" column="90" />
+        <mark key="." line="27" column="90" />
+        <mark key="^" line="27" column="90" />
       </file>
       <file name="$USER_HOME$/Sites/FlaskApp/templates/converterexample.html" timestamp="1514781810249">
         <mark key="[" line="2" column="16" />
@@ -936,11 +936,11 @@
       <jump line="12" column="40" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/schemas/node_schema.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICIiIgo=</text>
+      <register name="&quot;" type="4">
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IyA=</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>UserSchema</text>
@@ -952,28 +952,28 @@
         <text encoding="base64">ICAgICIiIgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICIiIgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICIiIgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICIiIgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZGVmIHRpbWVzdGFtcCgpOgogICAgcmV0dXJuIGZvcm1hdF9kYXRldGltZShkYXRldGltZS51dGNub3coKSkK</text>
+        <text encoding="base64">ICAgICIiIgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBmb3JtYXRfZGF0ZXRpbWUoZGF0ZXRpbWUudXRjbm93KCkpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGZvcm1hdF9kYXRldGltZShkYXRldGltZS51dGNub3coKSkpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGZvcm1hdF9kYXRldGltZShkYXRldGltZS51dGNub3coKSkpCg==</text>
+        <text encoding="base64">ZGVmIHRpbWVzdGFtcCgpOgogICAgcmV0dXJuIGZvcm1hdF9kYXRldGltZShkYXRldGltZS51dGNub3coKSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBmb3JtYXRfZGF0ZXRpbWUoZGF0ZXRpbWUudXRjbm93KCkpKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBmb3JtYXRfZGF0ZXRpbWUoZGF0ZXRpbWUudXRjbm93KCkpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
