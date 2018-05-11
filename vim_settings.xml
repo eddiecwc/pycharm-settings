@@ -239,12 +239,12 @@
         <mark key="." line="68" column="47" />
         <mark key="^" line="68" column="47" />
       </file>
-      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/utilities.py" timestamp="1526006034832">
+      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/utilities.py" timestamp="1526020166169">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="42" column="39" />
-        <mark key="]" line="42" column="46" />
-        <mark key="." line="42" column="46" />
-        <mark key="^" line="42" column="46" />
+        <mark key="[" line="43" column="0" />
+        <mark key="]" line="43" column="53" />
+        <mark key="." line="43" column="0" />
+        <mark key="^" line="43" column="41" />
       </file>
       <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/mixin.py" timestamp="1526004782907">
         <mark key="'" line="52" column="74" />
@@ -936,8 +936,8 @@
       <jump line="0" column="0" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/utilities.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>_name__</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHByaW50KCJEQVRFVElNRS1ERUJVRyAoJXMpOiAlcyIgJSAodHlwZSh0cyksIHRzKSkK</text>
       </register>
       <register name="-" type="4">
         <text>_name__</text>
@@ -946,7 +946,7 @@
         <text>format_datetime</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dnZXIuZGVidWcoanNvbi5kdW1wcyhwcm9kdWN0X3NjaGVtYS5kdW1wKG9iaiksIGluZGVudD00LCBkZWZhdWx0PXN0cikpCg==</text>
+        <text encoding="base64">ICAgIHByaW50KCJEQVRFVElNRS1ERUJVRyAoJXMpOiAlcyIgJSAodHlwZSh0cyksIHRzKSkK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">IyBmcm9tIG1vbml0b3IuZXNzLnNjaGVtYXMgaW1wb3J0IE5vZGVTY2hlbWEK</text>
