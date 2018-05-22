@@ -145,11 +145,6 @@
         <mark key="." line="67" column="22" />
         <mark key="^" line="67" column="22" />
       </file>
-      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/models/gateway.py" timestamp="1524948374978">
-        <mark key="[" line="12" column="33" />
-        <mark key="]" line="12" column="33" />
-        <mark key="." line="12" column="33" />
-      </file>
       <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/templates/ess/code_list.html" timestamp="1522211505335">
         <mark key="[" line="48" column="50" />
         <mark key="]" line="48" column="50" />
@@ -206,11 +201,6 @@
         <mark key="]" line="4" column="0" />
         <mark key="^" line="32" column="2" />
         <mark key="." line="4" column="0" />
-      </file>
-      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/schemas/product_schema.py" timestamp="1525921905618">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
       </file>
       <file name="$USER_HOME$/Sites/FlaskApp/templates/header.html" timestamp="1514758379486">
         <mark key="'" line="0" column="0" />
@@ -362,11 +352,6 @@
         <mark key="]" line="1" column="36" />
         <mark key="." line="1" column="36" />
         <mark key="^" line="5" column="25" />
-      </file>
-      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/__init__.py" timestamp="1525930457838">
-        <mark key="[" line="0" column="40" />
-        <mark key="]" line="0" column="40" />
-        <mark key="." line="0" column="40" />
       </file>
       <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/models/__init__.py" timestamp="1524948497556">
         <mark key="[" line="7" column="22" />
@@ -533,11 +518,6 @@
         <mark key="]" line="57" column="25" />
         <mark key="." line="57" column="25" />
         <mark key="^" line="57" column="25" />
-      </file>
-      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/api/routes.py" timestamp="1524859449606">
-        <mark key="[" line="73" column="0" />
-        <mark key="]" line="73" column="0" />
-        <mark key="." line="73" column="0" />
       </file>
       <file name="$USER_HOME$/Sites/flask_movie/main.py" timestamp="1513933434536">
         <mark key="'" line="7" column="0" />
@@ -711,6 +691,12 @@
         <mark key="]" line="38" column="27" />
         <mark key="." line="38" column="27" />
         <mark key="^" line="38" column="27" />
+      </file>
+      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/schemas/scan_command_schema.py" timestamp="1527009613804">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="7" column="19" />
+        <mark key="^" line="7" column="19" />
+        <mark key="." line="7" column="19" />
       </file>
       <file name="$USER_HOME$/Sites/FlaskApp/templates/include_example.html" timestamp="1514778315776">
         <mark key="[" line="4" column="3" />
@@ -976,7 +962,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBmb3JtYXRfZGF0ZXRpbWUoZGF0ZXRpbWUudXRjbm93KCkpCg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wq</text>
       </register>
     </registers>
     <search>
@@ -1025,13 +1011,13 @@
         <entry encoding="base64">JzwsJz5zL0NvZGVTY2hlbWEvQ29kZVNpbXBsZVNjaGVtYS9n</entry>
         <entry>19</entry>
         <entry>$</entry>
-        <entry>wq</entry>
         <entry>qw</entry>
         <entry>q</entry>
         <entry>40</entry>
         <entry>181</entry>
         <entry>0</entry>
         <entry>w</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
