@@ -42,6 +42,12 @@
         <mark key="." line="92" column="25" />
         <mark key="^" line="92" column="25" />
       </file>
+      <file name="$USER_HOME$/Sites/ESS-Monitor/TODO.md" timestamp="1527711760848">
+        <mark key="[" line="17" column="12" />
+        <mark key="]" line="18" column="51" />
+        <mark key="^" line="18" column="51" />
+        <mark key="." line="18" column="51" />
+      </file>
       <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/templates/ess/node_table_headers.html" timestamp="1524376111299">
         <mark key="'" line="33" column="14" />
         <mark key="[" line="2" column="12" />
@@ -982,7 +988,7 @@
         <text encoding="base64">ZGVmIHRpbWVzdGFtcCgpOgogICAgcmV0dXJuIGZvcm1hdF9kYXRldGltZShkYXRldGltZS51dGNub3coKSkK</text>
       </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -1036,8 +1042,8 @@
         <entry>40</entry>
         <entry>181</entry>
         <entry>0</entry>
-        <entry>w</entry>
         <entry>wq</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
