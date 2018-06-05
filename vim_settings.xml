@@ -744,12 +744,6 @@
         <mark key="." line="221" column="12" />
         <mark key="^" line="221" column="12" />
       </file>
-      <file name="$USER_HOME$/Sites/ESS-Monitor/run.py" timestamp="1525999773363">
-        <mark key="'" line="12" column="9" />
-        <mark key="[" line="14" column="4" />
-        <mark key="]" line="14" column="4" />
-        <mark key="." line="14" column="4" />
-      </file>
       <file name="$USER_HOME$/PycharmProjects/playground/first.py" timestamp="1510732076473">
         <mark key="[" line="66" column="71" />
         <mark key="]" line="66" column="71" />
@@ -775,6 +769,9 @@
         <mark key="]" line="12" column="0" />
         <mark key="^" line="12" column="11" />
         <mark key="." line="12" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1528179157905">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Sites/ESS-Monitor/scripts/collectLinuxNodeInfo.py" timestamp="1514356709242">
         <mark key="'" line="34" column="14" />
