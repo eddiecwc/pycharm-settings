@@ -503,7 +503,7 @@
         <mark key="." line="5" column="17" />
         <mark key="^" line="5" column="17" />
       </file>
-      <file name="$USER_HOME$/Sites/ESS-Monitor/venv/lib/python3.6/site-packages/wtforms/ext/sqlalchemy/fields.py" timestamp="1520931196214">
+      <file name="$USER_HOME$/Sites/ESS-Monitor/venv/lib/python3.6/site-packages/wtforms/ext/sqlalchemy/fields.py" timestamp="1531028477144">
         <mark key="[" line="188" column="12" />
         <mark key="]" line="188" column="20" />
         <mark key="^" line="188" column="20" />
@@ -986,7 +986,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wq</text>
       </register>
     </registers>
     <search>
@@ -1039,9 +1039,9 @@
         <entry>q</entry>
         <entry>40</entry>
         <entry>181</entry>
-        <entry>wq</entry>
         <entry>0</entry>
         <entry>w</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
