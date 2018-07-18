@@ -145,11 +145,10 @@
         <mark key="." line="18" column="39" />
         <mark key="^" line="18" column="39" />
       </file>
-      <file name="$USER_HOME$/Sites/ESS-Monitor/README.md" timestamp="1526004537361">
-        <mark key="[" line="67" column="22" />
-        <mark key="]" line="67" column="22" />
-        <mark key="." line="67" column="22" />
-        <mark key="^" line="67" column="22" />
+      <file name="$USER_HOME$/Sites/ESS-Monitor/README.md" timestamp="1531888218735">
+        <mark key="[" line="63" column="0" />
+        <mark key="]" line="63" column="0" />
+        <mark key="." line="63" column="0" />
       </file>
       <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/templates/ess/code_list.html" timestamp="1522211505335">
         <mark key="[" line="48" column="50" />
@@ -269,6 +268,12 @@
         <mark key="]" line="569" column="35" />
         <mark key="." line="569" column="35" />
         <mark key="^" line="569" column="35" />
+      </file>
+      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/api/api-doc.md" timestamp="1531889735430">
+        <mark key="[" line="36" column="0" />
+        <mark key="]" line="39" column="0" />
+        <mark key="^" line="39" column="0" />
+        <mark key="." line="39" column="0" />
       </file>
       <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/ess_systems/__init__.py" timestamp="1516697979935">
         <mark key="[" line="2" column="24" />
@@ -526,9 +531,9 @@
         <mark key="." line="45" column="16" />
         <mark key="^" line="45" column="16" />
       </file>
-      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/api/routes.py" timestamp="1531871774881">
-        <mark key="[" line="87" column="0" />
-        <mark key="]" line="87" column="0" />
+      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/api/routes.py" timestamp="1531887504847">
+        <mark key="[" line="81" column="0" />
+        <mark key="]" line="86" column="95" />
         <mark key="." line="87" column="0" />
         <mark key="^" line="87" column="0" />
       </file>
@@ -757,7 +762,7 @@
         <mark key="^" line="12" column="11" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1529470213860">
+      <file name="/Dummy.txt" timestamp="1531889888364">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Sites/ESS-Monitor/scripts/collectLinuxNodeInfo.py" timestamp="1514356709242">
@@ -932,20 +937,20 @@
       <jump line="0" column="0" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/conf/app_config.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Iwo=</text>
+      <register name="&quot;" type="4">
+        <text>detai</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgIA==</text>
+        <text>detai</text>
       </register>
       <register name="/" type="4">
         <text>eddiecwc</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHByaW50KCJEQVRFVElNRS1ERUJVRyAoJXMpOiAlcyIgJSAodHlwZSh0cyksIHRzKSkK</text>
+        <text encoding="base64">YEdFVCAvbm9kZXMvOm5vZGVfbmFtZWAgCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Iwo=</text>
+        <text encoding="base64">YEdFVCAvbm9kZXMvOm5vZGVfbmFtZWAgUmV0dXJucyBhIGxpc3Qgb2YgYWxsIG5vZGVzLiBVc2UgbGlzdF9vbmx5IHBhcmFtZXRlciBpZiBub2RlIGRldGFpbCBpcyBub3QgbmVlZGVkCg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
@@ -954,22 +959,22 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Y2xhc3MgCg==</text>
+        <text encoding="base64">L21sbnhvZmVkaW5zdGFsbCAtLWZvcmNlIC0tYWRkLWtlcm5lbC1zdXBwb3J0IC0ta21wIC0td2l0aC1udm1mCg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">QGFwaS5yb3V0ZSgnL25vZGUvYWRkJykK</text>
+      <register name="5" type="4">
+        <text encoding="base64">IyMgQVBJCgojIyMgTm9kZQoKfCoqVFlQRSoqfCoqRU5EUE9JTlQgRVhBTVBMRSoqfCoqR0VUKip8KipQVVQqKnwqKlBPU1QqKnwqKkRFTEVURSoqfAp8LS0tLS0tLS18LS0tLS0tLS0tLS0tLS0tLS0tLS18LS0tLS0tLXwtLS0tLS0tfC0tLS0tLS0tfC0tLS0tLS0tLS18CnwqKkNvbGxlY3Rpb24qKnwgL25vZGVzICB8IExpc3QgTm9kZXMgfCB8IE5ldyBOb2RlIHwgICAgICAgICAgICAgfAp8KipJdGVtKip8IC9ub2Rlcy9lbXM2LCAvbm9kZXMvMiB8IEdldCBOb2RlIERldGFpbHMgfCBVcGRhdGUgTm9kZSB8ICAgICAgICAgICAgfCBEZWxldGUgTm9kZSB8CnwqKkNvbnRyb2xsZXIqKnwgL25vZGVzL2VtczYvc2NhbiAgICAgIHwgICAgICAgICAgICAgIHwgICAgICAgICAgICAgfCBTY2FuIE5vZGUgIHwgICAgICAgICAgICAgfAoKIyMjIyBMaXN0IGFsbCBub2RlcwpgR0VUIC9ub2Rlc2AK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">IyMjIyMjIyMjIyMjIyMK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">QAo=</text>
+        <text encoding="base64">LiMjIEFQSQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHRkIGNsYXNzPSJub2RlX3N0YXR1c19jZWxsIj57eyBzKG5vZGUuY3VycmVudF90aW1lKSB9fTwvdGQ+Cg==</text>
+        <text encoding="base64">fC0tLS0tLS0tLS0tfC0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tfC0tLS0tLS0tLS0tLS0tfC0tLS0tLS0tLS0tLS18LS0tLS0tLS0tLS0tfC0tLS0tLS0tLS0tLS18Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICIiIgo=</text>
+        <text encoding="base64">IyB8LS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLXwK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
