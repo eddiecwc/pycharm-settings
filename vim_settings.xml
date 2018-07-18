@@ -269,11 +269,11 @@
         <mark key="." line="569" column="35" />
         <mark key="^" line="569" column="35" />
       </file>
-      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/api/api-doc.md" timestamp="1531897062776">
-        <mark key="[" line="93" column="69" />
-        <mark key="]" line="93" column="69" />
-        <mark key="^" line="83" column="0" />
-        <mark key="." line="93" column="69" />
+      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/api/api-doc.md" timestamp="1531899208357">
+        <mark key="[" line="79" column="2" />
+        <mark key="]" line="79" column="4" />
+        <mark key="^" line="79" column="4" />
+        <mark key="." line="79" column="4" />
       </file>
       <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/ess_systems/__init__.py" timestamp="1516697979935">
         <mark key="[" line="2" column="24" />
@@ -938,16 +938,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">T1NUIA==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">T1NUIA==</text>
       </register>
       <register name="/" type="4">
         <text>eddiecwc</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">KipQYXJhbWV0ZXJzKioKCnwgTmFtZSB8IFR5cGUgfCBEZXNjcmlwdGlvbnwgRGVmYXVsdCB8IFJlcXVpcmVkIHwKfC0tLS0tLXwtLS0tLS18LS0tLS0tLS0tLS0tfC0tLS0tLS0tLXwtLS0tLS0tLS0tfAp8IGhvc3RuYW1lfCBzdHJpbmcgfCBob3N0bmFtZSBvZiBub2RlIHwgfCBPbmUgb2YgaG9zdG5hbWUgb3IgSVB8CnwgaXAgfCBzdHJpbmcgfCBJUHY0IGFkZHIgb2Ygbm9kZSB8IHwgT25lIG9mIGhvc3RuYW1lIG9yIElQfAp8IGxvZ2luX3VzZXIgfCBzdHJpbmcgfCBsb2dpbiB1c2VyIGZvciBub2RlIHwgRW52aXJvbm1lbnQgRGVmYXVsdCB8IE5vIHwKfCBsb2dpbl9wYXNzd29yZCB8IHN0cmluZyB8IGxvZ2luIHBhc3N3b3JkIGZvciBub2RlIHwgRW52aXJvbm1lbnQgRGVmYXVsdCB8IE5vIHwKfCBnYXRld2F5IHwgaW50ZWdlciB8IElEIG9mIHRoZSBnYXRld2F5IHRvIGJlIHVzZWQgZm9yIHRoZSBub2RlIHwgRW52aXJvbm1lbnQgRGVmYXVsdCBvciBOb25lIHwgTm8gfAp8IHByaV9vd25lciB8IGludGVnZXIgfCBJRCBvZiB0aGUgbm9kZSdzIHByaW1hcnkgb3duZXIgfCBFbnZpcm9ubWVudCBEZWZhdWx0IG9yIE5vbmV8IE5vIHwKfCBia19vd25lciB8IGludGVnZXIgfCBJRCBvZiB0aGUgbm9kZSdzIGJhY2t1cCBvd25lciB8IEVudmlyb25tZW50IERlZmF1bHQgb3IgTm9uZXwgTm8gfAp8IHJvbGVfY29kZSB8IGludGVnZXIgfCBOb2RlIHJvbGUgY29kZS4gU2VlIGJlbG93IGZvciB2YWxpZCB2YWx1ZXMgfCAwIChGUkVFKSB8IE5vIHwKfCBsb2NhdGlvbiB8IHN0cmluZyB8IExvY2F0aW9uIG9mIHRoZSBub2RlIHwgfCBObyB8Cnwgbm90ZXMgfCBzdHJpbmcgfCBBZGRpdGlvbmFsIG5vdGVzIGZvciB0aGUgbm9kZSB8IHwgTm8gfAoKVmFsaWQgUm9sZSB2YWx1ZXM6Ci0gRlJFRSA9IDAKLSBFTVMgPSAxCi0gSU8gPSAyCi0gUFJPVE9DT0wgPSAzCi0gQ09NUFVURSA9IDQKLSBHQVRFV0FZID0gNQo=</text>
+        <text encoding="base64">T3ZlcnZpZXc6Cgp8VFlQRXxFTkRQT0lOVCBFWEFNUExFfEdFVHxQVVR8UE9TVHxERUxFVEV8CnwtLS0tfC0tLS0tLS0tLS0tLS0tLS18LS0tfC0tLXwtLS0tfC0tLS0tLXwKfCoqQ29sbGVjdGlvbioqfCAvbm9kZXMgIHwgTGlzdCBOb2RlcyB8IHwgTmV3IE5vZGUgfCB8CnwqKkl0ZW0qKnwgL25vZGVzL2VtczYsIC9ub2Rlcy8yIHwgR2V0IE5vZGUgRGV0YWlscyB8IFVwZGF0ZSBOb2RlIHwgfCBEZWxldGUgTm9kZSB8CnwqKkNvbnRyb2xsZXIqKnwgL25vZGVzL2VtczYvc2NhbiB8IHwgfCBTY2FuIE5vZGUgIHwgfAoKIyMjIExpc3QgYWxsIG5vZGVzCgpgR0VUIC9ub2Rlc2AgCgpSZXR1cm5zIGEgbGlzdCBvZiBhbGwgbm9kZXMgd2l0aCB0aGVpciBub24tbG9nL25vbi1oaXN0b3JpYyBpbmZvLiBVc2UgbGlzdF9vbmx5IHBhcmFtZXRlciBpZiBub2RlIGRldGFpbCBpcyBub3QgbmVlZGVkCgoqKlBhcmFtZXRlcnMqKgoKfCBOYW1lIHwgVHlwZSB8IERlc2NyaXB0aW9ufCBEZWZhdWx0IHwKfC0tLS0tLXwtLS0tLS18LS0tLS0tLS0tLS0tfC0tLS0tLS0tLXwKfCBsaXN0X29ubHkgfCBib29sZWFuIHwgT21pdCBub2RlIGRldGFpbHMgfCBGYWxzZSB8CiA=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">fCBob3N0bmFtZXwgc3RyaW5nIHwgaG9zdG5hbWUgb2Ygbm9kZSB8IHwgT25lIG9mIGhvc3RuYW1lIG9yIElQfAo=</text>
@@ -977,7 +977,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>$</text>
       </register>
     </registers>
     <search>
@@ -1025,7 +1025,6 @@
         <entry encoding="base64">JzwsJz5zL2RiLnJlbGF0aW9uc2hpcC4qL2ZpZWxkcy5OZXN0ZWQoQ29kZVNjaGVtYSwgZHVtcF9vbmx5PVRydWUsIGV4Y2x1ZGU9KCdpbnN0YWxscycsKSkvZw==</entry>
         <entry encoding="base64">JzwsJz5zL0NvZGVTY2hlbWEvQ29kZVNpbXBsZVNjaGVtYS9n</entry>
         <entry>19</entry>
-        <entry>$</entry>
         <entry>qw</entry>
         <entry>q</entry>
         <entry>40</entry>
@@ -1033,6 +1032,7 @@
         <entry>wq</entry>
         <entry>0</entry>
         <entry>w</entry>
+        <entry>$</entry>
       </history-cmd>
       <history-expr />
       <history-input />
