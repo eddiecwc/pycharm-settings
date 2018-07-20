@@ -269,12 +269,12 @@
         <mark key="." line="569" column="35" />
         <mark key="^" line="569" column="35" />
       </file>
-      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/api/api-doc.md" timestamp="1531900473198">
+      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/api/api-doc.md" timestamp="1532118540646">
         <mark key="'" line="145" column="44" />
-        <mark key="[" line="235" column="28" />
-        <mark key="]" line="236" column="0" />
+        <mark key="[" line="7" column="28" />
+        <mark key="]" line="7" column="28" />
         <mark key="^" line="236" column="0" />
-        <mark key="." line="236" column="0" />
+        <mark key="." line="7" column="28" />
       </file>
       <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/ess_systems/__init__.py" timestamp="1516697979935">
         <mark key="[" line="2" column="24" />
@@ -939,10 +939,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>node</text>
+        <text>s</text>
       </register>
       <register name="-" type="4">
-        <text>node</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
         <text>False</text>
