@@ -269,12 +269,12 @@
         <mark key="." line="569" column="35" />
         <mark key="^" line="569" column="35" />
       </file>
-      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/api/api-doc.md" timestamp="1532119293436">
+      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/api/api-doc.md" timestamp="1532164192596">
         <mark key="'" line="41" column="0" />
-        <mark key="[" line="283" column="29" />
-        <mark key="]" line="283" column="29" />
-        <mark key="^" line="311" column="29" />
-        <mark key="." line="283" column="29" />
+        <mark key="[" line="2" column="21" />
+        <mark key="]" line="2" column="32" />
+        <mark key="^" line="2" column="32" />
+        <mark key="." line="2" column="32" />
       </file>
       <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/ess_systems/__init__.py" timestamp="1516697979935">
         <mark key="[" line="2" column="24" />
@@ -763,7 +763,7 @@
         <mark key="^" line="12" column="11" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1531900511583">
+      <file name="/Dummy.txt" timestamp="1532164206506">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Sites/ESS-Monitor/scripts/collectLinuxNodeInfo.py" timestamp="1514356709242">
@@ -939,43 +939,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">bm9kZSA=</text>
+        <text>nodes</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">bm9kZSA=</text>
+        <text>nodes</text>
       </register>
       <register name="/" type="4">
         <text>Cluster</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">KipSZXNwb25zZXMqKgoKLSBgMjAwIE9LYCBvbiBzdWNjZXNzCi0gYDQwNCBOb3QgRm91bmRgIGlmIGNsdXN0ZXIgb3Igbm9kZSBkb2VzIG5vdCBleGlzdAotIGpzb24gb2YgY2x1c3RlciBkZXRhaWxzCg==</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgLSBbTGlzdCBhbGwgTm9kZXNdKCNsaXN0LWFsbC1ub2RlcykK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">LSBqc29uIG9mIGNsdXN0ZXIgZGV0YWlscwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">LSBqc29uIG9mIG5vZGUgZGV0YWlscwo=</text>
+        <text encoding="base64">LS0tCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">LSBgNDA0IE5vdCBGb3VuZGAgaWYgY2x1c3RlciBvciBub2RlIGRvZXMgbm90IGV4aXN0Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">YQo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">X19fCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">YQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">LS0tCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">LSBgNDA0IE5vdCBGb3VuZGAgaWYgbm9kZSBkb2VzIG5vdCBleGlzdAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
