@@ -269,12 +269,12 @@
         <mark key="." line="569" column="35" />
         <mark key="^" line="569" column="35" />
       </file>
-      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/api/api-doc.md" timestamp="1532164192596">
-        <mark key="'" line="41" column="0" />
-        <mark key="[" line="2" column="21" />
-        <mark key="]" line="2" column="32" />
-        <mark key="^" line="2" column="32" />
-        <mark key="." line="2" column="32" />
+      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/api/api-doc.md" timestamp="1532165099458">
+        <mark key="'" line="10" column="29" />
+        <mark key="[" line="13" column="23" />
+        <mark key="]" line="13" column="28" />
+        <mark key="^" line="13" column="28" />
+        <mark key="." line="13" column="28" />
       </file>
       <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/ess_systems/__init__.py" timestamp="1516697979935">
         <mark key="[" line="2" column="24" />
@@ -763,7 +763,7 @@
         <mark key="^" line="12" column="11" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1532164206506">
+      <file name="/Dummy.txt" timestamp="1532165506587">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Sites/ESS-Monitor/scripts/collectLinuxNodeInfo.py" timestamp="1514356709242">
@@ -836,13 +836,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="47" column="29" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/app.py" />
-      <jump line="44" column="7" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/app.py" />
-      <jump line="21" column="49" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/app.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/Sites/ESS-Monitor/run.py" />
-      <jump line="12" column="9" filename="$USER_HOME$/Sites/ESS-Monitor/run.py" />
-      <jump line="37" column="35" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/schemas/node_schema.py" />
-      <jump line="56" column="25" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/schemas/node_schema.py" />
       <jump line="70" column="23" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/schemas/node_schema.py" />
       <jump line="54" column="21" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/schemas/node_schema.py" />
       <jump line="3" column="21" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/mixin.py" />
@@ -936,55 +929,62 @@
       <jump line="35" column="44" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/api/api-doc.md" />
       <jump line="145" column="44" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/api/api-doc.md" />
       <jump line="41" column="0" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/api/api-doc.md" />
+      <jump line="3" column="39" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/api/api-doc.md" />
+      <jump line="5" column="25" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/api/api-doc.md" />
+      <jump line="9" column="30" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/api/api-doc.md" />
+      <jump line="222" column="13" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/api/api-doc.md" />
+      <jump line="233" column="0" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/api/api-doc.md" />
+      <jump line="8" column="9" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/api/api-doc.md" />
+      <jump line="10" column="29" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/api/api-doc.md" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>nodes</text>
+        <text>scan</text>
       </register>
       <register name="-" type="4">
-        <text>nodes</text>
+        <text>scan</text>
       </register>
       <register name="/" type="4">
-        <text>Cluster</text>
+        <text>list-cluster-nodes</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgLSBbTGlzdCBhbGwgTm9kZXNdKCNsaXN0LWFsbC1ub2RlcykK</text>
+        <text encoding="base64">ICAgLSBbU2NhbiBDbHVzdGVyXSgjc2Nhbi1jbHVzdGVyKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgLSBbU2NhbiBDbHVzdGVyXSgjKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">LS0tCg==</text>
+        <text encoding="base64">ICAgLSBbVXBkYXRlIE5vZGVdKCN1cGRhdGUtbm9kZSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgLSBbQ3JlYXRlIE5ldyBOb2RlXSgjY3JlYXRlLW5ldy1ub2RlKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">YQo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">LS0tCg==</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">X19fCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">YQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">LS0tCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">X19fCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>Cluster</last-search>
+      <last-search>list-cluster-nodes</last-search>
       <last-offset />
-      <last-pattern>Cluster</last-pattern>
+      <last-pattern>list-cluster-nodes</last-pattern>
       <last-replace>CodeSimpleSchema</last-replace>
       <last-substitute>CodeSchema</last-substitute>
       <last-dir>1</last-dir>
@@ -992,11 +992,6 @@
     </search>
     <history>
       <history-search>
-        <entry>time</entry>
-        <entry>seen</entry>
-        <entry>date</entry>
-        <entry>datetime</entry>
-        <entry>last_scanned</entry>
         <entry>run_remote</entry>
         <entry>logger</entry>
         <entry>created_at</entry>
@@ -1012,6 +1007,11 @@
         <entry>false</entry>
         <entry>False</entry>
         <entry>Cluster</entry>
+        <entry>create-new</entry>
+        <entry>delete-node</entry>
+        <entry>scan-nodes</entry>
+        <entry>list-single-cluster</entry>
+        <entry>list-cluster-nodes</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5nL25vZGVfZGlzcGxheS9kZXZpY2VfZGlzcGxheS9n</entry>
