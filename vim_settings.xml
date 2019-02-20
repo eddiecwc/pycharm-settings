@@ -207,7 +207,7 @@
         <mark key="^" line="32" column="2" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/gateway/licu/vsrx-skip-licu-dev/srx-licu.py" timestamp="1550634622737">
+      <file name="$USER_HOME$/projects/gateway/licu/vsrx-skip-licu-dev/srx-licu.py" timestamp="1550634846821">
         <mark key="[" line="17" column="11" />
         <mark key="]" line="17" column="10" />
         <mark key="^" line="17" column="10" />
@@ -352,11 +352,10 @@
         <mark key="^" line="4" column="20" />
         <mark key="." line="4" column="20" />
       </file>
-      <file name="$USER_HOME$/projects/gateway/licu/do_update.py" timestamp="1550634651923">
-        <mark key="[" line="19" column="35" />
-        <mark key="]" line="22" column="0" />
-        <mark key="^" line="22" column="0" />
-        <mark key="." line="22" column="0" />
+      <file name="$USER_HOME$/projects/gateway/licu/do_update.py" timestamp="1550634888861">
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="0" />
+        <mark key="." line="24" column="0" />
       </file>
       <file name="$USER_HOME$/Sites/FlaskApp/templates/main.html" timestamp="1514248206422">
         <mark key="[" line="5" column="0" />
@@ -962,11 +961,11 @@
       <jump line="10" column="29" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/api/api-doc.md" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>f</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">IyBACg==</text>
       </register>
       <register name="-" type="4">
-        <text>f</text>
+        <text>argparse</text>
       </register>
       <register name="/" type="4">
         <text>list-cluster-nodes</text>
@@ -975,31 +974,31 @@
         <text encoding="base64">ICAgLSBbU2NhbiBDbHVzdGVyXSgjc2Nhbi1jbHVzdGVyKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgLSBbU2NhbiBDbHVzdGVyXSgjKQo=</text>
+        <text encoding="base64">IyBACg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgLSBbVXBkYXRlIE5vZGVdKCN1cGRhdGUtbm9kZSkK</text>
+        <text encoding="base64">CiMgLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgLSBbQ3JlYXRlIE5ldyBOb2RlXSgjY3JlYXRlLW5ldy1ub2RlKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">LS0tCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">YQo=</text>
+        <text encoding="base64">ICAgLSBbU2NhbiBDbHVzdGVyXSgjKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgLSBbVXBkYXRlIE5vZGVdKCN1cGRhdGUtbm9kZSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">X19fCg==</text>
+        <text encoding="base64">ICAgLSBbQ3JlYXRlIE5ldyBOb2RlXSgjY3JlYXRlLW5ldy1ub2RlKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
