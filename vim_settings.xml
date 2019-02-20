@@ -207,8 +207,8 @@
         <mark key="^" line="32" column="2" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/gateway/licu/vsrx-skip-licu-dev/srx-licu.py" timestamp="1550639903035">
-        <mark key="'" line="74" column="19" />
+      <file name="$USER_HOME$/projects/gateway/licu/vsrx-skip-licu-dev/srx-licu.py" timestamp="1550651298308">
+        <mark key="'" line="0" column="0" />
         <mark key="[" line="17" column="11" />
         <mark key="]" line="17" column="10" />
         <mark key="^" line="17" column="10" />
@@ -360,12 +360,12 @@
         <mark key="^" line="4" column="20" />
         <mark key="." line="4" column="20" />
       </file>
-      <file name="$USER_HOME$/projects/gateway/licu/do_update.py" timestamp="1550648638326">
-        <mark key="'" line="53" column="17" />
-        <mark key="[" line="183" column="13" />
-        <mark key="]" line="183" column="13" />
-        <mark key="." line="183" column="13" />
-        <mark key="^" line="184" column="7" />
+      <file name="$USER_HOME$/projects/gateway/licu/do_update.py" timestamp="1550652541585">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="86" column="38" />
+        <mark key="]" line="86" column="44" />
+        <mark key="." line="86" column="44" />
+        <mark key="^" line="86" column="44" />
       </file>
       <file name="$USER_HOME$/Sites/FlaskApp/templates/main.html" timestamp="1514248206422">
         <mark key="[" line="5" column="0" />
@@ -869,20 +869,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="32" column="45" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/schemas/device_schema.py" />
-      <jump line="19" column="0" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/schemas/node_schema.py" />
-      <jump line="50" column="27" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/schemas/node_schema.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/schemas/node_schema.py" />
-      <jump line="6" column="21" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/schemas/node_schema.py" />
-      <jump line="9" column="37" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/schemas/node_schema.py" />
-      <jump line="40" column="76" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/schemas/node_schema.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" />
-      <jump line="33" column="7" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" />
-      <jump line="1071" column="12" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/tasks.py" />
-      <jump line="720" column="24" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/tasks.py" />
-      <jump line="9" column="21" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/tasks.py" />
-      <jump line="9" column="0" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/utilities.py" />
-      <jump line="58" column="21" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/utilities.py" />
       <jump line="60" column="19" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/utilities.py" />
       <jump line="0" column="0" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/utilities.py" />
       <jump line="0" column="0" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/models/device.py" />
@@ -944,11 +930,8 @@
       <jump line="191" column="10" filename="$USER_HOME$/projects/gateway/licu/vsrx-skip-licu-dev/srx-licu.py" />
       <jump line="1567" column="31" filename="$USER_HOME$/projects/gateway/licu/vsrx-skip-licu-dev/srx-licu.py" />
       <jump line="1591" column="3" filename="$USER_HOME$/projects/gateway/licu/vsrx-skip-licu-dev/srx-licu.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/projects/gateway/licu/vsrx-skip-licu-dev/srx-licu.py" />
       <jump line="74" column="19" filename="$USER_HOME$/projects/gateway/licu/vsrx-skip-licu-dev/srx-licu.py" />
       <jump line="52" column="13" filename="$USER_HOME$/projects/gateway/licu/do-update" />
-      <jump line="51" column="35" filename="$USER_HOME$/projects/gateway/licu/do_update.py" />
-      <jump line="13" column="33" filename="$USER_HOME$/projects/gateway/licu/do_update.py" />
       <jump line="40" column="36" filename="$USER_HOME$/projects/gateway/licu/do_update.py" />
       <jump line="42" column="21" filename="$USER_HOME$/projects/gateway/licu/do_update.py" />
       <jump line="43" column="16" filename="$USER_HOME$/projects/gateway/licu/do_update.py" />
@@ -967,57 +950,74 @@
       <jump line="160" column="23" filename="$USER_HOME$/projects/gateway/licu/do_update.py" />
       <jump line="167" column="23" filename="$USER_HOME$/projects/gateway/licu/do_update.py" />
       <jump line="168" column="13" filename="$USER_HOME$/projects/gateway/licu/do_update.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/projects/gateway/licu/do_update.py" />
       <jump line="53" column="17" filename="$USER_HOME$/projects/gateway/licu/do_update.py" />
+      <jump line="15" column="9" filename="$USER_HOME$/projects/gateway/licu/vsrx-skip-licu-dev/srx-licu.py" />
+      <jump line="1409" column="13" filename="$USER_HOME$/projects/gateway/licu/vsrx-skip-licu-dev/srx-licu.py" />
+      <jump line="848" column="39" filename="$USER_HOME$/projects/gateway/licu/vsrx-skip-licu-dev/srx-licu.py" />
+      <jump line="31" column="53" filename="$USER_HOME$/projects/gateway/licu/do_update.py" />
+      <jump line="96" column="25" filename="$USER_HOME$/projects/gateway/licu/do_update.py" />
+      <jump line="48" column="7" filename="$USER_HOME$/projects/gateway/licu/do_update.py" />
+      <jump line="12" column="5" filename="$USER_HOME$/projects/gateway/licu/do_update.py" />
+      <jump line="221" column="62" filename="$USER_HOME$/projects/gateway/licu/do_update.py" />
+      <jump line="51" column="83" filename="$USER_HOME$/projects/gateway/licu/do_update.py" />
+      <jump line="97" column="29" filename="$USER_HOME$/projects/gateway/licu/do_update.py" />
+      <jump line="132" column="20" filename="$USER_HOME$/projects/gateway/licu/do_update.py" />
+      <jump line="135" column="11" filename="$USER_HOME$/projects/gateway/licu/do_update.py" />
+      <jump line="138" column="7" filename="$USER_HOME$/projects/gateway/licu/do_update.py" />
+      <jump line="146" column="28" filename="$USER_HOME$/projects/gateway/licu/do_update.py" />
+      <jump line="148" column="23" filename="$USER_HOME$/projects/gateway/licu/do_update.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/gateway/licu/vsrx-skip-licu-dev/srx-licu.py" />
+      <jump line="13" column="0" filename="$USER_HOME$/projects/gateway/licu/do_update.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/gateway/licu/do_update.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>1</text>
+        <text>&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text>&quot;</text>
       </register>
       <register name="/" type="4">
-        <text>DEBUG</text>
+        <text>banner</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">cnVuX2libV91cGdyYWRlX3Rhc2tzKCJwcmUiKQo=</text>
+        <text encoding="base64">ICAgIG5vZGUgPSBnd1sibm9kZSIgKyBpbmRleF0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4K</text>
+        <text encoding="base64">ICAgIHJldHVybiAwCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHBhc3MK</text>
+        <text encoding="base64">ICAgICIiIgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICIiIgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICIiIgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">IyBsb2cgaW4gdG8gYm90aCBub2RlcyBhbmQgcnVuIHB5dGhvbiBpYm1fcHJlLnB5Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">IyBsb2cgaW4gdG8gYm90aCBub2RlcyBhbmQgcnVuIHB5dGhvbiBpYm1fcG9zdC5weQo=</text>
+        <text encoding="base64">ICAgICAgICBkaXNjb25uZWN0KCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBsb2dnZXIoIiIpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChsb2cpCg==</text>
+        <text encoding="base64">ICAgICkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>DEBUG</last-search>
+      <last-search>banner</last-search>
       <last-offset />
-      <last-pattern>DEBUG</last-pattern>
+      <last-pattern>banner</last-pattern>
       <last-replace>CodeSimpleSchema</last-replace>
       <last-substitute>CodeSchema</last-substitute>
       <last-dir>1</last-dir>
@@ -1025,12 +1025,6 @@
     </search>
     <history>
       <history-search>
-        <entry>interfaces</entry>
-        <entry>args</entry>
-        <entry>os.path</entry>
-        <entry>join</entry>
-        <entry>path</entry>
-        <entry>local_path</entry>
         <entry>write_log</entry>
         <entry>write</entry>
         <entry>write_to_log</entry>
@@ -1043,11 +1037,16 @@
         <entry>LOG_FILE</entry>
         <entry>logger</entry>
         <entry>check_err</entry>
-        <entry>gw</entry>
         <entry>DEBUG</entry>
+        <entry>paramiko</entry>
+        <entry>datetime</entry>
+        <entry>date</entry>
+        <entry>gw</entry>
+        <entry>disconnect</entry>
+        <entry>ssh</entry>
+        <entry>banner</entry>
       </history-search>
       <history-cmd>
-        <entry>w0</entry>
         <entry>82</entry>
         <entry>45</entry>
         <entry encoding="base64">dyA=</entry>
@@ -1064,8 +1063,9 @@
         <entry>79</entry>
         <entry>89</entry>
         <entry>119</entry>
-        <entry>0</entry>
         <entry>$</entry>
+        <entry>195</entry>
+        <entry>0</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
