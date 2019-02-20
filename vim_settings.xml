@@ -360,12 +360,12 @@
         <mark key="^" line="4" column="20" />
         <mark key="." line="4" column="20" />
       </file>
-      <file name="$USER_HOME$/projects/gateway/licu/do_update.py" timestamp="1550686643452">
+      <file name="$USER_HOME$/projects/gateway/licu/do_update.py" timestamp="1550692454936">
         <mark key="'" line="5" column="8" />
-        <mark key="[" line="183" column="67" />
-        <mark key="]" line="183" column="67" />
-        <mark key="." line="183" column="67" />
-        <mark key="^" line="183" column="67" />
+        <mark key="[" line="183" column="8" />
+        <mark key="]" line="183" column="9" />
+        <mark key="." line="183" column="9" />
+        <mark key="^" line="183" column="9" />
       </file>
       <file name="$USER_HOME$/Sites/FlaskApp/templates/main.html" timestamp="1514248206422">
         <mark key="[" line="5" column="0" />
@@ -1011,7 +1011,7 @@
         <text encoding="base64">ICAgICIiIgo=</text>
       </register>
       <register name=":" type="4">
-        <text>830</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -1065,8 +1065,8 @@
         <entry>195</entry>
         <entry>0</entry>
         <entry>$</entry>
-        <entry>w</entry>
         <entry>830</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
