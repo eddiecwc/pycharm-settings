@@ -360,12 +360,12 @@
         <mark key="^" line="4" column="20" />
         <mark key="." line="4" column="20" />
       </file>
-      <file name="$USER_HOME$/projects/gateway/licu/do_update.py" timestamp="1550654079137">
+      <file name="$USER_HOME$/projects/gateway/licu/do_update.py" timestamp="1550655919047">
         <mark key="'" line="5" column="8" />
-        <mark key="[" line="188" column="0" />
-        <mark key="]" line="188" column="0" />
-        <mark key="^" line="262" column="0" />
-        <mark key="." line="188" column="0" />
+        <mark key="[" line="181" column="21" />
+        <mark key="]" line="181" column="32" />
+        <mark key="^" line="181" column="32" />
+        <mark key="." line="181" column="32" />
       </file>
       <file name="$USER_HOME$/Sites/FlaskApp/templates/main.html" timestamp="1514248206422">
         <mark key="[" line="5" column="0" />
