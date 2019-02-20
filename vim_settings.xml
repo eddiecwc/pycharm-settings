@@ -360,12 +360,12 @@
         <mark key="^" line="4" column="20" />
         <mark key="." line="4" column="20" />
       </file>
-      <file name="$USER_HOME$/projects/gateway/licu/do_update.py" timestamp="1550647475455">
+      <file name="$USER_HOME$/projects/gateway/licu/do_update.py" timestamp="1550648638326">
         <mark key="'" line="53" column="17" />
-        <mark key="[" line="40" column="32" />
-        <mark key="]" line="40" column="35" />
-        <mark key="^" line="40" column="35" />
-        <mark key="." line="40" column="35" />
+        <mark key="[" line="183" column="13" />
+        <mark key="]" line="183" column="13" />
+        <mark key="." line="183" column="13" />
+        <mark key="^" line="184" column="7" />
       </file>
       <file name="$USER_HOME$/Sites/FlaskApp/templates/main.html" timestamp="1514248206422">
         <mark key="[" line="5" column="0" />
@@ -972,22 +972,22 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>False</text>
+        <text>1</text>
       </register>
       <register name="-" type="4">
-        <text>False</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
         <text>DEBUG</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHdpdGggb3BlbihOT0RFX0xJU1RfRklMRSwgJ3InKSBhcyBub2RlX2xpc3RfZmlsZToK</text>
+        <text encoding="base64">cnVuX2libV91cGdyYWRlX3Rhc2tzKCJwcmUiKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBMT0dfRklMRS5jbG9zZSgpCg==</text>
+        <text encoding="base64">ICAgIHBhc3MK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
@@ -996,22 +996,22 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">IyBsb2cgaW4gdG8gYm90aCBub2RlcyBhbmQgcnVuIHB5dGhvbiBpYm1fcHJlLnB5Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCh0eXBlKG1zZykpCg==</text>
+        <text encoding="base64">IyBsb2cgaW4gdG8gYm90aCBub2RlcyBhbmQgcnVuIHB5dGhvbiBpYm1fcG9zdC5weQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">IiIiCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">IiIiCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">OnJldHVybjogIE5BCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludChsb2cpCg==</text>
       </register>
       <register name=":" type="4">
-        <text>$</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -1065,8 +1065,8 @@
         <entry>89</entry>
         <entry>119</entry>
         <entry>0</entry>
-        <entry>w</entry>
         <entry>$</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
