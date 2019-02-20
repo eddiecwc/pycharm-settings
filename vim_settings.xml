@@ -360,12 +360,12 @@
         <mark key="^" line="4" column="20" />
         <mark key="." line="4" column="20" />
       </file>
-      <file name="$USER_HOME$/projects/gateway/licu/do_update.py" timestamp="1550684139374">
+      <file name="$USER_HOME$/projects/gateway/licu/do_update.py" timestamp="1550685322926">
         <mark key="'" line="5" column="8" />
-        <mark key="[" line="183" column="38" />
-        <mark key="]" line="183" column="40" />
-        <mark key="." line="183" column="40" />
-        <mark key="^" line="183" column="40" />
+        <mark key="[" line="93" column="36" />
+        <mark key="]" line="93" column="35" />
+        <mark key="." line="93" column="35" />
+        <mark key="^" line="93" column="35" />
       </file>
       <file name="$USER_HOME$/Sites/FlaskApp/templates/main.html" timestamp="1514248206422">
         <mark key="[" line="5" column="0" />
@@ -972,10 +972,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">Kz0g</text>
+        <text>'</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Kz0g</text>
+        <text>'</text>
       </register>
       <register name="/" type="4">
         <text>param</text>
