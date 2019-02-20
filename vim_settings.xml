@@ -207,7 +207,8 @@
         <mark key="^" line="32" column="2" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/gateway/licu/vsrx-skip-licu-dev/srx-licu.py" timestamp="1550634846821">
+      <file name="$USER_HOME$/projects/gateway/licu/vsrx-skip-licu-dev/srx-licu.py" timestamp="1550639142515">
+        <mark key="'" line="1567" column="37" />
         <mark key="[" line="17" column="11" />
         <mark key="]" line="17" column="10" />
         <mark key="^" line="17" column="10" />
@@ -352,10 +353,10 @@
         <mark key="^" line="4" column="20" />
         <mark key="." line="4" column="20" />
       </file>
-      <file name="$USER_HOME$/projects/gateway/licu/do_update.py" timestamp="1550634888861">
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="24" column="0" />
-        <mark key="." line="24" column="0" />
+      <file name="$USER_HOME$/projects/gateway/licu/do_update.py" timestamp="1550639208243">
+        <mark key="[" line="49" column="0" />
+        <mark key="]" line="49" column="50" />
+        <mark key="." line="49" column="0" />
       </file>
       <file name="$USER_HOME$/Sites/FlaskApp/templates/main.html" timestamp="1514248206422">
         <mark key="[" line="5" column="0" />
@@ -859,28 +860,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="70" column="23" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/schemas/node_schema.py" />
-      <jump line="54" column="21" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/schemas/node_schema.py" />
-      <jump line="3" column="21" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/mixin.py" />
-      <jump line="6" column="28" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/mixin.py" />
-      <jump line="0" column="2" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/app.py" />
-      <jump line="14" column="42" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/app.py" />
-      <jump line="101" column="52" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/app.py" />
-      <jump line="102" column="52" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/app.py" />
-      <jump line="157" column="0" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/mixin.py" />
-      <jump line="146" column="50" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/mixin.py" />
-      <jump line="52" column="74" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/mixin.py" />
-      <jump line="51" column="62" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/models/code.py" />
-      <jump line="9" column="21" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/models/code.py" />
-      <jump line="40" column="77" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/models/code.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/models/code.py" />
-      <jump line="42" column="0" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/models/code.py" />
-      <jump line="65" column="29" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/models/code.py" />
-      <jump line="70" column="94" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/models/code.py" />
-      <jump line="72" column="103" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/models/code.py" />
-      <jump line="74" column="94" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/models/code.py" />
-      <jump line="76" column="103" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/models/code.py" />
-      <jump line="20" column="0" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/models/device.py" />
       <jump line="50" column="4" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/models/device.py" />
       <jump line="9" column="25" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/models/device.py" />
       <jump line="35" column="47" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/models/device.py" />
@@ -959,55 +938,77 @@
       <jump line="233" column="0" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/api/api-doc.md" />
       <jump line="8" column="9" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/api/api-doc.md" />
       <jump line="10" column="29" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/api/api-doc.md" />
+      <jump line="44" column="38" filename="$USER_HOME$/projects/gateway/licu/vsrx-skip-licu-dev/srx-licu.py" />
+      <jump line="221" column="94" filename="$USER_HOME$/projects/gateway/licu/vsrx-skip-licu-dev/srx-licu.py" />
+      <jump line="232" column="24" filename="$USER_HOME$/projects/gateway/licu/vsrx-skip-licu-dev/srx-licu.py" />
+      <jump line="244" column="48" filename="$USER_HOME$/projects/gateway/licu/vsrx-skip-licu-dev/srx-licu.py" />
+      <jump line="303" column="42" filename="$USER_HOME$/projects/gateway/licu/vsrx-skip-licu-dev/srx-licu.py" />
+      <jump line="330" column="100" filename="$USER_HOME$/projects/gateway/licu/vsrx-skip-licu-dev/srx-licu.py" />
+      <jump line="341" column="24" filename="$USER_HOME$/projects/gateway/licu/vsrx-skip-licu-dev/srx-licu.py" />
+      <jump line="353" column="48" filename="$USER_HOME$/projects/gateway/licu/vsrx-skip-licu-dev/srx-licu.py" />
+      <jump line="412" column="37" filename="$USER_HOME$/projects/gateway/licu/vsrx-skip-licu-dev/srx-licu.py" />
+      <jump line="440" column="90" filename="$USER_HOME$/projects/gateway/licu/vsrx-skip-licu-dev/srx-licu.py" />
+      <jump line="451" column="16" filename="$USER_HOME$/projects/gateway/licu/vsrx-skip-licu-dev/srx-licu.py" />
+      <jump line="1656" column="0" filename="$USER_HOME$/projects/gateway/licu/vsrx-skip-licu-dev/srx-licu.py" />
+      <jump line="1641" column="0" filename="$USER_HOME$/projects/gateway/licu/vsrx-skip-licu-dev/srx-licu.py" />
+      <jump line="1634" column="94" filename="$USER_HOME$/projects/gateway/licu/vsrx-skip-licu-dev/srx-licu.py" />
+      <jump line="1594" column="33" filename="$USER_HOME$/projects/gateway/licu/vsrx-skip-licu-dev/srx-licu.py" />
+      <jump line="1592" column="37" filename="$USER_HOME$/projects/gateway/licu/vsrx-skip-licu-dev/srx-licu.py" />
+      <jump line="1544" column="0" filename="$USER_HOME$/projects/gateway/licu/vsrx-skip-licu-dev/srx-licu.py" />
+      <jump line="1536" column="0" filename="$USER_HOME$/projects/gateway/licu/vsrx-skip-licu-dev/srx-licu.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/gateway/licu/vsrx-skip-licu-dev/srx-licu.py" />
+      <jump line="213" column="7" filename="$USER_HOME$/projects/gateway/licu/vsrx-skip-licu-dev/srx-licu.py" />
+      <jump line="191" column="10" filename="$USER_HOME$/projects/gateway/licu/vsrx-skip-licu-dev/srx-licu.py" />
+      <jump line="1567" column="37" filename="$USER_HOME$/projects/gateway/licu/vsrx-skip-licu-dev/srx-licu.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">IyBACg==</text>
+        <text encoding="base64">ICAgIG5vZGVsaXN0X2ZpbGUgPSByb290X2RpciArICIvY29uZmlnL25vZGUubGlzdCIK</text>
       </register>
       <register name="-" type="4">
-        <text>argparse</text>
+        <text>&quot;</text>
       </register>
       <register name="/" type="4">
-        <text>list-cluster-nodes</text>
+        <text>local_path</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgLSBbU2NhbiBDbHVzdGVyXSgjc2Nhbi1jbHVzdGVyKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">IyBACg==</text>
+        <text encoding="base64">ICAgIG5vZGVsaXN0X2ZpbGUgPSByb290X2RpciArICIvY29uZmlnL25vZGUubGlzdCIK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CiMgLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tCg==</text>
+        <text encoding="base64">ICAgICIiIgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICIiIgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHJvbGxiYWNrID0gYXJncy5yb2xsYmFjawo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgLSBbU2NhbiBDbHVzdGVyXSgjKQo=</text>
+        <text encoding="base64">ICAgIGd3X25hbWUgPSBhcmdzLmdhdGV3YXkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgLSBbVXBkYXRlIE5vZGVdKCN1cGRhdGUtbm9kZSkK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgLSBbQ3JlYXRlIE5ldyBOb2RlXSgjY3JlYXRlLW5ldy1ub2RlKQo=</text>
+        <text encoding="base64">ICAgICMgZXhlY3V0ZSBvbmx5IGlmIHJ1biBhcyBhIHNjcmlwdAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>list-cluster-nodes</last-search>
+      <last-search>local_path</last-search>
       <last-offset />
-      <last-pattern>list-cluster-nodes</last-pattern>
+      <last-pattern>local_path</last-pattern>
       <last-replace>CodeSimpleSchema</last-replace>
       <last-substitute>CodeSchema</last-substitute>
       <last-dir>1</last-dir>
@@ -1015,13 +1016,6 @@
     </search>
     <history>
       <history-search>
-        <entry>run_remote</entry>
-        <entry>logger</entry>
-        <entry>created_at</entry>
-        <entry>updated_at</entry>
-        <entry>utili</entry>
-        <entry>timestamp</entry>
-        <entry>utcnow</entry>
         <entry>format_datetime</entry>
         <entry>format_time</entry>
         <entry>current_time</entry>
@@ -1035,6 +1029,13 @@
         <entry>scan-nodes</entry>
         <entry>list-single-cluster</entry>
         <entry>list-cluster-nodes</entry>
+        <entry>plugin</entry>
+        <entry>interfaces</entry>
+        <entry>args</entry>
+        <entry>os.path</entry>
+        <entry>join</entry>
+        <entry>path</entry>
+        <entry>local_path</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5nL25vZGVfZGlzcGxheS9kZXZpY2VfZGlzcGxheS9n</entry>
@@ -1053,9 +1054,9 @@
         <entry>q</entry>
         <entry>40</entry>
         <entry>181</entry>
+        <entry>wq</entry>
         <entry>$</entry>
         <entry>0</entry>
-        <entry>wq</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
