@@ -354,6 +354,13 @@
         <mark key="^" line="0" column="39" />
         <mark key="." line="0" column="39" />
       </file>
+      <file name="$USER_HOME$/projects/gateway/licu/vsrx-skip-licu-dev/modified_vsrx_upgrade.py" timestamp="1550779261864">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="133" column="0" />
+        <mark key="]" line="133" column="0" />
+        <mark key="^" line="109" column="19" />
+        <mark key="." line="133" column="0" />
+      </file>
       <file name="$USER_HOME$/Sites/FlaskApp/templates/includes/commentbox.html" timestamp="1514778376934">
         <mark key="[" line="3" column="90" />
         <mark key="]" line="4" column="20" />
@@ -731,6 +738,7 @@
         <mark key="." line="4" column="12" />
         <mark key="^" line="4" column="12" />
       </file>
+      <file name="$USER_HOME$/projects/gateway/licu/ARCHIVE/vsrx-skip-licu-master/modified_vsrx_upgrade.py" timestamp="1550779202464" />
       <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/ess_systems/forms.py" timestamp="1517306442552">
         <mark key="'" line="28" column="71" />
         <mark key="[" line="37" column="95" />
@@ -869,7 +877,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="60" column="19" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/utilities.py" />
       <jump line="0" column="0" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/utilities.py" />
       <jump line="0" column="0" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/models/device.py" />
       <jump line="46" column="24" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/models/device.py" />
@@ -969,55 +976,56 @@
       <jump line="13" column="0" filename="$USER_HOME$/projects/gateway/licu/do_update.py" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/gateway/licu/do_update.py" />
       <jump line="5" column="8" filename="$USER_HOME$/projects/gateway/licu/do_update.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/gateway/licu/vsrx-skip-licu-dev/modified_vsrx_upgrade.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>'</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>'</text>
       </register>
       <register name="/" type="4">
-        <text>param</text>
+        <text>modify</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICByZXR1cm4gc3Rkb3V0LmNoYW5uZWwucmVjdl9leGl0X3N0YXR1cygpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAiIgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBvdXRwdXQgPSBzdGRvdXQucmVhZCgpCiAgICAgICAgb3V0cHV0ICs9ICJcbiIgKyBzdGRlcnIucmVhZCgpCg==</text>
+        <text encoding="base64">ICAgICAgICBuZXdfcG9ydCA9IHN0cihyYW5kb20ucmFuZGludCg5NjAwLCA5NzAwKSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBzdGRvdXQucmVhZAo=</text>
+        <text encoding="base64">ICAgICAgICAiIgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3Rkb3V0LmNoYW5uZWwucmVjdl9leGl0X3N0YXR1cygpCg==</text>
+        <text encoding="base64">ICAgICAgICBvdXRwdXQgPSBzdGRvdXQucmVhZCgpCiAgICAgICAgb3V0cHV0ICs9ICJcbiIgKyBzdGRlcnIucmVhZCgpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByYyA9IHN0ZG91dC5jaGFubmVsLnJlY3ZfZXhpdF9zdGF0dXMoKQo=</text>
+        <text encoding="base64">ICAgICAgICBzdGRvdXQucmVhZAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICByYyA9IHN0ZG91dC5jaGFubmVsLnJlY3ZfZXhpdF9zdGF0dXMoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgc3Rkb3V0LmNoYW5uZWwucmVjdl9leGl0X3N0YXR1cygpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBjaGFubmVsID0gY2xpZW50LmdldF90cmFuc3BvcnQoKS5vcGVuX3Nlc3Npb24oKQo=</text>
+        <text encoding="base64">ICAgICAgICByYyA9IHN0ZG91dC5jaGFubmVsLnJlY3ZfZXhpdF9zdGF0dXMoKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHJldHVybiAwCg==</text>
+        <text encoding="base64">ICAgICAgICByYyA9IHN0ZG91dC5jaGFubmVsLnJlY3ZfZXhpdF9zdGF0dXMoKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICIiIgo=</text>
+        <text encoding="base64">ICAgICAgICBjaGFubmVsID0gY2xpZW50LmdldF90cmFuc3BvcnQoKS5vcGVuX3Nlc3Npb24oKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>param</last-search>
+      <last-search>modify</last-search>
       <last-offset />
-      <last-pattern>param</last-pattern>
+      <last-pattern>modify</last-pattern>
       <last-replace>CodeSimpleSchema</last-replace>
       <last-substitute>CodeSchema</last-substitute>
       <last-dir>1</last-dir>
@@ -1025,7 +1033,6 @@
     </search>
     <history>
       <history-search>
-        <entry>write</entry>
         <entry>write_to_log</entry>
         <entry>def write_to_log</entry>
         <entry>rollback</entry>
@@ -1045,6 +1052,7 @@
         <entry>ssh</entry>
         <entry>banner</entry>
         <entry>param</entry>
+        <entry>modify</entry>
       </history-search>
       <history-cmd>
         <entry>45</entry>
@@ -1063,9 +1071,9 @@
         <entry>89</entry>
         <entry>119</entry>
         <entry>195</entry>
-        <entry>0</entry>
         <entry>$</entry>
         <entry>830</entry>
+        <entry>0</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
