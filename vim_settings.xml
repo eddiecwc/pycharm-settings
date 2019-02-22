@@ -367,12 +367,12 @@
         <mark key="^" line="4" column="20" />
         <mark key="." line="4" column="20" />
       </file>
-      <file name="$USER_HOME$/projects/gateway/licu/do_update.py" timestamp="1550816791779">
+      <file name="$USER_HOME$/projects/gateway/licu/do_update.py" timestamp="1550827308948">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="183" column="45" />
-        <mark key="]" line="184" column="11" />
-        <mark key="^" line="184" column="11" />
-        <mark key="." line="184" column="11" />
+        <mark key="[" line="211" column="0" />
+        <mark key="]" line="211" column="0" />
+        <mark key="^" line="199" column="47" />
+        <mark key="." line="211" column="0" />
       </file>
       <file name="$USER_HOME$/Sites/FlaskApp/templates/main.html" timestamp="1514248206422">
         <mark key="[" line="5" column="0" />
@@ -979,11 +979,11 @@
       <jump line="0" column="0" filename="$USER_HOME$/projects/gateway/licu/do_update.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>line</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAjIGxvZ2dlcihvdXRwdXQsIG5vX3RzPVRydWUpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>line</text>
+        <text>&quot;</text>
       </register>
       <register name="/" type="4">
         <text>logger</text>
@@ -992,31 +992,31 @@
         <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyKGxpbmUsIG5vX3RzPVRydWUsIGVuZD0iIikK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdXNlKGJsb2NrKQo=</text>
+        <text encoding="base64">ICAgICAgICAjIGxvZ2dlcihvdXRwdXQsIG5vX3RzPVRydWUpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQobGluZSwgZW5kPSIiKQo=</text>
+        <text encoding="base64">ICAgICAgICAjIG91dHB1dCArPSAiXG4iICsgc3RkZXJyLnJlYWQoKSArICJcblJldHVybiBDb2RlOiAiICsgc3RyKHJjKSArICJcbiIK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICByYyA9IHN0ZG91dC5jaGFubmVsLnJlY3ZfZXhpdF9zdGF0dXMoKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="5" type="4">
+        <text encoding="base64">ZGVmIGl0ZXJfbGluZShmaWxlKToKICAgIGxpbmUgPSAiIgogICAgd2hpbGUgbm90IGZpbGUucmVhZAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHRpbWUuc2xlZXAoMzAwKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHRpbWUuc2xlZXAoMzAwKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdXNlKGJsb2NrKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHRpbWUuc2xlZXAoMzAwKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQobGluZSwgZW5kPSIiKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBiYW5uZXIoIlJlIiArIG5vZGVfc3RyKQo=</text>
+        <text encoding="base64">ICAgICAgICByYyA9IHN0ZG91dC5jaGFubmVsLnJlY3ZfZXhpdF9zdGF0dXMoKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -1073,8 +1073,8 @@
         <entry>195</entry>
         <entry>$</entry>
         <entry>830</entry>
-        <entry>w</entry>
         <entry>0</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
