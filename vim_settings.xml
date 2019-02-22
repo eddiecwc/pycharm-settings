@@ -625,6 +625,9 @@
         <mark key="^" line="5" column="12" />
         <mark key="." line="5" column="12" />
       </file>
+      <file name="$USER_HOME$/projects/gateway/Juniper_vSRX_on_KVM.15.1x/setup_vSRX.sh" timestamp="1550860633274">
+        <mark key="'" line="14" column="1" />
+      </file>
       <file name="$USER_HOME$/Sites/cap-underpants/check_status.py" timestamp="1517550583516">
         <mark key="[" line="64" column="0" />
         <mark key="]" line="66" column="3" />
@@ -877,7 +880,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="12" column="55" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/models/device.py" />
       <jump line="157" column="33" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/models/device.py" />
       <jump line="190" column="69" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/models/device.py" />
       <jump line="172" column="51" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/models/device.py" />
@@ -977,6 +979,7 @@
       <jump line="8" column="10" filename="$USER_HOME$/projects/gateway/licu/do_update.py" />
       <jump line="238" column="12" filename="$USER_HOME$/projects/gateway/licu/do_update.py" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/gateway/licu/do_update.py" />
+      <jump line="14" column="1" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_on_KVM.15.1x/setup_vSRX.sh" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -986,7 +989,7 @@
         <text>&quot;</text>
       </register>
       <register name="/" type="4">
-        <text>logger</text>
+        <text>build</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyKGxpbmUsIG5vX3RzPVRydWUsIGVuZD0iIikK</text>
@@ -1023,9 +1026,9 @@
       </register>
     </registers>
     <search>
-      <last-search>logger</last-search>
+      <last-search>build</last-search>
       <last-offset />
-      <last-pattern>logger</last-pattern>
+      <last-pattern>build</last-pattern>
       <last-replace>CodeSimpleSchema</last-replace>
       <last-substitute>CodeSchema</last-substitute>
       <last-dir>1</last-dir>
@@ -1033,7 +1036,6 @@
     </search>
     <history>
       <history-search>
-        <entry>rollback</entry>
         <entry>load</entry>
         <entry>pprint</entry>
         <entry>log</entry>
@@ -1053,6 +1055,7 @@
         <entry>sleep</entry>
         <entry encoding="base64">XDxydW5fcmVtb3RlX2NvbW1hbmRfb25fbm9kZVw+</entry>
         <entry>logger</entry>
+        <entry>build</entry>
       </history-search>
       <history-cmd>
         <entry>45</entry>
