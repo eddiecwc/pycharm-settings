@@ -690,7 +690,6 @@
         <mark key="^" line="35" column="19" />
         <mark key="." line="35" column="19" />
       </file>
-      <file name="$USER_HOME$/projects/gateway/Juniper_vSRX_on_KVM.15.1x/Build_vSRX.py" timestamp="1550869161225" />
       <file name="$USER_HOME$/Sites/FlaskApp/templates/downloads.html" timestamp="1514784752958">
         <mark key="[" line="4" column="13" />
         <mark key="]" line="4" column="13" />
@@ -742,7 +741,6 @@
         <mark key="." line="4" column="12" />
         <mark key="^" line="4" column="12" />
       </file>
-      <file name="$USER_HOME$/projects/gateway/licu/ARCHIVE/vsrx-skip-licu-master/modified_vsrx_upgrade.py" timestamp="1550779202464" />
       <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/ess_systems/forms.py" timestamp="1517306442552">
         <mark key="'" line="28" column="71" />
         <mark key="[" line="37" column="95" />
@@ -788,6 +786,13 @@
         <mark key="]" line="49" column="22" />
         <mark key="." line="49" column="22" />
         <mark key="^" line="49" column="22" />
+      </file>
+      <file name="$USER_HOME$/projects/gateway/118-port-cpu-alloc/Build_vSRX.py" timestamp="1550876836834">
+        <mark key="'" line="546" column="0" />
+        <mark key="[" line="822" column="0" />
+        <mark key="]" line="822" column="0" />
+        <mark key="^" line="807" column="3" />
+        <mark key="." line="822" column="0" />
       </file>
       <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/models/device.py" timestamp="1526021885735">
         <mark key="'" line="185" column="73" />
@@ -884,8 +889,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="185" column="73" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/models/device.py" />
-      <jump line="1" column="0" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/models/code.py" />
       <jump line="12" column="55" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/models/code.py" />
       <jump line="38" column="65" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/models/code.py" />
       <jump line="14" column="55" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/models/node.py" />
@@ -984,55 +987,57 @@
       <jump line="568" column="30" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_on_KVM.15.1x/build_kvm_int.py" />
       <jump line="50" column="8" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_on_KVM.15.1x/build_kvm_int.py" />
       <jump line="65" column="0" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_on_KVM.15.1x/build_kvm_int.py" />
+      <jump line="204" column="27" filename="$USER_HOME$/projects/gateway/118-port-cpu-alloc/Build_vSRX.py" />
+      <jump line="546" column="0" filename="$USER_HOME$/projects/gateway/118-port-cpu-alloc/Build_vSRX.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICMgU3RhcnQgYm90aCBub2Rlcwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text>True</text>
       </register>
       <register name="/" type="4">
-        <text>init_stage</text>
+        <text>Generate_vSRX_XML_HA</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyKGxpbmUsIG5vX3RzPVRydWUsIGVuZD0iIikK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICMgU3RhcnQgYm90aCBub2Rlcwo=</text>
-      </register>
-      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICMgcm9sbGJhY2sgbm9kZSAxLCBub3cgbm9kZSAwIGlzIHByaW1hcnkK</text>
+      <register name="2" type="4">
+        <text encoding="base64">ICAgICAgICBuZXRkYXRhWydDUFUzJ10gPSBuQ1BVX2xpc3RbbGVuKG5DUFVfbGlzdCkgLSAzXQogICAgICAgIG5ldGRhdGFbJ0NQVTQnXSA9IG5DUFVfbGlzdFtsZW4obkNQVV9saXN0KSAtIDRdCiAgICAgICAgbmV0ZGF0YVsnQ1BVNSddID0gbkNQVV9saXN0W2xlbihuQ1BVX2xpc3QpIC0gNV0=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="3" type="4">
+        <text encoding="base64">ICAgIG5ldGRhdGFbJ0NQVTEnXSA9IG5DUFVfbGlzdFtsZW4obkNQVV9saXN0KSAtIDFdCiAgICBuZXRkYXRhWydDUFUyJ10gPSBuQ1BVX2xpc3RbbGVuKG5DUFVfbGlzdCkgLSAyXQog</text>
+      </register>
+      <register name="4" type="4">
+        <text encoding="base64">ICAgICAgICBuZXRkYXRhWydDUFUzJ10gPSBuQ1BVX2xpc3RbbGVuKG5DUFVfbGlzdCkgLSAzXQogICAgICAgIG5ldGRhdGFbJ0NQVTQnXSA9IG5DUFVfbGlzdFtsZW4obkNQVV9saXN0KSAtIDRdCiAgICAgICAgbmV0ZGF0YVsnQ1BVNSddID0gbkNQVV9saXN0W2xlbihuQ1BVX2xpc3QpIC0gNV0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICMgcm9sbGJhY2sgbm9kZSAwLCBub3cgbm9kZSAxIGlzIHByaW1hcnkK</text>
+        <text encoding="base64">ICAgIG5ldGRhdGFbJ0NQVTInXSA9IG5DUFVfbGlzdFtsZW4obkNQVV9saXN0KSAtIDJdCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIG5ldGRhdGFbJ0NQVTEnXSA9IG5DUFVfbGlzdFtsZW4obkNQVV9saXN0KSAtIDFdCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyBpZiBsaW5lc1stMV0gaXMgbm90ICIiLCB0aGVuIGl0IGlzIGZpcnN0IHBhcnQgb2YgbmV4dCBsaW5lLCBzZXQgbGluZV9idWZmZXIgdG8gaXQK</text>
+        <text encoding="base64">ICAgICMgU3RhcnQgYm90aCBub2Rlcwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyBpZiBsaW5lX2J1ZmZlciBpcyBub3QgZW1wdHkgdGhlbiBsaW5lc1swXSBpcyBjb250aW51YXRpb24gZnJvbSBwcmV2aW91cyBjaHVuawo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>init_stage</last-search>
+      <last-search>Generate_vSRX_XML_HA</last-search>
       <last-offset />
-      <last-pattern>init_stage</last-pattern>
+      <last-pattern>Generate_vSRX_XML_HA</last-pattern>
       <last-replace>CodeSimpleSchema</last-replace>
       <last-substitute>CodeSchema</last-substitute>
       <last-dir>1</last-dir>
@@ -1040,9 +1045,6 @@
     </search>
     <history>
       <history-search>
-        <entry>log</entry>
-        <entry>open</entry>
-        <entry>LOG_FILE</entry>
         <entry>check_err</entry>
         <entry>DEBUG</entry>
         <entry>paramiko</entry>
@@ -1060,6 +1062,9 @@
         <entry>build</entry>
         <entry>Check_For_Image</entry>
         <entry>init_stage</entry>
+        <entry>check_cpu_count</entry>
+        <entry>Check_cpu_count</entry>
+        <entry>Generate_vSRX_XML_HA</entry>
       </history-search>
       <history-cmd>
         <entry>45</entry>
