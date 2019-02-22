@@ -824,6 +824,9 @@
         <mark key="^" line="51" column="0" />
         <mark key="." line="51" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/gateway/Juniper_vSRX_on_KVM.15.1x/build_kvm_int.py" timestamp="1550867835559">
+        <mark key="'" line="65" column="0" />
+      </file>
       <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/templates/header.html" timestamp="1524258428723">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="5" column="0" />
@@ -880,9 +883,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="157" column="33" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/models/device.py" />
-      <jump line="190" column="69" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/models/device.py" />
-      <jump line="172" column="51" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/models/device.py" />
       <jump line="185" column="73" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/models/device.py" />
       <jump line="1" column="0" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/models/code.py" />
       <jump line="12" column="55" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/models/code.py" />
@@ -980,6 +980,9 @@
       <jump line="238" column="12" filename="$USER_HOME$/projects/gateway/licu/do_update.py" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/gateway/licu/do_update.py" />
       <jump line="14" column="1" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_on_KVM.15.1x/setup_vSRX.sh" />
+      <jump line="568" column="30" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_on_KVM.15.1x/build_kvm_int.py" />
+      <jump line="50" column="8" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_on_KVM.15.1x/build_kvm_int.py" />
+      <jump line="65" column="0" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_on_KVM.15.1x/build_kvm_int.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -989,7 +992,7 @@
         <text>&quot;</text>
       </register>
       <register name="/" type="4">
-        <text>build</text>
+        <text>init_stage</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyKGxpbmUsIG5vX3RzPVRydWUsIGVuZD0iIikK</text>
@@ -1026,9 +1029,9 @@
       </register>
     </registers>
     <search>
-      <last-search>build</last-search>
+      <last-search>init_stage</last-search>
       <last-offset />
-      <last-pattern>build</last-pattern>
+      <last-pattern>init_stage</last-pattern>
       <last-replace>CodeSimpleSchema</last-replace>
       <last-substitute>CodeSchema</last-substitute>
       <last-dir>1</last-dir>
@@ -1036,8 +1039,6 @@
     </search>
     <history>
       <history-search>
-        <entry>load</entry>
-        <entry>pprint</entry>
         <entry>log</entry>
         <entry>open</entry>
         <entry>LOG_FILE</entry>
@@ -1056,6 +1057,8 @@
         <entry encoding="base64">XDxydW5fcmVtb3RlX2NvbW1hbmRfb25fbm9kZVw+</entry>
         <entry>logger</entry>
         <entry>build</entry>
+        <entry>Check_For_Image</entry>
+        <entry>init_stage</entry>
       </history-search>
       <history-cmd>
         <entry>45</entry>
