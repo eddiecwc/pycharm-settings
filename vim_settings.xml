@@ -28,6 +28,7 @@
         <mark key="^" line="5" column="53" />
         <mark key="." line="5" column="53" />
       </file>
+      <file name="$USER_HOME$/projects/gateway/118-port-cpu-alloc/vSRX_xml_template_ha_big_SRIOV.j2" timestamp="1550880161757" />
       <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" timestamp="1527607428576">
         <mark key="'" line="33" column="7" />
         <mark key="[" line="431" column="68" />
@@ -163,6 +164,11 @@
         <mark key="." line="12" column="40" />
         <mark key="^" line="12" column="40" />
       </file>
+      <file name="$USER_HOME$/projects/gateway/118-port-cpu-alloc/vSRX_xml_template_sa.j2" timestamp="1550880900645">
+        <mark key="[" line="12" column="44" />
+        <mark key="]" line="12" column="45" />
+        <mark key="." line="12" column="45" />
+      </file>
       <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/app.py" timestamp="1526004576322">
         <mark key="'" line="102" column="52" />
         <mark key="[" line="46" column="27" />
@@ -213,6 +219,12 @@
         <mark key="]" line="17" column="10" />
         <mark key="^" line="17" column="10" />
         <mark key="." line="17" column="10" />
+      </file>
+      <file name="$USER_HOME$/projects/gateway/118-port-cpu-alloc/vSRX_xml_template_ha_SRIOV.j2" timestamp="1550880215533">
+        <mark key="[" line="9" column="70" />
+        <mark key="]" line="9" column="71" />
+        <mark key="." line="9" column="71" />
+        <mark key="^" line="11" column="45" />
       </file>
       <file name="$USER_HOME$/projects/gateway/licu/do-update" timestamp="1550640403777">
         <mark key="'" line="52" column="13" />
@@ -321,7 +333,7 @@
         <mark key="^" line="13" column="11" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/gateway/118-port-cpu-alloc/vSRX_xml_template_ha_SI_1_big.j2" timestamp="1550879263323" />
+      <file name="$USER_HOME$/projects/gateway/118-port-cpu-alloc/vSRX_xml_template_ha_SI_1_big.j2" timestamp="1550880026161" />
       <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/database.py" timestamp="1518384937012">
         <mark key="'" line="2" column="30" />
         <mark key="[" line="10" column="21" />
@@ -375,6 +387,7 @@
         <mark key="^" line="192" column="97" />
         <mark key="." line="295" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/gateway/118-port-cpu-alloc/vSRX_xml_template_ha_big.j2" timestamp="1550881834907" />
       <file name="$USER_HOME$/Sites/FlaskApp/templates/main.html" timestamp="1514248206422">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="23" />
@@ -386,6 +399,11 @@
         <mark key="]" line="16" column="0" />
         <mark key="^" line="15" column="11" />
         <mark key="." line="16" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/gateway/118-port-cpu-alloc/vSRX_xml_template_sa_SI_1.j2" timestamp="1550880931437">
+        <mark key="[" line="8" column="44" />
+        <mark key="]" line="8" column="45" />
+        <mark key="." line="8" column="45" />
       </file>
       <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/schemas/node_schema.py" timestamp="1526077070552">
         <mark key="'" line="12" column="40" />
@@ -635,6 +653,12 @@
       <file name="$USER_HOME$/projects/gateway/Juniper_vSRX_on_KVM.15.1x/setup_vSRX.sh" timestamp="1550860633274">
         <mark key="'" line="14" column="1" />
       </file>
+      <file name="$USER_HOME$/projects/gateway/118-port-cpu-alloc/vSRX_xml_template_sa_SRIOV.j2" timestamp="1550881412252">
+        <mark key="[" line="12" column="30" />
+        <mark key="]" line="12" column="30" />
+        <mark key="." line="12" column="30" />
+        <mark key="^" line="9" column="50" />
+      </file>
       <file name="$USER_HOME$/Sites/cap-underpants/check_status.py" timestamp="1517550583516">
         <mark key="[" line="64" column="0" />
         <mark key="]" line="66" column="3" />
@@ -819,9 +843,6 @@
         <mark key="^" line="12" column="11" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1532165506587">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/models/scan_command.py" timestamp="1533095390892">
         <mark key="[" line="52" column="3" />
         <mark key="]" line="55" column="0" />
@@ -879,10 +900,10 @@
         <mark key="^" line="0" column="74" />
         <mark key="." line="0" column="74" />
       </file>
-      <file name="$USER_HOME$/projects/gateway/118-port-cpu-alloc/vSRX_xml_template_ha.j2" timestamp="1550879229761">
-        <mark key="[" line="12" column="44" />
-        <mark key="]" line="12" column="45" />
-        <mark key="." line="12" column="45" />
+      <file name="$USER_HOME$/projects/gateway/118-port-cpu-alloc/vSRX_xml_template_ha.j2" timestamp="1550880856946">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
       </file>
       <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/mod_tester/tester.py" timestamp="1515837619326">
         <mark key="[" line="55" column="0" />
@@ -1009,10 +1030,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>2</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>2</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>XML_HA</text>
@@ -1023,29 +1044,29 @@
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">ICAgICAgICBuZXRkYXRhWydDUFUzJ10gPSBuQ1BVX2xpc3RbbGVuKG5DUFVfbGlzdCkgLSAzXQogICAgICAgIG5ldGRhdGFbJ0NQVTQnXSA9IG5DUFVfbGlzdFtsZW4obkNQVV9saXN0KSAtIDRdCiAgICAgICAgbmV0ZGF0YVsnQ1BVNSddID0gbkNQVV9saXN0W2xlbihuQ1BVX2xpc3QpIC0gNV0=</text>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="4">
+        <text encoding="base64">a2ogIDx2Y3B1IHBsYWNlbWVudD0nc3RhdGljJyBjcHVzZXQ9J3t7bmV0ZGF0YVsnQ1BVNiddfX0te3tuZXRkYXRhWydDUFU5J119fSc+NTwvdmNwdT4KICA8Y3B1dHVuZT4KICAgIDx2Y3B1cGluIHZjcHU9JzAnIGNwdXNldD0ne3tuZXRkYXRhWydDUFUxJ119fScvPgogICAgPHZjcHVwaW4gdmNwdT0nMScgY3B1c2V0PSd7e25ldGRhdGFbJ0NQVTInXX19Jy8+CiAgICA8dmNwdXBpbiB2Y3B1PScyJyBjcHVzZXQ9J3t7bmV0ZGF0YVsnQ1BVMyddfX0nLz4KICAgIDx2Y3B1cGluIHZjcHU9JzMnIGNwdXNldD0ne3tuZXRkYXRhWydDUFU0J119fScvPgogICAgPHZjcHVwaW4gdmNwdT0nNCcgY3B1c2V0PSd7e25ldGRhdGFbJ0NQVTUnXX19Jy8+CiAgPC9jcHV0dW5lPg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="4">
+        <text encoding="base64">ICAgICAgICBuZXRkYXRhWydDUFUzJ10gPSBuQ1BVX2xpc3RbbGVuKG5DUFVfbGlzdCkgLSAzXQogICAgICAgIG5ldGRhdGFbJ0NQVTQnXSA9IG5DUFVfbGlzdFtsZW4obkNQVV9saXN0KSAtIDRdCiAgICAgICAgbmV0ZGF0YVsnQ1BVNSddID0gbkNQVV9saXN0W2xlbihuQ1BVX2xpc3QpIC0gNV0=</text>
+      </register>
+      <register name="6" type="4">
         <text encoding="base64">ICAgIG5ldGRhdGFbJ0NQVTEnXSA9IG5DUFVfbGlzdFtsZW4obkNQVV9saXN0KSAtIDFdCiAgICBuZXRkYXRhWydDUFUyJ10gPSBuQ1BVX2xpc3RbbGVuKG5DUFVfbGlzdCkgLSAyXQog</text>
       </register>
-      <register name="4" type="4">
+      <register name="7" type="4">
         <text encoding="base64">ICAgICAgICBuZXRkYXRhWydDUFUzJ10gPSBuQ1BVX2xpc3RbbGVuKG5DUFVfbGlzdCkgLSAzXQogICAgICAgIG5ldGRhdGFbJ0NQVTQnXSA9IG5DUFVfbGlzdFtsZW4obkNQVV9saXN0KSAtIDRdCiAgICAgICAgbmV0ZGF0YVsnQ1BVNSddID0gbkNQVV9saXN0W2xlbihuQ1BVX2xpc3QpIC0gNV0K</text>
       </register>
-      <register name="5" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgIG5ldGRhdGFbJ0NQVTInXSA9IG5DUFVfbGlzdFtsZW4obkNQVV9saXN0KSAtIDJdCg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIG5ldGRhdGFbJ0NQVTEnXSA9IG5DUFVfbGlzdFtsZW4obkNQVV9saXN0KSAtIDFdCg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICMgU3RhcnQgYm90aCBub2Rlcwo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIG5ldGRhdGFbJ0NQVTEnXSA9IG5DUFVfbGlzdFtsZW4obkNQVV9saXN0KSAtIDFdCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -1094,7 +1115,6 @@
         <entry>q</entry>
         <entry>40</entry>
         <entry>181</entry>
-        <entry>wq</entry>
         <entry>53</entry>
         <entry>79</entry>
         <entry>89</entry>
@@ -1102,8 +1122,9 @@
         <entry>195</entry>
         <entry>830</entry>
         <entry>$</entry>
-        <entry>w</entry>
         <entry>0</entry>
+        <entry>wq</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
