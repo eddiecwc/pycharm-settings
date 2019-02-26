@@ -380,12 +380,12 @@
         <mark key="^" line="4" column="20" />
         <mark key="." line="4" column="20" />
       </file>
-      <file name="$USER_HOME$/projects/gateway/licu/do_update.py" timestamp="1550850454577">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="295" column="0" />
-        <mark key="]" line="295" column="0" />
-        <mark key="^" line="192" column="97" />
-        <mark key="." line="295" column="0" />
+      <file name="$USER_HOME$/projects/gateway/licu/do_update.py" timestamp="1551188480177">
+        <mark key="'" line="200" column="70" />
+        <mark key="[" line="274" column="45" />
+        <mark key="]" line="275" column="3" />
+        <mark key="." line="275" column="3" />
+        <mark key="^" line="275" column="3" />
       </file>
       <file name="$USER_HOME$/projects/gateway/118-port-cpu-alloc/vSRX_xml_template_ha_big.j2" timestamp="1550910187892" />
       <file name="$USER_HOME$/Sites/FlaskApp/templates/main.html" timestamp="1514248206422">
@@ -933,14 +933,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="43" column="65" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/utilities.py" />
-      <jump line="530" column="39" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/tasks.py" />
-      <jump line="718" column="17" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/tasks.py" />
-      <jump line="15" column="82" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/tasks.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/tasks.py" />
-      <jump line="12" column="40" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/schemas/node_schema.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/conf/app_config.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/api/api-doc.md" />
       <jump line="20" column="44" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/api/api-doc.md" />
       <jump line="35" column="44" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/api/api-doc.md" />
       <jump line="145" column="44" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/api/api-doc.md" />
@@ -990,7 +982,6 @@
       <jump line="140" column="9" filename="$USER_HOME$/projects/gateway/licu/do_update.py" />
       <jump line="147" column="28" filename="$USER_HOME$/projects/gateway/licu/do_update.py" />
       <jump line="149" column="23" filename="$USER_HOME$/projects/gateway/licu/do_update.py" />
-      <jump line="160" column="23" filename="$USER_HOME$/projects/gateway/licu/do_update.py" />
       <jump line="167" column="23" filename="$USER_HOME$/projects/gateway/licu/do_update.py" />
       <jump line="168" column="13" filename="$USER_HOME$/projects/gateway/licu/do_update.py" />
       <jump line="53" column="17" filename="$USER_HOME$/projects/gateway/licu/do_update.py" />
@@ -1016,7 +1007,6 @@
       <jump line="6" column="0" filename="$USER_HOME$/projects/gateway/licu/vsrx-skip-licu-dev/modified_vsrx_upgrade.py" />
       <jump line="8" column="10" filename="$USER_HOME$/projects/gateway/licu/do_update.py" />
       <jump line="238" column="12" filename="$USER_HOME$/projects/gateway/licu/do_update.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/projects/gateway/licu/do_update.py" />
       <jump line="14" column="1" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_on_KVM.15.1x/setup_vSRX.sh" />
       <jump line="568" column="30" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_on_KVM.15.1x/build_kvm_int.py" />
       <jump line="50" column="8" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_on_KVM.15.1x/build_kvm_int.py" />
@@ -1033,55 +1023,65 @@
       <jump line="801" column="65" filename="$USER_HOME$/projects/gateway/118-port-cpu-alloc/Build_vSRX.py" />
       <jump line="689" column="13" filename="$USER_HOME$/projects/gateway/118-port-cpu-alloc/Build_vSRX.py" />
       <jump line="636" column="69" filename="$USER_HOME$/projects/gateway/118-port-cpu-alloc/Build_vSRX.py" />
+      <jump line="176" column="7" filename="$USER_HOME$/projects/gateway/licu/do_update.py" />
+      <jump line="210" column="8" filename="$USER_HOME$/projects/gateway/licu/do_update.py" />
+      <jump line="179" column="70" filename="$USER_HOME$/projects/gateway/licu/do_update.py" />
+      <jump line="37" column="4" filename="$USER_HOME$/projects/gateway/licu/do_update.py" />
+      <jump line="160" column="16" filename="$USER_HOME$/projects/gateway/licu/do_update.py" />
+      <jump line="323" column="6" filename="$USER_HOME$/projects/gateway/licu/do_update.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/gateway/licu/do_update.py" />
+      <jump line="193" column="0" filename="$USER_HOME$/projects/gateway/licu/do_update.py" />
+      <jump line="195" column="16" filename="$USER_HOME$/projects/gateway/licu/do_update.py" />
+      <jump line="200" column="70" filename="$USER_HOME$/projects/gateway/licu/do_update.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">CQk=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICMgCg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">CQk=</text>
+        <text>pre</text>
       </register>
       <register name="/" type="4">
-        <text>XML_HA</text>
+        <text>node</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyKGxpbmUsIG5vX3RzPVRydWUsIGVuZD0iIikK</text>
+      <register name="0" type="4">
+        <text encoding="base64">ZGVmIHJ1bl9wcmVfdXBncmFkZV90YXNrcygpOgogICAgIiIiCiAgICBSdW4gcHJlLXVwZ3JhZGUgdGFza3MKICAgIDpyZXR1cm46CiAgICAiIiIKCiAgICBiYW5uZXIoIlJ1bm5pbmcgcHJlLXVwZ3JhZGUgdGFza3MiKQoKICAgICMgc2hvdyBjbHVzdGVyIHN0YXR1cwogICAgbm9kZV9zdHIgPSBnZXRfbm9kZV9kaXNwbGF5KDIpCiAgICBjbWQgPSAiY2xpIHNob3cgY2hhc3NpcyBjbHVzdGVyIHN0YXR1cyIKICAgIGNoZWNrX2Vycm9yKHJ1bl9yZW1vdGVfY29tbWFuZF9vbl9ub2RlKDIsIGNtZCksICJSZW1vdGUgY29tbWFuZCBmYWlsZWQgZm9yIG5vZGUge30sIGNvbW1hbmQge30iLgogICAgICAgICAgICAgICAgZm9ybWF0KG5vZGVfc3RyLCBjbWQpKQogICA=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICMgCg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">a2ogIDx2Y3B1IHBsYWNlbWVudD0nc3RhdGljJyBjcHVzZXQ9J3t7bmV0ZGF0YVsnQ1BVNiddfX0te3tuZXRkYXRhWydDUFU5J119fSc+NTwvdmNwdT4KICA8Y3B1dHVuZT4KICAgIDx2Y3B1cGluIHZjcHU9JzAnIGNwdXNldD0ne3tuZXRkYXRhWydDUFUxJ119fScvPgogICAgPHZjcHVwaW4gdmNwdT0nMScgY3B1c2V0PSd7e25ldGRhdGFbJ0NQVTInXX19Jy8+CiAgICA8dmNwdXBpbiB2Y3B1PScyJyBjcHVzZXQ9J3t7bmV0ZGF0YVsnQ1BVMyddfX0nLz4KICAgIDx2Y3B1cGluIHZjcHU9JzMnIGNwdXNldD0ne3tuZXRkYXRhWydDUFU0J119fScvPgogICAgPHZjcHVwaW4gdmNwdT0nNCcgY3B1c2V0PSd7e25ldGRhdGFbJ0NQVTUnXX19Jy8+CiAgPC9jcHV0dW5lPg==</text>
+      <register name="3" type="2">
+        <text encoding="base64">ZGVmICAgIAo=</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBub2RlID0geydpcCc6IGd3WydpcCddLCAncHcnOiBnd1sncHcnXSwgJ25hbWUnOiBnd1snbmFtZSddfSAgICAK</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">ICAgICAgICBuZXRkYXRhWydDUFUzJ10gPSBuQ1BVX2xpc3RbbGVuKG5DUFVfbGlzdCkgLSAzXQogICAgICAgIG5ldGRhdGFbJ0NQVTQnXSA9IG5DUFVfbGlzdFtsZW4obkNQVV9saXN0KSAtIDRdCiAgICAgICAgbmV0ZGF0YVsnQ1BVNSddID0gbkNQVV9saXN0W2xlbihuQ1BVX2xpc3QpIC0gNV0=</text>
-      </register>
-      <register name="6" type="4">
-        <text encoding="base64">ICAgIG5ldGRhdGFbJ0NQVTEnXSA9IG5DUFVfbGlzdFtsZW4obkNQVV9saXN0KSAtIDFdCiAgICBuZXRkYXRhWydDUFUyJ10gPSBuQ1BVX2xpc3RbbGVuKG5DUFVfbGlzdCkgLSAyXQog</text>
-      </register>
-      <register name="7" type="4">
-        <text encoding="base64">ICAgICAgICBuZXRkYXRhWydDUFUzJ10gPSBuQ1BVX2xpc3RbbGVuKG5DUFVfbGlzdCkgLSAzXQogICAgICAgIG5ldGRhdGFbJ0NQVTQnXSA9IG5DUFVfbGlzdFtsZW4obkNQVV9saXN0KSAtIDRdCiAgICAgICAgbmV0ZGF0YVsnQ1BVNSddID0gbkNQVV9saXN0W2xlbihuQ1BVX2xpc3QpIC0gNV0K</text>
-      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIG5ldGRhdGFbJ0NQVTInXSA9IG5DUFVfbGlzdFtsZW4obkNQVV9saXN0KSAtIDJdCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIG5ldGRhdGFbJ0NQVTEnXSA9IG5DUFVfbGlzdFtsZW4obkNQVV9saXN0KSAtIDFdCg==</text>
+        <text encoding="base64">ICAgICMgc2V0IG5vZGVbM10gICAgICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>XML_HA</last-search>
+      <last-search>node</last-search>
       <last-offset />
-      <last-pattern>XML_HA</last-pattern>
+      <last-pattern>node</last-pattern>
       <last-replace>CodeSimpleSchema</last-replace>
       <last-substitute>CodeSchema</last-substitute>
       <last-dir>1</last-dir>
@@ -1089,15 +1089,6 @@
     </search>
     <history>
       <history-search>
-        <entry>paramiko</entry>
-        <entry>datetime</entry>
-        <entry>date</entry>
-        <entry>gw</entry>
-        <entry>disconnect</entry>
-        <entry>ssh</entry>
-        <entry>banner</entry>
-        <entry>param</entry>
-        <entry>modify</entry>
         <entry>sleep</entry>
         <entry encoding="base64">XDxydW5fcmVtb3RlX2NvbW1hbmRfb25fbm9kZVw+</entry>
         <entry>logger</entry>
@@ -1109,6 +1100,15 @@
         <entry>Generate_vSRX_XML_HA</entry>
         <entry>cpu_set</entry>
         <entry>XML_HA</entry>
+        <entry>load_gate</entry>
+        <entry>cluster_ip</entry>
+        <entry>load_g</entry>
+        <entry>run_pre</entry>
+        <entry>run_remote</entry>
+        <entry>load_ga</entry>
+        <entry>get_node</entry>
+        <entry>get_node_dis</entry>
+        <entry>node</entry>
       </history-search>
       <history-cmd>
         <entry>45</entry>
@@ -1127,9 +1127,9 @@
         <entry>119</entry>
         <entry>195</entry>
         <entry>830</entry>
+        <entry>wq</entry>
         <entry>$</entry>
         <entry>0</entry>
-        <entry>wq</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
