@@ -499,6 +499,13 @@
         <mark key="^" line="25" column="37" />
         <mark key="." line="27" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/gateway/Juniper_vSRX_on_KVM/build_kvm_int.py" timestamp="1551250639177">
+        <mark key="'" line="192" column="0" />
+        <mark key="[" line="587" column="0" />
+        <mark key="]" line="587" column="0" />
+        <mark key="^" line="35" column="3" />
+        <mark key="." line="587" column="0" />
+      </file>
       <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/schemas/__init__.py" timestamp="1525932487574">
         <mark key="[" line="6" column="41" />
         <mark key="]" line="6" column="59" />
@@ -934,9 +941,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="44" column="38" filename="$USER_HOME$/projects/gateway/licu/vsrx-skip-licu-dev/srx-licu.py" />
-      <jump line="221" column="94" filename="$USER_HOME$/projects/gateway/licu/vsrx-skip-licu-dev/srx-licu.py" />
-      <jump line="232" column="24" filename="$USER_HOME$/projects/gateway/licu/vsrx-skip-licu-dev/srx-licu.py" />
       <jump line="244" column="48" filename="$USER_HOME$/projects/gateway/licu/vsrx-skip-licu-dev/srx-licu.py" />
       <jump line="303" column="42" filename="$USER_HOME$/projects/gateway/licu/vsrx-skip-licu-dev/srx-licu.py" />
       <jump line="330" column="100" filename="$USER_HOME$/projects/gateway/licu/vsrx-skip-licu-dev/srx-licu.py" />
@@ -1034,13 +1038,16 @@
       <jump line="1791" column="0" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_on_KVM/Build_vSRX.py" />
       <jump line="1906" column="49" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_on_KVM/Build_vSRX.py" />
       <jump line="1908" column="12" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_on_KVM/Build_vSRX.py" />
+      <jump line="42" column="32" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_on_KVM/build_kvm_int.py" />
+      <jump line="46" column="7" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_on_KVM/build_kvm_int.py" />
+      <jump line="192" column="0" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_on_KVM/build_kvm_int.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICMgCg==</text>
+        <text encoding="base64">ICAgIGJyMV9wcmVzID0gTm9uZQo=</text>
       </register>
       <register name="-" type="4">
-        <text>pre</text>
+        <text encoding="base64">ICAgICAgICAJ</text>
       </register>
       <register name="/" type="4">
         <text>def Write_To</text>
@@ -1049,34 +1056,34 @@
         <text encoding="base64">ZGVmIHJ1bl9wcmVfdXBncmFkZV90YXNrcygpOgogICAgIiIiCiAgICBSdW4gcHJlLXVwZ3JhZGUgdGFza3MKICAgIDpyZXR1cm46CiAgICAiIiIKCiAgICBiYW5uZXIoIlJ1bm5pbmcgcHJlLXVwZ3JhZGUgdGFza3MiKQoKICAgICMgc2hvdyBjbHVzdGVyIHN0YXR1cwogICAgbm9kZV9zdHIgPSBnZXRfbm9kZV9kaXNwbGF5KDIpCiAgICBjbWQgPSAiY2xpIHNob3cgY2hhc3NpcyBjbHVzdGVyIHN0YXR1cyIKICAgIGNoZWNrX2Vycm9yKHJ1bl9yZW1vdGVfY29tbWFuZF9vbl9ub2RlKDIsIGNtZCksICJSZW1vdGUgY29tbWFuZCBmYWlsZWQgZm9yIG5vZGUge30sIGNvbW1hbmQge30iLgogICAgICAgICAgICAgICAgZm9ybWF0KG5vZGVfc3RyLCBjbWQpKQogICA=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICMgCg==</text>
+        <text encoding="base64">ICAgIGJyMV9wcmVzID0gTm9uZQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGJyMV9wcmVzID0gTm9uZQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZGVmICAgIAo=</text>
+        <text encoding="base64">ICAgIGJyMV9wcmVzID0gTm9uZQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICMgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBub2RlID0geydpcCc6IGd3WydpcCddLCAncHcnOiBnd1sncHcnXSwgJ25hbWUnOiBnd1snbmFtZSddfSAgICAK</text>
+        <text encoding="base64">ZGVmICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICMgc2V0IG5vZGVbM10gICAgICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBub2RlID0geydpcCc6IGd3WydpcCddLCAncHcnOiBnd1sncHcnXSwgJ25hbWUnOiBnd1snbmFtZSddfSAgICAK</text>
       </register>
       <register name=":" type="4">
-        <text>q</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -1090,7 +1097,6 @@
     </search>
     <history>
       <history-search>
-        <entry>cluster_ip</entry>
         <entry>load_g</entry>
         <entry>run_pre</entry>
         <entry>run_remote</entry>
@@ -1109,6 +1115,7 @@
         <entry>conf_ssh</entry>
         <entry>push_config</entry>
         <entry>Write_To_Log</entry>
+        <entry>Check_For_Image</entry>
         <entry>def Write_To</entry>
       </history-search>
       <history-cmd>
@@ -1129,9 +1136,9 @@
         <entry>830</entry>
         <entry>wq</entry>
         <entry>$</entry>
-        <entry>w</entry>
         <entry>0</entry>
         <entry>q</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
