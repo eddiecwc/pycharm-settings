@@ -521,8 +521,8 @@
         <mark key="^" line="25" column="37" />
         <mark key="." line="27" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/gateway/Juniper_vSRX_on_KVM/build_kvm_int.py" timestamp="1551250639177">
-        <mark key="'" line="192" column="0" />
+      <file name="$USER_HOME$/projects/gateway/Juniper_vSRX_on_KVM/build_kvm_int.py" timestamp="1551304010993">
+        <mark key="'" line="1076" column="13" />
         <mark key="[" line="587" column="0" />
         <mark key="]" line="587" column="0" />
         <mark key="^" line="35" column="3" />
@@ -962,7 +962,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/projects/gateway/118-port-cpu-alloc/Build_vSRX.py" />
       <jump line="62" column="12" filename="$USER_HOME$/projects/gateway/118-port-cpu-alloc/Build_vSRX.py" />
       <jump line="73" column="74" filename="$USER_HOME$/projects/gateway/118-port-cpu-alloc/Build_vSRX.py" />
       <jump line="75" column="70" filename="$USER_HOME$/projects/gateway/118-port-cpu-alloc/Build_vSRX.py" />
@@ -1062,6 +1061,7 @@
       <jump line="1090" column="17" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_on_KVM/Build_vSRX.py" />
       <jump line="1123" column="22" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_on_KVM/Build_vSRX.py" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_on_KVM/Build_vSRX.py" />
+      <jump line="1076" column="13" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_on_KVM/build_kvm_int.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1071,7 +1071,7 @@
         <text>0</text>
       </register>
       <register name="/" type="4">
-        <text>1200</text>
+        <text>netdata</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">ZGVmIHJ1bl9wcmVfdXBncmFkZV90YXNrcygpOgogICAgIiIiCiAgICBSdW4gcHJlLXVwZ3JhZGUgdGFza3MKICAgIDpyZXR1cm46CiAgICAiIiIKCiAgICBiYW5uZXIoIlJ1bm5pbmcgcHJlLXVwZ3JhZGUgdGFza3MiKQoKICAgICMgc2hvdyBjbHVzdGVyIHN0YXR1cwogICAgbm9kZV9zdHIgPSBnZXRfbm9kZV9kaXNwbGF5KDIpCiAgICBjbWQgPSAiY2xpIHNob3cgY2hhc3NpcyBjbHVzdGVyIHN0YXR1cyIKICAgIGNoZWNrX2Vycm9yKHJ1bl9yZW1vdGVfY29tbWFuZF9vbl9ub2RlKDIsIGNtZCksICJSZW1vdGUgY29tbWFuZCBmYWlsZWQgZm9yIG5vZGUge30sIGNvbW1hbmQge30iLgogICAgICAgICAgICAgICAgZm9ybWF0KG5vZGVfc3RyLCBjbWQpKQogICA=</text>
@@ -1108,9 +1108,9 @@
       </register>
     </registers>
     <search>
-      <last-search>1200</last-search>
+      <last-search>netdata</last-search>
       <last-offset />
-      <last-pattern>1200</last-pattern>
+      <last-pattern>netdata</last-pattern>
       <last-replace>CodeSimpleSchema</last-replace>
       <last-substitute>CodeSchema</last-substitute>
       <last-dir>1</last-dir>
@@ -1118,8 +1118,6 @@
     </search>
     <history>
       <history-search>
-        <entry>quick</entry>
-        <entry>post_build_hc</entry>
         <entry>conf_ssh</entry>
         <entry>push_config</entry>
         <entry>Write_To_Log</entry>
@@ -1138,9 +1136,10 @@
         <entry>Rebuild</entry>
         <entry>120</entry>
         <entry>1200</entry>
+        <entry>lscpu</entry>
+        <entry>netdata</entry>
       </history-search>
       <history-cmd>
-        <entry>45</entry>
         <entry encoding="base64">dyA=</entry>
         <entry encoding="base64">JzwsJz5zL2RiLkNvbHVtbihkYi5JbnRlZ2VyLCBkYi5Gb3JlaWduS2V5KCdjb2Rlcy5pZCcpKS9maWVsZHMuSW50KGxvYWRfb25seT1UcnVlKS9n</entry>
         <entry encoding="base64">JzwsJz5zL2RiLnJlbGF0aW9uc2hpcC4qL2ZpZWxkcy5OZXN0ZWQoQ29kZVNjaGVtYSwgZHVtcF9vbmx5PVRydWUsIGV4Y2x1ZGU9KCdpbnN0YWxscycsKSkvZw==</entry>
@@ -1158,8 +1157,9 @@
         <entry>wq</entry>
         <entry>q</entry>
         <entry>$</entry>
-        <entry>0</entry>
         <entry>w</entry>
+        <entry>0-</entry>
+        <entry>0</entry>
       </history-cmd>
       <history-expr />
       <history-input />
