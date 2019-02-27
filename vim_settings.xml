@@ -260,6 +260,13 @@
         <mark key="." line="68" column="47" />
         <mark key="^" line="68" column="47" />
       </file>
+      <file name="$USER_HOME$/projects/gateway/Juniper_vSRX_on_KVM/Build_vSRX.py" timestamp="1551249733063">
+        <mark key="'" line="1908" column="12" />
+        <mark key="[" line="457" column="36" />
+        <mark key="]" line="458" column="3" />
+        <mark key="^" line="458" column="3" />
+        <mark key="." line="458" column="3" />
+      </file>
       <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/utilities.py" timestamp="1526022588142">
         <mark key="'" line="39" column="65" />
         <mark key="[" line="179" column="0" />
@@ -927,17 +934,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="20" column="44" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/api/api-doc.md" />
-      <jump line="35" column="44" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/api/api-doc.md" />
-      <jump line="145" column="44" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/api/api-doc.md" />
-      <jump line="41" column="0" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/api/api-doc.md" />
-      <jump line="3" column="39" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/api/api-doc.md" />
-      <jump line="5" column="25" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/api/api-doc.md" />
-      <jump line="9" column="30" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/api/api-doc.md" />
-      <jump line="222" column="13" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/api/api-doc.md" />
-      <jump line="233" column="0" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/api/api-doc.md" />
-      <jump line="8" column="9" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/api/api-doc.md" />
-      <jump line="10" column="29" filename="$USER_HOME$/Sites/ESS-Monitor/monitor/api/api-doc.md" />
       <jump line="44" column="38" filename="$USER_HOME$/projects/gateway/licu/vsrx-skip-licu-dev/srx-licu.py" />
       <jump line="221" column="94" filename="$USER_HOME$/projects/gateway/licu/vsrx-skip-licu-dev/srx-licu.py" />
       <jump line="232" column="24" filename="$USER_HOME$/projects/gateway/licu/vsrx-skip-licu-dev/srx-licu.py" />
@@ -1027,6 +1023,17 @@
       <jump line="193" column="0" filename="$USER_HOME$/projects/gateway/licu/do_update.py" />
       <jump line="195" column="16" filename="$USER_HOME$/projects/gateway/licu/do_update.py" />
       <jump line="200" column="70" filename="$USER_HOME$/projects/gateway/licu/do_update.py" />
+      <jump line="62" column="41" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_on_KVM/Build_vSRX.py" />
+      <jump line="474" column="36" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_on_KVM/Build_vSRX.py" />
+      <jump line="667" column="20" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_on_KVM/Build_vSRX.py" />
+      <jump line="739" column="4" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_on_KVM/Build_vSRX.py" />
+      <jump line="1017" column="8" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_on_KVM/Build_vSRX.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_on_KVM/Build_vSRX.py" />
+      <jump line="135" column="8" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_on_KVM/Build_vSRX.py" />
+      <jump line="1680" column="35" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_on_KVM/Build_vSRX.py" />
+      <jump line="1791" column="0" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_on_KVM/Build_vSRX.py" />
+      <jump line="1906" column="49" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_on_KVM/Build_vSRX.py" />
+      <jump line="1908" column="12" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_on_KVM/Build_vSRX.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -1036,7 +1043,7 @@
         <text>pre</text>
       </register>
       <register name="/" type="4">
-        <text>node</text>
+        <text>def Write_To</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">ZGVmIHJ1bl9wcmVfdXBncmFkZV90YXNrcygpOgogICAgIiIiCiAgICBSdW4gcHJlLXVwZ3JhZGUgdGFza3MKICAgIDpyZXR1cm46CiAgICAiIiIKCiAgICBiYW5uZXIoIlJ1bm5pbmcgcHJlLXVwZ3JhZGUgdGFza3MiKQoKICAgICMgc2hvdyBjbHVzdGVyIHN0YXR1cwogICAgbm9kZV9zdHIgPSBnZXRfbm9kZV9kaXNwbGF5KDIpCiAgICBjbWQgPSAiY2xpIHNob3cgY2hhc3NpcyBjbHVzdGVyIHN0YXR1cyIKICAgIGNoZWNrX2Vycm9yKHJ1bl9yZW1vdGVfY29tbWFuZF9vbl9ub2RlKDIsIGNtZCksICJSZW1vdGUgY29tbWFuZCBmYWlsZWQgZm9yIG5vZGUge30sIGNvbW1hbmQge30iLgogICAgICAgICAgICAgICAgZm9ybWF0KG5vZGVfc3RyLCBjbWQpKQogICA=</text>
@@ -1069,13 +1076,13 @@
         <text encoding="base64">ICAgICMgc2V0IG5vZGVbM10gICAgICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
-      <last-search>node</last-search>
+      <last-search>def Write_To</last-search>
       <last-offset />
-      <last-pattern>node</last-pattern>
+      <last-pattern>def Write_To</last-pattern>
       <last-replace>CodeSimpleSchema</last-replace>
       <last-substitute>CodeSchema</last-substitute>
       <last-dir>1</last-dir>
@@ -1083,18 +1090,6 @@
     </search>
     <history>
       <history-search>
-        <entry>sleep</entry>
-        <entry encoding="base64">XDxydW5fcmVtb3RlX2NvbW1hbmRfb25fbm9kZVw+</entry>
-        <entry>logger</entry>
-        <entry>build</entry>
-        <entry>Check_For_Image</entry>
-        <entry>init_stage</entry>
-        <entry>check_cpu_count</entry>
-        <entry>Check_cpu_count</entry>
-        <entry>Generate_vSRX_XML_HA</entry>
-        <entry>cpu_set</entry>
-        <entry>XML_HA</entry>
-        <entry>load_gate</entry>
         <entry>cluster_ip</entry>
         <entry>load_g</entry>
         <entry>run_pre</entry>
@@ -1103,6 +1098,18 @@
         <entry>get_node</entry>
         <entry>get_node_dis</entry>
         <entry>node</entry>
+        <entry>Return_Route_List</entry>
+        <entry>VMDisk</entry>
+        <entry>VM_Disk</entry>
+        <entry>Generate_vSRX_Conf_HA</entry>
+        <entry>Launch</entry>
+        <entry>quick_post</entry>
+        <entry>quick</entry>
+        <entry>post_build_hc</entry>
+        <entry>conf_ssh</entry>
+        <entry>push_config</entry>
+        <entry>Write_To_Log</entry>
+        <entry>def Write_To</entry>
       </history-search>
       <history-cmd>
         <entry>45</entry>
@@ -1112,7 +1119,6 @@
         <entry encoding="base64">JzwsJz5zL0NvZGVTY2hlbWEvQ29kZVNpbXBsZVNjaGVtYS9n</entry>
         <entry>19</entry>
         <entry>qw</entry>
-        <entry>q</entry>
         <entry>40</entry>
         <entry>181</entry>
         <entry>53</entry>
@@ -1123,8 +1129,9 @@
         <entry>830</entry>
         <entry>wq</entry>
         <entry>$</entry>
-        <entry>0</entry>
         <entry>w</entry>
+        <entry>0</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
