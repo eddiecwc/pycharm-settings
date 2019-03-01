@@ -226,8 +226,8 @@
         <mark key="^" line="55" column="7" />
         <mark key="." line="55" column="7" />
       </file>
-      <file name="$USER_HOME$/projects/gateway/licu/vsrx-skip-licu-dev/srx-licu.py" timestamp="1550651298308">
-        <mark key="'" line="0" column="0" />
+      <file name="$USER_HOME$/projects/gateway/licu/vsrx-skip-licu-dev/srx-licu.py" timestamp="1551458187549">
+        <mark key="'" line="10" column="35" />
         <mark key="[" line="17" column="11" />
         <mark key="]" line="17" column="10" />
         <mark key="^" line="17" column="10" />
@@ -270,8 +270,8 @@
         <mark key="." line="68" column="47" />
         <mark key="^" line="68" column="47" />
       </file>
-      <file name="$USER_HOME$/projects/gateway/Juniper_vSRX_on_KVM/Build_vSRX.py" timestamp="1551418934538">
-        <mark key="'" line="43" column="0" />
+      <file name="$USER_HOME$/projects/gateway/Juniper_vSRX_on_KVM/Build_vSRX.py" timestamp="1551458711890">
+        <mark key="'" line="327" column="16" />
         <mark key="[" line="467" column="32" />
         <mark key="]" line="467" column="38" />
         <mark key="^" line="467" column="38" />
@@ -977,9 +977,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="192" column="0" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_on_KVM/build_kvm_int.py" />
-      <jump line="71" column="27" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_on_KVM/vSRX_conf_template_ha.j2" />
-      <jump line="0" column="0" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_on_KVM/vSRX_conf_template_ha_ncv.j2" />
       <jump line="17" column="4" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_on_KVM/vSRX_conf_template_ha_no_pub.j2" />
       <jump line="34" column="11" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_on_KVM/vSRX_conf_template_ha_no_pub.j2" />
       <jump line="33" column="20" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_on_KVM/vSRX_conf_template_ha_no_pub_ncv.j2" />
@@ -1077,6 +1074,9 @@
       <jump line="976" column="0" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_on_KVM/build_kvm_int.py" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_on_KVM/init_kvm_int.py" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_on_KVM/setup_vSRX.sh" />
+      <jump line="10" column="35" filename="$USER_HOME$/projects/gateway/licu/vsrx-skip-licu-dev/srx-licu.py" />
+      <jump line="2016" column="17" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_on_KVM/Build_vSRX.py" />
+      <jump line="327" column="16" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_on_KVM/Build_vSRX.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1086,7 +1086,7 @@
         <text encoding="base64">d2l0aCA=</text>
       </register>
       <register name="/" type="4">
-        <text>Build Succeed</text>
+        <text>collect_vf_info</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBXcml0ZV9Ub19Mb2coc3VicHJvY2Vzcy5jaGVja19vdXRwdXQoCiAgICAgICAgICAgIFsic3VkbyIsICJyb3V0ZSIsICJhZGQiLCAiLW5ldCIsICIxMC4wLjAuMC84IiwgImd3Iiwgcm91dGVbJ2JyMGd3J11dKSkK</text>
@@ -1123,9 +1123,9 @@
       </register>
     </registers>
     <search>
-      <last-search>Build Succeed</last-search>
+      <last-search>collect_vf_info</last-search>
       <last-offset />
-      <last-pattern>Build Succeed</last-pattern>
+      <last-pattern>collect_vf_info</last-pattern>
       <last-replace>CodeSimpleSchema</last-replace>
       <last-substitute>CodeSchema</last-substitute>
       <last-dir>1</last-dir>
@@ -1133,15 +1133,11 @@
     </search>
     <history>
       <history-search>
-        <entry>n</entry>
-        <entry>Rebuild</entry>
-        <entry>120</entry>
         <entry>1200</entry>
         <entry>lscpu</entry>
         <entry>netdata</entry>
         <entry>Return_Route</entry>
         <entry>push_coinfig</entry>
-        <entry>push_config</entry>
         <entry>Write_Log</entry>
         <entry>BuildvSRX.log</entry>
         <entry>Setup_Folders</entry>
@@ -1153,6 +1149,10 @@
         <entry>mkdir $log_dir</entry>
         <entry>mkdir</entry>
         <entry>Build Succeed</entry>
+        <entry>push_config</entry>
+        <entry>load</entry>
+        <entry>vf</entry>
+        <entry>collect_vf_info</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2RiLkNvbHVtbihkYi5JbnRlZ2VyLCBkYi5Gb3JlaWduS2V5KCdjb2Rlcy5pZCcpKS9maWVsZHMuSW50KGxvYWRfb25seT1UcnVlKS9n</entry>
