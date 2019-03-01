@@ -270,12 +270,12 @@
         <mark key="." line="68" column="47" />
         <mark key="^" line="68" column="47" />
       </file>
-      <file name="$USER_HOME$/projects/gateway/Juniper_vSRX_on_KVM/Build_vSRX.py" timestamp="1551458711890">
-        <mark key="'" line="327" column="16" />
-        <mark key="[" line="467" column="32" />
-        <mark key="]" line="467" column="38" />
-        <mark key="^" line="467" column="38" />
-        <mark key="." line="467" column="38" />
+      <file name="$USER_HOME$/projects/gateway/Juniper_vSRX_on_KVM/Build_vSRX.py" timestamp="1551459341654">
+        <mark key="'" line="1420" column="22" />
+        <mark key="[" line="959" column="22" />
+        <mark key="]" line="960" column="24" />
+        <mark key="^" line="960" column="24" />
+        <mark key="." line="960" column="24" />
       </file>
       <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/utilities.py" timestamp="1526022588142">
         <mark key="'" line="39" column="65" />
@@ -406,12 +406,12 @@
         <mark key="^" line="4" column="20" />
         <mark key="." line="4" column="20" />
       </file>
-      <file name="$USER_HOME$/projects/gateway/licu/do_update.py" timestamp="1551188480177">
-        <mark key="'" line="200" column="70" />
-        <mark key="[" line="274" column="45" />
-        <mark key="]" line="275" column="3" />
-        <mark key="." line="275" column="3" />
-        <mark key="^" line="275" column="3" />
+      <file name="$USER_HOME$/projects/gateway/licu/do_update.py" timestamp="1551459305521">
+        <mark key="'" line="52" column="0" />
+        <mark key="[" line="78" column="0" />
+        <mark key="]" line="106" column="22" />
+        <mark key="." line="184" column="65" />
+        <mark key="^" line="184" column="65" />
       </file>
       <file name="$USER_HOME$/projects/gateway/118-port-cpu-alloc/vSRX_xml_template_ha_big.j2" timestamp="1550910187892" />
       <file name="$USER_HOME$/Sites/FlaskApp/templates/main.html" timestamp="1514248206422">
@@ -977,11 +977,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="17" column="4" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_on_KVM/vSRX_conf_template_ha_no_pub.j2" />
-      <jump line="34" column="11" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_on_KVM/vSRX_conf_template_ha_no_pub.j2" />
-      <jump line="33" column="20" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_on_KVM/vSRX_conf_template_ha_no_pub_ncv.j2" />
-      <jump line="267" column="12" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_on_KVM/vSRX_conf_template_ha_no_pub_ncv.j2" />
-      <jump line="19" column="38" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_on_KVM/vSRX_conf_template_sa.j2" />
       <jump line="24" column="11" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_on_KVM/vSRX_conf_template_sa.j2" />
       <jump line="40" column="8" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_on_KVM/vSRX_conf_template_sa.j2" />
       <jump line="394" column="16" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_on_KVM/vSRX_conf_template_sa.j2" />
@@ -1077,55 +1072,60 @@
       <jump line="10" column="35" filename="$USER_HOME$/projects/gateway/licu/vsrx-skip-licu-dev/srx-licu.py" />
       <jump line="2016" column="17" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_on_KVM/Build_vSRX.py" />
       <jump line="327" column="16" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_on_KVM/Build_vSRX.py" />
+      <jump line="63" column="0" filename="$USER_HOME$/projects/gateway/licu/do_update.py" />
+      <jump line="67" column="48" filename="$USER_HOME$/projects/gateway/licu/do_update.py" />
+      <jump line="52" column="0" filename="$USER_HOME$/projects/gateway/licu/do_update.py" />
+      <jump line="960" column="21" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_on_KVM/Build_vSRX.py" />
+      <jump line="1420" column="22" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_on_KVM/Build_vSRX.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">d2l0aCA=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIG5ldGRhdGFbJ0JSMSddID0gMQo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">d2l0aCA=</text>
+        <text>null</text>
       </register>
       <register name="/" type="4">
-        <text>collect_vf_info</text>
+        <text>SCP</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBXcml0ZV9Ub19Mb2coc3VicHJvY2Vzcy5jaGVja19vdXRwdXQoCiAgICAgICAgICAgIFsic3VkbyIsICJyb3V0ZSIsICJhZGQiLCAiLW5ldCIsICIxMC4wLjAuMC84IiwgImd3Iiwgcm91dGVbJ2JyMGd3J11dKSkK</text>
+      <register name="0" type="4">
+        <text encoding="base64">ICAgIHdpdGggb3Blbihsb2dfZmlsZSwgJ2ErJykgYXMgbG9nOgogICAgICAgIGlmIGRlYnVnIGFuZCBub3QgREVCVUc6CiAgICAgICAgICAgICMgZG8gbm90aGluZyBpZiBERUJVRyBpcyBub3QgdHJ1ZSBhbmQgdGhpcyBpcyBhIGRlYnVnIG1lc3NhZ2UKICAgICAgICAgICAgcmV0dXJuCgogICAgICAgIGlmIGlzaW5zdGFuY2UobXNnLCBkaWN0KToKICAgICAgICAgICAgcHByaW50KG1zZykKICAgICAgICAgICAgaWYgbG9nOgogICAgICAgICAgICAgICAgbG9nLndyaXRlKHBmb3JtYXQobXNnKSArICJcbiIpCiAgICAgICAgICAgICAgICBsb2cuZmx1c2goKQogICAgICAgICAgICByZXR1cm4KCiAgICAgICAgbGluZXMgPSBtc2cuc3BsaXQoJ1xuJykKICAgICAgICBpZiBsZW4obGluZXMpID4gMDoKICAgICAgICAgICAgZm9yIGxpbmUgaW4gbGluZXM6CiAgICAgICAgICAgICAgICBpZiBub3QgbGluZS5zdHJpcCgiJyIpOgogICAgICAgICAgICAgICAgICAgIGNvbnRpbnVlCiAgICAgICAgICAgICAgICBpbmRlbnRfc3RyID0gIiAgICAiICogaW5kZW50CiAgICAgICAgICAgICAgICBpZiBub3Qgbm9fdHM6CiAgICAgICAgICAgICAgICAgICAgdHMgPSBkYXRldGltZS5ub3coKS5pc29mb3JtYXQoKSArICc6ICcKICAgICAgICAgICAgICAgIGVsc2U6CiAgICAgICAgICAgICAgICAgICAgdHMgPSAnJwogICAgICAgICAgICAgICAgb3V0ID0gdHMgKyBpbmRlbnRfc3RyICsgbGluZQogICAgICAgICAgICAgICAgcHJpbnQob3V0LCBlbmQ9ZW5kKQogICAgICAgICAgICAgICAgaWYgbG9nOgogICAgICAgICAgICAgICAgICAgIGxvZy53cml0ZShvdXQgKyBlbmQpCgogICAgICAgIGlmIGxvZzoKICAgICAgICAgICAgbG9nLmZsdXNoKCk=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIG5ldGRhdGFbJ0JSMSddID0gMQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQlvcy5tYWtlZGlycyhsb2dfZGlyKQo=</text>
+        <text encoding="base64">ICAgICIiCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CWlmIG5vdCBvcy5wYXRoLmV4aXN0cyhsb2dfZGlyKToK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">CWxvZ19maWxlID0gbG9nX2RpciArICdpbml0X2t2bV9pbnRzLmxvZycK</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">CQlvcy5tYWtlZGlycyhsb2dfZGlyKQo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">CWlmIG5vdCBvcy5wYXRoLmV4aXN0cyhsb2dfZGlyKToK</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">CWxvZ19maWxlID0gbG9nX2RpciArICdpbml0X2t2bV9pbnRzLmxvZycK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">CQkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQo=</text>
+        <text encoding="base64">CQkK</text>
       </register>
       <register name=":" type="4">
-        <text>q!</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>collect_vf_info</last-search>
+      <last-search>SCP</last-search>
       <last-offset />
-      <last-pattern>collect_vf_info</last-pattern>
+      <last-pattern>SCP</last-pattern>
       <last-replace>CodeSimpleSchema</last-replace>
       <last-substitute>CodeSchema</last-substitute>
       <last-dir>1</last-dir>
@@ -1133,8 +1133,6 @@
     </search>
     <history>
       <history-search>
-        <entry>1200</entry>
-        <entry>lscpu</entry>
         <entry>netdata</entry>
         <entry>Return_Route</entry>
         <entry>push_coinfig</entry>
@@ -1153,6 +1151,8 @@
         <entry>load</entry>
         <entry>vf</entry>
         <entry>collect_vf_info</entry>
+        <entry>LOG_FILE</entry>
+        <entry>SCP</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2RiLkNvbHVtbihkYi5JbnRlZ2VyLCBkYi5Gb3JlaWduS2V5KCdjb2Rlcy5pZCcpKS9maWVsZHMuSW50KGxvYWRfb25seT1UcnVlKS9n</entry>
@@ -1173,8 +1173,8 @@
         <entry>0</entry>
         <entry>$</entry>
         <entry>wq</entry>
-        <entry>w</entry>
         <entry>q!</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
