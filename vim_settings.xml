@@ -415,11 +415,12 @@
         <mark key="^" line="4" column="20" />
         <mark key="." line="4" column="20" />
       </file>
-      <file name="$USER_HOME$/projects/gateway/licu/do_update.py" timestamp="1551720492263">
-        <mark key="'" line="262" column="48" />
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
+      <file name="$USER_HOME$/projects/gateway/licu/do_update.py" timestamp="1551722328288">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="285" column="0" />
+        <mark key="]" line="285" column="0" />
+        <mark key="." line="285" column="0" />
+        <mark key="^" line="285" column="3" />
       </file>
       <file name="$USER_HOME$/Sites/FlaskApp/templates/main.html" timestamp="1514248206422">
         <mark key="[" line="5" column="0" />
@@ -1014,7 +1015,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_on_KVM/build_kvm_int.py" />
       <jump line="56" column="11" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_on_KVM/build_kvm_int.py" />
       <jump line="977" column="27" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_on_KVM/build_kvm_int.py" />
       <jump line="978" column="47" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_on_KVM/build_kvm_int.py" />
@@ -1041,8 +1041,6 @@
       <jump line="35" column="24" filename="$USER_HOME$/projects/gateway/licu/do_update.py" />
       <jump line="243" column="11" filename="$USER_HOME$/projects/gateway/licu/do_update.py" />
       <jump line="52" column="0" filename="$USER_HOME$/projects/gateway/licu/do_update.py" />
-      <jump line="264" column="11" filename="$USER_HOME$/projects/gateway/licu/do_update.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/projects/gateway/licu/do_update.py" />
       <jump line="53" column="0" filename="$USER_HOME$/projects/gateway/licu/do_update.py" />
       <jump line="341" column="57" filename="$USER_HOME$/projects/gateway/licu/vsrx-skip-licu-dev/srx-licu.py" />
       <jump line="847" column="8" filename="$USER_HOME$/projects/gateway/licu/vsrx-skip-licu-dev/srx-licu.py" />
@@ -1114,55 +1112,58 @@
       <jump line="121" column="12" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_on_KVM/Build_vSRX.py" />
       <jump line="163" column="24" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_on_KVM/Build_vSRX.py" />
       <jump line="1186" column="0" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_on_KVM/Build_vSRX.py" />
+      <jump line="68" column="0" filename="$USER_HOME$/projects/gateway/licu/do_update.py" />
+      <jump line="264" column="48" filename="$USER_HOME$/projects/gateway/licu/do_update.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/gateway/licu/do_update.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IGpzb25kCg==</text>
+        <text encoding="base64">ICAgICMgdmVyaWZ5IGNvbmZpZyBwZXJzaXN0ZWQgdGhyb3VnaCB1cGdyYWRlCg==</text>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text encoding="base64">aW4g</text>
       </register>
       <register name="/" type="4">
-        <text>n</text>
+        <text>paramiko</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGxvZ2dlcihqc29uLmR1bXBzKHByZV9jb25maWcpKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGpzb25kCg==</text>
+        <text encoding="base64">ICAgICMgdmVyaWZ5IGNvbmZpZyBwZXJzaXN0ZWQgdGhyb3VnaCB1cGdyYWRlCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICMgc2F2ZSBjb25maWcgZm9yIGNvbXBhcmlzb24K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGxvZ2dlcihqc29uLmR1bXBzKHByZV9jb25maWcpKQo=</text>
+        <text encoding="base64">ICAgIGRlbHRhLgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGpzb24gXCB8IG5vIC0gbW9yZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNtZCA9ICJjbGkgc2hvdyBjb25maWd1cmF0aW9uIFwgfCBkaXNwbGF5IGpzb24iCg==</text>
+        <text encoding="base64">ICAgIGZpbGVjbXAuY21wKHByZV91cGdyYWRlX2NvbmZpZ19maWxlLCBwb3N0X3VwZ3JhZGVfY29uZmlnX2ZpbGUpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGJyMV9wcmVzID0gTm9uZQo=</text>
+        <text encoding="base64">ICAgICIiIgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGJyMV9wcmVzID0gTm9uZQo=</text>
+        <text encoding="base64">ICAgICoqKgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAxMC41MC41MC4wLzI0Owo=</text>
+        <text encoding="base64">ICAgICoqKgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAxMC41MC41MC4wLzI0Owo=</text>
+        <text encoding="base64">aW1wb3J0IGpzb25kCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>n</last-search>
+      <last-search>paramiko</last-search>
       <last-offset />
-      <last-pattern>n</last-pattern>
+      <last-pattern>paramiko</last-pattern>
       <last-replace>CodeSimpleSchema</last-replace>
       <last-substitute>CodeSchema</last-substitute>
       <last-dir>1</last-dir>
@@ -1170,8 +1171,6 @@
     </search>
     <history>
       <history-search>
-        <entry>post_upgrade</entry>
-        <entry>pre</entry>
         <entry>pre_upgrade</entry>
         <entry>cli</entry>
         <entry>show configuration</entry>
@@ -1190,6 +1189,8 @@
         <entry>def Rebuild</entry>
         <entry>connecting to vSRX HA</entry>
         <entry>n</entry>
+        <entry>json</entry>
+        <entry>paramiko</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2RiLkNvbHVtbihkYi5JbnRlZ2VyLCBkYi5Gb3JlaWduS2V5KCdjb2Rlcy5pZCcpKS9maWVsZHMuSW50KGxvYWRfb25seT1UcnVlKS9n</entry>
