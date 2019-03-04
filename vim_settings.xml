@@ -415,12 +415,12 @@
         <mark key="^" line="4" column="20" />
         <mark key="." line="4" column="20" />
       </file>
-      <file name="$USER_HOME$/projects/gateway/licu/do_update.py" timestamp="1551724307377">
-        <mark key="'" line="138" column="39" />
-        <mark key="[" line="243" column="22" />
-        <mark key="]" line="243" column="43" />
-        <mark key="." line="243" column="43" />
-        <mark key="^" line="243" column="43" />
+      <file name="$USER_HOME$/projects/gateway/licu/do_update.py" timestamp="1551725628931">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="39" column="0" />
+        <mark key="]" line="39" column="3" />
+        <mark key="." line="39" column="3" />
+        <mark key="^" line="39" column="3" />
       </file>
       <file name="$USER_HOME$/Sites/FlaskApp/templates/main.html" timestamp="1514248206422">
         <mark key="[" line="5" column="0" />
@@ -1015,16 +1015,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="946" column="52" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_on_KVM/build_kvm_int.py" />
-      <jump line="944" column="50" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_on_KVM/build_kvm_int.py" />
-      <jump line="942" column="33" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_on_KVM/build_kvm_int.py" />
-      <jump line="976" column="0" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_on_KVM/build_kvm_int.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_on_KVM/init_kvm_int.py" />
-      <jump line="10" column="35" filename="$USER_HOME$/projects/gateway/licu/vsrx-skip-licu-dev/srx-licu.py" />
-      <jump line="2016" column="17" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_on_KVM/Build_vSRX.py" />
-      <jump line="327" column="16" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_on_KVM/Build_vSRX.py" />
-      <jump line="63" column="0" filename="$USER_HOME$/projects/gateway/licu/do_update.py" />
-      <jump line="960" column="21" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_on_KVM/Build_vSRX.py" />
       <jump line="1420" column="22" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_on_KVM/Build_vSRX.py" />
       <jump line="18" column="8" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_on_KVM/Build_vSRX.py" />
       <jump line="501" column="29" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_on_KVM/Build_vSRX.py" />
@@ -1109,61 +1099,71 @@
       <jump line="1186" column="0" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_on_KVM/Build_vSRX.py" />
       <jump line="68" column="0" filename="$USER_HOME$/projects/gateway/licu/do_update.py" />
       <jump line="264" column="48" filename="$USER_HOME$/projects/gateway/licu/do_update.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/projects/gateway/licu/do_update.py" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/gateway/licu/vsrx-skip-licu-dev/srx-licu.py" />
       <jump line="14" column="10" filename="$USER_HOME$/projects/gateway/licu/vsrx-skip-licu-dev/srx-licu.py" />
       <jump line="6" column="7" filename="$USER_HOME$/projects/gateway/licu/do_update.py" />
       <jump line="137" column="6" filename="$USER_HOME$/projects/gateway/licu/do_update.py" />
       <jump line="138" column="39" filename="$USER_HOME$/projects/gateway/licu/do_update.py" />
+      <jump line="353" column="8" filename="$USER_HOME$/projects/gateway/licu/do_update.py" />
+      <jump line="386" column="8" filename="$USER_HOME$/projects/gateway/licu/do_update.py" />
+      <jump line="414" column="12" filename="$USER_HOME$/projects/gateway/licu/do_update.py" />
+      <jump line="433" column="8" filename="$USER_HOME$/projects/gateway/licu/do_update.py" />
+      <jump line="34" column="36" filename="$USER_HOME$/projects/gateway/licu/do_update.py" />
+      <jump line="38" column="38" filename="$USER_HOME$/projects/gateway/licu/do_update.py" />
+      <jump line="445" column="0" filename="$USER_HOME$/projects/gateway/licu/do_update.py" />
+      <jump line="450" column="11" filename="$USER_HOME$/projects/gateway/licu/do_update.py" />
+      <jump line="143" column="6" filename="$USER_HOME$/projects/gateway/licu/do_update.py" />
+      <jump line="144" column="39" filename="$USER_HOME$/projects/gateway/licu/do_update.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/gateway/licu/do_update.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>rm</text>
+        <text encoding="base64">ICAgICA=</text>
       </register>
       <register name="-" type="4">
-        <text>rm</text>
+        <text encoding="base64">ICAgICA=</text>
       </register>
       <register name="/" type="4">
-        <text>known</text>
+        <text>reset</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIGxvZ2dlcihqc29uLmR1bXBzKHByZV9jb25maWcpKQo=</text>
+      <register name="0" type="4">
+        <text encoding="base64">ICAgIHBhcnNlci5hZGRfYXJndW1lbnQoIi1yIiwgIi0tcm9sbGJhY2siLAogICAgICAgICAgICAgICAgICAgICAgICByZXF1aXJlZD1GYWxzZSwKICAgICAgICAgICAgICAgICAgICAgICAgYWN0aW9uPSdzdG9yZV90cnVlJywKICAgICAgICAgICAgICAgICAgICAgICAgZGVmYXVsdD1GYWxzZSwKICAgICAgICAgICAgICAgICAgICAgICAgaGVscD0iUGVyZm9ybSByb2xsYmFjayB0byBwcmV2aW91cyB2ZXJzaW9uIGluc3RlYWQgb2YgdXBncmFkZSIpCiA=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICIiImRlbGV0ZXMgdGhlIGtub3duIGhvc3RzIGZpbGUgb24gdGhlIHNlcnZlciIiIgo=</text>
+        <text encoding="base64">ICAgIHJ1bl9saWN1KCkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICMgdmVyaWZ5IGNvbmZpZyBwZXJzaXN0ZWQgdGhyb3VnaCB1cGdyYWRlCg==</text>
+        <text encoding="base64">ICAgIHJ1bl9yZXNldCgpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICMgc2F2ZSBjb25maWcgZm9yIGNvbXBhcmlzb24K</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGRlbHRhLgo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGZpbGVjbXAuY21wKHByZV91cGdyYWRlX2NvbmZpZ19maWxlLCBwb3N0X3VwZ3JhZGVfY29uZmlnX2ZpbGUpCg==</text>
+        <text encoding="base64">ICAgIHN0YXR1cyA9IDEwMSAgIyBpbml0aWFsaXplCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICIiIgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmFpc2UgRXhjZXB0aW9uKG1zZzIpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICoqKgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgd3JpdGVfdG9fbG9nKG1zZzIpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICoqKgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgbXNnMiA9ICdDb3VsZCBub3QgZGVsZXRlICcgKyBmaWxlICsgJywgc3RvcHBpbmcgcHJvY2VkdXJlJwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>known</last-search>
+      <last-search>reset</last-search>
       <last-offset />
-      <last-pattern>known</last-pattern>
+      <last-pattern>reset</last-pattern>
       <last-replace>CodeSimpleSchema</last-replace>
       <last-substitute>CodeSchema</last-substitute>
       <last-dir>1</last-dir>
@@ -1171,10 +1171,6 @@
     </search>
     <history>
       <history-search>
-        <entry>files</entry>
-        <entry>Return_Route</entry>
-        <entry>def Modify_net_inter</entry>
-        <entry>def init_brs</entry>
         <entry>log_dir</entry>
         <entry>Write_To_Log</entry>
         <entry>def Write_To_Log</entry>
@@ -1190,10 +1186,13 @@
         <entry>paramiko</entry>
         <entry>kknown</entry>
         <entry>subprocess</entry>
+        <entry>rollback</entry>
+        <entry>resert</entry>
+        <entry>run_licu</entry>
         <entry>known</entry>
+        <entry>reset</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zL2RiLkNvbHVtbihkYi5JbnRlZ2VyLCBkYi5Gb3JlaWduS2V5KCdjb2Rlcy5pZCcpKS9maWVsZHMuSW50KGxvYWRfb25seT1UcnVlKS9n</entry>
         <entry encoding="base64">JzwsJz5zL2RiLnJlbGF0aW9uc2hpcC4qL2ZpZWxkcy5OZXN0ZWQoQ29kZVNjaGVtYSwgZHVtcF9vbmx5PVRydWUsIGV4Y2x1ZGU9KCdpbnN0YWxscycsKSkvZw==</entry>
         <entry encoding="base64">JzwsJz5zL0NvZGVTY2hlbWEvQ29kZVNpbXBsZVNjaGVtYS9n</entry>
         <entry>19</entry>
@@ -1208,11 +1207,12 @@
         <entry>830</entry>
         <entry>0-</entry>
         <entry>q!</entry>
-        <entry>$</entry>
         <entry>wq</entry>
         <entry>q</entry>
-        <entry>w</entry>
+        <entry>$</entry>
+        <entry>-0</entry>
         <entry>0</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
