@@ -415,8 +415,8 @@
         <mark key="^" line="4" column="20" />
         <mark key="." line="4" column="20" />
       </file>
-      <file name="$USER_HOME$/projects/gateway/licu/do_update.py" timestamp="1551764364292">
-        <mark key="'" line="206" column="64" />
+      <file name="$USER_HOME$/projects/gateway/licu/do_update.py" timestamp="1551765146812">
+        <mark key="'" line="0" column="0" />
         <mark key="[" line="466" column="0" />
         <mark key="]" line="466" column="0" />
         <mark key="." line="466" column="0" />
@@ -1113,8 +1113,8 @@
       <jump line="26" column="6" filename="$USER_HOME$/projects/gateway/licu/do_update.py" />
       <jump line="261" column="13" filename="$USER_HOME$/projects/gateway/licu/do_update.py" />
       <jump line="304" column="8" filename="$USER_HOME$/projects/gateway/licu/do_update.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/projects/gateway/licu/do_update.py" />
       <jump line="206" column="64" filename="$USER_HOME$/projects/gateway/licu/do_update.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/gateway/licu/do_update.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -1124,7 +1124,7 @@
         <text encoding="base64">IyA=</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">Mj4mMQ==</text>
+        <text>logger</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGxvZ2dlcigiPT09PT09PT09PT09PSBQUkUgPT09PT09PT09PT09PT09PSIpCg==</text>
@@ -1161,9 +1161,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">Mj4mMQ==</last-search>
+      <last-search>logger</last-search>
       <last-offset />
-      <last-pattern encoding="base64">Mj4mMQ==</last-pattern>
+      <last-pattern>logger</last-pattern>
       <last-replace>CodeSimpleSchema</last-replace>
       <last-substitute>CodeSchema</last-substitute>
       <last-dir>1</last-dir>
@@ -1171,7 +1171,6 @@
     </search>
     <history>
       <history-search>
-        <entry>json</entry>
         <entry>paramiko</entry>
         <entry>kknown</entry>
         <entry>rollback</entry>
@@ -1191,6 +1190,7 @@
         <entry>cleanup</entry>
         <entry>sed</entry>
         <entry encoding="base64">Mj4mMQ==</entry>
+        <entry>logger</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL0NvZGVTY2hlbWEvQ29kZVNpbXBsZVNjaGVtYS9n</entry>
@@ -1211,8 +1211,8 @@
         <entry>q</entry>
         <entry>255</entry>
         <entry>$</entry>
-        <entry>0</entry>
         <entry>w</entry>
+        <entry>0</entry>
       </history-cmd>
       <history-expr />
       <history-input />
