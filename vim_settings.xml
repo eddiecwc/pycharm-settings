@@ -415,12 +415,12 @@
         <mark key="^" line="4" column="20" />
         <mark key="." line="4" column="20" />
       </file>
-      <file name="$USER_HOME$/projects/gateway/licu/do_update.py" timestamp="1551762199410">
-        <mark key="'" line="304" column="8" />
-        <mark key="[" line="328" column="49" />
-        <mark key="]" line="329" column="22" />
-        <mark key="." line="329" column="22" />
-        <mark key="^" line="329" column="22" />
+      <file name="$USER_HOME$/projects/gateway/licu/do_update.py" timestamp="1551764364292">
+        <mark key="'" line="206" column="64" />
+        <mark key="[" line="466" column="0" />
+        <mark key="]" line="466" column="0" />
+        <mark key="." line="466" column="0" />
+        <mark key="^" line="456" column="1" />
       </file>
       <file name="$USER_HOME$/Sites/FlaskApp/templates/main.html" timestamp="1514248206422">
         <mark key="[" line="5" column="0" />
@@ -1015,7 +1015,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="868" column="10" filename="$USER_HOME$/projects/gateway/licu/vsrx-skip-licu-dev/srx-licu.py" />
       <jump line="871" column="8" filename="$USER_HOME$/projects/gateway/licu/vsrx-skip-licu-dev/srx-licu.py" />
       <jump line="874" column="11" filename="$USER_HOME$/projects/gateway/licu/vsrx-skip-licu-dev/srx-licu.py" />
       <jump line="875" column="37" filename="$USER_HOME$/projects/gateway/licu/vsrx-skip-licu-dev/srx-licu.py" />
@@ -1095,7 +1094,6 @@
       <jump line="187" column="0" filename="$USER_HOME$/projects/gateway/licu/vsrx-skip-licu-dev/srx-licu.py" />
       <jump line="1411" column="37" filename="$USER_HOME$/projects/gateway/licu/vsrx-skip-licu-dev/srx-licu.py" />
       <jump line="6" column="10" filename="$USER_HOME$/projects/gateway/licu/do_update.py" />
-      <jump line="0" column="2" filename="$USER_HOME$/projects/gateway/licu/do_update.py" />
       <jump line="43" column="67" filename="$USER_HOME$/projects/gateway/licu/do_update.py" />
       <jump line="74" column="36" filename="$USER_HOME$/projects/gateway/licu/do_update.py" />
       <jump line="1413" column="32" filename="$USER_HOME$/projects/gateway/licu/vsrx-skip-licu-dev/srx-licu.py" />
@@ -1115,55 +1113,57 @@
       <jump line="26" column="6" filename="$USER_HOME$/projects/gateway/licu/do_update.py" />
       <jump line="261" column="13" filename="$USER_HOME$/projects/gateway/licu/do_update.py" />
       <jump line="304" column="8" filename="$USER_HOME$/projects/gateway/licu/do_update.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/gateway/licu/do_update.py" />
+      <jump line="206" column="64" filename="$USER_HOME$/projects/gateway/licu/do_update.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">UkUg</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">UkUg</text>
+        <text encoding="base64">IyA=</text>
       </register>
       <register name="/" type="4">
-        <text>cleanup</text>
+        <text encoding="base64">Mj4mMQ==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGxvZ2dlcigiPT09PT09PT09PT09PSBQUkUgPT09PT09PT09PT09PT09PSIpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHBhc3MK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGxvZ2dlcigiIikK</text>
+        <text encoding="base64">ICAgICIiIgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHBhc3MK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Y2xlYW51cF9rbm93bl9ob3N0cygpCg==</text>
+        <text encoding="base64">ICAgIGxvZ2dlcigiIikK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Y2xlYW51cF9rbm93bl9ob3N0cygpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y2xlYW51cF9rbm93bl9ob3N0cygpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y2xlYW51cF9rbm93bl9ob3N0cygpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBzdGF0dXMgPT0gMDoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyKG91dHB1dCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>cleanup</last-search>
+      <last-search encoding="base64">Mj4mMQ==</last-search>
       <last-offset />
-      <last-pattern>cleanup</last-pattern>
+      <last-pattern encoding="base64">Mj4mMQ==</last-pattern>
       <last-replace>CodeSimpleSchema</last-replace>
       <last-substitute>CodeSchema</last-substitute>
       <last-dir>1</last-dir>
@@ -1171,8 +1171,6 @@
     </search>
     <history>
       <history-search>
-        <entry>connecting to vSRX HA</entry>
-        <entry>n</entry>
         <entry>json</entry>
         <entry>paramiko</entry>
         <entry>kknown</entry>
@@ -1191,6 +1189,8 @@
         <entry>downgrade</entry>
         <entry>Cleaning</entry>
         <entry>cleanup</entry>
+        <entry>sed</entry>
+        <entry encoding="base64">Mj4mMQ==</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL0NvZGVTY2hlbWEvQ29kZVNpbXBsZVNjaGVtYS9n</entry>
@@ -1208,10 +1208,10 @@
         <entry>q!</entry>
         <entry>wq</entry>
         <entry>-0</entry>
-        <entry>0</entry>
         <entry>q</entry>
-        <entry>$</entry>
         <entry>255</entry>
+        <entry>$</entry>
+        <entry>0</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
