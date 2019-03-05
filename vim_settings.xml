@@ -225,8 +225,8 @@
         <mark key="^" line="38" column="36" />
         <mark key="." line="38" column="36" />
       </file>
-      <file name="$USER_HOME$/projects/gateway/licu/vsrx-skip-licu-dev/srx-licu.py" timestamp="1551744962608">
-        <mark key="'" line="1664" column="18" />
+      <file name="$USER_HOME$/projects/gateway/licu/vsrx-skip-licu-dev/srx-licu.py" timestamp="1551746205237">
+        <mark key="'" line="0" column="0" />
         <mark key="[" line="1415" column="0" />
         <mark key="]" line="1415" column="46" />
         <mark key="^" line="17" column="10" />
@@ -415,12 +415,12 @@
         <mark key="^" line="4" column="20" />
         <mark key="." line="4" column="20" />
       </file>
-      <file name="$USER_HOME$/projects/gateway/licu/do_update.py" timestamp="1551744537388">
+      <file name="$USER_HOME$/projects/gateway/licu/do_update.py" timestamp="1551746227650">
         <mark key="'" line="74" column="36" />
-        <mark key="[" line="371" column="16" />
-        <mark key="]" line="371" column="16" />
-        <mark key="^" line="371" column="16" />
-        <mark key="." line="371" column="16" />
+        <mark key="[" line="371" column="28" />
+        <mark key="]" line="371" column="32" />
+        <mark key="^" line="371" column="32" />
+        <mark key="." line="371" column="32" />
       </file>
       <file name="$USER_HOME$/Sites/FlaskApp/templates/main.html" timestamp="1514248206422">
         <mark key="[" line="5" column="0" />
@@ -1015,12 +1015,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="341" column="57" filename="$USER_HOME$/projects/gateway/licu/vsrx-skip-licu-dev/srx-licu.py" />
-      <jump line="847" column="8" filename="$USER_HOME$/projects/gateway/licu/vsrx-skip-licu-dev/srx-licu.py" />
-      <jump line="848" column="4" filename="$USER_HOME$/projects/gateway/licu/vsrx-skip-licu-dev/srx-licu.py" />
-      <jump line="849" column="4" filename="$USER_HOME$/projects/gateway/licu/vsrx-skip-licu-dev/srx-licu.py" />
-      <jump line="850" column="28" filename="$USER_HOME$/projects/gateway/licu/vsrx-skip-licu-dev/srx-licu.py" />
-      <jump line="853" column="4" filename="$USER_HOME$/projects/gateway/licu/vsrx-skip-licu-dev/srx-licu.py" />
       <jump line="858" column="8" filename="$USER_HOME$/projects/gateway/licu/vsrx-skip-licu-dev/srx-licu.py" />
       <jump line="859" column="35" filename="$USER_HOME$/projects/gateway/licu/vsrx-skip-licu-dev/srx-licu.py" />
       <jump line="868" column="10" filename="$USER_HOME$/projects/gateway/licu/vsrx-skip-licu-dev/srx-licu.py" />
@@ -1086,7 +1080,6 @@
       <jump line="1186" column="0" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_on_KVM/Build_vSRX.py" />
       <jump line="68" column="0" filename="$USER_HOME$/projects/gateway/licu/do_update.py" />
       <jump line="264" column="48" filename="$USER_HOME$/projects/gateway/licu/do_update.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/projects/gateway/licu/vsrx-skip-licu-dev/srx-licu.py" />
       <jump line="14" column="10" filename="$USER_HOME$/projects/gateway/licu/vsrx-skip-licu-dev/srx-licu.py" />
       <jump line="137" column="6" filename="$USER_HOME$/projects/gateway/licu/do_update.py" />
       <jump line="138" column="39" filename="$USER_HOME$/projects/gateway/licu/do_update.py" />
@@ -1115,6 +1108,13 @@
       <jump line="1649" column="31" filename="$USER_HOME$/projects/gateway/licu/vsrx-skip-licu-dev/srx-licu.py" />
       <jump line="1656" column="31" filename="$USER_HOME$/projects/gateway/licu/vsrx-skip-licu-dev/srx-licu.py" />
       <jump line="1664" column="18" filename="$USER_HOME$/projects/gateway/licu/vsrx-skip-licu-dev/srx-licu.py" />
+      <jump line="47" column="33" filename="$USER_HOME$/projects/gateway/licu/vsrx-skip-licu-dev/srx-licu.py" />
+      <jump line="320" column="27" filename="$USER_HOME$/projects/gateway/licu/vsrx-skip-licu-dev/srx-licu.py" />
+      <jump line="350" column="11" filename="$USER_HOME$/projects/gateway/licu/vsrx-skip-licu-dev/srx-licu.py" />
+      <jump line="370" column="13" filename="$USER_HOME$/projects/gateway/licu/vsrx-skip-licu-dev/srx-licu.py" />
+      <jump line="543" column="23" filename="$USER_HOME$/projects/gateway/licu/vsrx-skip-licu-dev/srx-licu.py" />
+      <jump line="573" column="10" filename="$USER_HOME$/projects/gateway/licu/vsrx-skip-licu-dev/srx-licu.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/gateway/licu/vsrx-skip-licu-dev/srx-licu.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -1208,10 +1208,10 @@
         <entry>0-</entry>
         <entry>q!</entry>
         <entry>wq</entry>
-        <entry>q</entry>
         <entry>-0</entry>
         <entry>$</entry>
         <entry>0</entry>
+        <entry>q</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
