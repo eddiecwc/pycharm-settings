@@ -415,11 +415,12 @@
         <mark key="^" line="4" column="20" />
         <mark key="." line="4" column="20" />
       </file>
-      <file name="$USER_HOME$/projects/gateway/licu/do_update.py" timestamp="1551982146763">
-        <mark key="'" line="160" column="50" />
-        <mark key="[" line="376" column="0" />
-        <mark key="]" line="376" column="7" />
-        <mark key="." line="376" column="0" />
+      <file name="$USER_HOME$/projects/gateway/licu/do_update.py" timestamp="1551987149771">
+        <mark key="'" line="437" column="11" />
+        <mark key="[" line="440" column="28" />
+        <mark key="]" line="440" column="35" />
+        <mark key="." line="440" column="35" />
+        <mark key="^" line="440" column="35" />
       </file>
       <file name="$USER_HOME$/Sites/FlaskApp/templates/main.html" timestamp="1514248206422">
         <mark key="[" line="5" column="0" />
@@ -1014,7 +1015,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="353" column="8" filename="$USER_HOME$/projects/gateway/licu/do_update.py" />
       <jump line="386" column="8" filename="$USER_HOME$/projects/gateway/licu/do_update.py" />
       <jump line="414" column="12" filename="$USER_HOME$/projects/gateway/licu/do_update.py" />
       <jump line="433" column="8" filename="$USER_HOME$/projects/gateway/licu/do_update.py" />
@@ -1109,21 +1109,22 @@
       <jump line="90" column="38" filename="$USER_HOME$/projects/gateway/licu/do_update.py" />
       <jump line="96" column="11" filename="$USER_HOME$/projects/gateway/licu/do_update.py" />
       <jump line="102" column="14" filename="$USER_HOME$/projects/gateway/licu/do_update.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/projects/gateway/licu/do_update.py" />
       <jump line="91" column="6" filename="$USER_HOME$/projects/gateway/licu/do_update.py" />
       <jump line="119" column="3" filename="$USER_HOME$/projects/gateway/licu/do_update.py" />
       <jump line="157" column="6" filename="$USER_HOME$/projects/gateway/licu/do_update.py" />
       <jump line="160" column="50" filename="$USER_HOME$/projects/gateway/licu/do_update.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/gateway/licu/do_update.py" />
+      <jump line="437" column="11" filename="$USER_HOME$/projects/gateway/licu/do_update.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICIiIgo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">c2h1dGRvd24g</text>
       </register>
       <register name="-" type="4">
-        <text>cfg2</text>
+        <text encoding="base64">c2h1dGRvd24g</text>
       </register>
       <register name="/" type="4">
-        <text>load</text>
+        <text>shutdown</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">ICAgIHBhcnNlci5hZGRfYXJndW1lbnQoIi1kIiwgIi0tZGVidWciLAogICAgICAgICAgICAgICAgICAgICAgICByZXF1aXJlZD1GYWxzZSwKICAgICAgICAgICAgICAgICAgICAgICAgYWN0aW9uPSdzdG9yZV90cnVlJywKICAgICAgICAgICAgICAgICAgICAgICAgZGVmYXVsdD1UcnVlLAogICAgICAgICAgICAgICAgICAgICAgICBoZWxwPSJkaXNwbGF5IGRlYnVnIG91dHB1dCIpCg==</text>
@@ -1160,9 +1161,9 @@
       </register>
     </registers>
     <search>
-      <last-search>load</last-search>
+      <last-search>shutdown</last-search>
       <last-offset />
-      <last-pattern>load</last-pattern>
+      <last-pattern>shutdown</last-pattern>
       <last-replace>CodeSimpleSchema</last-replace>
       <last-substitute>CodeSchema</last-substitute>
       <last-dir>1</last-dir>
@@ -1170,7 +1171,6 @@
     </search>
     <history>
       <history-search>
-        <entry>run_licu</entry>
         <entry>run_ibm_pre</entry>
         <entry>run_ibm</entry>
         <entry>run_ibm_up</entry>
@@ -1190,6 +1190,7 @@
         <entry>output</entry>
         <entry>log_file</entry>
         <entry>load</entry>
+        <entry>shutdown</entry>
       </history-search>
       <history-cmd>
         <entry>40</entry>
