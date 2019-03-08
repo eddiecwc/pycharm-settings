@@ -415,12 +415,12 @@
         <mark key="^" line="4" column="20" />
         <mark key="." line="4" column="20" />
       </file>
-      <file name="$USER_HOME$/projects/gateway/licu/do_update.py" timestamp="1552025380975">
-        <mark key="'" line="411" column="7" />
-        <mark key="[" line="403" column="0" />
-        <mark key="]" line="403" column="3" />
-        <mark key="^" line="403" column="3" />
-        <mark key="." line="403" column="3" />
+      <file name="$USER_HOME$/projects/gateway/licu/do_update.py" timestamp="1552026231136">
+        <mark key="'" line="395" column="3" />
+        <mark key="[" line="308" column="0" />
+        <mark key="]" line="308" column="0" />
+        <mark key="^" line="308" column="23" />
+        <mark key="." line="308" column="0" />
       </file>
       <file name="$USER_HOME$/Sites/FlaskApp/templates/main.html" timestamp="1514248206422">
         <mark key="[" line="5" column="0" />
@@ -1015,7 +1015,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="144" column="39" filename="$USER_HOME$/projects/gateway/licu/do_update.py" />
       <jump line="368" column="4" filename="$USER_HOME$/projects/gateway/licu/do_update.py" />
       <jump line="450" column="0" filename="$USER_HOME$/projects/gateway/licu/do_update.py" />
       <jump line="187" column="0" filename="$USER_HOME$/projects/gateway/licu/vsrx-skip-licu-dev/srx-licu.py" />
@@ -1115,55 +1114,56 @@
       <jump line="189" column="38" filename="$USER_HOME$/projects/gateway/licu/do_update.py" />
       <jump line="342" column="0" filename="$USER_HOME$/projects/gateway/licu/do_update.py" />
       <jump line="404" column="7" filename="$USER_HOME$/projects/gateway/licu/do_update.py" />
+      <jump line="395" column="3" filename="$USER_HOME$/projects/gateway/licu/do_update.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGNvbmZpZ3VyYXRpb24gY2hhbmdlcyBkdXJpbmcgb3BlcmF0aW9uCg==</text>
+        <text encoding="base64">ICAgICQgYXdrICchL2NvbW1pdC1zZWNvbmRzfGNvbW1pdC1sb2NhbHRpbWUvJyAvIHRtcCAvIHByZSAtIHVwZ3JhZGUgLSBjb25maWcub3V0IHwgbW9yZQo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>d</text>
       </register>
       <register name="/" type="4">
-        <text>saniti</text>
+        <text>sanitize</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">ICAgIGNvbW1hbmQgPSBbJ3NlZCcsICctaS5iYWsnLCAnL3t9L2QnLmZvcm1hdChnd1sidlNSWCJdWyJpcCJdKSwga2hfZmlsZV0KICAgIGlmIG9zLnBhdGguaXNmaWxlKGtoX2ZpbGUpOgogICAgICAgIGxvZ2dlcigiQ2xlYW5pbmcgdXAge30gZnJvbSB7fSIuZm9ybWF0KGd3WyJ2U1JYIl1bImlwIl0sIGtoX2ZpbGUpKQogICAgICAgIGxvZ2dlcihzdHIoY29tbWFuZCkpCiAgICAgICAgdHJ5OgogICAgICAgICAgICBvdXRwdXQgPSBzdWJwcm9jZXNzLmNoZWNrX291dHB1dChjb21tYW5kKQogICAgICAgICAgICBtc2cgPSAnU3VjY2Vzc2Z1bGx5IHVwZGF0ZWQgJyArIGtoX2ZpbGUKICAgICAgICAgICAgbG9nZ2VyKG1zZykKICAgICAgICBleGNlcHQgc3VicHJvY2Vzcy5DYWxsZWRQcm9jZXNzRXJyb3I6CiAgICAgICAgICAgIGxvZ2dlcigiRmFpbGVkIHRvIHVwZGF0ZSBmaWxlIHt9Ii5mb3JtYXQoa2hfZmlsZSkpCiAgICAgICAgICAgIGxvZ2dlcihvdXRwdXQpCiAgICBlbHNlOgogICAgICAgIGxvZ2dlcigiRmlsZSB7fSBub3QgZm91bmQiLmZvcm1hdChraF9maWxlKSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbmZpZ3VyYXRpb24gY2hhbmdlcyBkdXJpbmcgb3BlcmF0aW9uCg==</text>
+        <text encoding="base64">ICAgICQgYXdrICchL2NvbW1pdC1zZWNvbmRzfGNvbW1pdC1sb2NhbHRpbWUvJyAvIHRtcCAvIHByZSAtIHVwZ3JhZGUgLSBjb25maWcub3V0IHwgbW9yZQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICMgdmVyaWZ5IGludGVyZmFjZXMK</text>
+        <text encoding="base64">ICAgIGNvbmZpZ3VyYXRpb24gY2hhbmdlcyBkdXJpbmcgb3BlcmF0aW9uCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICMgdmVyaWZ5IHByaW1hcnkvc2Vjb25kYXJ5Cg==</text>
+        <text encoding="base64">ICAgICMgdmVyaWZ5IGludGVyZmFjZXMK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICMgVE9ETzoK</text>
+        <text encoding="base64">ICAgICMgdmVyaWZ5IHByaW1hcnkvc2Vjb25kYXJ5Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICMgVE9ETzoK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICIiIgo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
+        <text encoding="base64">ICAgICIiIgo=</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text encoding="base64">CgogICAgIiIiCiAgICB3aXRoIG9wZW4ocHJlX3VwZ3JhZGVfY29uZmlnX2ZpbGUpIGFzIGYxOgogICAgICAgIHByZV9jb25maWcgPSBqc29uLmxvYWQoZjEpCgogICAgd2l0aCBvcGVuKHBvc3RfdXBncmFkZV9jb25maWdfZmlsZSkgYXMgZjI6CiAgICAgICAgcG9zdF9jb25maWcgPSBqc29uLmxvYWQoZjIpCgogICAgbG9nZ2VyKCJQcmUtdXBncmFkZSBjb25maWd1cmF0aW9uOiIpCiAgICBsb2dnZXIoanNvbi5kdW1wcyhwcmVfY29uZmlnKSkKICAgIGxvZ2dlcigiUG9zdC11cGdyYWRlIGNvbmZpZ3VyYXRpb246IikKICAgIGxvZ2dlcihqc29uLmR1bXBzKHBvc3RfY29uZmlnKSkKICAgICIiIg==</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvdW50ID0gMAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>saniti</last-search>
+      <last-search>sanitize</last-search>
       <last-offset />
-      <last-pattern>saniti</last-pattern>
+      <last-pattern>sanitize</last-pattern>
       <last-replace>CodeSimpleSchema</last-replace>
       <last-substitute>CodeSchema</last-substitute>
       <last-dir>1</last-dir>
@@ -1171,7 +1171,6 @@
     </search>
     <history>
       <history-search>
-        <entry>sleep</entry>
         <entry>492</entry>
         <entry>pre_config</entry>
         <entry>pre_upgrade</entry>
@@ -1191,6 +1190,7 @@
         <entry>known</entry>
         <entry>validate_config</entry>
         <entry>saniti</entry>
+        <entry>sanitize</entry>
       </history-search>
       <history-cmd>
         <entry>40</entry>
