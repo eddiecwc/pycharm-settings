@@ -415,12 +415,12 @@
         <mark key="^" line="4" column="20" />
         <mark key="." line="4" column="20" />
       </file>
-      <file name="$USER_HOME$/projects/gateway/licu/do_update.py" timestamp="1552029272979">
-        <mark key="'" line="402" column="3" />
-        <mark key="[" line="315" column="79" />
-        <mark key="]" line="315" column="79" />
-        <mark key="." line="315" column="79" />
-        <mark key="^" line="315" column="79" />
+      <file name="$USER_HOME$/projects/gateway/licu/do_update.py" timestamp="1552033706457">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="419" column="0" />
+        <mark key="]" line="419" column="3" />
+        <mark key="^" line="419" column="3" />
+        <mark key="." line="419" column="3" />
       </file>
       <file name="$USER_HOME$/Sites/FlaskApp/templates/main.html" timestamp="1514248206422">
         <mark key="[" line="5" column="0" />
@@ -1015,13 +1015,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="368" column="4" filename="$USER_HOME$/projects/gateway/licu/do_update.py" />
-      <jump line="450" column="0" filename="$USER_HOME$/projects/gateway/licu/do_update.py" />
-      <jump line="187" column="0" filename="$USER_HOME$/projects/gateway/licu/vsrx-skip-licu-dev/srx-licu.py" />
-      <jump line="1411" column="37" filename="$USER_HOME$/projects/gateway/licu/vsrx-skip-licu-dev/srx-licu.py" />
-      <jump line="43" column="67" filename="$USER_HOME$/projects/gateway/licu/do_update.py" />
-      <jump line="1413" column="32" filename="$USER_HOME$/projects/gateway/licu/vsrx-skip-licu-dev/srx-licu.py" />
-      <jump line="1589" column="17" filename="$USER_HOME$/projects/gateway/licu/vsrx-skip-licu-dev/srx-licu.py" />
       <jump line="1641" column="30" filename="$USER_HOME$/projects/gateway/licu/vsrx-skip-licu-dev/srx-licu.py" />
       <jump line="1642" column="37" filename="$USER_HOME$/projects/gateway/licu/vsrx-skip-licu-dev/srx-licu.py" />
       <jump line="1649" column="31" filename="$USER_HOME$/projects/gateway/licu/vsrx-skip-licu-dev/srx-licu.py" />
@@ -1108,62 +1101,69 @@
       <jump line="90" column="16" filename="$USER_HOME$/projects/gateway/licu/do_update.py" />
       <jump line="94" column="11" filename="$USER_HOME$/projects/gateway/licu/do_update.py" />
       <jump line="126" column="31" filename="$USER_HOME$/projects/gateway/licu/do_update.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/projects/gateway/licu/do_update.py" />
       <jump line="6" column="10" filename="$USER_HOME$/projects/gateway/licu/do_update.py" />
       <jump line="111" column="16" filename="$USER_HOME$/projects/gateway/licu/do_update.py" />
       <jump line="189" column="38" filename="$USER_HOME$/projects/gateway/licu/do_update.py" />
       <jump line="342" column="0" filename="$USER_HOME$/projects/gateway/licu/do_update.py" />
       <jump line="404" column="7" filename="$USER_HOME$/projects/gateway/licu/do_update.py" />
       <jump line="395" column="3" filename="$USER_HOME$/projects/gateway/licu/do_update.py" />
+      <jump line="196" column="22" filename="$USER_HOME$/projects/gateway/licu/do_update.py" />
+      <jump line="222" column="8" filename="$USER_HOME$/projects/gateway/licu/do_update.py" />
+      <jump line="190" column="12" filename="$USER_HOME$/projects/gateway/licu/do_update.py" />
+      <jump line="441" column="66" filename="$USER_HOME$/projects/gateway/licu/do_update.py" />
+      <jump line="162" column="29" filename="$USER_HOME$/projects/gateway/licu/do_update.py" />
+      <jump line="142" column="26" filename="$USER_HOME$/projects/gateway/licu/do_update.py" />
+      <jump line="108" column="48" filename="$USER_HOME$/projects/gateway/licu/do_update.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/gateway/licu/do_update.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>'</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIGxvZzoKICAgICAgICAgICAgICAgICAgICBsb2cud3JpdGUob3V0ICsgZW5kKQo=</text>
       </register>
       <register name="-" type="4">
-        <text>'</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>sanitize</text>
+        <text>logger</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">ICAgIGNvbW1hbmQgPSBbJ3NlZCcsICctaS5iYWsnLCAnL3t9L2QnLmZvcm1hdChnd1sidlNSWCJdWyJpcCJdKSwga2hfZmlsZV0KICAgIGlmIG9zLnBhdGguaXNmaWxlKGtoX2ZpbGUpOgogICAgICAgIGxvZ2dlcigiQ2xlYW5pbmcgdXAge30gZnJvbSB7fSIuZm9ybWF0KGd3WyJ2U1JYIl1bImlwIl0sIGtoX2ZpbGUpKQogICAgICAgIGxvZ2dlcihzdHIoY29tbWFuZCkpCiAgICAgICAgdHJ5OgogICAgICAgICAgICBvdXRwdXQgPSBzdWJwcm9jZXNzLmNoZWNrX291dHB1dChjb21tYW5kKQogICAgICAgICAgICBtc2cgPSAnU3VjY2Vzc2Z1bGx5IHVwZGF0ZWQgJyArIGtoX2ZpbGUKICAgICAgICAgICAgbG9nZ2VyKG1zZykKICAgICAgICBleGNlcHQgc3VicHJvY2Vzcy5DYWxsZWRQcm9jZXNzRXJyb3I6CiAgICAgICAgICAgIGxvZ2dlcigiRmFpbGVkIHRvIHVwZGF0ZSBmaWxlIHt9Ii5mb3JtYXQoa2hfZmlsZSkpCiAgICAgICAgICAgIGxvZ2dlcihvdXRwdXQpCiAgICBlbHNlOgogICAgICAgIGxvZ2dlcigiRmlsZSB7fSBub3QgZm91bmQiLmZvcm1hdChraF9maWxlKSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIGxvZzoKICAgICAgICAgICAgICAgICAgICBsb2cud3JpdGUob3V0ICsgZW5kKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBjb21tYW5kLmFwcGVuZCgnJykK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBjb21tYW5kID0gWydzZWQnLCctaS5iYWsnLCAnL3t9L2QnLmZvcm1hdChpZ25vcmVfc3RyKSwgY29uZl9maWxlXQo=</text>
+      <register name="3" type="4">
+        <text encoding="base64">ICAgICIiIgogICAgbG9nZ2VyKCI9PT09PT09PT09PT09IFBSRSA9PT09PT09PT09PT09PT09IikKICAgIGxvZ2dlcihwcmVfY29uZmlnKQogICAgbG9nZ2VyKCI9PT09PT09PT09PT09IFBPU1QgPT09PT09PT09PT09PT09PSIpCiAgICBsb2dnZXIocG9zdF9jb25maWcpCiAgICAiIiIK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGZvciAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICIiIgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIGVycm9yOgogICAgICAgICAgICAgICAgICAgIGNvbG9yID0gVGV4dENvbG9yLkZBSUwKICAgICAgICAgICAgICAgICAgICBjbG9zZSA9IFRleHRDb2xvci5FTkRDCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICQgYXdrICchL2NvbW1pdC1zZWNvbmRzfGNvbW1pdC1sb2NhbHRpbWUvJyAvIHRtcCAvIHByZSAtIHVwZ3JhZGUgLSBjb25maWcub3V0IHwgbW9yZQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KCJvdXQ6IiArIG91dCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbmZpZ3VyYXRpb24gY2hhbmdlcyBkdXJpbmcgb3BlcmF0aW9uCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGVsc2U6Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICMgdmVyaWZ5IGludGVyZmFjZXMK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICMgdmVyaWZ5IHByaW1hcnkvc2Vjb25kYXJ5Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjbG9zZSA9ICcnCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>sanitize</last-search>
+      <last-search>logger</last-search>
       <last-offset />
-      <last-pattern>sanitize</last-pattern>
+      <last-pattern>logger</last-pattern>
       <last-replace>CodeSimpleSchema</last-replace>
       <last-substitute>CodeSchema</last-substitute>
       <last-dir>1</last-dir>
@@ -1171,7 +1171,6 @@
     </search>
     <history>
       <history-search>
-        <entry>492</entry>
         <entry>pre_config</entry>
         <entry>pre_upgrade</entry>
         <entry>run_remote</entry>
@@ -1182,7 +1181,6 @@
         <entry>log_file</entry>
         <entry>load</entry>
         <entry>shutdown</entry>
-        <entry>logger</entry>
         <entry>end</entry>
         <entry>pre_</entry>
         <entry>subprocess</entry>
@@ -1191,14 +1189,10 @@
         <entry>validate_config</entry>
         <entry>saniti</entry>
         <entry>sanitize</entry>
+        <entry>ERROR</entry>
+        <entry>logger</entry>
       </history-search>
       <history-cmd>
-        <entry>40</entry>
-        <entry>181</entry>
-        <entry>53</entry>
-        <entry>79</entry>
-        <entry>89</entry>
-        <entry>119</entry>
         <entry>195</entry>
         <entry>830</entry>
         <entry>q!</entry>
@@ -1211,6 +1205,12 @@
         <entry>492</entry>
         <entry>360</entry>
         <entry>$</entry>
+        <entry>19</entry>
+        <entry>192</entry>
+        <entry>147</entry>
+        <entry>146</entry>
+        <entry>86</entry>
+        <entry>286</entry>
         <entry>0</entry>
         <entry>w</entry>
       </history-cmd>
