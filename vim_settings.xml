@@ -415,12 +415,12 @@
         <mark key="^" line="4" column="20" />
         <mark key="." line="4" column="20" />
       </file>
-      <file name="$USER_HOME$/projects/gateway/licu/do_update.py" timestamp="1552019602010">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="362" column="19" />
-        <mark key="]" line="362" column="19" />
-        <mark key="." line="362" column="19" />
-        <mark key="^" line="357" column="53" />
+      <file name="$USER_HOME$/projects/gateway/licu/do_update.py" timestamp="1552022908922">
+        <mark key="'" line="189" column="38" />
+        <mark key="[" line="306" column="20" />
+        <mark key="]" line="306" column="21" />
+        <mark key="." line="306" column="21" />
+        <mark key="^" line="306" column="21" />
       </file>
       <file name="$USER_HOME$/Sites/FlaskApp/templates/main.html" timestamp="1514248206422">
         <mark key="[" line="5" column="0" />
@@ -1015,8 +1015,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="34" column="36" filename="$USER_HOME$/projects/gateway/licu/do_update.py" />
-      <jump line="38" column="38" filename="$USER_HOME$/projects/gateway/licu/do_update.py" />
       <jump line="445" column="0" filename="$USER_HOME$/projects/gateway/licu/do_update.py" />
       <jump line="143" column="6" filename="$USER_HOME$/projects/gateway/licu/do_update.py" />
       <jump line="144" column="39" filename="$USER_HOME$/projects/gateway/licu/do_update.py" />
@@ -1024,7 +1022,6 @@
       <jump line="450" column="0" filename="$USER_HOME$/projects/gateway/licu/do_update.py" />
       <jump line="187" column="0" filename="$USER_HOME$/projects/gateway/licu/vsrx-skip-licu-dev/srx-licu.py" />
       <jump line="1411" column="37" filename="$USER_HOME$/projects/gateway/licu/vsrx-skip-licu-dev/srx-licu.py" />
-      <jump line="6" column="10" filename="$USER_HOME$/projects/gateway/licu/do_update.py" />
       <jump line="43" column="67" filename="$USER_HOME$/projects/gateway/licu/do_update.py" />
       <jump line="1413" column="32" filename="$USER_HOME$/projects/gateway/licu/vsrx-skip-licu-dev/srx-licu.py" />
       <jump line="1589" column="17" filename="$USER_HOME$/projects/gateway/licu/vsrx-skip-licu-dev/srx-licu.py" />
@@ -1115,55 +1112,58 @@
       <jump line="94" column="11" filename="$USER_HOME$/projects/gateway/licu/do_update.py" />
       <jump line="126" column="31" filename="$USER_HOME$/projects/gateway/licu/do_update.py" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/gateway/licu/do_update.py" />
+      <jump line="6" column="10" filename="$USER_HOME$/projects/gateway/licu/do_update.py" />
+      <jump line="111" column="16" filename="$USER_HOME$/projects/gateway/licu/do_update.py" />
+      <jump line="189" column="38" filename="$USER_HOME$/projects/gateway/licu/do_update.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>,</text>
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>pre_</text>
+        <text>known</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">ICAgIHBhcnNlci5hZGRfYXJndW1lbnQoIi1kIiwgIi0tZGVidWciLAogICAgICAgICAgICAgICAgICAgICAgICByZXF1aXJlZD1GYWxzZSwKICAgICAgICAgICAgICAgICAgICAgICAgYWN0aW9uPSdzdG9yZV90cnVlJywKICAgICAgICAgICAgICAgICAgICAgICAgZGVmYXVsdD1UcnVlLAogICAgICAgICAgICAgICAgICAgICAgICBoZWxwPSJkaXNwbGF5IGRlYnVnIG91dHB1dCIpCg==</text>
+        <text encoding="base64">ICAgIGNvbW1hbmQgPSBbJ3NlZCcsICctaS5iYWsnLCAnL3t9L2QnLmZvcm1hdChnd1sidlNSWCJdWyJpcCJdKSwga2hfZmlsZV0KICAgIGlmIG9zLnBhdGguaXNmaWxlKGtoX2ZpbGUpOgogICAgICAgIGxvZ2dlcigiQ2xlYW5pbmcgdXAge30gZnJvbSB7fSIuZm9ybWF0KGd3WyJ2U1JYIl1bImlwIl0sIGtoX2ZpbGUpKQogICAgICAgIGxvZ2dlcihzdHIoY29tbWFuZCkpCiAgICAgICAgdHJ5OgogICAgICAgICAgICBvdXRwdXQgPSBzdWJwcm9jZXNzLmNoZWNrX291dHB1dChjb21tYW5kKQogICAgICAgICAgICBtc2cgPSAnU3VjY2Vzc2Z1bGx5IHVwZGF0ZWQgJyArIGtoX2ZpbGUKICAgICAgICAgICAgbG9nZ2VyKG1zZykKICAgICAgICBleGNlcHQgc3VicHJvY2Vzcy5DYWxsZWRQcm9jZXNzRXJyb3I6CiAgICAgICAgICAgIGxvZ2dlcigiRmFpbGVkIHRvIHVwZGF0ZSBmaWxlIHt9Ii5mb3JtYXQoa2hfZmlsZSkpCiAgICAgICAgICAgIGxvZ2dlcihvdXRwdXQpCiAgICBlbHNlOgogICAgICAgIGxvZ2dlcigiRmlsZSB7fSBub3QgZm91bmQiLmZvcm1hdChraF9maWxlKSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICIiIgo=</text>
+        <text encoding="base64">ICAgIGZvciBpZ25vcmVfc3RyIGluIGlnbm9yZV9saXN0Ogo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICIiIgo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICIiIgo=</text>
+        <text encoding="base64">ICAgCg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="4" type="4">
+        <text encoding="base64">ICAgICMgaWdub3JlIHN0cmluZ3MgY29udGFpbmluZyB0aGUgZm9sbG93aW5nOgogICAgaWdub3JlX2xpc3QgPSBbCiAgICAgICAgImNvbW1pdC1zZWNvbmRzIiwKICAgICAgICAiY29tbWl0LWxvY2FsdGltZSIKICAgIF0KIA==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="5" type="4">
+        <text encoding="base64">ICAgIHdpdGggb3BlbihwcmVfdXBncmFkZV9jb25maWdfZmlsZSkgYXMgcDE6CiAgICAgICAgcHJlX2NvbmZpZyA9IHAxLnJlYWQoKQoKICAgIHdpdGggb3Blbihwb3N0X3VwZ3JhZGVfY29uZmlnX2ZpbGUpIGFzIHAyOgogICAgICAgIHBvc3RfY29uZmlnID0gcDIucmVhZCgpCgogICAgbG9nZ2VyKCI9PT09PT09PT09PT09IFBSRSA9PT09PT09PT09PT09PT09IikKICAgIGxvZ2dlcihwcmVfY29uZmlnKQogICAgbG9nZ2VyKCI9PT09PT09PT09PT09IFBPU1QgPT09PT09PT09PT09PT09PSIpCiAgICBsb2dnZXIocG9zdF9jb25maWcpCgogICAgZGVsdGEgPSBkaWZmbGliLnVuaWZpZWRfZGlmZihwcmVfY29uZmlnLnNwbGl0bGluZXMoKSwgcG9zdF9jb25maWcuc3BsaXRsaW5lcygpLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBmcm9tZmlsZT1wcmVfdXBncmFkZV9jb25maWdfZmlsZSwgdG9maWxlPXBvc3RfdXBncmFkZV9jb25maWdfZmlsZSkKCiAgICBsb2dnZXIoIkNvbmZpZ3VyYXRpb24gZGlmZmVyZW5jZXM6IikKICAgIGRpZmZzID0gW10KICAgIGZvciBsaW5lIGluIGRlbHRhOgogICAgICAgIGxvZ2dlcihsaW5lKQo=</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">ZGVmIGNmZ19jb21wYXJlKHByZV9jZmcsIHBvc3RfY2ZnLCBwYXRoKToKICAgIGlmIG5vdCBpc2luc3RhbmNlKHByZV9jZmcsIGRpY3QpOgogICAgICAgICMgaWYgbm90IGRpY3Rpb25hcnksIGNvbXBhcmUgdmFsdWVzIGRpcmVjdGx5CiAgICAgICAgaWYgaXNpbnN0YW5jZShwb3N0X2NmZywgZGljdCk6CiAgICAgICAgICAgIGxvZ2dlcigiRVJST1I6IHt9IikgICAgICAgICAgICAKICAgIGZvciBrZXlzIGluIGNmZzEua2V5cygpICAgIAo=</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBsb2dnZXIobGluZSwgbm9fdHM9VHJ1ZSwgbG9nX2ZpbGU9b3V0cHV0KQo=</text>
+        <text encoding="base64">ICAgICIiIgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIG91dHB1dDoK</text>
+        <text encoding="base64">ICAgICIiIgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICIiIgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>pre_</last-search>
+      <last-search>known</last-search>
       <last-offset />
-      <last-pattern>pre_</last-pattern>
+      <last-pattern>known</last-pattern>
       <last-replace>CodeSimpleSchema</last-replace>
       <last-substitute>CodeSchema</last-substitute>
       <last-dir>1</last-dir>
@@ -1171,9 +1171,6 @@
     </search>
     <history>
       <history-search>
-        <entry>run_ibm_up</entry>
-        <entry>Running pre-</entry>
-        <entry>Remote command failed</entry>
         <entry>TEST</entry>
         <entry>Restarting Nodes</entry>
         <entry>sleep</entry>
@@ -1191,6 +1188,9 @@
         <entry>logger</entry>
         <entry>end</entry>
         <entry>pre_</entry>
+        <entry>subprocess</entry>
+        <entry>knwon</entry>
+        <entry>known</entry>
       </history-search>
       <history-cmd>
         <entry>40</entry>
@@ -1211,8 +1211,8 @@
         <entry>492</entry>
         <entry>360</entry>
         <entry>$</entry>
-        <entry>0</entry>
         <entry>w</entry>
+        <entry>0</entry>
       </history-cmd>
       <history-expr />
       <history-input />
