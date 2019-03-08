@@ -415,12 +415,12 @@
         <mark key="^" line="4" column="20" />
         <mark key="." line="4" column="20" />
       </file>
-      <file name="$USER_HOME$/projects/gateway/licu/do_update.py" timestamp="1552023484127">
-        <mark key="'" line="189" column="38" />
-        <mark key="[" line="408" column="0" />
-        <mark key="]" line="408" column="0" />
-        <mark key="^" line="407" column="62" />
-        <mark key="." line="408" column="0" />
+      <file name="$USER_HOME$/projects/gateway/licu/do_update.py" timestamp="1552024756047">
+        <mark key="'" line="404" column="7" />
+        <mark key="[" line="310" column="70" />
+        <mark key="]" line="310" column="70" />
+        <mark key="^" line="310" column="70" />
+        <mark key="." line="310" column="70" />
       </file>
       <file name="$USER_HOME$/Sites/FlaskApp/templates/main.html" timestamp="1514248206422">
         <mark key="[" line="5" column="0" />
@@ -1015,8 +1015,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="445" column="0" filename="$USER_HOME$/projects/gateway/licu/do_update.py" />
-      <jump line="143" column="6" filename="$USER_HOME$/projects/gateway/licu/do_update.py" />
       <jump line="144" column="39" filename="$USER_HOME$/projects/gateway/licu/do_update.py" />
       <jump line="368" column="4" filename="$USER_HOME$/projects/gateway/licu/do_update.py" />
       <jump line="450" column="0" filename="$USER_HOME$/projects/gateway/licu/do_update.py" />
@@ -1115,16 +1113,18 @@
       <jump line="6" column="10" filename="$USER_HOME$/projects/gateway/licu/do_update.py" />
       <jump line="111" column="16" filename="$USER_HOME$/projects/gateway/licu/do_update.py" />
       <jump line="189" column="38" filename="$USER_HOME$/projects/gateway/licu/do_update.py" />
+      <jump line="342" column="0" filename="$USER_HOME$/projects/gateway/licu/do_update.py" />
+      <jump line="404" column="7" filename="$USER_HOME$/projects/gateway/licu/do_update.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Q29uZmlndXJhdGlvbiA=</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>known</text>
+        <text>saniti</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">ICAgIGNvbW1hbmQgPSBbJ3NlZCcsICctaS5iYWsnLCAnL3t9L2QnLmZvcm1hdChnd1sidlNSWCJdWyJpcCJdKSwga2hfZmlsZV0KICAgIGlmIG9zLnBhdGguaXNmaWxlKGtoX2ZpbGUpOgogICAgICAgIGxvZ2dlcigiQ2xlYW5pbmcgdXAge30gZnJvbSB7fSIuZm9ybWF0KGd3WyJ2U1JYIl1bImlwIl0sIGtoX2ZpbGUpKQogICAgICAgIGxvZ2dlcihzdHIoY29tbWFuZCkpCiAgICAgICAgdHJ5OgogICAgICAgICAgICBvdXRwdXQgPSBzdWJwcm9jZXNzLmNoZWNrX291dHB1dChjb21tYW5kKQogICAgICAgICAgICBtc2cgPSAnU3VjY2Vzc2Z1bGx5IHVwZGF0ZWQgJyArIGtoX2ZpbGUKICAgICAgICAgICAgbG9nZ2VyKG1zZykKICAgICAgICBleGNlcHQgc3VicHJvY2Vzcy5DYWxsZWRQcm9jZXNzRXJyb3I6CiAgICAgICAgICAgIGxvZ2dlcigiRmFpbGVkIHRvIHVwZGF0ZSBmaWxlIHt9Ii5mb3JtYXQoa2hfZmlsZSkpCiAgICAgICAgICAgIGxvZ2dlcihvdXRwdXQpCiAgICBlbHNlOgogICAgICAgIGxvZ2dlcigiRmlsZSB7fSBub3QgZm91bmQiLmZvcm1hdChraF9maWxlKSkK</text>
@@ -1161,9 +1161,9 @@
       </register>
     </registers>
     <search>
-      <last-search>known</last-search>
+      <last-search>saniti</last-search>
       <last-offset />
-      <last-pattern>known</last-pattern>
+      <last-pattern>saniti</last-pattern>
       <last-replace>CodeSimpleSchema</last-replace>
       <last-substitute>CodeSchema</last-substitute>
       <last-dir>1</last-dir>
@@ -1171,8 +1171,6 @@
     </search>
     <history>
       <history-search>
-        <entry>TEST</entry>
-        <entry>Restarting Nodes</entry>
         <entry>sleep</entry>
         <entry>492</entry>
         <entry>pre_config</entry>
@@ -1191,6 +1189,8 @@
         <entry>subprocess</entry>
         <entry>knwon</entry>
         <entry>known</entry>
+        <entry>validate_config</entry>
+        <entry>saniti</entry>
       </history-search>
       <history-cmd>
         <entry>40</entry>
