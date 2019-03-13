@@ -852,6 +852,12 @@
         <mark key="^" line="4" column="11" />
         <mark key="." line="266" column="34" />
       </file>
+      <file name="$USER_HOME$/projects/gateway/licu/vsrx-licu/remote_node_rollback.py" timestamp="1552504548891">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="^" line="22" column="0" />
+        <mark key="." line="22" column="0" />
+      </file>
       <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/templates/ess/code_table_headers.html" timestamp="1520814619754">
         <mark key="[" line="4" column="8" />
         <mark key="]" line="4" column="12" />
