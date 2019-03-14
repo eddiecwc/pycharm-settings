@@ -414,12 +414,12 @@
         <mark key="^" line="4" column="20" />
         <mark key="." line="4" column="20" />
       </file>
-      <file name="$USER_HOME$/projects/gateway/licu/do_update.py" timestamp="1552582048502">
+      <file name="$USER_HOME$/projects/gateway/licu/do_update.py" timestamp="1552591694100">
         <mark key="'" line="482" column="7" />
-        <mark key="[" line="397" column="4" />
-        <mark key="]" line="397" column="4" />
-        <mark key="^" line="402" column="5" />
-        <mark key="." line="397" column="4" />
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="^" line="21" column="0" />
+        <mark key="." line="21" column="0" />
       </file>
       <file name="$USER_HOME$/Sites/FlaskApp/templates/main.html" timestamp="1514248206422">
         <mark key="[" line="5" column="0" />
@@ -959,6 +959,13 @@
       <file name="$USER_HOME$/projects/gateway/Juniper_vSRX_on_KVM.15.1x/build_kvm_int.py" timestamp="1550867835559">
         <mark key="'" line="65" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/gateway/licu/common.py" timestamp="1552591646091">
+        <mark key="'" line="22" column="0" />
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="^" line="193" column="25" />
+        <mark key="." line="3" column="0" />
+      </file>
       <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/templates/header.html" timestamp="1524258428723">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="5" column="0" />
@@ -1027,11 +1034,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="206" column="64" filename="$USER_HOME$/projects/gateway/licu/do_update.py" />
-      <jump line="14" column="16" filename="$USER_HOME$/projects/gateway/licu/vsrx-skip-licu-dev/srx-licu.py" />
-      <jump line="265" column="4" filename="$USER_HOME$/projects/gateway/licu/vsrx-skip-licu-dev/srx-licu.py" />
-      <jump line="285" column="4" filename="$USER_HOME$/projects/gateway/licu/vsrx-skip-licu-dev/srx-licu.py" />
-      <jump line="362" column="4" filename="$USER_HOME$/projects/gateway/licu/vsrx-skip-licu-dev/srx-licu.py" />
       <jump line="382" column="4" filename="$USER_HOME$/projects/gateway/licu/vsrx-skip-licu-dev/srx-licu.py" />
       <jump line="460" column="4" filename="$USER_HOME$/projects/gateway/licu/vsrx-skip-licu-dev/srx-licu.py" />
       <jump line="479" column="4" filename="$USER_HOME$/projects/gateway/licu/vsrx-skip-licu-dev/srx-licu.py" />
@@ -1127,55 +1129,60 @@
       <jump line="41" column="12" filename="$USER_HOME$/projects/gateway/licu/json-test.py" />
       <jump line="42" column="12" filename="$USER_HOME$/projects/gateway/licu/json-test.py" />
       <jump line="43" column="12" filename="$USER_HOME$/projects/gateway/licu/json-test.py" />
+      <jump line="146" column="11" filename="$USER_HOME$/projects/gateway/licu/common.py" />
+      <jump line="95" column="0" filename="$USER_HOME$/projects/gateway/licu/common.py" />
+      <jump line="36" column="0" filename="$USER_HOME$/projects/gateway/licu/common.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/gateway/licu/common.py" />
+      <jump line="35" column="0" filename="$USER_HOME$/projects/gateway/licu/common.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IyA=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ZnJvbSBqbnByLmp1bm9zIGltcG9ydCBEZXZpY2UK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IyA=</text>
+        <text>H</text>
       </register>
       <register name="/" type="4">
-        <text>print</text>
+        <text>HOME</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGxvZ2dlcigiajEge30gPSB7fSIuZm9ybWF0KHBhdGgsIGoxKSkKICAgICAgICAgICAgICAgIGxvZ2dlcigiajIge30gPSB7fSIuZm9ybWF0KHBhdGgsIGoyKSkK</text>
+        <text encoding="base64">ICAgIDpwYXJhbSBkZWJ1Z19tc2c6IHRoaXMgaXMgYSBkZWJ1ZyBvdXRwdXQK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnJvbSBqbnByLmp1bm9zIGltcG9ydCBEZXZpY2UK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBzYW1lX2NvbmZpZwo=</text>
+        <text encoding="base64">ZnJvbSBwcHJpbnQgaW1wb3J0IHBwcmludCwgcGZvcm1hdAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dnZXIobGluZSwgZXJyb3I9VHJ1ZSkK</text>
+        <text encoding="base64">ZnJvbSBkYXRldGltZSBpbXBvcnQgZGF0ZXRpbWUK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBzYW1lX2NvbmZpZyA9IEZhbHNlCg==</text>
+        <text encoding="base64">aW1wb3J0IHJlCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGZvciBsaW5lIGluIGRlbHRhOgo=</text>
+        <text encoding="base64">aW1wb3J0IHlhbWwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHNhbWVfY29uZmlnID0gVHJ1ZQo=</text>
+        <text encoding="base64">aW1wb3J0IHN5cwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGxvZ2dlcigiQ29uZmlndXJhdGlvbiBkaWZmZXJlbmNlczoiKQo=</text>
+        <text encoding="base64">aW1wb3J0IHN1YnByb2Nlc3MK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoImoyID0ge30iLmZvcm1hdChqMikpCg==</text>
+        <text encoding="base64">aW1wb3J0IG9zCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoImoxID0ge30iLmZvcm1hdChqMSkpCg==</text>
+        <text encoding="base64">aW1wb3J0IHBhcmFtaWtvCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>print</last-search>
+      <last-search>HOME</last-search>
       <last-offset />
-      <last-pattern>print</last-pattern>
+      <last-pattern>HOME</last-pattern>
       <last-replace>CodeSimpleSchema</last-replace>
       <last-substitute>CodeSchema</last-substitute>
       <last-dir>1</last-dir>
@@ -1183,10 +1190,6 @@
     </search>
     <history>
       <history-search>
-        <entry>cli show chassis cluster</entry>
-        <entry>run_remote_command_on</entry>
-        <entry>output</entry>
-        <entry>log_file</entry>
         <entry>load</entry>
         <entry>shutdown</entry>
         <entry>end</entry>
@@ -1203,6 +1206,10 @@
         <entry>validate</entry>
         <entry>Difference</entry>
         <entry>print</entry>
+        <entry>get_node</entry>
+        <entry>gw</entry>
+        <entry>home</entry>
+        <entry>HOME</entry>
       </history-search>
       <history-cmd>
         <entry>830</entry>
@@ -1223,8 +1230,8 @@
         <entry>286</entry>
         <entry>9</entry>
         <entry>$</entry>
-        <entry>w</entry>
         <entry>0</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
