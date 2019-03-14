@@ -472,6 +472,12 @@
         <mark key="^" line="21" column="103" />
         <mark key="." line="21" column="103" />
       </file>
+      <file name="$USER_HOME$/projects/gateway/licu/json-test.py" timestamp="1552578922328">
+        <mark key="[" line="37" column="40" />
+        <mark key="]" line="37" column="41" />
+        <mark key="." line="37" column="41" />
+        <mark key="^" line="36" column="38" />
+      </file>
       <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/schemas/gateway_schema.py" timestamp="1525921892188">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="0" />
@@ -1122,44 +1128,44 @@
       <jump line="438" column="7" filename="$USER_HOME$/projects/gateway/licu/do_update.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>e</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KCJqMXt9ID0gIiwgcGF0aCwgajEpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text encoding="base64">ajEg</text>
       </register>
       <register name="/" type="4">
         <text>validate</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBqc29uLmR1bXAocHJlX2NvbmZpZ19qc29uLCBpbmRlbnQ9NCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KCJqMXt9ID0gIiwgcGF0aCwgajEpCg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIGpzb24uZHVtcChwcmVfY29uKQo=</text>
+      <register name="1" type="4">
+        <text encoding="base64">cmVzdWx0CiAgICAgICAg</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZnJvbWZpbGU9cHJlX3VwZ3JhZGVfY29uZmlnX2ZpbGUsIHRvZmlsZT1wb3N0X3VwZ3JhZGVfY29uZmlnX2ZpbGUpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGRlbHRhID0gZGlmZmxpYi51bmlmaWVkX2RpZmYocHJlX2NvbmZpZy5zcGxpdGxpbmVzKCksIHBvc3RfY29uZmlnLnNwbGl0bGluZXMoKSwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwb3N0X2NvbmZpZyA9IHAyLnJlYWQoKQo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwcmVfY29uZmlnID0gcDEucmVhZCgpCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIGxvZzoKICAgICAgICAgICAgICAgICAgICBsb2cud3JpdGUob3V0ICsgZW5kKQo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">ICAgICIiIgogICAgbG9nZ2VyKCI9PT09PT09PT09PT09IFBSRSA9PT09PT09PT09PT09PT09IikKICAgIGxvZ2dlcihwcmVfY29uZmlnKQogICAgbG9nZ2VyKCI9PT09PT09PT09PT09IFBPU1QgPT09PT09PT09PT09PT09PSIpCiAgICBsb2dnZXIocG9zdF9jb25maWcpCiAgICAiIiIK</text>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICB1bHQK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgIyBqMiBkb2VzIG5vdCBoYXZlIHRoZSBzYW1lIGtleQo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgIGpzb24uZHVtcChwcmVfY29uKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -1198,7 +1204,6 @@
         <entry>validate</entry>
       </history-search>
       <history-cmd>
-        <entry>195</entry>
         <entry>830</entry>
         <entry>q!</entry>
         <entry>wq</entry>
@@ -1209,7 +1214,6 @@
         <entry>0-</entry>
         <entry>492</entry>
         <entry>360</entry>
-        <entry>$</entry>
         <entry>19</entry>
         <entry>192</entry>
         <entry>147</entry>
@@ -1217,6 +1221,8 @@
         <entry>86</entry>
         <entry>286</entry>
         <entry>0</entry>
+        <entry>9</entry>
+        <entry>$</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
