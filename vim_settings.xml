@@ -226,8 +226,8 @@
         <mark key="." line="38" column="36" />
       </file>
       <file name="$USER_HOME$/projects/gateway/licu/vsrx-skip-licu-dev/srx-licu.py" timestamp="1551827304313">
-        <mark key="[" line="1419" column="0" />
-        <mark key="]" line="1419" column="46" />
+        <mark key="[" line="1418" column="0" />
+        <mark key="]" line="1418" column="46" />
         <mark key="^" line="17" column="10" />
         <mark key="." line="17" column="10" />
       </file>
@@ -713,9 +713,6 @@
       </file>
       <file name="$USER_HOME$/projects/gateway/licu/vsrx-licu/srx-licu.py" timestamp="1552514014104">
         <mark key="[" line="27" column="22" />
-        <mark key="]" line="28" column="0" />
-        <mark key="^" line="28" column="0" />
-        <mark key="." line="28" column="0" />
       </file>
       <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/ess_systems/routes.py" timestamp="1517326308023">
         <mark key="'" line="10" column="41" />
@@ -859,9 +856,6 @@
       </file>
       <file name="$USER_HOME$/projects/gateway/licu/vsrx-licu/remote_node_rollback.py" timestamp="1552504548891">
         <mark key="[" line="21" column="0" />
-        <mark key="]" line="22" column="0" />
-        <mark key="^" line="22" column="0" />
-        <mark key="." line="22" column="0" />
       </file>
       <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/templates/ess/code_table_headers.html" timestamp="1520814619754">
         <mark key="[" line="4" column="8" />
