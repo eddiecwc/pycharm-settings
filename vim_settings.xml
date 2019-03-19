@@ -627,6 +627,9 @@
         <mark key="^" line="188" column="20" />
         <mark key="." line="188" column="20" />
       </file>
+      <file name="$USER_HOME$/projects/gateway/vsrx-arista/build_kvm_int.py" timestamp="1553036490614">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Sites/ESS-Monitor/tasks.py" timestamp="1519899651553">
         <mark key="[" line="7" column="22" />
         <mark key="]" line="9" column="0" />
@@ -1036,7 +1039,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="72" column="3" filename="$USER_HOME$/projects/gateway/licu/do_update.py" />
       <jump line="299" column="8" filename="$USER_HOME$/projects/gateway/licu/do_update.py" />
       <jump line="304" column="11" filename="$USER_HOME$/projects/gateway/licu/do_update.py" />
       <jump line="209" column="45" filename="$USER_HOME$/projects/gateway/licu/do_update.py" />
@@ -1136,6 +1138,7 @@
       <jump line="354" column="9" filename="$USER_HOME$/projects/gateway/licu/do_update.py" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/gateway/licu/do_update.py" />
       <jump line="398" column="3" filename="$USER_HOME$/projects/gateway/licu/vsrx-licu/modified_vsrx_upgrade.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/gateway/vsrx-arista/build_kvm_int.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -1145,7 +1148,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>load</text>
+        <text>br-ct</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIDpwYXJhbSBkZWJ1Z19tc2c6IHRoaXMgaXMgYSBkZWJ1ZyBvdXRwdXQK</text>
@@ -1182,9 +1185,9 @@
       </register>
     </registers>
     <search>
-      <last-search>load</last-search>
+      <last-search>br-ct</last-search>
       <last-offset />
-      <last-pattern>load</last-pattern>
+      <last-pattern>br-ct</last-pattern>
       <last-replace>CodeSimpleSchema</last-replace>
       <last-substitute>CodeSchema</last-substitute>
       <last-dir>1</last-dir>
@@ -1192,7 +1195,6 @@
     </search>
     <history>
       <history-search>
-        <entry>ERROR</entry>
         <entry>json</entry>
         <entry>validate</entry>
         <entry>Difference</entry>
@@ -1212,6 +1214,7 @@
         <entry>mode</entry>
         <entry>opmode</entry>
         <entry>load</entry>
+        <entry>br-ct</entry>
       </history-search>
       <history-cmd>
         <entry>830</entry>
