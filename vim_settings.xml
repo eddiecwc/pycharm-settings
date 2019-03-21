@@ -414,8 +414,8 @@
         <mark key="^" line="4" column="20" />
         <mark key="." line="4" column="20" />
       </file>
-      <file name="$USER_HOME$/projects/gateway/licu/do_update.py" timestamp="1553194344340">
-        <mark key="'" line="299" column="41" />
+      <file name="$USER_HOME$/projects/gateway/licu/do_update.py" timestamp="1553196742350">
+        <mark key="'" line="23" column="8" />
         <mark key="[" line="76" column="36" />
         <mark key="]" line="78" column="0" />
         <mark key="^" line="78" column="0" />
@@ -965,12 +965,12 @@
       <file name="$USER_HOME$/projects/gateway/Juniper_vSRX_on_KVM.15.1x/build_kvm_int.py" timestamp="1550867835559">
         <mark key="'" line="65" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/gateway/licu/common.py" timestamp="1553194214687">
-        <mark key="'" line="75" column="18" />
-        <mark key="[" line="87" column="0" />
-        <mark key="]" line="87" column="0" />
-        <mark key="^" line="30" column="52" />
-        <mark key="." line="87" column="0" />
+      <file name="$USER_HOME$/projects/gateway/licu/common.py" timestamp="1553196813871">
+        <mark key="'" line="27" column="4" />
+        <mark key="[" line="130" column="0" />
+        <mark key="]" line="131" column="39" />
+        <mark key="^" line="131" column="39" />
+        <mark key="." line="131" column="39" />
       </file>
       <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/templates/header.html" timestamp="1524258428723">
         <mark key="'" line="0" column="0" />
@@ -1040,11 +1040,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="96" column="11" filename="$USER_HOME$/projects/gateway/licu/do_update.py" />
-      <jump line="102" column="14" filename="$USER_HOME$/projects/gateway/licu/do_update.py" />
-      <jump line="91" column="6" filename="$USER_HOME$/projects/gateway/licu/do_update.py" />
-      <jump line="119" column="3" filename="$USER_HOME$/projects/gateway/licu/do_update.py" />
-      <jump line="157" column="6" filename="$USER_HOME$/projects/gateway/licu/do_update.py" />
       <jump line="160" column="50" filename="$USER_HOME$/projects/gateway/licu/do_update.py" />
       <jump line="437" column="11" filename="$USER_HOME$/projects/gateway/licu/do_update.py" />
       <jump line="362" column="0" filename="$USER_HOME$/projects/gateway/licu/do_update.py" />
@@ -1122,7 +1117,6 @@
       <jump line="350" column="14" filename="$USER_HOME$/projects/gateway/licu/do_update.py" />
       <jump line="352" column="60" filename="$USER_HOME$/projects/gateway/licu/do_update.py" />
       <jump line="354" column="9" filename="$USER_HOME$/projects/gateway/licu/do_update.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/projects/gateway/licu/do_update.py" />
       <jump line="398" column="3" filename="$USER_HOME$/projects/gateway/licu/vsrx-licu/modified_vsrx_upgrade.py" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/gateway/vsrx-arista/build_kvm_int.py" />
       <jump line="37" column="24" filename="$USER_HOME$/projects/gateway/licu/do_update.py" />
@@ -1140,6 +1134,12 @@
       <jump line="276" column="16" filename="$USER_HOME$/projects/gateway/licu/do_update.py" />
       <jump line="282" column="16" filename="$USER_HOME$/projects/gateway/licu/do_update.py" />
       <jump line="299" column="41" filename="$USER_HOME$/projects/gateway/licu/do_update.py" />
+      <jump line="30" column="45" filename="$USER_HOME$/projects/gateway/licu/common.py" />
+      <jump line="20" column="0" filename="$USER_HOME$/projects/gateway/licu/common.py" />
+      <jump line="26" column="11" filename="$USER_HOME$/projects/gateway/licu/common.py" />
+      <jump line="27" column="4" filename="$USER_HOME$/projects/gateway/licu/common.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/gateway/licu/do_update.py" />
+      <jump line="23" column="8" filename="$USER_HOME$/projects/gateway/licu/do_update.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -1149,7 +1149,7 @@
         <text>None</text>
       </register>
       <register name="/" type="4">
-        <text>run_remote_command</text>
+        <text>run_remote</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIDpwYXJhbSBkZWJ1Z19tc2c6IHRoaXMgaXMgYSBkZWJ1ZyBvdXRwdXQK</text>
@@ -1186,9 +1186,9 @@
       </register>
     </registers>
     <search>
-      <last-search>run_remote_command</last-search>
+      <last-search>run_remote</last-search>
       <last-offset />
-      <last-pattern>run_remote_command</last-pattern>
+      <last-pattern>run_remote</last-pattern>
       <last-replace>CodeSimpleSchema</last-replace>
       <last-substitute>CodeSchema</last-substitute>
       <last-dir>1</last-dir>
@@ -1196,7 +1196,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Difference</entry>
         <entry>print</entry>
         <entry>get_node</entry>
         <entry>gw</entry>
@@ -1213,9 +1212,10 @@
         <entry>opmode</entry>
         <entry>load</entry>
         <entry>br-ct</entry>
-        <entry>LOG_FILE</entry>
         <entry>log</entry>
         <entry>run_remote_command</entry>
+        <entry>LOG_FILE</entry>
+        <entry>run_remote</entry>
       </history-search>
       <history-cmd>
         <entry>wq</entry>
