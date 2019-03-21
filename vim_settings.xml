@@ -416,10 +416,10 @@
       </file>
       <file name="$USER_HOME$/projects/gateway/licu/do_update.py" timestamp="1552592589301">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="354" column="7" />
-        <mark key="]" line="354" column="8" />
-        <mark key="^" line="354" column="8" />
-        <mark key="." line="354" column="8" />
+        <mark key="[" line="359" column="7" />
+        <mark key="]" line="359" column="8" />
+        <mark key="^" line="359" column="8" />
+        <mark key="." line="359" column="8" />
       </file>
       <file name="$USER_HOME$/Sites/FlaskApp/templates/main.html" timestamp="1514248206422">
         <mark key="[" line="5" column="0" />
@@ -1148,7 +1148,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>br-ct</text>
+        <text>LOG_FILE</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIDpwYXJhbSBkZWJ1Z19tc2c6IHRoaXMgaXMgYSBkZWJ1ZyBvdXRwdXQK</text>
@@ -1181,13 +1181,13 @@
         <text encoding="base64">ZGVmIGdldF9ub2RlX2Rpc3BsYXkoaW5kZXgpOgogICAgaWYgaW5kZXggPT0gMjoKICAgICAgICBub2RlID0gZ3dbInZTUlgiXQogICAgZWxzZToKICAgICAgICBub2RlID0gZ3dbIm5vZGUiICsgc3RyKGluZGV4KV0KCiAgICByZXR1cm4gIm5vZGUge30gLSB7fSAoe30pIi5mb3JtYXQoaW5kZXgsIG5vZGVbJ25hbWUnXSwgbm9kZVsnaXAnXSkKCg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>98</text>
       </register>
     </registers>
     <search>
-      <last-search>br-ct</last-search>
+      <last-search>LOG_FILE</last-search>
       <last-offset />
-      <last-pattern>br-ct</last-pattern>
+      <last-pattern>LOG_FILE</last-pattern>
       <last-replace>CodeSimpleSchema</last-replace>
       <last-substitute>CodeSchema</last-substitute>
       <last-dir>1</last-dir>
@@ -1195,7 +1195,6 @@
     </search>
     <history>
       <history-search>
-        <entry>json</entry>
         <entry>validate</entry>
         <entry>Difference</entry>
         <entry>print</entry>
@@ -1215,10 +1214,9 @@
         <entry>opmode</entry>
         <entry>load</entry>
         <entry>br-ct</entry>
+        <entry>LOG_FILE</entry>
       </history-search>
       <history-cmd>
-        <entry>830</entry>
-        <entry>q!</entry>
         <entry>wq</entry>
         <entry>-0</entry>
         <entry>q</entry>
@@ -1235,8 +1233,10 @@
         <entry>286</entry>
         <entry>9</entry>
         <entry>$</entry>
-        <entry>0</entry>
         <entry>w</entry>
+        <entry>40</entry>
+        <entry>98</entry>
+        <entry>0</entry>
       </history-cmd>
       <history-expr />
       <history-input />
