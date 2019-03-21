@@ -414,12 +414,12 @@
         <mark key="^" line="4" column="20" />
         <mark key="." line="4" column="20" />
       </file>
-      <file name="$USER_HOME$/projects/gateway/licu/do_update.py" timestamp="1552592589301">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="359" column="7" />
-        <mark key="]" line="359" column="8" />
-        <mark key="^" line="359" column="8" />
-        <mark key="." line="359" column="8" />
+      <file name="$USER_HOME$/projects/gateway/licu/do_update.py" timestamp="1553194344340">
+        <mark key="'" line="299" column="41" />
+        <mark key="[" line="76" column="36" />
+        <mark key="]" line="78" column="0" />
+        <mark key="^" line="78" column="0" />
+        <mark key="." line="78" column="0" />
       </file>
       <file name="$USER_HOME$/Sites/FlaskApp/templates/main.html" timestamp="1514248206422">
         <mark key="[" line="5" column="0" />
@@ -965,11 +965,12 @@
       <file name="$USER_HOME$/projects/gateway/Juniper_vSRX_on_KVM.15.1x/build_kvm_int.py" timestamp="1550867835559">
         <mark key="'" line="65" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/gateway/licu/common.py" timestamp="1552592709019">
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="22" column="0" />
-        <mark key="^" line="187" column="14" />
-        <mark key="." line="22" column="0" />
+      <file name="$USER_HOME$/projects/gateway/licu/common.py" timestamp="1553194214687">
+        <mark key="'" line="75" column="18" />
+        <mark key="[" line="87" column="0" />
+        <mark key="]" line="87" column="0" />
+        <mark key="^" line="30" column="52" />
+        <mark key="." line="87" column="0" />
       </file>
       <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/templates/header.html" timestamp="1524258428723">
         <mark key="'" line="0" column="0" />
@@ -1039,21 +1040,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="299" column="8" filename="$USER_HOME$/projects/gateway/licu/do_update.py" />
-      <jump line="304" column="11" filename="$USER_HOME$/projects/gateway/licu/do_update.py" />
-      <jump line="209" column="45" filename="$USER_HOME$/projects/gateway/licu/do_update.py" />
-      <jump line="214" column="46" filename="$USER_HOME$/projects/gateway/licu/do_update.py" />
-      <jump line="255" column="45" filename="$USER_HOME$/projects/gateway/licu/do_update.py" />
-      <jump line="120" column="28" filename="$USER_HOME$/projects/gateway/licu/do_update.py" />
-      <jump line="310" column="31" filename="$USER_HOME$/projects/gateway/licu/do_update.py" />
-      <jump line="315" column="18" filename="$USER_HOME$/projects/gateway/licu/do_update.py" />
-      <jump line="235" column="6" filename="$USER_HOME$/projects/gateway/licu/do_update.py" />
-      <jump line="203" column="4" filename="$USER_HOME$/projects/gateway/licu/do_update.py" />
-      <jump line="1" column="0" filename="$USER_HOME$/projects/gateway/licu/do_update.py" />
-      <jump line="100" column="6" filename="$USER_HOME$/projects/gateway/licu/do_update.py" />
-      <jump line="141" column="12" filename="$USER_HOME$/projects/gateway/licu/do_update.py" />
-      <jump line="153" column="8" filename="$USER_HOME$/projects/gateway/licu/do_update.py" />
-      <jump line="49" column="48" filename="$USER_HOME$/projects/gateway/licu/do_update.py" />
       <jump line="96" column="11" filename="$USER_HOME$/projects/gateway/licu/do_update.py" />
       <jump line="102" column="14" filename="$USER_HOME$/projects/gateway/licu/do_update.py" />
       <jump line="91" column="6" filename="$USER_HOME$/projects/gateway/licu/do_update.py" />
@@ -1139,16 +1125,31 @@
       <jump line="0" column="0" filename="$USER_HOME$/projects/gateway/licu/do_update.py" />
       <jump line="398" column="3" filename="$USER_HOME$/projects/gateway/licu/vsrx-licu/modified_vsrx_upgrade.py" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/gateway/vsrx-arista/build_kvm_int.py" />
+      <jump line="37" column="24" filename="$USER_HOME$/projects/gateway/licu/do_update.py" />
+      <jump line="76" column="4" filename="$USER_HOME$/projects/gateway/licu/do_update.py" />
+      <jump line="92" column="50" filename="$USER_HOME$/projects/gateway/licu/do_update.py" />
+      <jump line="48" column="36" filename="$USER_HOME$/projects/gateway/licu/common.py" />
+      <jump line="53" column="18" filename="$USER_HOME$/projects/gateway/licu/common.py" />
+      <jump line="55" column="16" filename="$USER_HOME$/projects/gateway/licu/common.py" />
+      <jump line="71" column="22" filename="$USER_HOME$/projects/gateway/licu/common.py" />
+      <jump line="72" column="20" filename="$USER_HOME$/projects/gateway/licu/common.py" />
+      <jump line="54" column="13" filename="$USER_HOME$/projects/gateway/licu/common.py" />
+      <jump line="75" column="18" filename="$USER_HOME$/projects/gateway/licu/common.py" />
+      <jump line="120" column="52" filename="$USER_HOME$/projects/gateway/licu/do_update.py" />
+      <jump line="274" column="37" filename="$USER_HOME$/projects/gateway/licu/do_update.py" />
+      <jump line="276" column="16" filename="$USER_HOME$/projects/gateway/licu/do_update.py" />
+      <jump line="282" column="16" filename="$USER_HOME$/projects/gateway/licu/do_update.py" />
+      <jump line="299" column="41" filename="$USER_HOME$/projects/gateway/licu/do_update.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>None</text>
       </register>
       <register name="/" type="4">
-        <text>LOG_FILE</text>
+        <text>run_remote_command</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIDpwYXJhbSBkZWJ1Z19tc2c6IHRoaXMgaXMgYSBkZWJ1ZyBvdXRwdXQK</text>
@@ -1156,38 +1157,38 @@
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">IiIiCkRFQlVHID0gYXJncy5kZWJ1ZwpURVNUID0gYXJncy50ZXN0ClJPT1RfRElSID0gIi9yb290L2xpY3UiCk5PREVfTElTVF9GSUxFID0gb3MucGF0aC5yZWxwYXRoKCJjb25maWcvbm9kZS5saXN0IikKTElDVV9ESVIgPSBST09UX0RJUiArICIvdnNyeC1saWN1IgpJQk1fRElSID0gTElDVV9ESVIgKyAiL2libV9zZXR1cCIKUFJFX1NDUklQVCA9ICJpYm1fcHJlLnB5IgpQT1NUX1NDUklQVCA9ICJpYm1fcG9zdC5weSIKTElDVV9TQ1JJUFQgPSAic3J4LWxpY3UucHkiClZNX05BTUUgPSAidlNSWHZNMSIKVk1fSU1BR0VfRElSID0gIi92YXIvbGliL2xpYnZpcnQvaW1hZ2VzLyIgKyBWTV9OQU1FClZNX0lNQUdFID0gInZTUlhfSW1hZ2UucWNvdzIiClZNX0NMRUFOID0gVk1fSU1BR0UgKyAiLmJhY2t1cF8xNV9jbGVhbiIKIiIiCg==</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBsb2cgPSBOb25lCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIGVsc2U6Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBqc29uLmR1bXAK</text>
+        <text encoding="base64">ICAgIHdpdGggb3Blbihsb2dfZmlsZSwgImErIikgYXMgbG9nOgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgb3V0cHV0Ogo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="4">
+        <text encoding="base64">IiIiCkRFQlVHID0gYXJncy5kZWJ1ZwpURVNUID0gYXJncy50ZXN0ClJPT1RfRElSID0gIi9yb290L2xpY3UiCk5PREVfTElTVF9GSUxFID0gb3MucGF0aC5yZWxwYXRoKCJjb25maWcvbm9kZS5saXN0IikKTElDVV9ESVIgPSBST09UX0RJUiArICIvdnNyeC1saWN1IgpJQk1fRElSID0gTElDVV9ESVIgKyAiL2libV9zZXR1cCIKUFJFX1NDUklQVCA9ICJpYm1fcHJlLnB5IgpQT1NUX1NDUklQVCA9ICJpYm1fcG9zdC5weSIKTElDVV9TQ1JJUFQgPSAic3J4LWxpY3UucHkiClZNX05BTUUgPSAidlNSWHZNMSIKVk1fSU1BR0VfRElSID0gIi92YXIvbGliL2xpYnZpcnQvaW1hZ2VzLyIgKyBWTV9OQU1FClZNX0lNQUdFID0gInZTUlhfSW1hZ2UucWNvdzIiClZNX0NMRUFOID0gVk1fSU1BR0UgKyAiLmJhY2t1cF8xNV9jbGVhbiIKIiIiCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHNlcGFyYXRvciA9ICd8Jwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBqc29uLmR1bXAK</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">ZGVmIGdldF9ub2RlX2Rpc3BsYXkoaW5kZXgpOgogICAgaWYgaW5kZXggPT0gMjoKICAgICAgICBub2RlID0gZ3dbInZTUlgiXQogICAgZWxzZToKICAgICAgICBub2RlID0gZ3dbIm5vZGUiICsgc3RyKGluZGV4KV0KCiAgICByZXR1cm4gIm5vZGUge30gLSB7fSAoe30pIi5mb3JtYXQoaW5kZXgsIG5vZGVbJ25hbWUnXSwgbm9kZVsnaXAnXSkKCg==</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgaWYgb3V0cHV0Ogo=</text>
       </register>
       <register name=":" type="4">
-        <text>98</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>LOG_FILE</last-search>
+      <last-search>run_remote_command</last-search>
       <last-offset />
-      <last-pattern>LOG_FILE</last-pattern>
+      <last-pattern>run_remote_command</last-pattern>
       <last-replace>CodeSimpleSchema</last-replace>
       <last-substitute>CodeSchema</last-substitute>
       <last-dir>1</last-dir>
@@ -1195,7 +1196,6 @@
     </search>
     <history>
       <history-search>
-        <entry>validate</entry>
         <entry>Difference</entry>
         <entry>print</entry>
         <entry>get_node</entry>
@@ -1206,7 +1206,6 @@
         <entry>logger</entry>
         <entry>suprocess</entry>
         <entry>subprocess</entry>
-        <entry>run_remote_command</entry>
         <entry>get_node_display</entry>
         <entry>re.</entry>
         <entry>clean</entry>
@@ -1215,6 +1214,8 @@
         <entry>load</entry>
         <entry>br-ct</entry>
         <entry>LOG_FILE</entry>
+        <entry>log</entry>
+        <entry>run_remote_command</entry>
       </history-search>
       <history-cmd>
         <entry>wq</entry>
@@ -1233,10 +1234,10 @@
         <entry>286</entry>
         <entry>9</entry>
         <entry>$</entry>
-        <entry>w</entry>
         <entry>40</entry>
         <entry>98</entry>
         <entry>0</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
