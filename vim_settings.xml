@@ -965,12 +965,12 @@
       <file name="$USER_HOME$/projects/gateway/Juniper_vSRX_on_KVM.15.1x/build_kvm_int.py" timestamp="1550867835559">
         <mark key="'" line="65" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/gateway/licu/common.py" timestamp="1553196813871">
-        <mark key="'" line="27" column="4" />
-        <mark key="[" line="130" column="0" />
-        <mark key="]" line="131" column="39" />
-        <mark key="^" line="131" column="39" />
-        <mark key="." line="131" column="39" />
+      <file name="$USER_HOME$/projects/gateway/licu/common.py" timestamp="1553206243171">
+        <mark key="'" line="32" column="4" />
+        <mark key="[" line="22" column="14" />
+        <mark key="]" line="20" column="15" />
+        <mark key="^" line="20" column="14" />
+        <mark key="." line="20" column="15" />
       </file>
       <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/templates/header.html" timestamp="1524258428723">
         <mark key="'" line="0" column="0" />
@@ -1142,11 +1142,11 @@
       <jump line="437" column="8" filename="$USER_HOME$/projects/gateway/licu/do_update.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>File</text>
       </register>
       <register name="-" type="4">
-        <text>None</text>
+        <text>File</text>
       </register>
       <register name="/" type="4">
         <text>run_pre_upgrade_tasks</text>
@@ -1155,31 +1155,31 @@
         <text encoding="base64">ICAgIDpwYXJhbSBkZWJ1Z19tc2c6IHRoaXMgaXMgYSBkZWJ1ZyBvdXRwdXQK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y2xhc3MgTG9nRmlsZToK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBsb2cgPSBOb25lCg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIGVsc2U6Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIHdpdGggb3Blbihsb2dfZmlsZSwgImErIikgYXMgbG9nOgo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBsb2cgPSBOb25lCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIGVsc2U6Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIHdpdGggb3Blbihsb2dfZmlsZSwgImErIikgYXMgbG9nOgo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="4">
         <text encoding="base64">IiIiCkRFQlVHID0gYXJncy5kZWJ1ZwpURVNUID0gYXJncy50ZXN0ClJPT1RfRElSID0gIi9yb290L2xpY3UiCk5PREVfTElTVF9GSUxFID0gb3MucGF0aC5yZWxwYXRoKCJjb25maWcvbm9kZS5saXN0IikKTElDVV9ESVIgPSBST09UX0RJUiArICIvdnNyeC1saWN1IgpJQk1fRElSID0gTElDVV9ESVIgKyAiL2libV9zZXR1cCIKUFJFX1NDUklQVCA9ICJpYm1fcHJlLnB5IgpQT1NUX1NDUklQVCA9ICJpYm1fcG9zdC5weSIKTElDVV9TQ1JJUFQgPSAic3J4LWxpY3UucHkiClZNX05BTUUgPSAidlNSWHZNMSIKVk1fSU1BR0VfRElSID0gIi92YXIvbGliL2xpYnZpcnQvaW1hZ2VzLyIgKyBWTV9OQU1FClZNX0lNQUdFID0gInZTUlhfSW1hZ2UucWNvdzIiClZNX0NMRUFOID0gVk1fSU1BR0UgKyAiLmJhY2t1cF8xNV9jbGVhbiIKIiIiCg==</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBqc29uLmR1bXAK</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgb3V0cHV0Ogo=</text>
+        <text encoding="base64">ICAgICAgICBqc29uLmR1bXAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
