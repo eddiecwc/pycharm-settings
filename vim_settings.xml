@@ -561,8 +561,8 @@
         <mark key="^" line="25" column="37" />
         <mark key="." line="27" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/gateway/Juniper_vSRX_on_KVM/build_kvm_int.py" timestamp="1553532903514">
-        <mark key="'" line="45" column="47" />
+      <file name="$USER_HOME$/projects/gateway/Juniper_vSRX_on_KVM/build_kvm_int.py" timestamp="1553534012751">
+        <mark key="'" line="763" column="26" />
         <mark key="[" line="593" column="0" />
         <mark key="]" line="593" column="0" />
         <mark key="." line="593" column="0" />
@@ -589,11 +589,11 @@
       <file name="$USER_HOME$/projects/gateway/Juniper_vSRX_on_KVM/vSRX_conf_template_ha_no_pub_ncv.j2" timestamp="1551252570669">
         <mark key="'" line="267" column="12" />
       </file>
-      <file name="$USER_HOME$/projects/gateway/Juniper_vSRX_on_KVM/net_interfaces_routebr2by.j2" timestamp="1551592556955">
-        <mark key="[" line="70" column="0" />
-        <mark key="]" line="70" column="17" />
-        <mark key="^" line="55" column="16" />
-        <mark key="." line="70" column="0" />
+      <file name="$USER_HOME$/projects/gateway/Juniper_vSRX_on_KVM/net_interfaces_routebr2by.j2" timestamp="1553534107968">
+        <mark key="[" line="95" column="30" />
+        <mark key="]" line="96" column="7" />
+        <mark key="^" line="96" column="7" />
+        <mark key="." line="96" column="7" />
       </file>
       <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/conf/product_info.py" timestamp="1521505360109">
         <mark key="[" line="71" column="54" />
@@ -722,11 +722,11 @@
         <mark key="." line="134" column="23" />
         <mark key="^" line="134" column="23" />
       </file>
-      <file name="$USER_HOME$/projects/gateway/Juniper_vSRX_on_KVM/net_interfaces_routebr2bn.j2" timestamp="1553532284148">
-        <mark key="[" line="69" column="30" />
-        <mark key="]" line="70" column="7" />
-        <mark key="^" line="70" column="7" />
-        <mark key="." line="70" column="7" />
+      <file name="$USER_HOME$/projects/gateway/Juniper_vSRX_on_KVM/net_interfaces_routebr2bn.j2" timestamp="1553534059384">
+        <mark key="[" line="61" column="94" />
+        <mark key="]" line="62" column="7" />
+        <mark key="^" line="62" column="7" />
+        <mark key="." line="62" column="7" />
       </file>
       <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/mod_support/support.py" timestamp="1515479760355">
         <mark key="[" line="23" column="0" />
@@ -1056,14 +1056,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="275" column="46" filename="$USER_HOME$/projects/gateway/licu/do_update.py" />
-      <jump line="292" column="46" filename="$USER_HOME$/projects/gateway/licu/do_update.py" />
-      <jump line="316" column="46" filename="$USER_HOME$/projects/gateway/licu/do_update.py" />
-      <jump line="345" column="43" filename="$USER_HOME$/projects/gateway/licu/do_update.py" />
-      <jump line="357" column="39" filename="$USER_HOME$/projects/gateway/licu/do_update.py" />
-      <jump line="369" column="42" filename="$USER_HOME$/projects/gateway/licu/do_update.py" />
-      <jump line="386" column="38" filename="$USER_HOME$/projects/gateway/licu/do_update.py" />
-      <jump line="397" column="38" filename="$USER_HOME$/projects/gateway/licu/do_update.py" />
       <jump line="403" column="38" filename="$USER_HOME$/projects/gateway/licu/do_update.py" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/gateway/licu/common.py" />
       <jump line="125" column="4" filename="$USER_HOME$/projects/gateway/licu/common.py" />
@@ -1136,7 +1128,6 @@
       <jump line="133" column="19" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_on_KVM/vSRX_xml_template_ha_SI_1_big_SRIOV.j2" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_on_KVM/vSRX_xml_template_ha_SI_1_med.j2" />
       <jump line="581" column="0" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_on_KVM/build_kvm_int.py" />
-      <jump line="979" column="44" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_on_KVM/build_kvm_int.py" />
       <jump line="54" column="31" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_on_KVM/build_kvm_int.py" />
       <jump line="646" column="13" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_on_KVM/build_kvm_int.py" />
       <jump line="989" column="38" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_on_KVM/build_kvm_int.py" />
@@ -1156,6 +1147,15 @@
       <jump line="27" column="16" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_on_KVM/build_kvm_int.py" />
       <jump line="30" column="12" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_on_KVM/build_kvm_int.py" />
       <jump line="45" column="47" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_on_KVM/build_kvm_int.py" />
+      <jump line="84" column="60" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_on_KVM/build_kvm_int.py" />
+      <jump line="87" column="20" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_on_KVM/build_kvm_int.py" />
+      <jump line="88" column="4" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_on_KVM/build_kvm_int.py" />
+      <jump line="238" column="30" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_on_KVM/build_kvm_int.py" />
+      <jump line="239" column="18" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_on_KVM/build_kvm_int.py" />
+      <jump line="979" column="51" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_on_KVM/build_kvm_int.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_on_KVM/build_kvm_int.py" />
+      <jump line="38" column="27" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_on_KVM/build_kvm_int.py" />
+      <jump line="763" column="26" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_on_KVM/build_kvm_int.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -1165,7 +1165,7 @@
         <text encoding="base64">ICAgICAgICAgICAg</text>
       </register>
       <register name="/" type="4">
-        <text>e3</text>
+        <text>NWHW_Platform_Bonded</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgPG10dSBzaXplPSc5MTAwJy8+ICAgICAgCg==</text>
@@ -1202,9 +1202,9 @@
       </register>
     </registers>
     <search>
-      <last-search>e3</last-search>
+      <last-search>NWHW_Platform_Bonded</last-search>
       <last-offset />
-      <last-pattern>e3</last-pattern>
+      <last-pattern>NWHW_Platform_Bonded</last-pattern>
       <last-replace>CodeSimpleSchema</last-replace>
       <last-substitute>CodeSchema</last-substitute>
       <last-dir>1</last-dir>
@@ -1212,11 +1212,6 @@
     </search>
     <history>
       <history-search>
-        <entry>clean</entry>
-        <entry>mode</entry>
-        <entry>opmode</entry>
-        <entry>load</entry>
-        <entry>br-ct</entry>
         <entry>log</entry>
         <entry>run_remote_command</entry>
         <entry>run_remote</entry>
@@ -1228,13 +1223,17 @@
         <entry>vnet</entry>
         <entry>routerbr1bn</entry>
         <entry>routebr1</entry>
-        <entry>routebr1bn</entry>
         <entry>int_list</entry>
         <entry>Ndata</entry>
         <entry>e3</entry>
+        <entry>BOND</entry>
+        <entry>boind</entry>
+        <entry>bond</entry>
+        <entry>routerbr</entry>
+        <entry>routebr1bn</entry>
+        <entry>NWHW_Platform_Bonded</entry>
       </history-search>
       <history-cmd>
-        <entry>-0</entry>
         <entry>255</entry>
         <entry>358</entry>
         <entry>0-</entry>
@@ -1250,9 +1249,10 @@
         <entry>$</entry>
         <entry>40</entry>
         <entry>98</entry>
-        <entry>0</entry>
         <entry>wq</entry>
+        <entry encoding="base64">JzwsJz4w</entry>
         <entry>q</entry>
+        <entry>0</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
