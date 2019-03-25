@@ -274,8 +274,8 @@
         <mark key="." line="68" column="47" />
         <mark key="^" line="68" column="47" />
       </file>
-      <file name="$USER_HOME$/projects/gateway/Juniper_vSRX_on_KVM/Build_vSRX.py" timestamp="1551593437488">
-        <mark key="'" line="1186" column="0" />
+      <file name="$USER_HOME$/projects/gateway/Juniper_vSRX_on_KVM/Build_vSRX.py" timestamp="1553528000695">
+        <mark key="'" line="1065" column="8" />
         <mark key="[" line="1220" column="24" />
         <mark key="]" line="1225" column="13" />
         <mark key="^" line="1225" column="13" />
@@ -457,8 +457,8 @@
         <mark key="." line="7" column="22" />
         <mark key="^" line="7" column="22" />
       </file>
-      <file name="$USER_HOME$/projects/gateway/Juniper_vSRX_on_KVM/vSRX_xml_template_ha.j2" timestamp="1551252757638">
-        <mark key="'" line="6" column="15" />
+      <file name="$USER_HOME$/projects/gateway/Juniper_vSRX_on_KVM/vSRX_xml_template_ha.j2" timestamp="1553528040198">
+        <mark key="'" line="118" column="22" />
       </file>
       <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/models/cluster.py" timestamp="1524948184103">
         <mark key="[" line="12" column="33" />
@@ -1040,11 +1040,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="342" column="0" filename="$USER_HOME$/projects/gateway/licu/do_update.py" />
-      <jump line="404" column="7" filename="$USER_HOME$/projects/gateway/licu/do_update.py" />
-      <jump line="395" column="3" filename="$USER_HOME$/projects/gateway/licu/do_update.py" />
-      <jump line="196" column="22" filename="$USER_HOME$/projects/gateway/licu/do_update.py" />
-      <jump line="222" column="8" filename="$USER_HOME$/projects/gateway/licu/do_update.py" />
       <jump line="190" column="12" filename="$USER_HOME$/projects/gateway/licu/do_update.py" />
       <jump line="441" column="66" filename="$USER_HOME$/projects/gateway/licu/do_update.py" />
       <jump line="162" column="29" filename="$USER_HOME$/projects/gateway/licu/do_update.py" />
@@ -1140,6 +1135,11 @@
       <jump line="31" column="49" filename="$USER_HOME$/projects/gateway/licu/common.py" />
       <jump line="22" column="37" filename="$USER_HOME$/projects/gateway/licu/do_update.py" />
       <jump line="23" column="56" filename="$USER_HOME$/projects/gateway/licu/do_update.py" />
+      <jump line="1035" column="0" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_on_KVM/Build_vSRX.py" />
+      <jump line="1065" column="8" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_on_KVM/Build_vSRX.py" />
+      <jump line="190" column="31" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_on_KVM/vSRX_xml_template_ha.j2" />
+      <jump line="109" column="24" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_on_KVM/vSRX_xml_template_ha.j2" />
+      <jump line="118" column="22" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_on_KVM/vSRX_xml_template_ha.j2" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1149,7 +1149,7 @@
         <text encoding="base64">dGhpcyAgICA=</text>
       </register>
       <register name="/" type="4">
-        <text>set_log</text>
+        <text>vnet</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIDpwYXJhbSBkZWJ1Z19tc2c6IHRoaXMgaXMgYSBkZWJ1ZyBvdXRwdXQK</text>
@@ -1186,9 +1186,9 @@
       </register>
     </registers>
     <search>
-      <last-search>set_log</last-search>
+      <last-search>vnet</last-search>
       <last-offset />
-      <last-pattern>set_log</last-pattern>
+      <last-pattern>vnet</last-pattern>
       <last-replace>CodeSimpleSchema</last-replace>
       <last-substitute>CodeSchema</last-substitute>
       <last-dir>1</last-dir>
@@ -1196,7 +1196,6 @@
     </search>
     <history>
       <history-search>
-        <entry>HOME</entry>
         <entry>date</entry>
         <entry>logger</entry>
         <entry>suprocess</entry>
@@ -1216,6 +1215,7 @@
         <entry>run_pre_upgrade_tasks</entry>
         <entry>LOG_FILE</entry>
         <entry>set_log</entry>
+        <entry>vnet</entry>
       </history-search>
       <history-cmd>
         <entry>wq</entry>
