@@ -288,11 +288,11 @@
         <mark key="." line="68" column="47" />
         <mark key="^" line="68" column="47" />
       </file>
-      <file name="$USER_HOME$/projects/gateway/Juniper_vSRX_on_KVM/Build_vSRX.py" timestamp="1553874534767">
+      <file name="$USER_HOME$/projects/gateway/Juniper_vSRX_on_KVM/Build_vSRX.py" timestamp="1553875150507">
         <mark key="'" line="447" column="36" />
-        <mark key="[" line="468" column="0" />
-        <mark key="]" line="468" column="0" />
-        <mark key="." line="468" column="0" />
+        <mark key="[" line="475" column="0" />
+        <mark key="]" line="475" column="0" />
+        <mark key="." line="475" column="0" />
         <mark key="^" line="472" column="0" />
       </file>
       <file name="$USER_HOME$/projects/gateway/Juniper_vSRX_on_KVM/vSRX_xml_template_ha_big_SRIOV.j2" timestamp="1553531368567">
@@ -1159,7 +1159,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBXcml0ZV9Ub19Mb2coc3VicHJvY2Vzcy5jaGVja19vdXRwdXQoWyJzdWRvIiwgZm5hbWVdKSkK</text>
+        <text encoding="base64">ICAgICMgV3JpdGVfVG9fTG9nKGV4cGVjdF9zY3JpcHRfc3VjY2VzcykK</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">ICAgICAgICAgICAg</text>
@@ -1171,16 +1171,16 @@
         <text encoding="base64">ICAgICAgPG10dSBzaXplPSc5MTAwJy8+ICAgICAgCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBXcml0ZV9Ub19Mb2coc3VicHJvY2Vzcy5jaGVja19vdXRwdXQoWyJzdWRvIiwgZm5hbWVdKSkK</text>
+        <text encoding="base64">ICAgICMgV3JpdGVfVG9fTG9nKGV4cGVjdF9zY3JpcHRfc3VjY2VzcykK</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICAgICBXcml0ZV9Ub19Mb2coc3VicHJvY2Vzcy5jaGVja19vdXRwdXQoWyJzdWRvIiwgZm5hbWVdKSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBXcml0ZV9Ub19Mb2coc3VicHJvY2Vzcy5jaGVja19vdXRwdXQoWyJzdWRvIiwgZm5hbWVdKSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgPG10dSBzaXplPSc5MTAwJy8+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAgICAgPG10dSBzaXplPSc5MTAwJy8+Cg==</text>
@@ -1192,13 +1192,13 @@
         <text encoding="base64">ICAgICAgPG10dSBzaXplPSc5MTAwJy8+Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGdsb2JhbCBMT0dfRklMRQo=</text>
+        <text encoding="base64">ICAgICAgPG10dSBzaXplPSc5MTAwJy8+Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGdsb2JhbCBMT0dfRklMRQo=</text>
       </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -1252,8 +1252,8 @@
         <entry encoding="base64">JzwsJz4w</entry>
         <entry>q</entry>
         <entry>0</entry>
-        <entry>w</entry>
         <entry>wq</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
