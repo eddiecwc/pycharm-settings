@@ -288,12 +288,12 @@
         <mark key="." line="68" column="47" />
         <mark key="^" line="68" column="47" />
       </file>
-      <file name="$USER_HOME$/projects/gateway/Juniper_vSRX_on_KVM/Build_vSRX.py" timestamp="1553528000695">
-        <mark key="'" line="1065" column="8" />
-        <mark key="[" line="1220" column="24" />
-        <mark key="]" line="1225" column="13" />
-        <mark key="^" line="1225" column="13" />
-        <mark key="." line="1225" column="13" />
+      <file name="$USER_HOME$/projects/gateway/Juniper_vSRX_on_KVM/Build_vSRX.py" timestamp="1553874534767">
+        <mark key="'" line="447" column="36" />
+        <mark key="[" line="468" column="0" />
+        <mark key="]" line="468" column="0" />
+        <mark key="." line="468" column="0" />
+        <mark key="^" line="472" column="0" />
       </file>
       <file name="$USER_HOME$/projects/gateway/Juniper_vSRX_on_KVM/vSRX_xml_template_ha_big_SRIOV.j2" timestamp="1553531368567">
         <mark key="'" line="112" column="19" />
@@ -1056,14 +1056,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="403" column="38" filename="$USER_HOME$/projects/gateway/licu/do_update.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/projects/gateway/licu/common.py" />
-      <jump line="125" column="4" filename="$USER_HOME$/projects/gateway/licu/common.py" />
-      <jump line="116" column="4" filename="$USER_HOME$/projects/gateway/licu/common.py" />
-      <jump line="144" column="11" filename="$USER_HOME$/projects/gateway/licu/common.py" />
-      <jump line="9" column="8" filename="$USER_HOME$/projects/gateway/licu/do_update.py" />
-      <jump line="18" column="0" filename="$USER_HOME$/projects/gateway/licu/common.py" />
-      <jump line="35" column="37" filename="$USER_HOME$/projects/gateway/licu/common.py" />
       <jump line="66" column="8" filename="$USER_HOME$/projects/gateway/licu/do_update.py" />
       <jump line="68" column="4" filename="$USER_HOME$/projects/gateway/licu/do_update.py" />
       <jump line="70" column="4" filename="$USER_HOME$/projects/gateway/licu/do_update.py" />
@@ -1156,55 +1148,63 @@
       <jump line="0" column="0" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_on_KVM/build_kvm_int.py" />
       <jump line="38" column="27" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_on_KVM/build_kvm_int.py" />
       <jump line="763" column="26" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_on_KVM/build_kvm_int.py" />
+      <jump line="1091" column="0" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_on_KVM/Build_vSRX.py" />
+      <jump line="468" column="0" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_on_KVM/Build_vSRX.py" />
+      <jump line="599" column="38" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_on_KVM/Build_vSRX.py" />
+      <jump line="602" column="32" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_on_KVM/Build_vSRX.py" />
+      <jump line="609" column="68" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_on_KVM/Build_vSRX.py" />
+      <jump line="676" column="69" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_on_KVM/Build_vSRX.py" />
+      <jump line="444" column="38" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_on_KVM/Build_vSRX.py" />
+      <jump line="447" column="36" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_on_KVM/Build_vSRX.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgPG10dSBzaXplPSc5MTAwJy8+Cg==</text>
+        <text encoding="base64">ICAgICAgICBXcml0ZV9Ub19Mb2coc3VicHJvY2Vzcy5jaGVja19vdXRwdXQoWyJzdWRvIiwgZm5hbWVdKSkK</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">ICAgICAgICAgICAg</text>
       </register>
       <register name="/" type="4">
-        <text>NWHW_Platform_Bonded</text>
+        <text>init</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgPG10dSBzaXplPSc5MTAwJy8+ICAgICAgCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgPG10dSBzaXplPSc5MTAwJy8+Cg==</text>
+        <text encoding="base64">ICAgICAgICBXcml0ZV9Ub19Mb2coc3VicHJvY2Vzcy5jaGVja19vdXRwdXQoWyJzdWRvIiwgZm5hbWVdKSkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgPG10dSBzaXplPSc5MTAwJy8+Cg==</text>
+        <text encoding="base64">ICAgICAgICBXcml0ZV9Ub19Mb2coc3VicHJvY2Vzcy5jaGVja19vdXRwdXQoWyJzdWRvIiwgZm5hbWVdKSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgPG10dSBzaXplPSc5MTAwJy8+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICAgICAgPG10dSBzaXplPSc5MTAwJy8+Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGdsb2JhbCBMT0dfRklMRQo=</text>
+        <text encoding="base64">ICAgICAgPG10dSBzaXplPSc5MTAwJy8+Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgPG10dSBzaXplPSc5MTAwJy8+Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">TE9HX0ZJTEUgPSBOb25lCg==</text>
+        <text encoding="base64">ICAgICAgPG10dSBzaXplPSc5MTAwJy8+Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGRlZiBfX2luaXRfXyhzZWxmKToK</text>
+        <text encoding="base64">ICAgIGdsb2JhbCBMT0dfRklMRQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Y2xhc3MgTG9nRmlsZToK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wq</text>
       </register>
     </registers>
     <search>
-      <last-search>NWHW_Platform_Bonded</last-search>
+      <last-search>init</last-search>
       <last-offset />
-      <last-pattern>NWHW_Platform_Bonded</last-pattern>
+      <last-pattern>init</last-pattern>
       <last-replace>CodeSimpleSchema</last-replace>
       <last-substitute>CodeSchema</last-substitute>
       <last-dir>1</last-dir>
@@ -1212,8 +1212,6 @@
     </search>
     <history>
       <history-search>
-        <entry>log</entry>
-        <entry>run_remote_command</entry>
         <entry>run_remote</entry>
         <entry>to new version</entry>
         <entry>load_gateway</entry>
@@ -1232,6 +1230,8 @@
         <entry>routerbr</entry>
         <entry>routebr1bn</entry>
         <entry>NWHW_Platform_Bonded</entry>
+        <entry>init_srx</entry>
+        <entry>init</entry>
       </history-search>
       <history-cmd>
         <entry>255</entry>
@@ -1249,11 +1249,11 @@
         <entry>$</entry>
         <entry>40</entry>
         <entry>98</entry>
-        <entry>wq</entry>
         <entry encoding="base64">JzwsJz4w</entry>
         <entry>q</entry>
         <entry>0</entry>
         <entry>w</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
