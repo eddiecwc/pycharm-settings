@@ -561,12 +561,12 @@
         <mark key="^" line="25" column="37" />
         <mark key="." line="27" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/gateway/Juniper_vSRX_on_KVM/build_kvm_int.py" timestamp="1554145316257">
-        <mark key="'" line="84" column="32" />
-        <mark key="[" line="456" column="17" />
-        <mark key="]" line="455" column="0" />
-        <mark key="." line="455" column="0" />
-        <mark key="^" line="455" column="0" />
+      <file name="$USER_HOME$/projects/gateway/Juniper_vSRX_on_KVM/build_kvm_int.py" timestamp="1554146932702">
+        <mark key="'" line="1175" column="63" />
+        <mark key="[" line="86" column="38" />
+        <mark key="]" line="86" column="56" />
+        <mark key="." line="86" column="56" />
+        <mark key="^" line="86" column="56" />
       </file>
       <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/schemas/__init__.py" timestamp="1525932487574">
         <mark key="[" line="6" column="41" />
@@ -1054,31 +1054,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="70" column="4" filename="$USER_HOME$/projects/gateway/licu/do_update.py" />
-      <jump line="73" column="26" filename="$USER_HOME$/projects/gateway/licu/do_update.py" />
-      <jump line="350" column="14" filename="$USER_HOME$/projects/gateway/licu/do_update.py" />
-      <jump line="352" column="60" filename="$USER_HOME$/projects/gateway/licu/do_update.py" />
-      <jump line="354" column="9" filename="$USER_HOME$/projects/gateway/licu/do_update.py" />
-      <jump line="398" column="3" filename="$USER_HOME$/projects/gateway/licu/vsrx-licu/modified_vsrx_upgrade.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/projects/gateway/vsrx-arista/build_kvm_int.py" />
-      <jump line="37" column="24" filename="$USER_HOME$/projects/gateway/licu/do_update.py" />
-      <jump line="76" column="4" filename="$USER_HOME$/projects/gateway/licu/do_update.py" />
-      <jump line="92" column="50" filename="$USER_HOME$/projects/gateway/licu/do_update.py" />
-      <jump line="48" column="36" filename="$USER_HOME$/projects/gateway/licu/common.py" />
-      <jump line="53" column="18" filename="$USER_HOME$/projects/gateway/licu/common.py" />
-      <jump line="55" column="16" filename="$USER_HOME$/projects/gateway/licu/common.py" />
-      <jump line="71" column="22" filename="$USER_HOME$/projects/gateway/licu/common.py" />
-      <jump line="72" column="20" filename="$USER_HOME$/projects/gateway/licu/common.py" />
-      <jump line="54" column="13" filename="$USER_HOME$/projects/gateway/licu/common.py" />
-      <jump line="75" column="18" filename="$USER_HOME$/projects/gateway/licu/common.py" />
-      <jump line="120" column="52" filename="$USER_HOME$/projects/gateway/licu/do_update.py" />
-      <jump line="274" column="37" filename="$USER_HOME$/projects/gateway/licu/do_update.py" />
-      <jump line="276" column="16" filename="$USER_HOME$/projects/gateway/licu/do_update.py" />
-      <jump line="282" column="16" filename="$USER_HOME$/projects/gateway/licu/do_update.py" />
-      <jump line="299" column="41" filename="$USER_HOME$/projects/gateway/licu/do_update.py" />
-      <jump line="20" column="0" filename="$USER_HOME$/projects/gateway/licu/common.py" />
-      <jump line="26" column="11" filename="$USER_HOME$/projects/gateway/licu/common.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/projects/gateway/licu/do_update.py" />
       <jump line="281" column="31" filename="$USER_HOME$/projects/gateway/licu/do_update.py" />
       <jump line="427" column="30" filename="$USER_HOME$/projects/gateway/licu/do_update.py" />
       <jump line="152" column="20" filename="$USER_HOME$/projects/gateway/licu/do_update.py" />
@@ -1154,19 +1129,44 @@
       <jump line="13" column="16" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_on_KVM/init_kvm_int.py" />
       <jump line="1038" column="22" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_on_KVM/build_kvm_int.py" />
       <jump line="84" column="32" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_on_KVM/build_kvm_int.py" />
+      <jump line="141" column="12" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_on_KVM/build_kvm_int.py" />
+      <jump line="1140" column="61" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_on_KVM/build_kvm_int.py" />
+      <jump line="252" column="32" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_on_KVM/build_kvm_int.py" />
+      <jump line="253" column="28" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_on_KVM/build_kvm_int.py" />
+      <jump line="296" column="24" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_on_KVM/build_kvm_int.py" />
+      <jump line="299" column="43" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_on_KVM/build_kvm_int.py" />
+      <jump line="300" column="31" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_on_KVM/build_kvm_int.py" />
+      <jump line="302" column="61" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_on_KVM/build_kvm_int.py" />
+      <jump line="1120" column="11" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_on_KVM/build_kvm_int.py" />
+      <jump line="1121" column="20" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_on_KVM/build_kvm_int.py" />
+      <jump line="1136" column="24" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_on_KVM/build_kvm_int.py" />
+      <jump line="1138" column="31" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_on_KVM/build_kvm_int.py" />
+      <jump line="34" column="24" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_on_KVM/build_kvm_int.py" />
+      <jump line="102" column="0" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_on_KVM/build_kvm_int.py" />
+      <jump line="278" column="35" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_on_KVM/build_kvm_int.py" />
+      <jump line="279" column="28" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_on_KVM/build_kvm_int.py" />
+      <jump line="322" column="30" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_on_KVM/build_kvm_int.py" />
+      <jump line="325" column="43" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_on_KVM/build_kvm_int.py" />
+      <jump line="326" column="31" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_on_KVM/build_kvm_int.py" />
+      <jump line="328" column="61" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_on_KVM/build_kvm_int.py" />
+      <jump line="1154" column="15" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_on_KVM/build_kvm_int.py" />
+      <jump line="1155" column="22" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_on_KVM/build_kvm_int.py" />
+      <jump line="1169" column="26" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_on_KVM/build_kvm_int.py" />
+      <jump line="1171" column="33" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_on_KVM/build_kvm_int.py" />
+      <jump line="1173" column="63" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_on_KVM/build_kvm_int.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>#</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>#</text>
       </register>
       <register name="/" type="4">
-        <text>flow.sh</text>
+        <text>rc.local</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgPG10dSBzaXplPSc5MTAwJy8+ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBpZiBvcy5wYXRoLmlzZmlsZSgnL2V0Yy9yYy5sb2NhbCcpOgo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -1200,9 +1200,9 @@
       </register>
     </registers>
     <search>
-      <last-search>flow.sh</last-search>
+      <last-search>rc.local</last-search>
       <last-offset />
-      <last-pattern>flow.sh</last-pattern>
+      <last-pattern>rc.local</last-pattern>
       <last-replace>CodeSimpleSchema</last-replace>
       <last-substitute>CodeSchema</last-substitute>
       <last-dir>1</last-dir>
@@ -1210,8 +1210,6 @@
     </search>
     <history>
       <history-search>
-        <entry>run_pre_upgrade_tasks</entry>
-        <entry>LOG_FILE</entry>
         <entry>set_log</entry>
         <entry>vnet</entry>
         <entry>routerbr1bn</entry>
@@ -1230,6 +1228,8 @@
         <entry>read_ifconfig</entry>
         <entry>Bulding folders</entry>
         <entry>flow.sh</entry>
+        <entry>NIC</entry>
+        <entry>rc.local</entry>
       </history-search>
       <history-cmd>
         <entry>358</entry>
@@ -1248,9 +1248,9 @@
         <entry>98</entry>
         <entry encoding="base64">JzwsJz4w</entry>
         <entry>wq</entry>
-        <entry>0</entry>
         <entry>q</entry>
         <entry>q!</entry>
+        <entry>0</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
