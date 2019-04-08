@@ -728,6 +728,10 @@
         <mark key="." line="53" column="38" />
         <mark key="^" line="53" column="38" />
       </file>
+      <file name="$USER_HOME$/projects/gateway/licu/vsrx-skip-licu-dev/remote_node_rollback.py" timestamp="1554755280673">
+        <mark key="[" line="125" column="0" />
+        <mark key="]" line="152" column="21" />
+      </file>
       <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/static/js/ess-monitor.js" timestamp="1524464244890">
         <mark key="'" line="179" column="47" />
         <mark key="[" line="134" column="19" />
@@ -818,6 +822,12 @@
         <mark key="]" line="188" column="14" />
         <mark key="^" line="188" column="14" />
         <mark key="." line="188" column="14" />
+      </file>
+      <file name="$USER_HOME$/projects/gateway/vsrx_cluster_gre_tunnel_implementation-master/gre_change_main.py" timestamp="1554755423983">
+        <mark key="[" line="208" column="44" />
+        <mark key="]" line="208" column="44" />
+        <mark key="." line="208" column="44" />
+        <mark key="^" line="208" column="44" />
       </file>
       <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/schemas/device_schema.py" timestamp="1526077088344">
         <mark key="'" line="32" column="45" />
@@ -1172,43 +1182,70 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>8</text>
+        <text>remote_host_login</text>
       </register>
       <register name="-" type="4">
-        <text>8</text>
+        <text>remote_host_login</text>
       </register>
       <register name="/" type="4">
         <text>gre-ctrl</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">aWZfY29uZmlnID0gc3VicHJvY2Vzcy5jaGVja19vdXRwdXQoWyJpZmNvbmZpZyIsICItcyJdKQo=</text>
+      <register name="0" type="4">
+        <text>#chan = client.get_transport().open_session()
+
+# Command to call other node to upgrade; must include local_path arg
+# for the remote upgrade to work
+cmd = 'python {0}/vsrx_rollback.py --local_path {1}'.format(local_path, local_path)
+#chan.exec_command(cmd)
+
+stdin, stdout, stderr = client.exec_command(cmd)
+
+print &quot;exit status: {0}&quot;.format(stdout.channel.recv_exit_status())
+
+# Validate if exit code for chan.exec_command == 0 (success)
+if str(stdout.channel.recv_exit_status()) != '0':
+    msg1 = &quot;There was a problem with the vsrx rollback on remote host {0}&quot;.format(remote_host)
+    write_to_log(msg1)
+    msg2 = &quot;Please check log file {0} on {1}&quot;.format(log_file, remote_host)
+    write_to_log(msg2)
+    write_to_log(stdout.read())
+    write_to_log(stdout.channel.recv_exit_status())
+    write_to_log(stderr.read())
+    raise Exception(msg1+msg2)
+else:
+    write_to_log(stdout.read())
+    msg = &quot;Rolllback Successful node {0} on {1}&quot;.\
+    format(remote_cluster_member_id, remote_host)
+    write_to_log(msg)
+
+stdout.channel.close()</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">d3JpdGVfdG9fbG9nKGFkZF9ncmVfY21kKQo=</text>
-      </register>
-      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
+      </register>
+      <register name="2" type="4">
+        <text encoding="base64">Y2xpZW50ID0gcGFyYW1pa28uU1NIQ2xpZW50KCkKCmNsaWVudC5zZXRfbWlzc2luZ19ob3N0X2tleV9wb2xpY3kocGFyYW1pa28uQXV0b0FkZFBvbGljeSgpKQpjbGllbnQuY29ubmVjdChyZW1vdGVfaG9zdCwgdXNlcm5hbWU9cmVtb3RlX2hvc3RfbG9naW4sCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHBhc3N3b3JkPXJlbW90ZV9ob3N0X3B3KQoK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IiIiCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aWZfY29uZmlnX3Bvc3QgPSBzdWJwcm9jZXNzLmNoZWNrX291dHB1dChbImlmY29uZmlnIiwgIi1zIl0pCg==</text>
+        <text encoding="base64">IiIiCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IiIiCg==</text>
       </register>
       <register name="6" type="2">
+        <text encoding="base64">c3Rkb3V0LmNoYW5uZWwuY2xvc2UoKQo=</text>
+      </register>
+      <register name="7" type="4">
+        <text encoding="base64">Y2xpZW50ID0gcGFyYW1pa28uU1NIQ2xpZW50KCkKCmNsaWVudC5zZXRfbWlzc2luZ19ob3N0X2tleV9wb2xpY3kocGFyYW1pa28uQXV0b0FkZFBvbGljeSgpKQpjbGllbnQuY29ubmVjdChyZW1vdGVfaG9zdCwgdXNlcm5hbWU9cmVtb3RlX2hvc3RfbG9naW4sCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHBhc3N3b3JkPXJlbW90ZV9ob3N0X3B3KQoK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">d3JpdGVfdG9fbG9nKGFkZF9ncmVfY21kKQo=</text>
+      </register>
+      <register name="9" type="2">
         <text encoding="base64">Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="8" type="4">
-        <text encoding="base64">LSBob3N0MCAtIG1hc3RlciBzY3JpcHQKCS0gVXBkYXRlIHhtbCBmaWxlIG9uIGhvc3QwCgkgICAgLSBzZWNvbmQgYnJpZGdlIGludCBuZWVkcyB0byBoYXZlIHNvdXJjZSBgPHNvdXJjZSBicmlkZ2U9J2Jye3tuZXRkYXRhWydCUi1DVFJMJ119fScvPmAKICAgIAktIFVwZGF0ZSAvZXRjL25ldHdvcmsvaW50ZXJmYWNlcyBmaWxlIHRvIGFkZCBici1jdHJsIGFuZCBncmUtY3RybAoJLSBVcGRhdGUgeG1sIGZpbGUgb24gaG9zdDEKCSAgICAtIHNlY29uZCBicmlkZ2UgaW50IG5lZWRzIHRvIGhhdmUgc291cmNlIGA8c291cmNlIGJyaWRnZT0nYnJ7e25ldGRhdGFbJ0JSLUNUUkwnXX19Jy8+YAogICAgCS0gVXBkYXRlIC9ldGMvbmV0d29yay9pbnRlcmZhY2VzIGZpbGUgdG8gYWRkIGJyLWN0cmwgYW5kIGdyZS1jdHJsCiAgICAtIGtpY2tzIG9mZiBncmVfY2hhbmdlX3ByZXAgb24gaG9zdDAKICAgIAogICAgICAgIC0gRmluZCBwcml2YXRlIHNpZGUgZXRoIGludGVyZmFjZXMgKGJvbmQwIHNsYXZlcykKICAgICAgICAtIGlwbGluayBzZXQgZXRoeCBtdHUgOTEwMCAoZXRoeCBpcyB0aGUgZmlyc3QgYm9uZDAgZXRoIHNsYXZlKQogICAgICAgIC0gaXBsaW5rIHNldCBldGh4eCBtdHUgOTEwMCAoZXRoeHggaXMgdGhlIHNlY29uZCBib25kMCBldGggc2xhdmUpCiAgICAgICAgLSBpcCBsaW5rIHNldCB2bmV0MCwgdm5ldDEsIHZuZXQyLCB2bmV0Mywgdm5ldDQgbXR1IDkxMDAgKGRpc3JlZ2FyZCBlcnJvciBpZiB2bmV0MywgNCBkbyBub3QgZXhpc3QpCiAgICAgICAgLSBicmN0bCBhZGRiciBici1jdHJsIAogICAgICAgIC0gaWZjb25maWcgYnItY3RybCB1cA==</text>
-      </register>
-      <register name="9" type="4">
-        <text encoding="base64">Q3V0b3ZlciBzY3JpcHQgd2lsbAoJLSBicmN0bCBkZWxpZiBicjAgdm5ldDEKICAgIC0gYnJjdGwgYWRkaWYgYnItY3RybCB2bmV0MQogICAgCiAgICAKICAgIAogICAgCgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -1265,8 +1302,8 @@
         <entry>wq</entry>
         <entry>q</entry>
         <entry>q!</entry>
-        <entry>0</entry>
         <entry>w</entry>
+        <entry>0</entry>
       </history-cmd>
       <history-expr />
       <history-input />
