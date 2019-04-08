@@ -651,7 +651,12 @@
       <file name="$USER_HOME$/projects/gateway/vsrx-arista/build_kvm_int.py" timestamp="1553036490614">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/gateway/vsrx_cluster_gre_tunnel_implementation-master/import_settings.yaml" timestamp="1554738023227" />
+      <file name="$USER_HOME$/projects/gateway/vsrx_cluster_gre_tunnel_implementation-master/import_settings.yaml" timestamp="1554742852478">
+        <mark key="[" line="14" column="16" />
+        <mark key="]" line="14" column="16" />
+        <mark key="." line="14" column="16" />
+        <mark key="^" line="13" column="42" />
+      </file>
       <file name="$USER_HOME$/Sites/ESS-Monitor/tasks.py" timestamp="1519899651553">
         <mark key="[" line="7" column="22" />
         <mark key="]" line="9" column="0" />
@@ -945,12 +950,12 @@
         <mark key="." line="49" column="22" />
         <mark key="^" line="49" column="22" />
       </file>
-      <file name="$USER_HOME$/projects/gateway/vsrx_cluster_gre_tunnel_implementation-master/gre_change_prep_script.py" timestamp="1554740472996">
-        <mark key="'" line="14" column="17" />
-        <mark key="[" line="197" column="74" />
-        <mark key="]" line="197" column="96" />
-        <mark key="." line="197" column="96" />
-        <mark key="^" line="197" column="96" />
+      <file name="$USER_HOME$/projects/gateway/vsrx_cluster_gre_tunnel_implementation-master/gre_change_prep_script.py" timestamp="1554742597751">
+        <mark key="'" line="221" column="0" />
+        <mark key="[" line="224" column="30" />
+        <mark key="]" line="225" column="46" />
+        <mark key="." line="225" column="46" />
+        <mark key="^" line="225" column="46" />
       </file>
       <file name="$USER_HOME$/projects/gateway/118-port-cpu-alloc/Build_vSRX.py" timestamp="1550878990436">
         <mark key="'" line="636" column="69" />
@@ -1064,11 +1069,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1065" column="8" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_on_KVM/Build_vSRX.py" />
-      <jump line="190" column="31" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_on_KVM/vSRX_xml_template_ha.j2" />
-      <jump line="109" column="24" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_on_KVM/vSRX_xml_template_ha.j2" />
-      <jump line="118" column="22" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_on_KVM/vSRX_xml_template_ha.j2" />
-      <jump line="8" column="0" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_on_KVM/vSRX_xml_template_ha.j2" />
       <jump line="111" column="25" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_on_KVM/vSRX_xml_template_ha.j2" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_on_KVM/vSRX_xml_template_ha_big.j2" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_on_KVM/vSRX_xml_template_ha_big_SRIOV.j2" />
@@ -1157,29 +1157,34 @@
       <jump line="20" column="0" filename="$USER_HOME$/projects/gateway/vsrx_cluster_gre_tunnel_implementation-master/gre_change_prep_script.py" />
       <jump line="102" column="71" filename="$USER_HOME$/projects/gateway/vsrx_cluster_gre_tunnel_implementation-master/gre_change_prep_script.py" />
       <jump line="174" column="4" filename="$USER_HOME$/projects/gateway/vsrx_cluster_gre_tunnel_implementation-master/gre_change_prep_script.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/projects/gateway/vsrx_cluster_gre_tunnel_implementation-master/gre_change_prep_script.py" />
       <jump line="16" column="26" filename="$USER_HOME$/projects/gateway/vsrx_cluster_gre_tunnel_implementation-master/gre_change_prep_script.py" />
       <jump line="19" column="31" filename="$USER_HOME$/projects/gateway/vsrx_cluster_gre_tunnel_implementation-master/gre_change_prep_script.py" />
       <jump line="23" column="17" filename="$USER_HOME$/projects/gateway/vsrx_cluster_gre_tunnel_implementation-master/gre_change_prep_script.py" />
       <jump line="175" column="16" filename="$USER_HOME$/projects/gateway/vsrx_cluster_gre_tunnel_implementation-master/gre_change_prep_script.py" />
       <jump line="176" column="54" filename="$USER_HOME$/projects/gateway/vsrx_cluster_gre_tunnel_implementation-master/gre_change_prep_script.py" />
       <jump line="14" column="17" filename="$USER_HOME$/projects/gateway/vsrx_cluster_gre_tunnel_implementation-master/gre_change_prep_script.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/gateway/vsrx_cluster_gre_tunnel_implementation-master/gre_change_prep_script.py" />
+      <jump line="85" column="24" filename="$USER_HOME$/projects/gateway/vsrx_cluster_gre_tunnel_implementation-master/gre_change_prep_script.py" />
+      <jump line="205" column="9" filename="$USER_HOME$/projects/gateway/vsrx_cluster_gre_tunnel_implementation-master/gre_change_prep_script.py" />
+      <jump line="209" column="4" filename="$USER_HOME$/projects/gateway/vsrx_cluster_gre_tunnel_implementation-master/gre_change_prep_script.py" />
+      <jump line="211" column="3" filename="$USER_HOME$/projects/gateway/vsrx_cluster_gre_tunnel_implementation-master/gre_change_prep_script.py" />
+      <jump line="221" column="0" filename="$USER_HOME$/projects/gateway/vsrx_cluster_gre_tunnel_implementation-master/gre_change_prep_script.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>8</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>8</text>
       </register>
       <register name="/" type="4">
-        <text>facts</text>
+        <text>do_check_call</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">ICAgIC0gbW92ZSB2bmV0MSBvbiBob3N0MAogICAgICAgIC0gYnJjdGwgZGVsaWYgYnIwIHZuZXQxCiAgICAgICAgLSBicmN0bCBhZGRpZiBici1jdHJsIHZuZXQxCiA=</text>
+      <register name="0" type="2">
+        <text encoding="base64">aWZfY29uZmlnID0gc3VicHJvY2Vzcy5jaGVja19vdXRwdXQoWyJpZmNvbmZpZyIsICItcyJdKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">d3JpdGVfdG9fbG9nKGFkZF9ncmVfY21kKQo=</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
@@ -1187,32 +1192,32 @@
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">LSBob3N0MCAtIG1hc3RlciBzY3JpcHQKCS0gVXBkYXRlIHhtbCBmaWxlIG9uIGhvc3QwCgkgICAgLSBzZWNvbmQgYnJpZGdlIGludCBuZWVkcyB0byBoYXZlIHNvdXJjZSBgPHNvdXJjZSBicmlkZ2U9J2Jye3tuZXRkYXRhWydCUi1DVFJMJ119fScvPmAKICAgIAktIFVwZGF0ZSAvZXRjL25ldHdvcmsvaW50ZXJmYWNlcyBmaWxlIHRvIGFkZCBici1jdHJsIGFuZCBncmUtY3RybAoJLSBVcGRhdGUgeG1sIGZpbGUgb24gaG9zdDEKCSAgICAtIHNlY29uZCBicmlkZ2UgaW50IG5lZWRzIHRvIGhhdmUgc291cmNlIGA8c291cmNlIGJyaWRnZT0nYnJ7e25ldGRhdGFbJ0JSLUNUUkwnXX19Jy8+YAogICAgCS0gVXBkYXRlIC9ldGMvbmV0d29yay9pbnRlcmZhY2VzIGZpbGUgdG8gYWRkIGJyLWN0cmwgYW5kIGdyZS1jdHJsCiAgICAtIGtpY2tzIG9mZiBncmVfY2hhbmdlX3ByZXAgb24gaG9zdDAKICAgIAogICAgICAgIC0gRmluZCBwcml2YXRlIHNpZGUgZXRoIGludGVyZmFjZXMgKGJvbmQwIHNsYXZlcykKICAgICAgICAtIGlwbGluayBzZXQgZXRoeCBtdHUgOTEwMCAoZXRoeCBpcyB0aGUgZmlyc3QgYm9uZDAgZXRoIHNsYXZlKQogICAgICAgIC0gaXBsaW5rIHNldCBldGh4eCBtdHUgOTEwMCAoZXRoeHggaXMgdGhlIHNlY29uZCBib25kMCBldGggc2xhdmUpCiAgICAgICAgLSBpcCBsaW5rIHNldCB2bmV0MCwgdm5ldDEsIHZuZXQyLCB2bmV0Mywgdm5ldDQgbXR1IDkxMDAgKGRpc3JlZ2FyZCBlcnJvciBpZiB2bmV0MywgNCBkbyBub3QgZXhpc3QpCiAgICAgICAgLSBicmN0bCBhZGRiciBici1jdHJsIAogICAgICAgIC0gaWZjb25maWcgYnItY3RybCB1cA==</text>
+      <register name="4" type="2">
+        <text encoding="base64">aWZfY29uZmlnX3Bvc3QgPSBzdWJwcm9jZXNzLmNoZWNrX291dHB1dChbImlmY29uZmlnIiwgIi1zIl0pCg==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">Q3V0b3ZlciBzY3JpcHQgd2lsbAoJLSBicmN0bCBkZWxpZiBicjAgdm5ldDEKICAgIC0gYnJjdGwgYWRkaWYgYnItY3RybCB2bmV0MQogICAgCiAgICAKICAgIAogICAgCgo=</text>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIC0gCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">RmlsZSBtb2Qgc2NyaXB0IHdpbGwKCS0gVXBkYXRlIHhtbCBmaWxlIC0gc2Vjb25kIGJyaWRnZSBpbnQgbmVlZHMgdG8gaGF2ZSBzb3VyY2UgYDxzb3VyY2UgYnJpZGdlPSdicnt7bmV0ZGF0YVsnQlItQ1RSTCddfX0nLz5gCiAgICAgIC0gIFVzZSB2aXJzaCBlZGl0PwoJLSBVcGRhdGUgL2V0Yy9uZXR3b3JrL2ludGVyZmFjZXMgZmlsZSB0byBhZGQgYnItY3RybCBhbmQgZ3JlLWN0cmwK</text>
+        <text encoding="base64">LSBob3N0MCAtIG1hc3RlciBzY3JpcHQKCS0gVXBkYXRlIHhtbCBmaWxlIG9uIGhvc3QwCgkgICAgLSBzZWNvbmQgYnJpZGdlIGludCBuZWVkcyB0byBoYXZlIHNvdXJjZSBgPHNvdXJjZSBicmlkZ2U9J2Jye3tuZXRkYXRhWydCUi1DVFJMJ119fScvPmAKICAgIAktIFVwZGF0ZSAvZXRjL25ldHdvcmsvaW50ZXJmYWNlcyBmaWxlIHRvIGFkZCBici1jdHJsIGFuZCBncmUtY3RybAoJLSBVcGRhdGUgeG1sIGZpbGUgb24gaG9zdDEKCSAgICAtIHNlY29uZCBicmlkZ2UgaW50IG5lZWRzIHRvIGhhdmUgc291cmNlIGA8c291cmNlIGJyaWRnZT0nYnJ7e25ldGRhdGFbJ0JSLUNUUkwnXX19Jy8+YAogICAgCS0gVXBkYXRlIC9ldGMvbmV0d29yay9pbnRlcmZhY2VzIGZpbGUgdG8gYWRkIGJyLWN0cmwgYW5kIGdyZS1jdHJsCiAgICAtIGtpY2tzIG9mZiBncmVfY2hhbmdlX3ByZXAgb24gaG9zdDAKICAgIAogICAgICAgIC0gRmluZCBwcml2YXRlIHNpZGUgZXRoIGludGVyZmFjZXMgKGJvbmQwIHNsYXZlcykKICAgICAgICAtIGlwbGluayBzZXQgZXRoeCBtdHUgOTEwMCAoZXRoeCBpcyB0aGUgZmlyc3QgYm9uZDAgZXRoIHNsYXZlKQogICAgICAgIC0gaXBsaW5rIHNldCBldGh4eCBtdHUgOTEwMCAoZXRoeHggaXMgdGhlIHNlY29uZCBib25kMCBldGggc2xhdmUpCiAgICAgICAgLSBpcCBsaW5rIHNldCB2bmV0MCwgdm5ldDEsIHZuZXQyLCB2bmV0Mywgdm5ldDQgbXR1IDkxMDAgKGRpc3JlZ2FyZCBlcnJvciBpZiB2bmV0MywgNCBkbyBub3QgZXhpc3QpCiAgICAgICAgLSBicmN0bCBhZGRiciBici1jdHJsIAogICAgICAgIC0gaWZjb25maWcgYnItY3RybCB1cA==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="9" type="4">
+        <text encoding="base64">Q3V0b3ZlciBzY3JpcHQgd2lsbAoJLSBicmN0bCBkZWxpZiBicjAgdm5ldDEKICAgIC0gYnJjdGwgYWRkaWYgYnItY3RybCB2bmV0MQogICAgCiAgICAKICAgIAogICAgCgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>facts</last-search>
+      <last-search>do_check_call</last-search>
       <last-offset />
-      <last-pattern>facts</last-pattern>
+      <last-pattern>do_check_call</last-pattern>
       <last-replace>CodeSimpleSchema</last-replace>
       <last-substitute>CodeSchema</last-substitute>
       <last-dir>1</last-dir>
@@ -1220,9 +1225,6 @@
     </search>
     <history>
       <history-search>
-        <entry>int_list</entry>
-        <entry>Ndata</entry>
-        <entry>e3</entry>
         <entry>BOND</entry>
         <entry>boind</entry>
         <entry>bond</entry>
@@ -1240,6 +1242,9 @@
         <entry>rgs_on_node0_pre</entry>
         <entry>facxt</entry>
         <entry>facts</entry>
+        <entry>do_check</entry>
+        <entry>do_</entry>
+        <entry>do_check_call</entry>
       </history-search>
       <history-cmd>
         <entry>358</entry>
