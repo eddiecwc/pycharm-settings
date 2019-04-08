@@ -950,12 +950,12 @@
         <mark key="." line="49" column="22" />
         <mark key="^" line="49" column="22" />
       </file>
-      <file name="$USER_HOME$/projects/gateway/vsrx_cluster_gre_tunnel_implementation-master/gre_change_prep_script.py" timestamp="1554742597751">
-        <mark key="'" line="221" column="0" />
-        <mark key="[" line="224" column="30" />
-        <mark key="]" line="225" column="46" />
-        <mark key="." line="225" column="46" />
-        <mark key="^" line="225" column="46" />
+      <file name="$USER_HOME$/projects/gateway/vsrx_cluster_gre_tunnel_implementation-master/gre_change_prep_script.py" timestamp="1554745746420">
+        <mark key="'" line="234" column="25" />
+        <mark key="[" line="217" column="38" />
+        <mark key="]" line="217" column="53" />
+        <mark key="." line="217" column="53" />
+        <mark key="^" line="217" column="53" />
       </file>
       <file name="$USER_HOME$/projects/gateway/118-port-cpu-alloc/Build_vSRX.py" timestamp="1550878990436">
         <mark key="'" line="636" column="69" />
@@ -1069,10 +1069,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="111" column="25" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_on_KVM/vSRX_xml_template_ha.j2" />
-      <jump line="0" column="0" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_on_KVM/vSRX_xml_template_ha_big.j2" />
-      <jump line="0" column="0" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_on_KVM/vSRX_xml_template_ha_big_SRIOV.j2" />
-      <jump line="139" column="0" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_on_KVM/vSRX_xml_template_ha_big_SRIOV.j2" />
       <jump line="122" column="19" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_on_KVM/vSRX_xml_template_ha_big_SRIOV.j2" />
       <jump line="132" column="19" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_on_KVM/vSRX_xml_template_ha_big_SRIOV.j2" />
       <jump line="112" column="19" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_on_KVM/vSRX_xml_template_ha_big_SRIOV.j2" />
@@ -1163,12 +1159,16 @@
       <jump line="175" column="16" filename="$USER_HOME$/projects/gateway/vsrx_cluster_gre_tunnel_implementation-master/gre_change_prep_script.py" />
       <jump line="176" column="54" filename="$USER_HOME$/projects/gateway/vsrx_cluster_gre_tunnel_implementation-master/gre_change_prep_script.py" />
       <jump line="14" column="17" filename="$USER_HOME$/projects/gateway/vsrx_cluster_gre_tunnel_implementation-master/gre_change_prep_script.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/projects/gateway/vsrx_cluster_gre_tunnel_implementation-master/gre_change_prep_script.py" />
       <jump line="85" column="24" filename="$USER_HOME$/projects/gateway/vsrx_cluster_gre_tunnel_implementation-master/gre_change_prep_script.py" />
       <jump line="205" column="9" filename="$USER_HOME$/projects/gateway/vsrx_cluster_gre_tunnel_implementation-master/gre_change_prep_script.py" />
       <jump line="209" column="4" filename="$USER_HOME$/projects/gateway/vsrx_cluster_gre_tunnel_implementation-master/gre_change_prep_script.py" />
       <jump line="211" column="3" filename="$USER_HOME$/projects/gateway/vsrx_cluster_gre_tunnel_implementation-master/gre_change_prep_script.py" />
       <jump line="221" column="0" filename="$USER_HOME$/projects/gateway/vsrx_cluster_gre_tunnel_implementation-master/gre_change_prep_script.py" />
+      <jump line="196" column="20" filename="$USER_HOME$/projects/gateway/vsrx_cluster_gre_tunnel_implementation-master/gre_change_prep_script.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/gateway/vsrx_cluster_gre_tunnel_implementation-master/gre_change_prep_script.py" />
+      <jump line="222" column="43" filename="$USER_HOME$/projects/gateway/vsrx_cluster_gre_tunnel_implementation-master/gre_change_prep_script.py" />
+      <jump line="226" column="44" filename="$USER_HOME$/projects/gateway/vsrx_cluster_gre_tunnel_implementation-master/gre_change_prep_script.py" />
+      <jump line="233" column="25" filename="$USER_HOME$/projects/gateway/vsrx_cluster_gre_tunnel_implementation-master/gre_change_prep_script.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1178,7 +1178,7 @@
         <text>8</text>
       </register>
       <register name="/" type="4">
-        <text>do_check_call</text>
+        <text>gre-ctrl</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">aWZfY29uZmlnID0gc3VicHJvY2Vzcy5jaGVja19vdXRwdXQoWyJpZmNvbmZpZyIsICItcyJdKQo=</text>
@@ -1215,9 +1215,9 @@
       </register>
     </registers>
     <search>
-      <last-search>do_check_call</last-search>
+      <last-search>gre-ctrl</last-search>
       <last-offset />
-      <last-pattern>do_check_call</last-pattern>
+      <last-pattern>gre-ctrl</last-pattern>
       <last-replace>CodeSimpleSchema</last-replace>
       <last-substitute>CodeSchema</last-substitute>
       <last-dir>1</last-dir>
@@ -1225,9 +1225,6 @@
     </search>
     <history>
       <history-search>
-        <entry>BOND</entry>
-        <entry>boind</entry>
-        <entry>bond</entry>
         <entry>routerbr</entry>
         <entry>routebr1bn</entry>
         <entry>NWHW_Platform_Bonded</entry>
@@ -1245,6 +1242,9 @@
         <entry>do_check</entry>
         <entry>do_</entry>
         <entry>do_check_call</entry>
+        <entry>9100</entry>
+        <entry>gre_ctrl</entry>
+        <entry>gre-ctrl</entry>
       </history-search>
       <history-cmd>
         <entry>358</entry>
