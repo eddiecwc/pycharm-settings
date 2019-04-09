@@ -370,6 +370,13 @@
         <mark key="^" line="59" column="4" />
         <mark key="." line="57" column="7" />
       </file>
+      <file name="$USER_HOME$/projects/gateway/vsrx_cluster_gre_tunnel_implementation-master/common.py" timestamp="1554759387810">
+        <mark key="'" line="0" column="4" />
+        <mark key="[" line="142" column="0" />
+        <mark key="]" line="142" column="0" />
+        <mark key="." line="142" column="0" />
+        <mark key="^" line="16" column="0" />
+      </file>
       <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/ess_users/__init__.py" timestamp="1525921719323">
         <mark key="[" line="1" column="25" />
         <mark key="]" line="1" column="25" />
@@ -733,7 +740,7 @@
         <mark key="." line="53" column="38" />
         <mark key="^" line="53" column="38" />
       </file>
-      <file name="$USER_HOME$/projects/gateway/licu/vsrx-skip-licu-dev/remote_node_rollback.py" timestamp="1554757257333">
+      <file name="$USER_HOME$/projects/gateway/licu/vsrx-skip-licu-dev/remote_node_rollback.py" timestamp="1554757920497">
         <mark key="'" line="129" column="72" />
         <mark key="[" line="125" column="0" />
         <mark key="]" line="152" column="21" />
@@ -829,12 +836,12 @@
         <mark key="^" line="188" column="14" />
         <mark key="." line="188" column="14" />
       </file>
-      <file name="$USER_HOME$/projects/gateway/vsrx_cluster_gre_tunnel_implementation-master/gre_change_main.py" timestamp="1554757465945">
-        <mark key="'" line="248" column="3" />
-        <mark key="[" line="255" column="0" />
-        <mark key="]" line="255" column="0" />
-        <mark key="^" line="253" column="39" />
-        <mark key="." line="255" column="0" />
+      <file name="$USER_HOME$/projects/gateway/vsrx_cluster_gre_tunnel_implementation-master/gre_change_main.py" timestamp="1554759587699">
+        <mark key="'" line="3" column="19" />
+        <mark key="[" line="10" column="12" />
+        <mark key="]" line="11" column="0" />
+        <mark key="^" line="11" column="0" />
+        <mark key="." line="11" column="0" />
       </file>
       <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/schemas/device_schema.py" timestamp="1526077088344">
         <mark key="'" line="32" column="45" />
@@ -967,12 +974,12 @@
         <mark key="." line="49" column="22" />
         <mark key="^" line="49" column="22" />
       </file>
-      <file name="$USER_HOME$/projects/gateway/vsrx_cluster_gre_tunnel_implementation-master/gre_change_prep_script.py" timestamp="1554756422512">
-        <mark key="'" line="61" column="8" />
-        <mark key="[" line="50" column="10" />
-        <mark key="]" line="50" column="14" />
-        <mark key="." line="50" column="14" />
-        <mark key="^" line="50" column="14" />
+      <file name="$USER_HOME$/projects/gateway/vsrx_cluster_gre_tunnel_implementation-master/gre_change_prep_script.py" timestamp="1554759655942">
+        <mark key="'" line="67" column="13" />
+        <mark key="[" line="49" column="0" />
+        <mark key="]" line="49" column="0" />
+        <mark key="^" line="11" column="0" />
+        <mark key="." line="49" column="0" />
       </file>
       <file name="$USER_HOME$/projects/gateway/118-port-cpu-alloc/Build_vSRX.py" timestamp="1550878990436">
         <mark key="'" line="636" column="69" />
@@ -1086,20 +1093,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_on_KVM/vSRX_xml_template_ha_SI_1_big.j2" />
-      <jump line="0" column="0" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_on_KVM/vSRX_xml_template_ha_SI_1_big_SRIOV.j2" />
-      <jump line="145" column="6" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_on_KVM/vSRX_xml_template_ha_SI_1_big_SRIOV.j2" />
-      <jump line="112" column="19" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_on_KVM/vSRX_xml_template_ha_SI_1_big_SRIOV.j2" />
-      <jump line="123" column="19" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_on_KVM/vSRX_xml_template_ha_SI_1_big_SRIOV.j2" />
-      <jump line="133" column="19" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_on_KVM/vSRX_xml_template_ha_SI_1_big_SRIOV.j2" />
-      <jump line="0" column="0" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_on_KVM/vSRX_xml_template_ha_SI_1_med.j2" />
-      <jump line="581" column="0" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_on_KVM/build_kvm_int.py" />
-      <jump line="54" column="31" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_on_KVM/build_kvm_int.py" />
-      <jump line="646" column="13" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_on_KVM/build_kvm_int.py" />
-      <jump line="989" column="38" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_on_KVM/build_kvm_int.py" />
-      <jump line="78" column="31" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_on_KVM/build_kvm_int.py" />
-      <jump line="269" column="34" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_on_KVM/build_kvm_int.py" />
-      <jump line="270" column="18" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_on_KVM/build_kvm_int.py" />
       <jump line="271" column="32" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_on_KVM/build_kvm_int.py" />
       <jump line="272" column="15" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_on_KVM/build_kvm_int.py" />
       <jump line="273" column="32" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_on_KVM/build_kvm_int.py" />
@@ -1182,65 +1175,52 @@
       <jump line="226" column="44" filename="$USER_HOME$/projects/gateway/vsrx_cluster_gre_tunnel_implementation-master/gre_change_prep_script.py" />
       <jump line="233" column="25" filename="$USER_HOME$/projects/gateway/vsrx_cluster_gre_tunnel_implementation-master/gre_change_prep_script.py" />
       <jump line="45" column="25" filename="$USER_HOME$/projects/gateway/vsrx_cluster_gre_tunnel_implementation-master/gre_change_prep_script.py" />
-      <jump line="54" column="10" filename="$USER_HOME$/projects/gateway/vsrx_cluster_gre_tunnel_implementation-master/gre_change_prep_script.py" />
       <jump line="60" column="8" filename="$USER_HOME$/projects/gateway/vsrx_cluster_gre_tunnel_implementation-master/gre_change_prep_script.py" />
       <jump line="258" column="3" filename="$USER_HOME$/projects/gateway/vsrx_cluster_gre_tunnel_implementation-master/gre_change_main.py" />
       <jump line="129" column="72" filename="$USER_HOME$/projects/gateway/licu/vsrx-skip-licu-dev/remote_node_rollback.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/gateway/vsrx_cluster_gre_tunnel_implementation-master/gre_change_main.py" />
+      <jump line="68" column="12" filename="$USER_HOME$/projects/gateway/vsrx_cluster_gre_tunnel_implementation-master/gre_change_main.py" />
+      <jump line="79" column="8" filename="$USER_HOME$/projects/gateway/vsrx_cluster_gre_tunnel_implementation-master/gre_change_main.py" />
+      <jump line="169" column="8" filename="$USER_HOME$/projects/gateway/vsrx_cluster_gre_tunnel_implementation-master/gre_change_main.py" />
+      <jump line="165" column="12" filename="$USER_HOME$/projects/gateway/vsrx_cluster_gre_tunnel_implementation-master/gre_change_main.py" />
+      <jump line="212" column="8" filename="$USER_HOME$/projects/gateway/vsrx_cluster_gre_tunnel_implementation-master/gre_change_main.py" />
+      <jump line="95" column="24" filename="$USER_HOME$/projects/gateway/vsrx_cluster_gre_tunnel_implementation-master/gre_change_main.py" />
+      <jump line="170" column="30" filename="$USER_HOME$/projects/gateway/vsrx_cluster_gre_tunnel_implementation-master/gre_change_main.py" />
+      <jump line="4" column="19" filename="$USER_HOME$/projects/gateway/vsrx_cluster_gre_tunnel_implementation-master/gre_change_main.py" />
+      <jump line="0" column="4" filename="$USER_HOME$/projects/gateway/vsrx_cluster_gre_tunnel_implementation-master/common.py" />
+      <jump line="49" column="0" filename="$USER_HOME$/projects/gateway/vsrx_cluster_gre_tunnel_implementation-master/gre_change_prep_script.py" />
+      <jump line="51" column="2" filename="$USER_HOME$/projects/gateway/vsrx_cluster_gre_tunnel_implementation-master/gre_change_prep_script.py" />
+      <jump line="54" column="20" filename="$USER_HOME$/projects/gateway/vsrx_cluster_gre_tunnel_implementation-master/gre_change_prep_script.py" />
+      <jump line="55" column="67" filename="$USER_HOME$/projects/gateway/vsrx_cluster_gre_tunnel_implementation-master/gre_change_prep_script.py" />
+      <jump line="67" column="13" filename="$USER_HOME$/projects/gateway/vsrx_cluster_gre_tunnel_implementation-master/gre_change_prep_script.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>\</text>
       </register>
       <register name="/" type="4">
-        <text>local_path</text>
+        <text>yml_data</text>
       </register>
-      <register name="0" type="4">
-        <text>#chan = client.get_transport().open_session()
-
-# Command to call other node to upgrade; must include local_path arg
-# for the remote upgrade to work
-cmd = 'python {0}/vsrx_rollback.py --local_path {1}'.format(local_path, local_path)
-#chan.exec_command(cmd)
-
-stdin, stdout, stderr = client.exec_command(cmd)
-
-print &quot;exit status: {0}&quot;.format(stdout.channel.recv_exit_status())
-
-# Validate if exit code for chan.exec_command == 0 (success)
-if str(stdout.channel.recv_exit_status()) != '0':
-    msg1 = &quot;There was a problem with the vsrx rollback on remote host {0}&quot;.format(remote_host)
-    write_to_log(msg1)
-    msg2 = &quot;Please check log file {0} on {1}&quot;.format(log_file, remote_host)
-    write_to_log(msg2)
-    write_to_log(stdout.read())
-    write_to_log(stdout.channel.recv_exit_status())
-    write_to_log(stderr.read())
-    raise Exception(msg1+msg2)
-else:
-    write_to_log(stdout.read())
-    msg = &quot;Rolllback Successful node {0} on {1}&quot;.\
-    format(remote_cluster_member_id, remote_host)
-    write_to_log(msg)
-
-stdout.channel.close()</text>
+      <register name="0" type="2">
+        <text encoding="base64">bG9nX2ZpbGUgPSAnL3Zhci9sb2cvdnNyeF9wcm92L2dyZV9jaGFuZ2UubG9nJwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">I2NoYW4uZXhlY19jb21tYW5kKGNtZCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">CiMgRmluZCBib25kMCBjb21wb25lbnQgaW50ZXJmYWNlcwpib25kMF9pbnRzID0gZ2V0X2NvbXBvbmVudF9pbnRzKCdib25kMCcpCgojIEZpbmQgdm5ldCBpbnRzIHRoYXQgYXJlIG5vdCBwdWJsaWMgd2l0aCAxNTAwIE1UVQppZl9jb25maWcgPSBzdWJwcm9jZXNzLmNoZWNrX291dHB1dChbImlmY29uZmlnIiwgIi1zIl0pCnZuZXRzID0gW2xpbmVbOjVdIGZvciBsaW5lIGluIGlmX2NvbmZpZy5zcGxpdGxpbmVzKCkgaWYgJ3ZuZXQnIGluIGxpbmVbOjRdIGFuZCAnMTUwMCcgbm90IGluIGxpbmVbOjE2XV0KCiMgU2V0IE1UVSB0byA5MTAwIGZvciBib25kMCwgYm9uZDBfaW50cyBhbmQgdm5ldHMKYWxsX2ludHMgPSBib25kMF9pbnRzICsgdm5ldHMgKyBbImJvbmQwIl0KZm9yIGludGVyZmFjZSBpbiBhbGxfaW50czoKICAgIHdyaXRlX3RvX2xvZygiY2hhbmdpbmcgbXR1IG9uIHt9IHRvIDkxMDAiLmZvcm1hdChpbnRlcmZhY2UpKQogICAgY21kID0gJ2lwIGxpbmsgc2V0IHt9IG10dSA5MTAwJy5mb3JtYXQoaW50ZXJmYWNlKQogICAgZG9fY2hlY2tfY2FsbChjbWQpCgojIEFkZCBici1jdHJsIGJyaWRnZSBhbmQgYnJpbmcgaXQgdXAKd3JpdGVfdG9fbG9nKCJBZGRpbmcgYnItY3RybCIpCmRvX2NoZWNrX2NhbGwoJ2JyY3RsIGFkZGJyIGJyLWN0cmwnKQp3cml0ZV90b19sb2coJ2JyaW5naW5nIGJyLWN0cmwgdXAnKQpkb19jaGVja19jYWxsKCdpZmNvbmZpZyBici1jdHJsIHVwJykKCmJyX2N0cmxfc3RhdHVzID0gc3VicHJvY2Vzcy5jaGVja19vdXRwdXQoWydpZmNvbmZpZycsICdici1jdHJsJ10pCndyaXRlX3RvX2xvZygnYnItY3RybCBzdGF0dXMgaXMnKQp3cml0ZV90b19sb2coYnJfY3RybF9zdGF0dXMpCgojIENvbmZpZyBncmUgaW50ZXJmYWNlIGFuZCBicmluZyBpdCB1cCBhbmQgc2V0IGl0cyBtdHUKYWRkX2dyZV9jbWQgPSAoJ2lwIGxpbmsgYWRkIGdyZS1jdHJsIHR5cGUgZ3JldGFwIGxvY2FsIHt9JwogICAgICAgICAgICAgICAnIHJlbW90ZSB7fScuZm9ybWF0KGxvY2FsX2JyMF9pcCwgcmVtb3RlX2JyMF9pcCkpCndyaXRlX3RvX2xvZygiQWRkaW5nIGdyZSB0dW5uZWwiKQpkb19jaGVja19jYWxsKGFkZF9ncmVfY21kKQpkb19jaGVja19jYWxsKCdpcCBsaW5rIHNldCBkZXYgZ3JlLWN0cmwgdXAnKQpkb19jaGVja19jYWxsKCdpcCBsaW5rIHNldCBncmUtY3RybCBtdHUgOTEwMCcpCgojIEFkZCBncmUgaW50ZXJmYWNlIHRvIGJyLWN0cmwKd3JpdGVfdG9fbG9nKCJBZGRpbmcgZ3JlIGludGVyZmFjZSB0byBici1jdHJsIikKZG9fY2hlY2tfY2FsbCgnYnJjdGwgYWRkaWYgYnItY3RybCBncmUtY3RybCcpCmRvX2NoZWNrX2NhbGwoJ2lmY29uZmlnIGJyLWN0cmwge30vMjQnLmZvcm1hdChsb2NhbF9ncmVfaXApKQoKd3JpdGVfdG9fbG9nKCdQYXVzaW5nIGZvciAyIG1pbiBmb3IgZ3JlIHR1bm5lbCB0byBjb21lIHVwIC4gLiAuJykKdGltZS5zbGVlcCgxMjApCgojIFBpbmcgYWNyb3NzIEdSRSB0dW5uZWwgdG8gbWFrZSBzdXJlIGl0IHdvcmtzCm1zZyA9ICJQaW5naW5nIHt9IGFjcm9zcyBncmUtY3RybCBncmUgdHVubmVsIi5mb3JtYXQocmVtb3RlX2dyZV9pcCkKd3JpdGVfdG9fbG9nKG1zZykKCmlmIHNlbmRfcGluZyhyZW1vdGVfZ3JlX2lwKToKICAgIHdyaXRlX3RvX2xvZygiUGluZyB0byB7fSBzdWNjZXNzZnVsLiIuZm9ybWF0KHJlbW90ZV9ncmVfaXApKQplbHNlOgogICAgbXNnID0gIlBpbmcgdG8ge30gbm90IHN1Y2Nlc3NmdWw7IGV4aXRpbmciLmZvcm1hdChyZW1vdGVfZ3JlX2lwKQogICAgd3JpdGVfdG9fbG9nKG1zZykKICAgIHN5cy5leGl0KDEp</text>
+        <text encoding="base64">CmRlZiB3cml0ZV90b19sb2cobG9nX2RhdGEpOgogICAgIiIiV3JpdGVzIGxvZ19kYXRhIHRvIGxvZyBmaWxlLiIiIgogICAgbG9nX2RhdGEgPSAiW2dyZSB0dW5uZWwgYWRkXVt7MX1dIHswfVxuIi5mb3JtYXQoCiAgICAgICAgbG9nX2RhdGEsIGRhdGV0aW1lLm5vdygpKQogICAgcHJpbnQgbG9nX2RhdGEKICAgIGlmIG9zLnBhdGguaXNmaWxlKCcvdmFyL2xvZy92c3J4X3Byb3YvZ3JlX2NoYW5nZS5sb2cnKToKICAgICAgICB3aXRoIG9wZW4oJy92YXIvbG9nL3ZzcnhfcHJvdi9ncmVfY2hhbmdlLmxvZycsICJhIikgYXMgbG9nX2ZoMToKICAgICAgICAgICAgbG9nX2ZoMS53cml0ZShsb2dfZGF0YSkKICAgIGVsc2U6CiAgICAgICAgd2l0aCBvcGVuKCcvdmFyL2xvZy92c3J4X3Byb3YvZ3JlX2NoYW5nZS5sb2cnLCAidysiKSBhcyBsb2dfZmgyOgogICAgICAgICAgICBsb2dfZmgyLndyaXRlKGxvZ19kYXRhKQo=</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">IyBDb21tYW5kIHRvIGNhbGwgb3RoZXIgbm9kZSB0byB1cGdyYWRlOyBtdXN0IGluY2x1ZGUgbG9jYWxfcGF0aCBhcmcKIyBmb3IgdGhlIHJlbW90ZSB1cGdyYWRlIHRvIHdvcmsKY21kID0gJ3B5dGhvbiB7MH0vdnNyeF9yb2xsYmFjay5weSAtLWxvY2FsX3BhdGggezF9Jy5mb3JtYXQobG9jYWxfcGF0aCwgbG9jYWxfcGF0aCkKI2NoYW4uZXhlY19jb21tYW5kKGNtZCkKCnN0ZGluLCBzdGRvdXQsIHN0ZGVyciA9IGNsaWVudC5leGVjX2NvbW1hbmQoY21kKQoKcHJpbnQgImV4aXQgc3RhdHVzOiB7MH0iLmZvcm1hdChzdGRvdXQuY2hhbm5lbC5yZWN2X2V4aXRfc3RhdHVzKCkpCgo=</text>
+        <text encoding="base64">ZGVmIHNlbmRfcGluZyhpcF9hZGRyZXNzKToKICAgIHJlc3BvbnNlID0gb3Muc3lzdGVtKCJwaW5nIC1jIDEgLXcyICIgKyBzdHIoaXBfYWRkcmVzcykgKyAiID4gL2Rldi9udWxsIDI+JjEiKQogICAgd3JpdGVfdG9fbG9nKHJlc3BvbnNlKQogICAgaWYgcmVzcG9uc2UgPT0gMDoKICAgICAgICByZXR1cm4gVHJ1ZQogICAgZWxzZToKICAgICAgICByZXR1cm4gRmFsc2UK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
@@ -1248,20 +1228,20 @@ stdout.channel.close()</text>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Y2xpZW50ID0gY3JlYXRlX3NzaF9jbGllbnQocmVtb3RlX2JyMF9pcCwgcmVtb3RlX2hvc3RfcHcpCg==</text>
+      <register name="8" type="4">
+        <text encoding="base64">ZGVmIG9wZW5feWFtbF9maWxlKHlhbWxfaW5wdXRfZmlsZSk6CiAgICAiIiIKICAgIE9wZW5zIGEgeWFtbCBpbnB1dF9maWxlIGFuZCByZXR1cm5zIHRoZSBkYXRhIGZvciBwYXJzaW5nCiAgICAiIiIKCiAgICBwcmludCgiTG9hZGluZyBZQU1MIGZpbGUgezB9Ii5mb3JtYXQoeWFtbF9pbnB1dF9maWxlKSkKICAgIHdpdGggb3Blbih5YW1sX2lucHV0X2ZpbGUsICdyJykgYXMgc3RyZWFtOgogICAgICAgIHlhbWxfZGF0YSA9IHlhbWwubG9hZChzdHJlYW0pCiAgICAgICAgcHJpbnQoIkxvYWRlZCBZQU1MIGZpbGU6IHt9Ii5mb3JtYXQoeWFtbF9pbnB1dF9maWxlKSkKICAgIHdyaXRlX3RvX2xvZygie30gZGF0YSBpczoiLmZvcm1hdCh5YW1sX2lucHV0X2ZpbGUpKQogICAgd3JpdGVfdG9fbG9nKHlhbWxfZGF0YSkKICAgIHJldHVybiB5YW1sX2RhdGEK</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">ZGVmIGNyZWF0ZV9zc2hfY2xpZW50KHJlbW90ZV9icjBfaXAsIHJlbW90ZV9ob3N0X3B3KToKICAgIGNsaWVudCA9IHBhcmFtaWtvLlNTSENsaWVudCgpCiAgICBjbGllbnQuc2V0X21pc3NpbmdfaG9zdF9rZXlfcG9saWN5KHBhcmFtaWtvLkF1dG9BZGRQb2xpY3koKSkKICAgIGNsaWVudC5jb25uZWN0KHJlbW90ZV9icjBfaXAsIHVzZXJuYW1lPSJyb290IiwgcGFzc3dvcmQ9cmVtb3RlX2hvc3RfcHcpCg==</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>local_path</last-search>
+      <last-search>yml_data</last-search>
       <last-offset />
-      <last-pattern>local_path</last-pattern>
+      <last-pattern>yml_data</last-pattern>
       <last-replace>CodeSimpleSchema</last-replace>
       <last-substitute>CodeSchema</last-substitute>
       <last-dir>1</last-dir>
@@ -1269,13 +1249,6 @@ stdout.channel.close()</text>
     </search>
     <history>
       <history-search>
-        <entry>init_srx</entry>
-        <entry>init</entry>
-        <entry>read_ifconfig</entry>
-        <entry>Bulding folders</entry>
-        <entry>flow.sh</entry>
-        <entry>NIC</entry>
-        <entry>rc.local</entry>
         <entry>rg_locations</entry>
         <entry>rgs_on_node0_pre</entry>
         <entry>facxt</entry>
@@ -1289,6 +1262,13 @@ stdout.channel.close()</text>
         <entry>remote_pw</entry>
         <entry>exit</entry>
         <entry>local_path</entry>
+        <entry>write_to_log</entry>
+        <entry>raise</entry>
+        <entry>msg2</entry>
+        <entry>run_remote_command</entry>
+        <entry>GRE</entry>
+        <entry>gre</entry>
+        <entry>yml_data</entry>
       </history-search>
       <history-cmd>
         <entry>358</entry>
