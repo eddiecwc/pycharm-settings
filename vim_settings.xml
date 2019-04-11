@@ -129,12 +129,12 @@
         <mark key="." line="48" column="60" />
         <mark key="^" line="48" column="60" />
       </file>
-      <file name="$USER_HOME$/projects/gateway/vsrx_cluster_gre_tunnel_implementation-master/gre_change_mod_script.py" timestamp="1555005055340">
-        <mark key="'" line="125" column="72" />
-        <mark key="[" line="153" column="0" />
-        <mark key="]" line="153" column="0" />
-        <mark key="^" line="151" column="53" />
-        <mark key="." line="153" column="0" />
+      <file name="$USER_HOME$/projects/gateway/vsrx_cluster_gre_tunnel_implementation-master/gre_change_mod_script.py" timestamp="1555006160770">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="184" column="0" />
+        <mark key="]" line="184" column="0" />
+        <mark key="^" line="184" column="0" />
+        <mark key="." line="184" column="0" />
       </file>
       <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/mod_node/node.py" timestamp="1515521396191">
         <mark key="'" line="0" column="0" />
@@ -377,12 +377,12 @@
         <mark key="^" line="59" column="4" />
         <mark key="." line="57" column="7" />
       </file>
-      <file name="$USER_HOME$/projects/gateway/vsrx_cluster_gre_tunnel_implementation-master/common.py" timestamp="1554941615689">
-        <mark key="'" line="185" column="25" />
-        <mark key="[" line="156" column="44" />
-        <mark key="]" line="156" column="44" />
-        <mark key="." line="156" column="44" />
-        <mark key="^" line="156" column="44" />
+      <file name="$USER_HOME$/projects/gateway/vsrx_cluster_gre_tunnel_implementation-master/common.py" timestamp="1555006991650">
+        <mark key="'" line="187" column="25" />
+        <mark key="[" line="165" column="61" />
+        <mark key="]" line="166" column="78" />
+        <mark key="." line="166" column="78" />
+        <mark key="^" line="166" column="78" />
       </file>
       <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/ess_users/__init__.py" timestamp="1525921719323">
         <mark key="[" line="1" column="25" />
@@ -1199,7 +1199,6 @@
       <jump line="0" column="0" filename="$USER_HOME$/projects/gateway/licu/vsrx-skip-licu-dev/modified_vsrx_upgrade.py" />
       <jump line="350" column="7" filename="$USER_HOME$/projects/gateway/licu/vsrx-skip-licu-dev/modified_vsrx_upgrade.py" />
       <jump line="351" column="8" filename="$USER_HOME$/projects/gateway/licu/vsrx-skip-licu-dev/modified_vsrx_upgrade.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/projects/gateway/vsrx_cluster_gre_tunnel_implementation-master/gre_change_mod_script.py" />
       <jump line="17" column="29" filename="$USER_HOME$/projects/gateway/vsrx_cluster_gre_tunnel_implementation-master/gre_change_mod_script.py" />
       <jump line="21" column="11" filename="$USER_HOME$/projects/gateway/vsrx_cluster_gre_tunnel_implementation-master/gre_change_mod_script.py" />
       <jump line="49" column="17" filename="$USER_HOME$/projects/gateway/vsrx_cluster_gre_tunnel_implementation-master/gre_change_mod_script.py" />
@@ -1207,55 +1206,56 @@
       <jump line="120" column="0" filename="$USER_HOME$/projects/gateway/vsrx_cluster_gre_tunnel_implementation-master/gre_change_mod_script.py" />
       <jump line="123" column="34" filename="$USER_HOME$/projects/gateway/vsrx_cluster_gre_tunnel_implementation-master/gre_change_mod_script.py" />
       <jump line="125" column="72" filename="$USER_HOME$/projects/gateway/vsrx_cluster_gre_tunnel_implementation-master/gre_change_mod_script.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/gateway/vsrx_cluster_gre_tunnel_implementation-master/gre_change_mod_script.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHZuZXRzID0gW2xpbmVbOjVdIGZvciBsaW5lIGluIGlmX2NvbmZpZy5zcGxpdGxpbmVzKCkgaWYgJ3ZuZXQnIGluIGxpbmVbOjRdIGFuZCAnMTUwMCcgbm90IGluIGxpbmVbOjE2XV0K</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">dG8g</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>tgt_xml</text>
+        <text>modify_vm</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">ICAgICAgICB0cnk6CiAgICAgICAgICAgIHN1YnByb2Nlc3MuY2hlY2tfY2FsbChbJ3ZpcnNoJywgJ2R1bXB4bWwnLCB2bV9uYW1lXSwgc3Rkb3V0PXRndF94bWwpCiAgICAgICAgZXhjZXB0IEV4Y2VwdGlvbiBhcyBlOgogICAgICAgICAgICB3cml0ZV90b19sb2coIkNvdWxkIG5vdCBzdG9yZSB7MH0geG1sIHRvIHsxfSIuZm9ybWF0KHZtX25hbWUsIGdyZV94bWwpKQogICAgICAgICAgICByYWlzZSBFeGNlcHRpb24oIkV4Y2VwdGlvbiBvY2N1cnJlZDogezB9Ii5mb3JtYXQoZSkpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHZuZXRzID0gW2xpbmVbOjVdIGZvciBsaW5lIGluIGlmX2NvbmZpZy5zcGxpdGxpbmVzKCkgaWYgJ3ZuZXQnIGluIGxpbmVbOjRdIGFuZCAnMTUwMCcgbm90IGluIGxpbmVbOjE2XV0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGlmX2NvbmZpZyA9IHN1YnByb2Nlc3MuY2hlY2tfb3V0cHV0KFsiaWZjb25maWciLCAiLXMiXSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoRVQuZHVtcChpbnRlcmZhY2UpKQo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcm9vdC5maW5kKCcnKQo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoaW50ZXJmYWNlLmtleXMoKSkK</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">ICAgICIiIgogICAgZm9yIGludGVyZmFjZSBpbiByb290LmZpbmRhbGwoJy4vZGV2aWNlcy9pbnRlcmZhY2UnKToKICAgICAgICBwcmludChFVC5kdW1wKGludGVyZmFjZSkpCiAgICAgICAgcHJpbnQoaW50ZXJmYWNlLmtleXMoKSkKCiAgICAiIiI=</text>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="4">
+        <text encoding="base64">ICAgICMgVE9ETwogICAgIyBtb2RpZnkgeG1sIHZuZXQgLSBuZWVkIHRvIGNoYW5nZSBwcml2YXRlIHZuZXQgZGV0ZWN0aW9uIGxvZ2ljLAogICAgIyBzaW5jZSBvbGRlciBHV3MgbWF5IG5vdCBoYXZlIDkwMDAgbXR1IGFscmVhZHkK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgZ3JlX2lwPWxvY2FsX2JyMF9pcAo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgcmVtb3RlX2JyMF9pcD1yZW1vdGVfYnIwX2lwLAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICIiIgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgbG9jYWxfYnIwX2lwPWxvY2FsX2JyMF9pcCwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>tgt_xml</last-search>
+      <last-search>modify_vm</last-search>
       <last-offset />
-      <last-pattern>tgt_xml</last-pattern>
+      <last-pattern>modify_vm</last-pattern>
       <last-replace>CodeSimpleSchema</last-replace>
       <last-substitute>CodeSchema</last-substitute>
       <last-dir>1</last-dir>
@@ -1263,7 +1263,6 @@
     </search>
     <history>
       <history-search>
-        <entry>raise</entry>
         <entry>msg2</entry>
         <entry>run_remote_command</entry>
         <entry>GRE</entry>
@@ -1283,6 +1282,7 @@
         <entry>cp_xml</entry>
         <entry>private_int</entry>
         <entry>tgt_xml</entry>
+        <entry>modify_vm</entry>
       </history-search>
       <history-cmd>
         <entry>360</entry>
@@ -1302,8 +1302,8 @@
         <entry>79</entry>
         <entry>99</entry>
         <entry>q!</entry>
-        <entry>$</entry>
         <entry>0</entry>
+        <entry>$</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
