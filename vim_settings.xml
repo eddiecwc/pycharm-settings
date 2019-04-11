@@ -129,12 +129,12 @@
         <mark key="." line="48" column="60" />
         <mark key="^" line="48" column="60" />
       </file>
-      <file name="$USER_HOME$/projects/gateway/vsrx_cluster_gre_tunnel_implementation-master/gre_change_mod_script.py" timestamp="1554995001862">
-        <mark key="'" line="128" column="10" />
-        <mark key="[" line="139" column="47" />
-        <mark key="]" line="141" column="39" />
-        <mark key="^" line="141" column="39" />
-        <mark key="." line="141" column="39" />
+      <file name="$USER_HOME$/projects/gateway/vsrx_cluster_gre_tunnel_implementation-master/gre_change_mod_script.py" timestamp="1555001795286">
+        <mark key="'" line="163" column="10" />
+        <mark key="[" line="141" column="68" />
+        <mark key="]" line="141" column="72" />
+        <mark key="." line="141" column="72" />
+        <mark key="^" line="141" column="72" />
       </file>
       <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/mod_node/node.py" timestamp="1515521396191">
         <mark key="'" line="0" column="0" />
@@ -435,8 +435,8 @@
         <mark key="^" line="0" column="39" />
         <mark key="." line="0" column="39" />
       </file>
-      <file name="$USER_HOME$/projects/gateway/licu/vsrx-skip-licu-dev/modified_vsrx_upgrade.py" timestamp="1554967172851">
-        <mark key="'" line="0" column="0" />
+      <file name="$USER_HOME$/projects/gateway/licu/vsrx-skip-licu-dev/modified_vsrx_upgrade.py" timestamp="1555000200507">
+        <mark key="'" line="351" column="8" />
         <mark key="[" line="133" column="0" />
         <mark key="]" line="133" column="0" />
         <mark key="^" line="109" column="19" />
@@ -1107,8 +1107,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="609" column="68" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_on_KVM/Build_vSRX.py" />
-      <jump line="676" column="69" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_on_KVM/Build_vSRX.py" />
       <jump line="444" column="38" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_on_KVM/Build_vSRX.py" />
       <jump line="447" column="36" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_on_KVM/Build_vSRX.py" />
       <jump line="13" column="16" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_on_KVM/init_kvm_int.py" />
@@ -1207,55 +1205,57 @@
       <jump line="124" column="10" filename="$USER_HOME$/projects/gateway/vsrx_cluster_gre_tunnel_implementation-master/gre_change_mod_script.py" />
       <jump line="185" column="38" filename="$USER_HOME$/projects/gateway/licu/vsrx-skip-licu-dev/modified_vsrx_upgrade.py" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/gateway/licu/vsrx-skip-licu-dev/modified_vsrx_upgrade.py" />
+      <jump line="350" column="7" filename="$USER_HOME$/projects/gateway/licu/vsrx-skip-licu-dev/modified_vsrx_upgrade.py" />
+      <jump line="351" column="8" filename="$USER_HOME$/projects/gateway/licu/vsrx-skip-licu-dev/modified_vsrx_upgrade.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ZGVmIG1vZGlmeV92bV9jb25maWcoKToK</text>
+      <register name="&quot;" type="4">
+        <text>bond0</text>
       </register>
       <register name="-" type="4">
-        <text>modify_interface_file</text>
+        <text>bond0</text>
       </register>
       <register name="/" type="4">
-        <text>dumpxml</text>
+        <text>cp_xml</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ZGVmIG1vZGlmeV9pbnRlcmZhY2VfZmlsZShwcml2YXRlX2ludHMsIGxvY2FsX2JyMF9pcCwgcmVtb3RlX2JyMF9pcCwgZ3JlX2lwKToK</text>
+        <text encoding="base64">ICAgICAgICBwcmludChFVC5kdW1wKGludGVyZmFjZSkpCiAgICAgICAgcHJpbnQoaW50ZXJmYWNlLmtleXMoKSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZGVmIG1vZGlmeV92bV9jb25maWcoKToK</text>
+        <text encoding="base64">ICAgICIiIgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChvcmlnX2ZpbGVfY29udGVudC5maW5kKCJici1jdHJsIikpCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBlbHNlOgo=</text>
+        <text encoding="base64">dW5pY2hyKCApICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3RhbnphICs9ICJcbm10dSA5MTAwIgogICAgICAgICAgICB3cml0ZV90b19sb2coInt9OiBhZGQgbXR1IDkxMDAiLmZvcm1hdChtc2cpKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHdyaXRlX3RvX2xvZygiR1JFIGNvbnZlcnNpb24gY29tcGxldGVkIHN1Y2Nlc3NmdWxseS4iKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgd3JpdGVfdG9fbG9nKCJ7fTogbXR1IHN0YXlzIHVuY2hhbmdlZCBhdCA5MTAwIi5mb3JtYXQobXNnKSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>dumpxml</last-search>
+      <last-search>cp_xml</last-search>
       <last-offset />
-      <last-pattern>dumpxml</last-pattern>
+      <last-pattern>cp_xml</last-pattern>
       <last-replace>CodeSimpleSchema</last-replace>
       <last-substitute>CodeSchema</last-substitute>
       <last-dir>1</last-dir>
@@ -1263,7 +1263,6 @@
     </search>
     <history>
       <history-search>
-        <entry>remote_pw</entry>
         <entry>exit</entry>
         <entry>local_path</entry>
         <entry>raise</entry>
@@ -1283,6 +1282,7 @@
         <entry>modify</entry>
         <entry>virsh dumpxml</entry>
         <entry>dumpxml</entry>
+        <entry>cp_xml</entry>
       </history-search>
       <history-cmd>
         <entry>360</entry>
@@ -1302,8 +1302,8 @@
         <entry>79</entry>
         <entry>99</entry>
         <entry>q!</entry>
-        <entry>0</entry>
         <entry>$</entry>
+        <entry>0</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
