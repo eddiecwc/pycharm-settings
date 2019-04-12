@@ -377,12 +377,12 @@
         <mark key="^" line="59" column="4" />
         <mark key="." line="57" column="7" />
       </file>
-      <file name="$USER_HOME$/projects/gateway/vsrx_cluster_gre_tunnel_implementation-master/common.py" timestamp="1555035649805">
+      <file name="$USER_HOME$/projects/gateway/vsrx_cluster_gre_tunnel_implementation-master/common.py" timestamp="1555037191311">
         <mark key="'" line="189" column="25" />
-        <mark key="[" line="89" column="29" />
-        <mark key="]" line="89" column="35" />
-        <mark key="^" line="89" column="35" />
-        <mark key="." line="89" column="35" />
+        <mark key="[" line="99" column="65" />
+        <mark key="]" line="99" column="65" />
+        <mark key="^" line="99" column="65" />
+        <mark key="." line="99" column="65" />
       </file>
       <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/ess_users/__init__.py" timestamp="1525921719323">
         <mark key="[" line="1" column="25" />
@@ -1209,10 +1209,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">Y2FsbCA=</text>
+        <text>n</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Y2FsbCA=</text>
+        <text>n</text>
       </register>
       <register name="/" type="4">
         <text>modify_vm</text>
