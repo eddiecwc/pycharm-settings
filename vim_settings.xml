@@ -988,12 +988,12 @@
         <mark key="." line="49" column="22" />
         <mark key="^" line="49" column="22" />
       </file>
-      <file name="$USER_HOME$/projects/gateway/vsrx_cluster_gre_tunnel_implementation-master/gre_change_prep_script.py" timestamp="1555047750950">
-        <mark key="'" line="44" column="0" />
-        <mark key="[" line="36" column="29" />
-        <mark key="]" line="36" column="40" />
-        <mark key="." line="36" column="40" />
-        <mark key="^" line="36" column="40" />
+      <file name="$USER_HOME$/projects/gateway/vsrx_cluster_gre_tunnel_implementation-master/gre_change_prep_script.py" timestamp="1555049214570">
+        <mark key="'" line="54" column="0" />
+        <mark key="[" line="37" column="30" />
+        <mark key="]" line="37" column="30" />
+        <mark key="." line="37" column="30" />
+        <mark key="^" line="36" column="0" />
       </file>
       <file name="$USER_HOME$/projects/gateway/118-port-cpu-alloc/Build_vSRX.py" timestamp="1550878990436">
         <mark key="'" line="636" column="69" />
@@ -1210,16 +1210,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>+</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>+</text>
       </register>
       <register name="/" type="4">
         <text>write_to</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">ICAgICAgICB0cnk6CiAgICAgICAgICAgIHN1YnByb2Nlc3MuY2hlY2tfY2FsbChbJ3ZpcnNoJywgJ2R1bXB4bWwnLCB2bV9uYW1lXSwgc3Rkb3V0PXRndF94bWwpCiAgICAgICAgZXhjZXB0IEV4Y2VwdGlvbiBhcyBlOgogICAgICAgICAgICB3cml0ZV90b19sb2coIkNvdWxkIG5vdCBzdG9yZSB7MH0geG1sIHRvIHsxfSIuZm9ybWF0KHZtX25hbWUsIGdyZV94bWwpKQogICAgICAgICAgICByYWlzZSBFeGNlcHRpb24oIkV4Y2VwdGlvbiBvY2N1cnJlZDogezB9Ii5mb3JtYXQoZSkpCg==</text>
+      <register name="0" type="2">
+        <text encoding="base64">I2FsbF9pbnRzID0gYm9uZDBfaW50cyArIHZuZXRzICsgWyJib25kMCJdCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">IiIiCg==</text>
@@ -1228,7 +1228,7 @@
         <text encoding="base64">IiIiCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Z3JlX2NoYW5nZV9wcmVwX3NjcmlwdC5weQo=</text>
+        <text encoding="base64">IiIiCg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">IiIiCg==</text>
@@ -1237,7 +1237,7 @@
         <text encoding="base64">IiIiCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">IiIiCg==</text>
+        <text encoding="base64">Z3JlX2NoYW5nZV9wcmVwX3NjcmlwdC5weQo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">IiIiCg==</text>
