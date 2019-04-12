@@ -988,12 +988,12 @@
         <mark key="." line="49" column="22" />
         <mark key="^" line="49" column="22" />
       </file>
-      <file name="$USER_HOME$/projects/gateway/vsrx_cluster_gre_tunnel_implementation-master/gre_change_prep_script.py" timestamp="1555078741669">
+      <file name="$USER_HOME$/projects/gateway/vsrx_cluster_gre_tunnel_implementation-master/gre_change_prep_script.py" timestamp="1555080686517">
         <mark key="'" line="65" column="0" />
-        <mark key="[" line="33" column="0" />
-        <mark key="]" line="34" column="0" />
-        <mark key="." line="34" column="0" />
-        <mark key="^" line="34" column="0" />
+        <mark key="[" line="87" column="13" />
+        <mark key="]" line="89" column="34" />
+        <mark key="." line="89" column="34" />
+        <mark key="^" line="89" column="34" />
       </file>
       <file name="$USER_HOME$/projects/gateway/118-port-cpu-alloc/Build_vSRX.py" timestamp="1550878990436">
         <mark key="'" line="636" column="69" />
@@ -1209,11 +1209,11 @@
       <jump line="175" column="4" filename="$USER_HOME$/projects/gateway/vsrx_cluster_gre_tunnel_implementation-master/common.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">d3JpdGVfdG9fbG9nKCJTdGFydGluZyBjb25maWd1cmF0aW9uOiIpCmRvX2NoZWNrX2NhbGwoJ2JyY3RsIHNob3cnKQpkb19jaGVja19jYWxsKCdpZmNvbmZpZyAtcycpCg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">bm90IA==</text>
       </register>
       <register name="-" type="4">
-        <text>show</text>
+        <text encoding="base64">bm90IA==</text>
       </register>
       <register name="/" type="4">
         <text>write_to</text>
