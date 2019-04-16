@@ -992,12 +992,12 @@
         <mark key="." line="49" column="22" />
         <mark key="^" line="49" column="22" />
       </file>
-      <file name="$USER_HOME$/projects/gateway/vsrx_cluster_gre_tunnel_implementation-master/gre_change_prep_script.py" timestamp="1555376776397">
-        <mark key="'" line="200" column="12" />
-        <mark key="[" line="168" column="19" />
-        <mark key="]" line="168" column="22" />
-        <mark key="." line="168" column="22" />
-        <mark key="^" line="168" column="22" />
+      <file name="$USER_HOME$/projects/gateway/vsrx_cluster_gre_tunnel_implementation-master/gre_change_prep_script.py" timestamp="1555395013882">
+        <mark key="'" line="204" column="27" />
+        <mark key="[" line="202" column="32" />
+        <mark key="]" line="202" column="34" />
+        <mark key="." line="202" column="34" />
+        <mark key="^" line="202" column="34" />
       </file>
       <file name="$USER_HOME$/projects/gateway/118-port-cpu-alloc/Build_vSRX.py" timestamp="1550878990436">
         <mark key="'" line="636" column="69" />
@@ -1111,7 +1111,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="222" column="43" filename="$USER_HOME$/projects/gateway/vsrx_cluster_gre_tunnel_implementation-master/gre_change_prep_script.py" />
       <jump line="226" column="44" filename="$USER_HOME$/projects/gateway/vsrx_cluster_gre_tunnel_implementation-master/gre_change_prep_script.py" />
       <jump line="233" column="25" filename="$USER_HOME$/projects/gateway/vsrx_cluster_gre_tunnel_implementation-master/gre_change_prep_script.py" />
       <jump line="60" column="8" filename="$USER_HOME$/projects/gateway/vsrx_cluster_gre_tunnel_implementation-master/gre_change_prep_script.py" />
@@ -1211,19 +1210,20 @@
       <jump line="188" column="22" filename="$USER_HOME$/projects/gateway/vsrx_cluster_gre_tunnel_implementation-master/gre_change_prep_script.py" />
       <jump line="178" column="16" filename="$USER_HOME$/projects/gateway/vsrx_cluster_gre_tunnel_implementation-master/gre_change_prep_script.py" />
       <jump line="200" column="12" filename="$USER_HOME$/projects/gateway/vsrx_cluster_gre_tunnel_implementation-master/gre_change_prep_script.py" />
+      <jump line="204" column="27" filename="$USER_HOME$/projects/gateway/vsrx_cluster_gre_tunnel_implementation-master/gre_change_prep_script.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>b</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>b</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>wait_until_node_is</text>
+        <text>sleep</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHdyaXRlX3RvX2xvZygiZmFiMCwgZmFiMSBpbml0aWFsIGluZm8gaXMiKQogICAgd3JpdGVfdG9fbG9nKGV0cmVlLnRvc3RyaW5nKGZhYl9zdGFydF9pbmZvX2h1bWFuX3JlYWRhYmxlKSkK</text>
+        <text encoding="base64">ICAgICAgICB3cml0ZV90b19sb2coIlJlZnJlc2hpbmcgZGF0YSBmcm9tIGRldmljZSIpCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICIiIgo=</text>
@@ -1257,9 +1257,9 @@
       </register>
     </registers>
     <search>
-      <last-search>wait_until_node_is</last-search>
+      <last-search>sleep</last-search>
       <last-offset />
-      <last-pattern>wait_until_node_is</last-pattern>
+      <last-pattern>sleep</last-pattern>
       <last-replace>CodeSimpleSchema</last-replace>
       <last-substitute>CodeSchema</last-substitute>
       <last-dir>1</last-dir>
@@ -1267,7 +1267,6 @@
     </search>
     <history>
       <history-search>
-        <entry>virsh</entry>
         <entry>sudo</entry>
         <entry>bond0_</entry>
         <entry>fact</entry>
@@ -1287,6 +1286,7 @@
         <entry>Waiting</entry>
         <entry>device</entry>
         <entry>wait_until_node_is</entry>
+        <entry>sleep</entry>
       </history-search>
       <history-cmd>
         <entry>19</entry>
