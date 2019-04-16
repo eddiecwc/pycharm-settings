@@ -854,12 +854,11 @@
         <mark key="^" line="188" column="14" />
         <mark key="." line="188" column="14" />
       </file>
-      <file name="$USER_HOME$/projects/gateway/vsrx_cluster_gre_tunnel_implementation-master/gre_change_main.py" timestamp="1555362585548">
+      <file name="$USER_HOME$/projects/gateway/vsrx_cluster_gre_tunnel_implementation-master/gre_change_main.py" timestamp="1555399952098">
         <mark key="'" line="122" column="48" />
-        <mark key="[" line="179" column="32" />
-        <mark key="]" line="179" column="33" />
-        <mark key="." line="179" column="33" />
-        <mark key="^" line="179" column="33" />
+        <mark key="[" line="206" column="0" />
+        <mark key="]" line="206" column="0" />
+        <mark key="." line="206" column="0" />
       </file>
       <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/schemas/device_schema.py" timestamp="1526077088344">
         <mark key="'" line="32" column="45" />
@@ -992,12 +991,12 @@
         <mark key="." line="49" column="22" />
         <mark key="^" line="49" column="22" />
       </file>
-      <file name="$USER_HOME$/projects/gateway/vsrx_cluster_gre_tunnel_implementation-master/gre_change_prep_script.py" timestamp="1555398555777">
-        <mark key="'" line="203" column="27" />
-        <mark key="[" line="266" column="39" />
-        <mark key="]" line="267" column="29" />
-        <mark key="^" line="267" column="29" />
-        <mark key="." line="267" column="29" />
+      <file name="$USER_HOME$/projects/gateway/vsrx_cluster_gre_tunnel_implementation-master/gre_change_prep_script.py" timestamp="1555399977053">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="294" column="0" />
+        <mark key="]" line="295" column="0" />
+        <mark key="." line="295" column="0" />
+        <mark key="^" line="295" column="0" />
       </file>
       <file name="$USER_HOME$/projects/gateway/118-port-cpu-alloc/Build_vSRX.py" timestamp="1550878990436">
         <mark key="'" line="636" column="69" />
@@ -1197,7 +1196,6 @@
       <jump line="57" column="9" filename="$USER_HOME$/projects/gateway/vsrx_cluster_gre_tunnel_implementation-master/gre_change_prep_script.py" />
       <jump line="75" column="26" filename="$USER_HOME$/projects/gateway/vsrx_cluster_gre_tunnel_implementation-master/gre_change_prep_script.py" />
       <jump line="30" column="0" filename="$USER_HOME$/projects/gateway/vsrx_cluster_gre_tunnel_implementation-master/gre_change_prep_script.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/projects/gateway/vsrx_cluster_gre_tunnel_implementation-master/gre_change_prep_script.py" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/gateway/vsrx_cluster_gre_tunnel_implementation-master/common.py" />
       <jump line="197" column="0" filename="$USER_HOME$/projects/gateway/vsrx_cluster_gre_tunnel_implementation-master/gre_change_prep_script.py" />
       <jump line="155" column="12" filename="$USER_HOME$/projects/gateway/vsrx_cluster_gre_tunnel_implementation-master/gre_change_prep_script.py" />
@@ -1211,55 +1209,56 @@
       <jump line="178" column="16" filename="$USER_HOME$/projects/gateway/vsrx_cluster_gre_tunnel_implementation-master/gre_change_prep_script.py" />
       <jump line="200" column="12" filename="$USER_HOME$/projects/gateway/vsrx_cluster_gre_tunnel_implementation-master/gre_change_prep_script.py" />
       <jump line="204" column="27" filename="$USER_HOME$/projects/gateway/vsrx_cluster_gre_tunnel_implementation-master/gre_change_prep_script.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/gateway/vsrx_cluster_gre_tunnel_implementation-master/gre_change_prep_script.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyBUT0RPIC0gd2FpdCBmb3Igbm9kZSB0byBqb2luCg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">PSA=</text>
       </register>
       <register name="/" type="4">
-        <text>sleep</text>
+        <text>start_vm</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBkb19jaGVja19jYWxsKCJicmN0bCBzaG93IikK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyBUT0RPIC0gd2FpdCBmb3Igbm9kZSB0byBqb2luCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICB3cml0ZV90b19sb2coKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBjbWQgPSAiYnJjdGwgYWRkaWYgYnItY3RybCB2bmV0MSIK</text>
+        <text encoding="base64">ICAgICAgICB0aW1lLnNsZWVwKDEyMCkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAiYnJjdGwgZGVsaWYgYnIwIHZuZXQxIiAK</text>
+        <text encoding="base64">ICAgICAgICB3cml0ZV90b19sb2coIiIpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBjbWQgPSAiYnJjdGwgYWRkaWYgYnItY3RybCB2bmV0MSIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB3cml0ZV90b19sb2coIlJlZnJlc2hpbmcuLi4iKQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICIiIgo=</text>
+        <text encoding="base64">ICAgICAgICBjbWQgPSAiYnJjdGwgYWRkaWYgYnItY3RybCB2bmV0MSIK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAiYnJjdGwgZGVsaWYgYnIwIHZuZXQxIiAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBjbWQgPSAiYnJjdGwgYWRkaWYgYnItY3RybCB2bmV0MSIK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>sleep</last-search>
+      <last-search>start_vm</last-search>
       <last-offset />
-      <last-pattern>sleep</last-pattern>
+      <last-pattern>start_vm</last-pattern>
       <last-replace>CodeSimpleSchema</last-replace>
       <last-substitute>CodeSchema</last-substitute>
       <last-dir>1</last-dir>
@@ -1267,8 +1266,6 @@
     </search>
     <history>
       <history-search>
-        <entry>sudo</entry>
-        <entry>bond0_</entry>
         <entry>fact</entry>
         <entry>sys.exit</entry>
         <entry>bring_up</entry>
@@ -1287,6 +1284,8 @@
         <entry>device</entry>
         <entry>wait_until_node_is</entry>
         <entry>sleep</entry>
+        <entry>start-vm</entry>
+        <entry>start_vm</entry>
       </history-search>
       <history-cmd>
         <entry>19</entry>
@@ -1305,9 +1304,9 @@
         <entry>99</entry>
         <entry>q!</entry>
         <entry>wq</entry>
-        <entry>$</entry>
         <entry>0-</entry>
         <entry>0</entry>
+        <entry>$</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
