@@ -383,11 +383,12 @@
         <mark key="^" line="59" column="4" />
         <mark key="." line="57" column="7" />
       </file>
-      <file name="$USER_HOME$/projects/gateway/vsrx_cluster_gre_tunnel_implementation-master/common.py" timestamp="1555357980367">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="59" column="23" />
-        <mark key="]" line="59" column="24" />
-        <mark key="." line="59" column="24" />
+      <file name="$USER_HOME$/projects/gateway/vsrx_cluster_gre_tunnel_implementation-master/common.py" timestamp="1555574929688">
+        <mark key="'" line="1" column="23" />
+        <mark key="[" line="190" column="62" />
+        <mark key="]" line="190" column="63" />
+        <mark key="." line="190" column="63" />
+        <mark key="^" line="190" column="63" />
       </file>
       <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/ess_users/__init__.py" timestamp="1525921719323">
         <mark key="[" line="1" column="25" />
@@ -486,10 +487,10 @@
         <mark key="^" line="80" column="87" />
       </file>
       <file name="$USER_HOME$/projects/gateway/vsrx_cluster_gre_tunnel_implementation-master/sync-to" timestamp="1554930690181">
-        <mark key="[" line="6" column="11" />
-        <mark key="]" line="6" column="35" />
-        <mark key="^" line="6" column="35" />
-        <mark key="." line="6" column="35" />
+        <mark key="[" line="7" column="11" />
+        <mark key="]" line="7" column="35" />
+        <mark key="^" line="7" column="35" />
+        <mark key="." line="7" column="35" />
       </file>
       <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/templates/macros/macros.html" timestamp="1523829150130">
         <mark key="[" line="1" column="36" />
@@ -854,12 +855,12 @@
         <mark key="^" line="188" column="14" />
         <mark key="." line="188" column="14" />
       </file>
-      <file name="$USER_HOME$/projects/gateway/vsrx_cluster_gre_tunnel_implementation-master/gre_change_main.py" timestamp="1555531776653">
-        <mark key="'" line="19" column="10" />
-        <mark key="[" line="138" column="35" />
-        <mark key="]" line="138" column="35" />
-        <mark key="." line="138" column="35" />
-        <mark key="^" line="138" column="35" />
+      <file name="$USER_HOME$/projects/gateway/vsrx_cluster_gre_tunnel_implementation-master/gre_change_main.py" timestamp="1555574932696">
+        <mark key="'" line="1" column="23" />
+        <mark key="[" line="80" column="54" />
+        <mark key="]" line="80" column="55" />
+        <mark key="." line="80" column="55" />
+        <mark key="^" line="80" column="55" />
       </file>
       <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/schemas/device_schema.py" timestamp="1526077088344">
         <mark key="'" line="32" column="45" />
@@ -992,8 +993,8 @@
         <mark key="." line="49" column="22" />
         <mark key="^" line="49" column="22" />
       </file>
-      <file name="$USER_HOME$/projects/gateway/vsrx_cluster_gre_tunnel_implementation-master/gre_change_prep_script.py" timestamp="1555482432906">
-        <mark key="'" line="210" column="68" />
+      <file name="$USER_HOME$/projects/gateway/vsrx_cluster_gre_tunnel_implementation-master/gre_change_prep_script.py" timestamp="1555574105290">
+        <mark key="'" line="171" column="0" />
         <mark key="[" line="339" column="0" />
         <mark key="]" line="340" column="0" />
         <mark key="^" line="340" column="0" />
@@ -1111,30 +1112,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="99" column="0" filename="$USER_HOME$/projects/gateway/vsrx_cluster_gre_tunnel_implementation-master/gre_change_main.py" />
-      <jump line="7" column="4" filename="$USER_HOME$/projects/gateway/vsrx_cluster_gre_tunnel_implementation-master/gre_change_main.py" />
-      <jump line="55" column="0" filename="$USER_HOME$/projects/gateway/vsrx_cluster_gre_tunnel_implementation-master/gre_change_main.py" />
-      <jump line="48" column="4" filename="$USER_HOME$/projects/gateway/vsrx_cluster_gre_tunnel_implementation-master/gre_change_main.py" />
-      <jump line="13" column="0" filename="$USER_HOME$/projects/gateway/vsrx_cluster_gre_tunnel_implementation-master/common.py" />
-      <jump line="145" column="25" filename="$USER_HOME$/projects/gateway/vsrx_cluster_gre_tunnel_implementation-master/common.py" />
-      <jump line="8" column="10" filename="$USER_HOME$/projects/gateway/vsrx_cluster_gre_tunnel_implementation-master/gre_change_main.py" />
-      <jump line="35" column="16" filename="$USER_HOME$/projects/gateway/vsrx_cluster_gre_tunnel_implementation-master/gre_change_mod_script.py" />
-      <jump line="47" column="24" filename="$USER_HOME$/projects/gateway/vsrx_cluster_gre_tunnel_implementation-master/gre_change_mod_script.py" />
-      <jump line="50" column="24" filename="$USER_HOME$/projects/gateway/vsrx_cluster_gre_tunnel_implementation-master/gre_change_mod_script.py" />
-      <jump line="79" column="16" filename="$USER_HOME$/projects/gateway/vsrx_cluster_gre_tunnel_implementation-master/gre_change_mod_script.py" />
-      <jump line="31" column="29" filename="$USER_HOME$/projects/gateway/vsrx_cluster_gre_tunnel_implementation-master/gre_change_prep_script.py" />
-      <jump line="39" column="9" filename="$USER_HOME$/projects/gateway/vsrx_cluster_gre_tunnel_implementation-master/gre_change_prep_script.py" />
-      <jump line="43" column="0" filename="$USER_HOME$/projects/gateway/vsrx_cluster_gre_tunnel_implementation-master/gre_change_prep_script.py" />
-      <jump line="40" column="49" filename="$USER_HOME$/projects/gateway/vsrx_cluster_gre_tunnel_implementation-master/gre_change_mod_script.py" />
-      <jump line="59" column="18" filename="$USER_HOME$/projects/gateway/vsrx_cluster_gre_tunnel_implementation-master/gre_change_mod_script.py" />
-      <jump line="34" column="29" filename="$USER_HOME$/projects/gateway/vsrx_cluster_gre_tunnel_implementation-master/gre_change_mod_script.py" />
-      <jump line="67" column="0" filename="$USER_HOME$/projects/gateway/vsrx_cluster_gre_tunnel_implementation-master/gre_change_mod_script.py" />
-      <jump line="33" column="29" filename="$USER_HOME$/projects/gateway/vsrx_cluster_gre_tunnel_implementation-master/gre_change_mod_script.py" />
-      <jump line="58" column="21" filename="$USER_HOME$/projects/gateway/vsrx_cluster_gre_tunnel_implementation-master/gre_change_mod_script.py" />
-      <jump line="124" column="10" filename="$USER_HOME$/projects/gateway/vsrx_cluster_gre_tunnel_implementation-master/gre_change_mod_script.py" />
-      <jump line="185" column="38" filename="$USER_HOME$/projects/gateway/licu/vsrx-skip-licu-dev/modified_vsrx_upgrade.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/projects/gateway/licu/vsrx-skip-licu-dev/modified_vsrx_upgrade.py" />
-      <jump line="350" column="7" filename="$USER_HOME$/projects/gateway/licu/vsrx-skip-licu-dev/modified_vsrx_upgrade.py" />
       <jump line="351" column="8" filename="$USER_HOME$/projects/gateway/licu/vsrx-skip-licu-dev/modified_vsrx_upgrade.py" />
       <jump line="21" column="11" filename="$USER_HOME$/projects/gateway/vsrx_cluster_gre_tunnel_implementation-master/gre_change_mod_script.py" />
       <jump line="49" column="17" filename="$USER_HOME$/projects/gateway/vsrx_cluster_gre_tunnel_implementation-master/gre_change_mod_script.py" />
@@ -1178,7 +1155,6 @@
       <jump line="143" column="3" filename="$USER_HOME$/projects/gateway/vsrx_cluster_gre_tunnel_implementation-master/gre_change_main.py" />
       <jump line="75" column="26" filename="$USER_HOME$/projects/gateway/vsrx_cluster_gre_tunnel_implementation-master/gre_change_prep_script.py" />
       <jump line="30" column="0" filename="$USER_HOME$/projects/gateway/vsrx_cluster_gre_tunnel_implementation-master/gre_change_prep_script.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/projects/gateway/vsrx_cluster_gre_tunnel_implementation-master/common.py" />
       <jump line="155" column="12" filename="$USER_HOME$/projects/gateway/vsrx_cluster_gre_tunnel_implementation-master/gre_change_prep_script.py" />
       <jump line="163" column="29" filename="$USER_HOME$/projects/gateway/vsrx_cluster_gre_tunnel_implementation-master/gre_change_main.py" />
       <jump line="167" column="16" filename="$USER_HOME$/projects/gateway/vsrx_cluster_gre_tunnel_implementation-master/gre_change_main.py" />
@@ -1208,58 +1184,83 @@
       <jump line="205" column="65" filename="$USER_HOME$/projects/gateway/vsrx_cluster_gre_tunnel_implementation-master/gre_change_prep_script.py" />
       <jump line="206" column="65" filename="$USER_HOME$/projects/gateway/vsrx_cluster_gre_tunnel_implementation-master/gre_change_prep_script.py" />
       <jump line="210" column="68" filename="$USER_HOME$/projects/gateway/vsrx_cluster_gre_tunnel_implementation-master/gre_change_prep_script.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/projects/gateway/vsrx_cluster_gre_tunnel_implementation-master/gre_change_main.py" />
       <jump line="118" column="6" filename="$USER_HOME$/projects/gateway/vsrx_cluster_gre_tunnel_implementation-master/gre_change_main.py" />
       <jump line="19" column="10" filename="$USER_HOME$/projects/gateway/vsrx_cluster_gre_tunnel_implementation-master/gre_change_main.py" />
+      <jump line="171" column="0" filename="$USER_HOME$/projects/gateway/vsrx_cluster_gre_tunnel_implementation-master/gre_change_prep_script.py" />
+      <jump line="31" column="29" filename="$USER_HOME$/projects/gateway/vsrx_cluster_gre_tunnel_implementation-master/gre_change_main.py" />
+      <jump line="20" column="14" filename="$USER_HOME$/projects/gateway/vsrx_cluster_gre_tunnel_implementation-master/common.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/gateway/vsrx_cluster_gre_tunnel_implementation-master/common.py" />
+      <jump line="22" column="0" filename="$USER_HOME$/projects/gateway/vsrx_cluster_gre_tunnel_implementation-master/common.py" />
+      <jump line="79" column="27" filename="$USER_HOME$/projects/gateway/vsrx_cluster_gre_tunnel_implementation-master/gre_change_main.py" />
+      <jump line="82" column="27" filename="$USER_HOME$/projects/gateway/vsrx_cluster_gre_tunnel_implementation-master/gre_change_main.py" />
+      <jump line="91" column="16" filename="$USER_HOME$/projects/gateway/vsrx_cluster_gre_tunnel_implementation-master/gre_change_main.py" />
+      <jump line="211" column="44" filename="$USER_HOME$/projects/gateway/vsrx_cluster_gre_tunnel_implementation-master/gre_change_main.py" />
+      <jump line="10" column="7" filename="$USER_HOME$/projects/gateway/vsrx_cluster_gre_tunnel_implementation-master/gre_change_main.py" />
+      <jump line="26" column="4" filename="$USER_HOME$/projects/gateway/vsrx_cluster_gre_tunnel_implementation-master/gre_change_main.py" />
+      <jump line="29" column="31" filename="$USER_HOME$/projects/gateway/vsrx_cluster_gre_tunnel_implementation-master/gre_change_main.py" />
+      <jump line="32" column="37" filename="$USER_HOME$/projects/gateway/vsrx_cluster_gre_tunnel_implementation-master/gre_change_main.py" />
+      <jump line="33" column="28" filename="$USER_HOME$/projects/gateway/vsrx_cluster_gre_tunnel_implementation-master/gre_change_main.py" />
+      <jump line="57" column="56" filename="$USER_HOME$/projects/gateway/vsrx_cluster_gre_tunnel_implementation-master/gre_change_main.py" />
+      <jump line="61" column="27" filename="$USER_HOME$/projects/gateway/vsrx_cluster_gre_tunnel_implementation-master/gre_change_main.py" />
+      <jump line="69" column="27" filename="$USER_HOME$/projects/gateway/vsrx_cluster_gre_tunnel_implementation-master/gre_change_main.py" />
+      <jump line="70" column="19" filename="$USER_HOME$/projects/gateway/vsrx_cluster_gre_tunnel_implementation-master/gre_change_main.py" />
+      <jump line="78" column="6" filename="$USER_HOME$/projects/gateway/vsrx_cluster_gre_tunnel_implementation-master/gre_change_main.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/gateway/vsrx_cluster_gre_tunnel_implementation-master/gre_change_main.py" />
+      <jump line="175" column="12" filename="$USER_HOME$/projects/gateway/vsrx_cluster_gre_tunnel_implementation-master/gre_change_main.py" />
+      <jump line="176" column="29" filename="$USER_HOME$/projects/gateway/vsrx_cluster_gre_tunnel_implementation-master/gre_change_main.py" />
+      <jump line="189" column="0" filename="$USER_HOME$/projects/gateway/vsrx_cluster_gre_tunnel_implementation-master/common.py" />
+      <jump line="1" column="23" filename="$USER_HOME$/projects/gateway/vsrx_cluster_gre_tunnel_implementation-master/common.py" />
+      <jump line="187" column="10" filename="$USER_HOME$/projects/gateway/vsrx_cluster_gre_tunnel_implementation-master/gre_change_main.py" />
+      <jump line="1" column="23" filename="$USER_HOME$/projects/gateway/vsrx_cluster_gre_tunnel_implementation-master/gre_change_main.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>p</text>
+        <text>(</text>
       </register>
       <register name="-" type="4">
-        <text>p</text>
+        <text>(</text>
       </register>
       <register name="/" type="4">
-        <text>dev</text>
+        <text>Device</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBkZXYuY2xvc2UoKQo=</text>
+        <text encoding="base64">ICAgICMgc3RkaW4sIHN0ZG91dCwgc3RkZXJyID0gY2xpZW50LmV4ZWNfY29tbWFuZChjb21tYW5kKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAuZXhlY19jb21tYW5kKGNvbW1hbmQpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB3cml0ZV90b19sb2coIkxvZ2ljYWwgSW50ZXJmYWNlczoiKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB3cml0ZV90b19sb2coKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">ZGV2Lm9wZW4oKQpkZXYuZmFjdHNfcmVmcmVzaCgpCmZhY3RzID0gZGV2LmZhY3RzCg==</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIGNsaWVudC5nZXQK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">IyBUT0RPIC0gcG9zdC1jb252ZXJzaW9uIHZlcmlmaWNhdGlvbgo=</text>
+        <text encoding="base64">ICAgICAgICBleGNlcHQK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIG1heF9yZXRyaWVzID0gMwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIG1heF9yZXRyaWUK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>dev</last-search>
+      <last-search>Device</last-search>
       <last-offset />
-      <last-pattern>dev</last-pattern>
+      <last-pattern>Device</last-pattern>
       <last-replace>CodeSimpleSchema</last-replace>
       <last-substitute>CodeSchema</last-substitute>
       <last-dir>1</last-dir>
@@ -1267,11 +1268,6 @@
     </search>
     <history>
       <history-search>
-        <entry>bring_up_br_ctrl</entry>
-        <entry>determine_primacy</entry>
-        <entry>Unexpected node</entry>
-        <entry>grep</entry>
-        <entry>do_check</entry>
         <entry encoding="base64">Q2hlY2tpbmcgdG8g</entry>
         <entry>vm_is_down</entry>
         <entry>get_interface</entry>
@@ -1280,13 +1276,18 @@
         <entry>Waiting</entry>
         <entry>device</entry>
         <entry>wait_until_node_is</entry>
-        <entry>sleep</entry>
         <entry>start-vm</entry>
         <entry>start_vm</entry>
         <entry>node</entry>
         <entry>check_interface</entry>
         <entry>dev.open()</entry>
+        <entry>sleep</entry>
+        <entry>exec_command</entry>
+        <entry>max_re</entry>
+        <entry>exec</entry>
+        <entry>connect</entry>
         <entry>dev</entry>
+        <entry>Device</entry>
       </history-search>
       <history-cmd>
         <entry>146</entry>
@@ -1303,12 +1304,12 @@
         <entry>q!</entry>
         <entry>wq</entry>
         <entry>0-</entry>
-        <entry>0</entry>
         <entry>$</entry>
         <entry>128</entry>
         <entry>129</entry>
         <entry>133</entry>
         <entry>w</entry>
+        <entry>0</entry>
       </history-cmd>
       <history-expr />
       <history-input />
