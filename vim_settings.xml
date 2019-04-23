@@ -129,12 +129,12 @@
         <mark key="." line="48" column="60" />
         <mark key="^" line="48" column="60" />
       </file>
-      <file name="$USER_HOME$/projects/gateway/vsrx_cluster_gre_tunnel_implementation-master/gre_change_mod_script.py" timestamp="1555976425913">
+      <file name="$USER_HOME$/projects/gateway/vsrx_cluster_gre_tunnel_implementation-master/gre_change_mod_script.py" timestamp="1555977534051">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="128" column="0" />
-        <mark key="]" line="128" column="0" />
-        <mark key="^" line="127" column="59" />
-        <mark key="." line="128" column="0" />
+        <mark key="[" line="190" column="0" />
+        <mark key="]" line="191" column="0" />
+        <mark key="^" line="191" column="0" />
+        <mark key="." line="191" column="0" />
       </file>
       <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/mod_node/node.py" timestamp="1515521396191">
         <mark key="'" line="0" column="0" />
@@ -855,12 +855,11 @@
         <mark key="^" line="188" column="14" />
         <mark key="." line="188" column="14" />
       </file>
-      <file name="$USER_HOME$/projects/gateway/vsrx_cluster_gre_tunnel_implementation-master/gre_change_main.py" timestamp="1555827032325">
+      <file name="$USER_HOME$/projects/gateway/vsrx_cluster_gre_tunnel_implementation-master/gre_change_main.py" timestamp="1555977156718">
         <mark key="'" line="17" column="0" />
-        <mark key="[" line="151" column="4" />
-        <mark key="]" line="151" column="5" />
-        <mark key="^" line="151" column="5" />
-        <mark key="." line="151" column="5" />
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="0" />
+        <mark key="." line="29" column="0" />
       </file>
       <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/schemas/device_schema.py" timestamp="1526077088344">
         <mark key="'" line="32" column="45" />
@@ -1215,10 +1214,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIG9yaWdfeG1sX2JhY2t1cCA9ICIvdmFyL2xpYi9saWJ2aXJ0L2ltYWdlcy97fS92U1JYX1hNTF9ncmVfYmFja3VwLnhtbCIuZm9ybWF0KHZtX25hbWUpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>'</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text>orig_xml</text>
@@ -1227,31 +1226,31 @@
         <text encoding="base64">ICAgICAgICAgICAgZGV2aWNlLm9wZW4oKQogICAgICAgICAgICBkZXZpY2UuZmFjdHNfcmVmcmVzaCgpCiAgICAgICAgICAgIGZhY3RzID0gZGV2aWNlLmZhY3Rz</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIG9yaWdfeG1sX2JhY2t1cCA9ICIvdmFyL2xpYi9saWJ2aXJ0L2ltYWdlcy97fS92U1JYX1hNTF9ncmVfYmFja3VwLnhtbCIuZm9ybWF0KHZtX25hbWUpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZGVmIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ZnJvbSBjb3B5IGltcG9ydCBkZWVwY29weSwgY29weQo=</text>
+      <register name="3" type="4">
+        <text encoding="base64">ICAgIHdpdGggb3BlbihpbnRlcmZhY2VzX2ZpbGUsICdyJykgYXMgaW50c19vcmlnOgogICAgICAgIG9yaWdfZmlsZV9jb250ZW50ID0gaW50c19vcmlnLnJlYWQoKQoKICAgICAgICAjIGJhY2t1cCB1bm1vZGlmaWVkIG9yaWdpbmFsIGludGVyZmFjZXMgZmlsZQogICAgICAgIGlmIG9yaWdfZmlsZV9jb250ZW50LmZpbmQoImJyLWN0cmwiKSA9PSAtMToKICAgICAgICAgICAgd3JpdGVfdG9fbG9nKCJCYWNraW5nIHVwIHVubW9kaWZpZWQge2ludGVyZmFjZXNfZmlsZX0gZmlsZSB0byB7YmFja3VwfSIKICAgICAgICAgICAgICAgICAgICAgICAgIC5mb3JtYXQoaW50ZXJmYWNlc19maWxlPWludGVyZmFjZXNfZmlsZSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgYmFja3VwPW9yaWdfaW50ZXJmYWNlc19maWxlX2JhY2t1cCkpCiAgICAgICAgICAgIGRvX2NoZWNrX2NhbGwoImNwIHtpbnRlcmZhY2VzX2ZpbGV9IHtiYWNrdXB9IgogICAgICAgICAgICAgICAgICAgICAgICAgIC5mb3JtYXQoaW50ZXJmYWNlc19maWxlPWludGVyZmFjZXNfZmlsZSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGJhY2t1cD1vcmlnX2ludGVyZmFjZXNfZmlsZV9iYWNrdXApKQogICAgICAgIGVsc2U6CiAgICAgICAgICAgIHdyaXRlX3RvX2xvZygiRmlsZSB7fSBoYXMgYWxyZWFkeSBiZWVuIG1vZGlmaWVkIHdpdGggR1JFIGNvbmZpZ3VyYXRpb24iLmZvcm1hdChpbnRlcmZhY2VzX2ZpbGUpKQogICAgICAgICAgICByZXR1cm4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyB3cml0ZV90b19sb2coZmFjdHMpCg==</text>
+        <text encoding="base64">ICAgICAgICBpbnRlcmZhY2VzX2ZpbGU9aW50ZXJmYWNlc19maWxlLCAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZmFjdHMgPSBkZXZpY2UuZmFjdHMK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZmFjdHMgPSBbXQo=</text>
+        <text encoding="base64">ICAgIG5ld19pbnRlcmZhY2VzX2ZpbGUgPSAiL2V0Yy9uZXR3b3JrL2ludGVyZmFjZXMuZ3JlX25ldyIK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGV2aWNlLmZhY3RzX3JlZnJlc2goKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIiIiCg==</text>
+        <text encoding="base64">ICAgIG9yaWdfeG1sX2JhY2t1cCA9ICIvdmFyL2xpYi9saWJ2aXJ0L2ltYWdlcy97fS92U1JYX1hNTF9ncmVfYmFja3VwLnhtbCIuZm9ybWF0KHZtX25hbWUpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIiIiCg==</text>
+        <text encoding="base64">ZGVmIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -1300,7 +1299,6 @@
         <entry>99</entry>
         <entry>q!</entry>
         <entry>wq</entry>
-        <entry>$</entry>
         <entry>128</entry>
         <entry>129</entry>
         <entry>133</entry>
@@ -1308,8 +1306,9 @@
         <entry>0-</entry>
         <entry>206</entry>
         <entry>212</entry>
-        <entry>w</entry>
         <entry>0</entry>
+        <entry>$</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
