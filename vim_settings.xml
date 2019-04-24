@@ -129,12 +129,12 @@
         <mark key="." line="48" column="60" />
         <mark key="^" line="48" column="60" />
       </file>
-      <file name="$USER_HOME$/projects/gateway/vsrx_cluster_gre_tunnel_implementation-master/gre_change_mod_script.py" timestamp="1556065402047">
-        <mark key="'" line="156" column="11" />
-        <mark key="[" line="138" column="0" />
-        <mark key="]" line="138" column="0" />
-        <mark key="^" line="178" column="67" />
-        <mark key="." line="138" column="0" />
+      <file name="$USER_HOME$/projects/gateway/vsrx_cluster_gre_tunnel_implementation-master/gre_change_mod_script.py" timestamp="1556068550144">
+        <mark key="'" line="159" column="11" />
+        <mark key="[" line="202" column="57" />
+        <mark key="]" line="202" column="57" />
+        <mark key="." line="202" column="57" />
+        <mark key="^" line="202" column="57" />
       </file>
       <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/mod_node/node.py" timestamp="1515521396191">
         <mark key="'" line="0" column="0" />
@@ -1213,44 +1213,44 @@
       <jump line="156" column="11" filename="$USER_HOME$/projects/gateway/vsrx_cluster_gre_tunnel_implementation-master/gre_change_mod_script.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">Y3Ag</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IyA=</text>
+        <text encoding="base64">Y3Ag</text>
       </register>
       <register name="/" type="4">
         <text>vm_xml</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAjIGRvX2NoZWNrX2NhbGwoImJyY3RsIGRlbGlmIGJyMCB2bmV0MSIpCg==</text>
+      <register name="0" type="4">
+        <text encoding="base64">ICAgICAgICAgICAgd3JpdGVfdG9fbG9nKCJCYWNraW5nIHVwIHVubW9kaWZpZWQgeG1sIHRvIHtiYWNrdXB9IgogICAgICAgICAgICAgICAgICAgICAgICAgLmZvcm1hdChiYWNrdXA9b3JpZ194bWxfYmFja3VwKSkKICAgICAgICAgICAgZG9fY2hlY2tfY2FsbCgiY3Age2dyZV94bWx9IHtiYWNrdXB9IgogICAgICAgICAgICAgICAgICAgICAgICAgIC5mb3JtYXQoZ3JlX3htbD1ncmVfeG1sLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgYmFja3VwPW9yaWdfeG1sX2JhY2t1cCkp</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAuZm9ybWF0KGJhY2t1cD1vcmlnX3htbF9iYWNrdXApKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZWRkaWUtbGljdS0xZy1oYTAK</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">ICAgICMgdHJ5OgogICAgIyAgICAgdmlyc2hfbGlzdCA9IHN1YnByb2Nlc3MuY2hlY2tfb3V0cHV0KFsndmlyc2gnLCAnbGlzdCddKS5zcGxpdGxpbmVzKCkKICAgICMgICAgIHZtX25hbWUgPSB2aXJzaF9saXN0WzJdLnNwbGl0KClbMV0KICAgICMgZXhjZXB0IEV4Y2VwdGlvbiBhcyBlOgogICAgIyAgICAgd3JpdGVfdG9fbG9nKCJDb3VsZCBub3QgZmluZCBWTSBuYW1lIikKICAgICMgICAgIHJhaXNlIEV4Y2VwdGlvbigiRXhjZXB0aW9uIG9jY3VycmVkOiB7fSIuZm9ybWF0KGUpKQo=</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICMgVE9ETyAtIHVzZSB2aXJzaCB1cGRhdGUtZGV2aWNlIHRvIHVwZGF0ZSBWTS4gVGFrZSBvdXQgb2YgbW9kIHNjcmlwdCBhbmQgbW92ZSBpbnRvIHByZXAgc2NyaXB0Cg==</text>
+        <text encoding="base64">ICAgICMgY29weSB0aGUgbmV3IHhtbCB0byBWTSBkaXJlY3RvcnkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">CiAgICAgICAgIyB3cml0ZV90b19sb2coIlJlbWFwcGluZyB2bmV0MSIpCiAgICAgICAgIyB3cml0ZV90b19sb2coIkJlZm9yZSIpCiAgICAgICAgIyBkb19jaGVja19jYWxsKCJicmN0bCBzaG93IikKICAgICAgICAjIGRvX2NoZWNrX2NhbGwoImJyY3RsIGRlbGlmIGJyMCB2bmV0MSIpCiAgICAgICAgIyBkb19jaGVja19jYWxsKCJicmN0bCBhZGRpZiBici1jdHJsIHZuZXQxIikKICAgICAgICAjIHdyaXRlX3RvX2xvZygiQWZ0ZXI6IikKICAgICAgICAjIGRvX2NoZWNrX2NhbGwoImJyY3RsIHNob3ciKQogICAgICAgICM=</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIG9yaWdfeG1sID0gb3JpZ192bV94bWxfcGF0aF9mb3JtYXQK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHZuZXQxX3htbCA9ICIvdG1wL3ZuZXQxLnhtbCIK</text>
-      </register>
-      <register name="9" type="2">
         <text encoding="base64">Cg==</text>
+      </register>
+      <register name="9" type="4">
+        <text encoding="base64">ICAgICMgdHJ5OgogICAgIyAgICAgdmlyc2hfbGlzdCA9IHN1YnByb2Nlc3MuY2hlY2tfb3V0cHV0KFsndmlyc2gnLCAnbGlzdCddKS5zcGxpdGxpbmVzKCkKICAgICMgICAgIHZtX25hbWUgPSB2aXJzaF9saXN0WzJdLnNwbGl0KClbMV0KICAgICMgZXhjZXB0IEV4Y2VwdGlvbiBhcyBlOgogICAgIyAgICAgd3JpdGVfdG9fbG9nKCJDb3VsZCBub3QgZmluZCBWTSBuYW1lIikKICAgICMgICAgIHJhaXNlIEV4Y2VwdGlvbigiRXhjZXB0aW9uIG9jY3VycmVkOiB7fSIuZm9ybWF0KGUpKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
