@@ -99,6 +99,12 @@
         <mark key="^" line="40" column="0" />
         <mark key="." line="62" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/gateway/licu/vsrx-licu/ibm_setup/ibm_post.py" timestamp="1556123066123">
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="25" column="14" />
+        <mark key="^" line="25" column="14" />
+        <mark key="." line="25" column="14" />
+      </file>
       <file name="$USER_HOME$/projects/gateway/Juniper_vSRX_on_KVM/vSRX_xml_template_ha_SI_1.j2" timestamp="1553531414641">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="145" column="0" />
@@ -1253,7 +1259,7 @@
         <text encoding="base64">ICAgIEFsc28gbWFrZXMgc3VyZSB2aXJzaCBkdW1weG1sIGNvcnJlY3RseSByZWZsZWN0cyBvcmlnaW5hbCBjb25maWd1cmF0aW9uCg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>q!</text>
       </register>
     </registers>
     <search>
@@ -1296,7 +1302,6 @@
         <entry>72</entry>
         <entry>79</entry>
         <entry>99</entry>
-        <entry>q!</entry>
         <entry>wq</entry>
         <entry>128</entry>
         <entry>129</entry>
@@ -1309,6 +1314,7 @@
         <entry>260</entry>
         <entry>0</entry>
         <entry>w</entry>
+        <entry>q!</entry>
       </history-cmd>
       <history-expr />
       <history-input />
