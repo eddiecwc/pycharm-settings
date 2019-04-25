@@ -999,12 +999,12 @@
         <mark key="." line="49" column="22" />
         <mark key="^" line="49" column="22" />
       </file>
-      <file name="$USER_HOME$/projects/gateway/vsrx_cluster_gre_tunnel_implementation-master/gre_change_prep_script.py" timestamp="1556175183099">
-        <mark key="'" line="77" column="16" />
-        <mark key="[" line="300" column="8" />
-        <mark key="]" line="300" column="21" />
-        <mark key="." line="300" column="21" />
-        <mark key="^" line="300" column="21" />
+      <file name="$USER_HOME$/projects/gateway/vsrx_cluster_gre_tunnel_implementation-master/gre_change_prep_script.py" timestamp="1556175454707">
+        <mark key="'" line="123" column="0" />
+        <mark key="[" line="123" column="20" />
+        <mark key="]" line="123" column="3" />
+        <mark key="." line="123" column="3" />
+        <mark key="^" line="123" column="3" />
       </file>
       <file name="$USER_HOME$/projects/gateway/118-port-cpu-alloc/Build_vSRX.py" timestamp="1550878990436">
         <mark key="'" line="636" column="69" />
@@ -1118,7 +1118,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="58" column="35" filename="$USER_HOME$/projects/gateway/vsrx_cluster_gre_tunnel_implementation-master/gre_change_prep_script.py" />
       <jump line="186" column="32" filename="$USER_HOME$/projects/gateway/vsrx_cluster_gre_tunnel_implementation-master/gre_change_prep_script.py" />
       <jump line="201" column="12" filename="$USER_HOME$/projects/gateway/vsrx_cluster_gre_tunnel_implementation-master/gre_change_prep_script.py" />
       <jump line="202" column="8" filename="$USER_HOME$/projects/gateway/vsrx_cluster_gre_tunnel_implementation-master/gre_change_prep_script.py" />
@@ -1218,55 +1217,56 @@
       <jump line="0" column="0" filename="$USER_HOME$/projects/gateway/vsrx_cluster_gre_tunnel_implementation-master/gre_change_prep_script.py" />
       <jump line="28" column="39" filename="$USER_HOME$/projects/gateway/vsrx_cluster_gre_tunnel_implementation-master/gre_change_prep_script.py" />
       <jump line="77" column="16" filename="$USER_HOME$/projects/gateway/vsrx_cluster_gre_tunnel_implementation-master/gre_change_prep_script.py" />
+      <jump line="123" column="0" filename="$USER_HOME$/projects/gateway/vsrx_cluster_gre_tunnel_implementation-master/gre_change_prep_script.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">bmV3X2NvbnRlbnQg</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">dgo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">bmV3X2NvbnRlbnQg</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
-        <text>revert_mtu</text>
+        <text>remove_</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">ICAgIHdyaXRlX3RvX2xvZygiUmVtYXBwaW5nIHZuZXQxIikKICAgIHdyaXRlX3RvX2xvZygiQmVmb3JlIikKICAgIGRvX2NoZWNrX2NhbGwoImJyY3RsIHNob3ciKQoKICAgIHZuZXQxX3htbF9maWxlID0gdm5ldDFfeG1sX3BhdGhfZm9ybWF0LmZvcm1hdCh2bV9uYW1lKQoKICAgIGRvX2NoZWNrX2NhbGwoInZpcnNoIHVwZGF0ZS1kZXZpY2Uge3ZtX25hbWV9IHt2bmV0MV9maWxlfSAtLWxpdmUgLS1wZXJzaXN0ZW50IgogICAgICAgICAgICAgICAgICAuZm9ybWF0KHZtX25hbWU9dm1fbmFtZSwKICAgICAgICAgICAgICAgICAgICAgICAgICB2bmV0MV9maWxlPXZuZXQxX3htbF9maWxlKSkKCiAgICB3cml0ZV90b19sb2coIkFmdGVyOiIpCiAgICBkb19jaGVja19jYWxsKCJicmN0bCBzaG93IikK</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcmVtb3ZlX2JyX2N0cmwoKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyBDaGVjayAvZXRjL25ldHdvcmsvaW50ZXJmYWNlcyB0byBzZWUgaWYgcmV2ZXJ0IGJhY2sgdG8gOTAwMCwgb3IgMTUwMAo=</text>
+        <text encoding="base64">dgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcGFzcwo=</text>
+        <text encoding="base64">d2l0aCBvcGVuKEZpbGVOYW1lLCAidyIpIGFzIGY6CmYud3JpdGUobmV3VGV4dCkK</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">aWYgCiAgICA=</text>
+        <text encoding="base64">ICAgICIiIgogICAgOnBhcmFtIHZtX25hbWU6IAogICAgOnJldHVybjogCiAgICAiIiIKIA==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY2hhbmdlX210dSh2bmV0cyArIFsiYm9uZDAiXSwgOTAwMCkK</text>
+        <text encoding="base64">ICAgIFJlbWFwICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyBDaGVjayAvZXRjL25ldHdvcmsvaW50ZXJmYWNlcyB0byBzZWUgaWYgcmV2ZXJ0IGJhY2sgdG8gOTAwMCwgb3IgMTUwMAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV2ZXJ0X210dSh2KQo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcGFzcwo=</text>
       </register>
+      <register name="7" type="4">
+        <text encoding="base64">aWYgCiAgICA=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgY2hhbmdlX210dSh2bmV0cyArIFsiYm9uZDAiXSwgOTAwMCkK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBub3QgYXJncy5yZXN0b3JlOgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLAo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>$</text>
       </register>
     </registers>
     <search>
-      <last-search>revert_mtu</last-search>
+      <last-search>remove_</last-search>
       <last-offset />
-      <last-pattern>revert_mtu</last-pattern>
+      <last-pattern>remove_</last-pattern>
       <last-replace>CodeSimpleSchema</last-replace>
       <last-substitute>CodeSchema</last-substitute>
       <last-dir>1</last-dir>
@@ -1274,7 +1274,6 @@
     </search>
     <history>
       <history-search>
-        <entry>facts</entry>
         <entry>get</entry>
         <entry>get_device_facts</entry>
         <entry>deepcopy</entry>
@@ -1294,11 +1293,11 @@
         <entry>change_mtu</entry>
         <entry>revert+mti</entry>
         <entry>revert_mtu</entry>
+        <entry>remove_</entry>
       </history-search>
       <history-cmd>
         <entry>40</entry>
         <entry>98</entry>
-        <entry encoding="base64">JzwsJz4w</entry>
         <entry>q</entry>
         <entry>72</entry>
         <entry>79</entry>
@@ -1311,11 +1310,12 @@
         <entry>0-</entry>
         <entry>206</entry>
         <entry>212</entry>
-        <entry>$</entry>
         <entry>260</entry>
         <entry>q!</entry>
-        <entry>0</entry>
         <entry>w</entry>
+        <entry>$</entry>
+        <entry encoding="base64">JzwsJz4w</entry>
+        <entry>0</entry>
       </history-cmd>
       <history-expr />
       <history-input />
