@@ -111,6 +111,12 @@
         <mark key="]" line="145" column="24" />
         <mark key="." line="145" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/helper_functions.py" timestamp="1556636478955">
+        <mark key="[" line="89" column="22" />
+        <mark key="]" line="90" column="17" />
+        <mark key="^" line="90" column="17" />
+        <mark key="." line="90" column="17" />
+      </file>
       <file name="$USER_HOME$/Sites/flask_movie/templates/security/login_user.html" timestamp="1513935903494">
         <mark key="[" line="16" column="44" />
         <mark key="]" line="16" column="64" />
@@ -759,11 +765,6 @@
         <mark key="." line="53" column="38" />
         <mark key="^" line="53" column="38" />
       </file>
-      <file name="$USER_HOME$/projects/gateway/licu/vsrx-skip-licu-dev/remote_node_rollback.py" timestamp="1554757920497">
-        <mark key="'" line="129" column="72" />
-        <mark key="[" line="125" column="0" />
-        <mark key="]" line="152" column="21" />
-      </file>
       <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/static/js/ess-monitor.js" timestamp="1524464244890">
         <mark key="'" line="179" column="47" />
         <mark key="[" line="134" column="19" />
@@ -1265,7 +1266,7 @@
         <text encoding="base64">aW1wb3J0IHN1YnByb2Nlc3MgCg==</text>
       </register>
       <register name=":" type="4">
-        <text>4</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -1319,8 +1320,8 @@
         <entry>$</entry>
         <entry>0</entry>
         <entry>q</entry>
-        <entry>w</entry>
         <entry>4</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
