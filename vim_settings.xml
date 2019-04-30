@@ -343,6 +343,12 @@
         <mark key="^" line="97" column="43" />
         <mark key="." line="97" column="43" />
       </file>
+      <file name="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/upgrade_vSRX.sh" timestamp="1556651977800">
+        <mark key="[" line="44" column="45" />
+        <mark key="]" line="44" column="45" />
+        <mark key="^" line="44" column="45" />
+        <mark key="." line="44" column="45" />
+      </file>
       <file name="$USER_HOME$/projects/gateway/licu/json-test.py" timestamp="1552581536286">
         <mark key="'" line="43" column="12" />
         <mark key="[" line="48" column="0" />
@@ -1234,10 +1240,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IGVsc2U6CiAgICAgICAgbXNnID0gIlBpbmcgdG8ge30gbm90IHN1Y2Nlc3NmdWw7IGV4aXRpbmciLmZvcm1hdChyZW1vdGVfaXApCiAgICAgICAgd3JpdGVfdG9fbG9nKG1zZykKICAgICAgICBzeXMuZXhpdCgxKQo=</text>
+        <text>t</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICAgICAgICA=</text>
+        <text>t</text>
       </register>
       <register name="/" type="4">
         <text>already</text>
@@ -1245,32 +1251,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIHdyaXRlX3RvX2xvZygiSUJNIHByZS11cGRhdGUgc2V0dXAgY29tcGxldGVkIHN1Y2Nlc3NmdWxseSIpCg==</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">IGVsc2U6CiAgICAgICAgbXNnID0gIlBpbmcgdG8ge30gbm90IHN1Y2Nlc3NmdWw7IGV4aXRpbmciLmZvcm1hdChyZW1vdGVfaXApCiAgICAgICAgd3JpdGVfdG9fbG9nKG1zZykKICAgICAgICBzeXMuZXhpdCgxKQo=</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGlmIHJlc3BvbnNlOgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICByZXNwb25zZSA9IHNlbmRfcGluZyhyZW1vdGVfaXApCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIGF0dGVtcHQgPSAxCg==</text>
+      <register name="4" type="4">
+        <text encoding="base64">IGVsc2U6CiAgICAgICAgbXNnID0gIlBpbmcgdG8ge30gbm90IHN1Y2Nlc3NmdWw7IGV4aXRpbmciLmZvcm1hdChyZW1vdGVfaXApCiAgICAgICAgd3JpdGVfdG9fbG9nKG1zZykKICAgICAgICBzeXMuZXhpdCgxKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHJlc3BvbnNlID0gc2VuZF9waW5nKHJlbW90ZV9pcCkK</text>
+        <text encoding="base64">ICAgIGlmIHJlc3BvbnNlOgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGlmIHNlbmRfcGluZyhyZW1vdGVfaXApOgo=</text>
+        <text encoding="base64">ICAgICAgICByZXNwb25zZSA9IHNlbmRfcGluZyhyZW1vdGVfaXApCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGF0dGVtcHQgPSAxCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHJlc3BvbnNlID0gc2VuZF9waW5nKHJlbW90ZV9pcCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIGlmIHNlbmRfcGluZyhyZW1vdGVfaXApOgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -1309,7 +1315,6 @@
         <entry>already</entry>
       </history-search>
       <history-cmd>
-        <entry>129</entry>
         <entry>133</entry>
         <entry>-0</entry>
         <entry>0-</entry>
@@ -1321,13 +1326,14 @@
         <entry>168</entry>
         <entry>94</entry>
         <entry>265</entry>
-        <entry>wq</entry>
         <entry>$</entry>
         <entry>q</entry>
         <entry>4</entry>
         <entry>:35</entry>
         <entry>35</entry>
         <entry>0</entry>
+        <entry>wq</entry>
+        <entry>45</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
