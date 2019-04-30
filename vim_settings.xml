@@ -428,6 +428,11 @@
         <mark key="^" line="53" column="0" />
         <mark key="." line="52" column="35" />
       </file>
+      <file name="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/ibm_setup/upgrade_defaults.yaml" timestamp="1556660970818">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
+      </file>
       <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/mod_support/code.py" timestamp="1516214397620">
         <mark key="'" line="61" column="48" />
         <mark key="[" line="117" column="0" />
@@ -1239,8 +1244,8 @@
       <jump line="0" column="0" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/gre_change_run.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>t</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICBqdW5vcy1tZWRpYS12c3J4LXg4Ni02NC12bWRpc2stMTguNFIxLVMxLjMucWNvdzIK</text>
       </register>
       <register name="-" type="4">
         <text>t</text>
@@ -1252,7 +1257,7 @@
         <text encoding="base64">ICAgIHdyaXRlX3RvX2xvZygiSUJNIHByZS11cGRhdGUgc2V0dXAgY29tcGxldGVkIHN1Y2Nlc3NmdWxseSIpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBqdW5vcy1tZWRpYS12c3J4LXg4Ni02NC12bWRpc2stMTguNFIxLVMxLjMucWNvdzIK</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
@@ -1260,26 +1265,26 @@
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="4">
         <text encoding="base64">IGVsc2U6CiAgICAgICAgbXNnID0gIlBpbmcgdG8ge30gbm90IHN1Y2Nlc3NmdWw7IGV4aXRpbmciLmZvcm1hdChyZW1vdGVfaXApCiAgICAgICAgd3JpdGVfdG9fbG9nKG1zZykKICAgICAgICBzeXMuZXhpdCgxKQo=</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgIGlmIHJlc3BvbnNlOgo=</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICByZXNwb25zZSA9IHNlbmRfcGluZyhyZW1vdGVfaXApCg==</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgIGF0dGVtcHQgPSAxCg==</text>
       </register>
-      <register name="8" type="2">
+      <register name="9" type="2">
         <text encoding="base64">ICAgIHJlc3BvbnNlID0gc2VuZF9waW5nKHJlbW90ZV9pcCkK</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIGlmIHNlbmRfcGluZyhyZW1vdGVfaXApOgo=</text>
-      </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wq</text>
       </register>
     </registers>
     <search>
@@ -1332,9 +1337,9 @@
         <entry>:35</entry>
         <entry>35</entry>
         <entry>0</entry>
-        <entry>wq</entry>
         <entry>45</entry>
         <entry>w</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
