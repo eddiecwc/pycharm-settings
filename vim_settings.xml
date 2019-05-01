@@ -543,7 +543,7 @@
         <mark key="." line="13" column="11" />
         <mark key="^" line="13" column="11" />
       </file>
-      <file name="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/ibm_setup/import_settings.yaml" timestamp="1556727523534" />
+      <file name="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/ibm_setup/import_settings.yaml" timestamp="1556745510762" />
       <file name="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/README-GRE.MD" timestamp="1556689336807">
         <mark key="[" line="25" column="4" />
         <mark key="]" line="25" column="4" />
@@ -640,12 +640,12 @@
         <mark key="." line="5" column="13" />
         <mark key="^" line="5" column="13" />
       </file>
-      <file name="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/run_upgrade.py" timestamp="1556689754252">
+      <file name="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/run_upgrade.py" timestamp="1556745881268">
         <mark key="'" line="86" column="52" />
-        <mark key="[" line="124" column="0" />
-        <mark key="]" line="124" column="0" />
-        <mark key="^" line="59" column="72" />
-        <mark key="." line="124" column="0" />
+        <mark key="[" line="266" column="106" />
+        <mark key="]" line="267" column="3" />
+        <mark key="." line="267" column="3" />
+        <mark key="^" line="267" column="3" />
       </file>
       <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/mod_tester/tester.py" timestamp="1515837619326">
         <mark key="[" line="55" column="0" />
@@ -1287,7 +1287,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>*</text>
@@ -1299,31 +1299,31 @@
         <text encoding="base64">ICAgIHdyaXRlX3RvX2xvZygiSUJNIHByZS11cGRhdGUgc2V0dXAgY29tcGxldGVkIHN1Y2Nlc3NmdWxseSIpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
-      </register>
-      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICMgdG9kbyAtIGlmIHNyeC1saWN1IGZhaWx1cmUgaXMgZGV0ZWN0ZWQsIEFORCByb2xsYmFjayBpcyBjb21wbGV0ZWQsIHRoZW4gaW5pdGlhdGUgR1JFIHR1bm5lbCByb2xsYmFjawo=</text>
+      </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBmdW5jdGlvbiA9IGZyYW1lWzFdWzNdCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGx4bWwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZnJvbSBseG1sIGltcG9ydCBldHJlZQo=</text>
+        <text encoding="base64">ICAgICAgICBmdW5jdGlvbiA9IGZyYW1lWzFdWzNdCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IHN5cwo=</text>
+        <text encoding="base64">aW1wb3J0IGx4bWwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAjIHdyaXRlX3RvX2xvZyhwaHlfaW50KQo=</text>
+        <text encoding="base64">ZnJvbSBseG1sIGltcG9ydCBldHJlZQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICMgd3JpdGVfdG9fbG9nKGludGVyZmFjZV9pbmZvKQo=</text>
+        <text encoding="base64">aW1wb3J0IHN5cwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAjIHdyaXRlX3RvX2xvZyhwaHlfaW50KQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -1368,7 +1368,6 @@
         <entry>206</entry>
         <entry>212</entry>
         <entry>260</entry>
-        <entry>q!</entry>
         <entry encoding="base64">JzwsJz4w</entry>
         <entry>168</entry>
         <entry>94</entry>
@@ -1381,6 +1380,7 @@
         <entry>0</entry>
         <entry>45</entry>
         <entry>wq</entry>
+        <entry>q!</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
