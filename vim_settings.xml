@@ -292,12 +292,12 @@
         <mark key="^" line="109" column="19" />
         <mark key="." line="133" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/gre_change_run.py" timestamp="1556646244382">
+      <file name="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/gre_change_run.py" timestamp="1556689776630">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="96" column="13" />
-        <mark key="]" line="97" column="81" />
-        <mark key="^" line="97" column="81" />
-        <mark key="." line="97" column="81" />
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="^" line="96" column="81" />
+        <mark key="." line="17" column="0" />
       </file>
       <file name="$USER_HOME$/Sites/FlaskApp/templates/includes/commentbox.html" timestamp="1514778376934">
         <mark key="[" line="3" column="90" />
@@ -540,6 +540,12 @@
         <mark key="." line="13" column="11" />
         <mark key="^" line="13" column="11" />
       </file>
+      <file name="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/README-GRE.MD" timestamp="1556689336807">
+        <mark key="[" line="25" column="4" />
+        <mark key="]" line="25" column="4" />
+        <mark key="^" line="25" column="4" />
+        <mark key="." line="25" column="4" />
+      </file>
       <file name="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/srx-licu.py" timestamp="1556562351453" />
       <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/templates/ess/code_table_headers.html" timestamp="1520814619754">
         <mark key="[" line="4" column="8" />
@@ -627,12 +633,12 @@
         <mark key="." line="5" column="13" />
         <mark key="^" line="5" column="13" />
       </file>
-      <file name="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/run_upgrade.py" timestamp="1556612146351">
+      <file name="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/run_upgrade.py" timestamp="1556689754252">
         <mark key="'" line="86" column="52" />
-        <mark key="[" line="59" column="66" />
-        <mark key="]" line="59" column="72" />
+        <mark key="[" line="124" column="0" />
+        <mark key="]" line="124" column="0" />
         <mark key="^" line="59" column="72" />
-        <mark key="." line="59" column="72" />
+        <mark key="." line="124" column="0" />
       </file>
       <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/mod_tester/tester.py" timestamp="1515837619326">
         <mark key="[" line="55" column="0" />
@@ -710,12 +716,12 @@
         <mark key="^" line="3" column="34" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/common.py" timestamp="1556645996507">
+      <file name="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/common.py" timestamp="1556689864882">
         <mark key="'" line="217" column="37" />
-        <mark key="[" line="76" column="0" />
-        <mark key="]" line="76" column="0" />
-        <mark key="^" line="76" column="0" />
-        <mark key="." line="76" column="0" />
+        <mark key="[" line="352" column="0" />
+        <mark key="]" line="352" column="0" />
+        <mark key="^" line="69" column="24" />
+        <mark key="." line="352" column="0" />
       </file>
       <file name="$USER_HOME$/projects/gateway/licu/do-update" timestamp="1550640403777">
         <mark key="'" line="52" column="13" />
@@ -750,11 +756,11 @@
         <mark key="." line="223" column="45" />
         <mark key="^" line="223" column="45" />
       </file>
-      <file name="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/README.md" timestamp="1556687872589">
+      <file name="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/README.md" timestamp="1556689696364">
         <mark key="[" line="32" column="0" />
-        <mark key="]" line="32" column="0" />
-        <mark key="." line="32" column="0" />
-        <mark key="^" line="32" column="0" />
+        <mark key="]" line="35" column="2" />
+        <mark key="." line="35" column="2" />
+        <mark key="^" line="35" column="2" />
       </file>
       <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/mixin.py" timestamp="1526022095999">
         <mark key="'" line="147" column="0" />
@@ -1256,11 +1262,11 @@
       <jump line="0" column="0" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/gre_change_run.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>U</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>U</text>
+        <text>*</text>
       </register>
       <register name="/" type="4">
         <text>already</text>
@@ -1269,31 +1275,31 @@
         <text encoding="base64">ICAgIHdyaXRlX3RvX2xvZygiSUJNIHByZS11cGRhdGUgc2V0dXAgY29tcGxldGVkIHN1Y2Nlc3NmdWxseSIpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Mi4gQ3JlYXRlcyBhIEdSRSB0dW5uZWwgZm9yCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBqdW5vcy1tZWRpYS12c3J4LXg4Ni02NC12bWRpc2stMTguNFIxLVMxLjMucWNvdzIK</text>
+        <text encoding="base64">ICAgICAgICBmdW5jdGlvbiA9IGZyYW1lWzFdWzNdCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGx4bWwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnJvbSBseG1sIGltcG9ydCBldHJlZQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHN5cwo=</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">IGVsc2U6CiAgICAgICAgbXNnID0gIlBpbmcgdG8ge30gbm90IHN1Y2Nlc3NmdWw7IGV4aXRpbmciLmZvcm1hdChyZW1vdGVfaXApCiAgICAgICAgd3JpdGVfdG9fbG9nKG1zZykKICAgICAgICBzeXMuZXhpdCgxKQo=</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAjIHdyaXRlX3RvX2xvZyhwaHlfaW50KQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGlmIHJlc3BvbnNlOgo=</text>
+        <text encoding="base64">ICAgICMgd3JpdGVfdG9fbG9nKGludGVyZmFjZV9pbmZvKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICByZXNwb25zZSA9IHNlbmRfcGluZyhyZW1vdGVfaXApCg==</text>
+        <text encoding="base64">ICAgCg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIGF0dGVtcHQgPSAxCg==</text>
+      <register name="9" type="4">
+        <text encoding="base64">CgoKUm9sbGJhY2s6Ci0gaWYgeG1sL2ludGVyZmFjZSBmaWxlIG1vZGlmaWNhdGlvbiBmYWlscyBvbiBlaXRoZXIgbm9kZToKICAgIC0gZHJpdmVyIGluaXRpYXRlcyBmaWxlL3htbCByZXN0b3JlIG9uIGJvdGggaG9zdHMuIAotIGVycm9yIGR1cmluZyBncmUgY2hhbmdlOgogICAgLSBpZiBzZWNvbmRhcnkgVk0gaXMgZG93biAtIAogICAgICAgIC0gcmV2ZXJ0IGNoYW5nZXMgb24gYm90aCBob3N0cwogICAgICAgIC0gcmV2ZXJ0IGZpbGVzIG9uIGJvdGggaG9zdHMKICAgICAgICAtIGJyaW5nIFZNIGJhY2sgdXAKICAgIC0gaWYgc2Vjb25kYXJ5IFZNIGlzIHVwCiAgICAgICAgLSByZXZlcnQgZmlsZXMgb24gYm90aCBob3N0cwogICAgLSBjaGVjayBpbnRlcmZhY2UgZmFpbHVyZSAtIGxlYXZlIGFsb25lCiAgICAKIA==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
