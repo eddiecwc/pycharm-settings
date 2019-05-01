@@ -516,6 +516,12 @@
         <mark key="]" line="154" column="24" />
         <mark key="." line="154" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/pkgs/pip/requirement.txt" timestamp="1556674747560">
+        <mark key="[" line="27" column="8" />
+        <mark key="]" line="27" column="8" />
+        <mark key="^" line="27" column="8" />
+        <mark key="." line="27" column="8" />
+      </file>
       <file name="$USER_HOME$/Sites/ESS-Monitor/nodetest.py" timestamp="1515145522602">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
