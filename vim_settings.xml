@@ -188,8 +188,8 @@
         <mark key="." line="68" column="47" />
         <mark key="^" line="68" column="47" />
       </file>
-      <file name="$USER_HOME$/projects/gateway/Juniper_vSRX_on_KVM/Build_vSRX.py" timestamp="1553878769212">
-        <mark key="'" line="447" column="36" />
+      <file name="$USER_HOME$/projects/gateway/Juniper_vSRX_on_KVM/Build_vSRX.py" timestamp="1556729541083">
+        <mark key="'" line="75" column="12" />
         <mark key="[" line="52" column="45" />
         <mark key="]" line="52" column="46" />
         <mark key="." line="52" column="45" />
@@ -811,13 +811,6 @@
         <mark key="." line="2" column="30" />
         <mark key="^" line="2" column="30" />
       </file>
-      <file name="$USER_HOME$/projects/gateway/vsrx_cluster_gre_tunnel_implementation-master/common.py" timestamp="1556500390806">
-        <mark key="'" line="345" column="50" />
-        <mark key="[" line="331" column="51" />
-        <mark key="]" line="331" column="51" />
-        <mark key="." line="331" column="51" />
-        <mark key="^" line="331" column="51" />
-      </file>
       <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/models.py" timestamp="1524859461779">
         <mark key="'" line="184" column="22" />
         <mark key="[" line="217" column="0" />
@@ -1191,10 +1184,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="399" column="10" filename="$USER_HOME$/projects/gateway/vsrx_cluster_gre_tunnel_implementation-master/gre_change_prep_script.py" />
-      <jump line="455" column="32" filename="$USER_HOME$/projects/gateway/vsrx_cluster_gre_tunnel_implementation-master/gre_change_prep_script.py" />
-      <jump line="422" column="32" filename="$USER_HOME$/projects/gateway/vsrx_cluster_gre_tunnel_implementation-master/gre_change_prep_script.py" />
-      <jump line="25" column="16" filename="$USER_HOME$/projects/gateway/vsrx_cluster_gre_tunnel_implementation-master/common.py" />
       <jump line="4" column="8" filename="$USER_HOME$/projects/gateway/vsrx_cluster_gre_tunnel_implementation-master/gre_change_prep_script.py" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/gateway/vsrx_cluster_gre_tunnel_implementation-master/gre_change_prep_script.py" />
       <jump line="131" column="48" filename="$USER_HOME$/projects/gateway/vsrx_cluster_gre_tunnel_implementation-master/gre_change_prep_script.py" />
@@ -1291,6 +1280,10 @@
       <jump line="105" column="39" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/modified_vsrx_upgrade.py" />
       <jump line="452" column="11" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/modified_vsrx_upgrade.py" />
       <jump line="453" column="11" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/modified_vsrx_upgrade.py" />
+      <jump line="31" column="21" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_on_KVM/Build_vSRX.py" />
+      <jump line="33" column="0" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_on_KVM/Build_vSRX.py" />
+      <jump line="73" column="15" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_on_KVM/Build_vSRX.py" />
+      <jump line="75" column="12" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_on_KVM/Build_vSRX.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -1300,7 +1293,7 @@
         <text>*</text>
       </register>
       <register name="/" type="4">
-        <text>libvirt</text>
+        <text>Generate_vSRX_</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHdyaXRlX3RvX2xvZygiSUJNIHByZS11cGRhdGUgc2V0dXAgY29tcGxldGVkIHN1Y2Nlc3NmdWxseSIpCg==</text>
@@ -1337,9 +1330,9 @@
       </register>
     </registers>
     <search>
-      <last-search>libvirt</last-search>
+      <last-search>Generate_vSRX_</last-search>
       <last-offset />
-      <last-pattern>libvirt</last-pattern>
+      <last-pattern>Generate_vSRX_</last-pattern>
       <last-replace>CodeSimpleSchema</last-replace>
       <last-substitute>CodeSchema</last-substitute>
       <last-dir>1</last-dir>
@@ -1347,9 +1340,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Checking to verify</entry>
-        <entry encoding="base64">IGhhbmdlX210dQ==</entry>
-        <entry>mtu</entry>
         <entry>change_mtu</entry>
         <entry>test_excep</entry>
         <entry>stderr_r</entry>
@@ -1367,6 +1357,9 @@
         <entry>bring_up_br_ctrl</entry>
         <entry>already</entry>
         <entry>libvirt</entry>
+        <entry>generate_vsrx</entry>
+        <entry>Generate_v</entry>
+        <entry>Generate_vSRX_</entry>
       </history-search>
       <history-cmd>
         <entry>133</entry>
