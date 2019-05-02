@@ -380,8 +380,8 @@
       <file name="$USER_HOME$/projects/gateway/Juniper_vSRX_on_KVM/build_kvm_int.py" timestamp="1554150399153">
         <mark key="'" line="1175" column="63" />
       </file>
-      <file name="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/modified_vsrx_upgrade.py" timestamp="1556690697326">
-        <mark key="'" line="453" column="11" />
+      <file name="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/modified_vsrx_upgrade.py" timestamp="1556823351216">
+        <mark key="'" line="812" column="31" />
       </file>
       <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/extensions.py" timestamp="1526004758181">
         <mark key="[" line="24" column="27" />
@@ -1191,20 +1191,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="174" column="0" filename="$USER_HOME$/projects/gateway/vsrx_cluster_gre_tunnel_implementation-master/common.py" />
-      <jump line="93" column="37" filename="$USER_HOME$/projects/gateway/vsrx_cluster_gre_tunnel_implementation-master/common.py" />
-      <jump line="94" column="44" filename="$USER_HOME$/projects/gateway/vsrx_cluster_gre_tunnel_implementation-master/common.py" />
-      <jump line="100" column="43" filename="$USER_HOME$/projects/gateway/vsrx_cluster_gre_tunnel_implementation-master/common.py" />
-      <jump line="107" column="24" filename="$USER_HOME$/projects/gateway/vsrx_cluster_gre_tunnel_implementation-master/common.py" />
-      <jump line="120" column="29" filename="$USER_HOME$/projects/gateway/vsrx_cluster_gre_tunnel_implementation-master/common.py" />
-      <jump line="121" column="9" filename="$USER_HOME$/projects/gateway/vsrx_cluster_gre_tunnel_implementation-master/common.py" />
-      <jump line="122" column="8" filename="$USER_HOME$/projects/gateway/vsrx_cluster_gre_tunnel_implementation-master/common.py" />
-      <jump line="124" column="55" filename="$USER_HOME$/projects/gateway/vsrx_cluster_gre_tunnel_implementation-master/common.py" />
-      <jump line="26" column="10" filename="$USER_HOME$/projects/gateway/vsrx_cluster_gre_tunnel_implementation-master/gre_change_main.py" />
-      <jump line="192" column="15" filename="$USER_HOME$/projects/gateway/vsrx_cluster_gre_tunnel_implementation-master/gre_change_main.py" />
-      <jump line="193" column="14" filename="$USER_HOME$/projects/gateway/vsrx_cluster_gre_tunnel_implementation-master/gre_change_main.py" />
-      <jump line="461" column="23" filename="$USER_HOME$/projects/gateway/vsrx_cluster_gre_tunnel_implementation-master/gre_change_run.py" />
-      <jump line="17" column="17" filename="$USER_HOME$/projects/gateway/vsrx_cluster_gre_tunnel_implementation-master/gre_change_run.py" />
       <jump line="55" column="3" filename="$USER_HOME$/projects/gateway/vsrx_cluster_gre_tunnel_implementation-master/gre_change_run.py" />
       <jump line="378" column="37" filename="$USER_HOME$/projects/gateway/vsrx_cluster_gre_tunnel_implementation-master/gre_change_run.py" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/gateway/vsrx_cluster_gre_tunnel_implementation-master/gre_change_run.py" />
@@ -1255,11 +1241,6 @@
       <jump line="5" column="7" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/gre_change_run.py" />
       <jump line="217" column="37" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/common.py" />
       <jump line="118" column="2" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/gre_change_run.py" />
-      <jump line="37" column="8" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/modified_vsrx_upgrade.py" />
-      <jump line="80" column="38" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/modified_vsrx_upgrade.py" />
-      <jump line="105" column="39" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/modified_vsrx_upgrade.py" />
-      <jump line="452" column="11" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/modified_vsrx_upgrade.py" />
-      <jump line="453" column="11" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/modified_vsrx_upgrade.py" />
       <jump line="31" column="21" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_on_KVM/Build_vSRX.py" />
       <jump line="33" column="0" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_on_KVM/Build_vSRX.py" />
       <jump line="73" column="15" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_on_KVM/Build_vSRX.py" />
@@ -1291,6 +1272,25 @@
       <jump line="10" column="7" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/gre_change_mod.py" />
       <jump line="174" column="68" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/gre_change_mod.py" />
       <jump line="91" column="11" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/common.py" />
+      <jump line="10" column="30" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/modified_vsrx_upgrade.py" />
+      <jump line="20" column="25" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/modified_vsrx_upgrade.py" />
+      <jump line="37" column="11" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/modified_vsrx_upgrade.py" />
+      <jump line="80" column="35" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/modified_vsrx_upgrade.py" />
+      <jump line="105" column="41" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/modified_vsrx_upgrade.py" />
+      <jump line="452" column="10" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/modified_vsrx_upgrade.py" />
+      <jump line="453" column="7" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/modified_vsrx_upgrade.py" />
+      <jump line="454" column="27" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/modified_vsrx_upgrade.py" />
+      <jump line="473" column="24" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/modified_vsrx_upgrade.py" />
+      <jump line="475" column="27" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/modified_vsrx_upgrade.py" />
+      <jump line="478" column="21" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/modified_vsrx_upgrade.py" />
+      <jump line="543" column="34" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/modified_vsrx_upgrade.py" />
+      <jump line="544" column="10" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/modified_vsrx_upgrade.py" />
+      <jump line="545" column="34" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/modified_vsrx_upgrade.py" />
+      <jump line="547" column="10" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/modified_vsrx_upgrade.py" />
+      <jump line="562" column="34" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/modified_vsrx_upgrade.py" />
+      <jump line="744" column="25" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/modified_vsrx_upgrade.py" />
+      <jump line="745" column="23" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/modified_vsrx_upgrade.py" />
+      <jump line="812" column="31" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/modified_vsrx_upgrade.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -1300,7 +1300,7 @@
         <text>t</text>
       </register>
       <register name="/" type="4">
-        <text>del</text>
+        <text>libvirt</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ZnJvbSBkYXRldGltZSBpbXBvcnQgZGF0ZXRpbWUKZnJvbSBqbnByLmp1bm9zIGltcG9ydCBEZXZpY2UKZnJvbSBqbnByLmp1bm9zIGltcG9ydCBleGNlcHRpb24gYXMgam5wcl9leGNlcHRpb24KZnJvbSBzb2NrZXQgaW1wb3J0IGdldGhvc3RuYW1lCmZyb20gY29weSBpbXBvcnQgZGVlcGNvcHkKCmltcG9ydCBwYXJhbWlrbwppbXBvcnQgb3MKaW1wb3J0IHJlCmltcG9ydCBzdWJwcm9jZXNzCmltcG9ydCBzeXMKaW1wb3J0IHNvY2tldAppbXBvcnQgdGltZQppbXBvcnQgeWFtbAppbXBvcnQgaW5zcGVjdAoKCkRFQlVHID0gVHJ1ZQpsb2dfZmlsZSA9ICcvdmFyL2xvZy92c3J4X3Byb3Yvc3J4LWxpY3UubG9nJwpvcmlnX2ludGVyZmFjZXNfZmlsZV9iYWNrdXAgPSAnL2V0Yy9uZXR3b3JrL2ludGVyZmFjZXMuYmFrLnByZV9ncmUnCm9yaWdfdm1feG1sX3BhdGhfZm9ybWF0ID0gJy92YXIvbGliL2xpYnZpcnQvaW1hZ2VzL3t9L3ZTUlhfcHJlX2dyZV9iYWNrdXAueG1sJwp2bV94bWxfcGF0aF9mb3JtYXQgPSAnL3Zhci9saWIvbGlidmlydC9pbWFnZXMve30vdlNSWF9YTUwueG1sJwp2bmV0MV94bWxfcGF0aF9mb3JtYXQgPSAnL3Zhci9saWIvbGlidmlydC9pbWFnZXMve30vdlNSWF92bmV0MS54bWwnCmxvZ2luX3NjcmlwdCA9ICdnZXRfbm9kZV9ob3N0bmFtZS5zaCcKc2V0dGluZ3NfZmlsZSA9ICdpYm1fc2V0dXAvaW1wb3J0X3NldHRpbmdzLnlhbWwnCmhvc3RuYW1lID0gZ2V0aG9zdG5hbWUoKQptYXhfcmV0cmllcyA9IDMKCgpkZWYgcmdfbG9jYXRpb25zKGZhY3RzKToKICAgICIiIgogICAgRXhhbWluZXMganVub3MgZGV2aWNlIGZhY3RzIHRvIGRldGVybWluZSB3aGljaCByZWR1bmRhbmN5LWdyb3VwcwogICAgcmVzaWRlIG9uIHdoaWNoIGNsdXN0ZXIgbWVtYmVyCgogICAgOnBhcmFtIGZhY3RzOiBqdW5vcyBkZXZpY2UgZmFjdHMKICAgIDpyZXR1cm46IGEgbGlzdCBvZiBSRyBudW1iZXJzIHRoYXQgaGF2ZSBub2RlMCBhcyBwcmltYXJ5IGFuZAogICAgICAgICAgICBhIGxpc3Qgb2YgUkcgbnVtYmVycyB0aGF0IGhhdmUgbm9kZTEgYXMgcHJpbWFyeQogICAgIiIiCiAgICByZ19pbmZvID0gZmFjdHNbJ3NyeF9jbHVzdGVyX3JlZHVuZGFuY3lfZ3JvdXAnXQogICAgcmdzX29uX25vZGUwID0gW10KICAgIHJnc19vbl9ub2RlMSA9IFtdCiAgICBmb3IgcmdfbnVtLCByZ19zdGF0dXMgaW4gcmdfaW5mby5pdGVtcygpOgogICAgICAgIHdyaXRlX3RvX2xvZygiSGVyZSBhcmUgdGhlIFJHcyBhbmQgdGhlaXIgc3RhdHVzIikKICAgICAgICB3cml0ZV90b19sb2coInt9OiB7fSIuZm9ybWF0KHJnX251bSwgcmdfc3RhdHVzKSkKICAgICAgICBpZiByZ19zdGF0dXNbJ25vZGUxJ11bJ3N0YXR1cyddID09ICdwcmltYXJ5JzoKICAgICAgICAgICAgcmdzX29uX25vZGUxLmFwcGVuZChyZ19udW0pCiAgICAgICAgZWxpZiByZ19zdGF0dXNbJ25vZGUwJ11bJ3N0YXR1cyddID09ICdwcmltYXJ5JzoKICAgICAgICAgICAgcmdzX29uX25vZGUwLmFwcGVuZChyZ19udW0pCiAgICByZXR1cm4gcmdzX29uX25vZGUwLCByZ3Nfb25fbm9kZTEKCgpkZWYgZGV0ZXJtaW5lX3ByaW1hY3kodm1fbmFtZSwgY2x1c3Rlcl9wdyk6CiAgICAiIiIKICAgIEZpbmRzIHRoZSBub2RlIG5hbWUgYW5kIHJvbGUgdXNpbmcgZXhwZWN0IHNjcmlwdCB0aGF0IGxvZ3MgaW4gdG8gdGhlIGNsaQogICAgTm9kZSBhbmQgcHJpbWFjeSBpbmZvcm1hdGlvbiBpcyBleHRyYWN0ZWQgZnJvbSBjbGkgcHJvbXB0CiAgICA6cGFyYW0gdm1fbmFtZTogbmFtZSBvZiB0aGUgdm0gb24gdGhlIGxvY2FsIGhvc3QKICAgIDpwYXJhbSBjbHVzdGVyX3B3OiBjbHVzdGVyIHB3CiAgICA6cmV0dXJuOiB0dXBsZSBvZiBub2RlIG5hbWUgYW5kIHJvbGUKICAgICIiIgogICAgdHJ5OgogICAgICAgIG91dHB1dCA9IGRvX2NoZWNrX2NhbGwoJy4ve3NjcmlwdH0ge25hbWV9IHtwd30nLmZvcm1hdCgKICAgICAgICAgICAgc2NyaXB0PWxvZ2luX3NjcmlwdCwKICAgICAgICAgICAgbmFtZT12bV9uYW1lLAogICAgICAgICAgICBwdz1jbHVzdGVyX3B3KSkKICAgIGV4Y2VwdCBzdWJwcm9jZXNzLkNhbGxlZFByb2Nlc3NFcnJvciBhcyBlOgogICAgICAgICMgaW4gcmFyZSBjYXNlIGlmIGV4cGVjdCBzY3JpcHQgZ2V0cyBzdHVjayBhbmQgdGltZXMgb3V0IHdpdGggbm9uLXplcm8KICAgICAgICAjIHJldHVybiBjb2RlLCBzdGlsbCBjaGVjayBvdXRwdXQgYXMgaXQgbWF5IGhhdmUgdGhlIGluZm8gd2UgbmVlZAogICAgICAgIHdyaXRlX3RvX2xvZygiRXJyb3IgZGV0ZWN0ZWQgZnJvbSBleHBlY3QuIENoZWNraW5nIGlmIG5lZWRlZCBpbmZvIGlzIHByZXNlbnQuIikKICAgICAgICB3cml0ZV90b19sb2coZS5vdXRwdXQpCiAgICAgICAgb3V0cHV0ID0gZS5vdXRwdXQKCiAgICBtYXRjaCA9IHJlLnNlYXJjaChyJ3socHJpbWFyeXxzZWNvbmRhcnkpOihub2RlLil9Jywgb3V0cHV0KQogICAgaWYgbm90IG1hdGNoOgogICAgICAgICMgbm8gcHJpbWFjeSBpbmZvIGZvdW5uZCBmcm9tIGV4cGVjdCBvdXRwdXQKICAgICAgICByYWlzZSBFeGNlcHRpb24oIlVuYWJsZSB0byBkZXRlcm1pbmUgbm9kZSBwcmltYWN5IikKCiAgICByb2xlID0gbWF0Y2guZ3JvdXAoMSkKICAgIG5vZGUgPSBtYXRjaC5ncm91cCgyKQo=</text>
@@ -1337,9 +1337,9 @@
       </register>
     </registers>
     <search>
-      <last-search>del</last-search>
+      <last-search>libvirt</last-search>
       <last-offset />
-      <last-pattern>del</last-pattern>
+      <last-pattern>libvirt</last-pattern>
       <last-replace>CodeSimpleSchema</last-replace>
       <last-substitute>CodeSchema</last-substitute>
       <last-dir>1</last-dir>
@@ -1357,7 +1357,6 @@
         <entry>send_ping</entry>
         <entry>bring_up_br_ctrl</entry>
         <entry>already</entry>
-        <entry>libvirt</entry>
         <entry>generate_vsrx</entry>
         <entry>Generate_v</entry>
         <entry>Generate_vSRX_</entry>
@@ -1367,6 +1366,7 @@
         <entry>open_yaml</entry>
         <entry>settings</entry>
         <entry>del</entry>
+        <entry>libvirt</entry>
       </history-search>
       <history-cmd>
         <entry>212</entry>
