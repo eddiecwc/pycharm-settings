@@ -646,11 +646,12 @@
         <mark key="." line="5" column="13" />
         <mark key="^" line="5" column="13" />
       </file>
-      <file name="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/run_upgrade.py" timestamp="1556811195043">
+      <file name="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/run_upgrade.py" timestamp="1556816804920">
         <mark key="'" line="4" column="10" />
-        <mark key="]" line="266" column="3" />
-        <mark key="." line="266" column="3" />
-        <mark key="^" line="266" column="3" />
+        <mark key="[" line="52" column="0" />
+        <mark key="]" line="53" column="39" />
+        <mark key="." line="53" column="39" />
+        <mark key="^" line="53" column="39" />
       </file>
       <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/mod_tester/tester.py" timestamp="1515837619326">
         <mark key="[" line="55" column="0" />
@@ -734,10 +735,10 @@
       <file name="$USER_HOME$/projects/gateway/Juniper_vSRX_on_KVM/vSRX_conf_template_sa_ncv.j2" timestamp="1551252679985">
         <mark key="'" line="80" column="33" />
       </file>
-      <file name="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/common.py" timestamp="1556811187114">
-        <mark key="'" line="24" column="0" />
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="23" column="0" />
+      <file name="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/common.py" timestamp="1556816861060">
+        <mark key="'" line="91" column="11" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="77" column="25" />
         <mark key="." line="23" column="0" />
       </file>
       <file name="$USER_HOME$/projects/gateway/Juniper_vSRX_on_KVM/vSRX_conf_template_ha_ncv.j2" timestamp="1551252500619">
@@ -822,8 +823,8 @@
         <mark key="." line="217" column="0" />
         <mark key="^" line="217" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/gre_change_mod.py" timestamp="1556811052863">
-        <mark key="'" line="239" column="31" />
+      <file name="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/gre_change_mod.py" timestamp="1556816092784">
+        <mark key="'" line="174" column="68" />
         <mark key="[" line="240" column="34" />
         <mark key="]" line="240" column="42" />
         <mark key="." line="240" column="42" />
@@ -1190,7 +1191,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1" column="0" filename="$USER_HOME$/projects/gateway/vsrx_cluster_gre_tunnel_implementation-master/common.py" />
       <jump line="174" column="0" filename="$USER_HOME$/projects/gateway/vsrx_cluster_gre_tunnel_implementation-master/common.py" />
       <jump line="93" column="37" filename="$USER_HOME$/projects/gateway/vsrx_cluster_gre_tunnel_implementation-master/common.py" />
       <jump line="94" column="44" filename="$USER_HOME$/projects/gateway/vsrx_cluster_gre_tunnel_implementation-master/common.py" />
@@ -1276,9 +1276,6 @@
       <jump line="218" column="10" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/gre_change_mod.py" />
       <jump line="7" column="16" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/gre_change_mod.py" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/gre_change_run.py" />
-      <jump line="240" column="30" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/gre_change_mod.py" />
-      <jump line="10" column="7" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/gre_change_mod.py" />
-      <jump line="174" column="67" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/gre_change_mod.py" />
       <jump line="239" column="31" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/gre_change_mod.py" />
       <jump line="21" column="23" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/gre_change_run.py" />
       <jump line="388" column="42" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/gre_change_run.py" />
@@ -1290,55 +1287,59 @@
       <jump line="148" column="32" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/run_upgrade.py" />
       <jump line="149" column="26" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/run_upgrade.py" />
       <jump line="4" column="10" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/run_upgrade.py" />
+      <jump line="240" column="30" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/gre_change_mod.py" />
+      <jump line="10" column="7" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/gre_change_mod.py" />
+      <jump line="174" column="68" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/gre_change_mod.py" />
+      <jump line="91" column="11" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/common.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>'</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ZnJvbSBkYXRldGltZSBpbXBvcnQgZGF0ZXRpbWUKZnJvbSBqbnByLmp1bm9zIGltcG9ydCBEZXZpY2UKZnJvbSBqbnByLmp1bm9zIGltcG9ydCBleGNlcHRpb24gYXMgam5wcl9leGNlcHRpb24KZnJvbSBzb2NrZXQgaW1wb3J0IGdldGhvc3RuYW1lCmZyb20gY29weSBpbXBvcnQgZGVlcGNvcHkKCmltcG9ydCBwYXJhbWlrbwppbXBvcnQgb3MKaW1wb3J0IHJlCmltcG9ydCBzdWJwcm9jZXNzCmltcG9ydCBzeXMKaW1wb3J0IHNvY2tldAppbXBvcnQgdGltZQppbXBvcnQgeWFtbAppbXBvcnQgaW5zcGVjdAoKCkRFQlVHID0gVHJ1ZQpsb2dfZmlsZSA9ICcvdmFyL2xvZy92c3J4X3Byb3Yvc3J4LWxpY3UubG9nJwpvcmlnX2ludGVyZmFjZXNfZmlsZV9iYWNrdXAgPSAnL2V0Yy9uZXR3b3JrL2ludGVyZmFjZXMuYmFrLnByZV9ncmUnCm9yaWdfdm1feG1sX3BhdGhfZm9ybWF0ID0gJy92YXIvbGliL2xpYnZpcnQvaW1hZ2VzL3t9L3ZTUlhfcHJlX2dyZV9iYWNrdXAueG1sJwp2bV94bWxfcGF0aF9mb3JtYXQgPSAnL3Zhci9saWIvbGlidmlydC9pbWFnZXMve30vdlNSWF9YTUwueG1sJwp2bmV0MV94bWxfcGF0aF9mb3JtYXQgPSAnL3Zhci9saWIvbGlidmlydC9pbWFnZXMve30vdlNSWF92bmV0MS54bWwnCmxvZ2luX3NjcmlwdCA9ICdnZXRfbm9kZV9ob3N0bmFtZS5zaCcKc2V0dGluZ3NfZmlsZSA9ICdpYm1fc2V0dXAvaW1wb3J0X3NldHRpbmdzLnlhbWwnCmhvc3RuYW1lID0gZ2V0aG9zdG5hbWUoKQptYXhfcmV0cmllcyA9IDMKCgpkZWYgcmdfbG9jYXRpb25zKGZhY3RzKToKICAgICIiIgogICAgRXhhbWluZXMganVub3MgZGV2aWNlIGZhY3RzIHRvIGRldGVybWluZSB3aGljaCByZWR1bmRhbmN5LWdyb3VwcwogICAgcmVzaWRlIG9uIHdoaWNoIGNsdXN0ZXIgbWVtYmVyCgogICAgOnBhcmFtIGZhY3RzOiBqdW5vcyBkZXZpY2UgZmFjdHMKICAgIDpyZXR1cm46IGEgbGlzdCBvZiBSRyBudW1iZXJzIHRoYXQgaGF2ZSBub2RlMCBhcyBwcmltYXJ5IGFuZAogICAgICAgICAgICBhIGxpc3Qgb2YgUkcgbnVtYmVycyB0aGF0IGhhdmUgbm9kZTEgYXMgcHJpbWFyeQogICAgIiIiCiAgICByZ19pbmZvID0gZmFjdHNbJ3NyeF9jbHVzdGVyX3JlZHVuZGFuY3lfZ3JvdXAnXQogICAgcmdzX29uX25vZGUwID0gW10KICAgIHJnc19vbl9ub2RlMSA9IFtdCiAgICBmb3IgcmdfbnVtLCByZ19zdGF0dXMgaW4gcmdfaW5mby5pdGVtcygpOgogICAgICAgIHdyaXRlX3RvX2xvZygiSGVyZSBhcmUgdGhlIFJHcyBhbmQgdGhlaXIgc3RhdHVzIikKICAgICAgICB3cml0ZV90b19sb2coInt9OiB7fSIuZm9ybWF0KHJnX251bSwgcmdfc3RhdHVzKSkKICAgICAgICBpZiByZ19zdGF0dXNbJ25vZGUxJ11bJ3N0YXR1cyddID09ICdwcmltYXJ5JzoKICAgICAgICAgICAgcmdzX29uX25vZGUxLmFwcGVuZChyZ19udW0pCiAgICAgICAgZWxpZiByZ19zdGF0dXNbJ25vZGUwJ11bJ3N0YXR1cyddID09ICdwcmltYXJ5JzoKICAgICAgICAgICAgcmdzX29uX25vZGUwLmFwcGVuZChyZ19udW0pCiAgICByZXR1cm4gcmdzX29uX25vZGUwLCByZ3Nfb25fbm9kZTEKCgpkZWYgZGV0ZXJtaW5lX3ByaW1hY3kodm1fbmFtZSwgY2x1c3Rlcl9wdyk6CiAgICAiIiIKICAgIEZpbmRzIHRoZSBub2RlIG5hbWUgYW5kIHJvbGUgdXNpbmcgZXhwZWN0IHNjcmlwdCB0aGF0IGxvZ3MgaW4gdG8gdGhlIGNsaQogICAgTm9kZSBhbmQgcHJpbWFjeSBpbmZvcm1hdGlvbiBpcyBleHRyYWN0ZWQgZnJvbSBjbGkgcHJvbXB0CiAgICA6cGFyYW0gdm1fbmFtZTogbmFtZSBvZiB0aGUgdm0gb24gdGhlIGxvY2FsIGhvc3QKICAgIDpwYXJhbSBjbHVzdGVyX3B3OiBjbHVzdGVyIHB3CiAgICA6cmV0dXJuOiB0dXBsZSBvZiBub2RlIG5hbWUgYW5kIHJvbGUKICAgICIiIgogICAgdHJ5OgogICAgICAgIG91dHB1dCA9IGRvX2NoZWNrX2NhbGwoJy4ve3NjcmlwdH0ge25hbWV9IHtwd30nLmZvcm1hdCgKICAgICAgICAgICAgc2NyaXB0PWxvZ2luX3NjcmlwdCwKICAgICAgICAgICAgbmFtZT12bV9uYW1lLAogICAgICAgICAgICBwdz1jbHVzdGVyX3B3KSkKICAgIGV4Y2VwdCBzdWJwcm9jZXNzLkNhbGxlZFByb2Nlc3NFcnJvciBhcyBlOgogICAgICAgICMgaW4gcmFyZSBjYXNlIGlmIGV4cGVjdCBzY3JpcHQgZ2V0cyBzdHVjayBhbmQgdGltZXMgb3V0IHdpdGggbm9uLXplcm8KICAgICAgICAjIHJldHVybiBjb2RlLCBzdGlsbCBjaGVjayBvdXRwdXQgYXMgaXQgbWF5IGhhdmUgdGhlIGluZm8gd2UgbmVlZAogICAgICAgIHdyaXRlX3RvX2xvZygiRXJyb3IgZGV0ZWN0ZWQgZnJvbSBleHBlY3QuIENoZWNraW5nIGlmIG5lZWRlZCBpbmZvIGlzIHByZXNlbnQuIikKICAgICAgICB3cml0ZV90b19sb2coZS5vdXRwdXQpCiAgICAgICAgb3V0cHV0ID0gZS5vdXRwdXQKCiAgICBtYXRjaCA9IHJlLnNlYXJjaChyJ3socHJpbWFyeXxzZWNvbmRhcnkpOihub2RlLil9Jywgb3V0cHV0KQogICAgaWYgbm90IG1hdGNoOgogICAgICAgICMgbm8gcHJpbWFjeSBpbmZvIGZvdW5uZCBmcm9tIGV4cGVjdCBvdXRwdXQKICAgICAgICByYWlzZSBFeGNlcHRpb24oIlVuYWJsZSB0byBkZXRlcm1pbmUgbm9kZSBwcmltYWN5IikKCiAgICByb2xlID0gbWF0Y2guZ3JvdXAoMSkKICAgIG5vZGUgPSBtYXRjaC5ncm91cCgyKQo=</text>
       </register>
       <register name="-" type="4">
-        <text>'</text>
+        <text>t</text>
       </register>
       <register name="/" type="4">
-        <text>settings</text>
+        <text>del</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHdyaXRlX3RvX2xvZygiSUJNIHByZS11cGRhdGUgc2V0dXAgY29tcGxldGVkIHN1Y2Nlc3NmdWxseSIpCg==</text>
+        <text encoding="base64">ZnJvbSBkYXRldGltZSBpbXBvcnQgZGF0ZXRpbWUKZnJvbSBqbnByLmp1bm9zIGltcG9ydCBEZXZpY2UKZnJvbSBqbnByLmp1bm9zIGltcG9ydCBleGNlcHRpb24gYXMgam5wcl9leGNlcHRpb24KZnJvbSBzb2NrZXQgaW1wb3J0IGdldGhvc3RuYW1lCmZyb20gY29weSBpbXBvcnQgZGVlcGNvcHkKCmltcG9ydCBwYXJhbWlrbwppbXBvcnQgb3MKaW1wb3J0IHJlCmltcG9ydCBzdWJwcm9jZXNzCmltcG9ydCBzeXMKaW1wb3J0IHNvY2tldAppbXBvcnQgdGltZQppbXBvcnQgeWFtbAppbXBvcnQgaW5zcGVjdAoKCkRFQlVHID0gVHJ1ZQpsb2dfZmlsZSA9ICcvdmFyL2xvZy92c3J4X3Byb3Yvc3J4LWxpY3UubG9nJwpvcmlnX2ludGVyZmFjZXNfZmlsZV9iYWNrdXAgPSAnL2V0Yy9uZXR3b3JrL2ludGVyZmFjZXMuYmFrLnByZV9ncmUnCm9yaWdfdm1feG1sX3BhdGhfZm9ybWF0ID0gJy92YXIvbGliL2xpYnZpcnQvaW1hZ2VzL3t9L3ZTUlhfcHJlX2dyZV9iYWNrdXAueG1sJwp2bV94bWxfcGF0aF9mb3JtYXQgPSAnL3Zhci9saWIvbGlidmlydC9pbWFnZXMve30vdlNSWF9YTUwueG1sJwp2bmV0MV94bWxfcGF0aF9mb3JtYXQgPSAnL3Zhci9saWIvbGlidmlydC9pbWFnZXMve30vdlNSWF92bmV0MS54bWwnCmxvZ2luX3NjcmlwdCA9ICdnZXRfbm9kZV9ob3N0bmFtZS5zaCcKc2V0dGluZ3NfZmlsZSA9ICdpYm1fc2V0dXAvaW1wb3J0X3NldHRpbmdzLnlhbWwnCmhvc3RuYW1lID0gZ2V0aG9zdG5hbWUoKQptYXhfcmV0cmllcyA9IDMKCgpkZWYgcmdfbG9jYXRpb25zKGZhY3RzKToKICAgICIiIgogICAgRXhhbWluZXMganVub3MgZGV2aWNlIGZhY3RzIHRvIGRldGVybWluZSB3aGljaCByZWR1bmRhbmN5LWdyb3VwcwogICAgcmVzaWRlIG9uIHdoaWNoIGNsdXN0ZXIgbWVtYmVyCgogICAgOnBhcmFtIGZhY3RzOiBqdW5vcyBkZXZpY2UgZmFjdHMKICAgIDpyZXR1cm46IGEgbGlzdCBvZiBSRyBudW1iZXJzIHRoYXQgaGF2ZSBub2RlMCBhcyBwcmltYXJ5IGFuZAogICAgICAgICAgICBhIGxpc3Qgb2YgUkcgbnVtYmVycyB0aGF0IGhhdmUgbm9kZTEgYXMgcHJpbWFyeQogICAgIiIiCiAgICByZ19pbmZvID0gZmFjdHNbJ3NyeF9jbHVzdGVyX3JlZHVuZGFuY3lfZ3JvdXAnXQogICAgcmdzX29uX25vZGUwID0gW10KICAgIHJnc19vbl9ub2RlMSA9IFtdCiAgICBmb3IgcmdfbnVtLCByZ19zdGF0dXMgaW4gcmdfaW5mby5pdGVtcygpOgogICAgICAgIHdyaXRlX3RvX2xvZygiSGVyZSBhcmUgdGhlIFJHcyBhbmQgdGhlaXIgc3RhdHVzIikKICAgICAgICB3cml0ZV90b19sb2coInt9OiB7fSIuZm9ybWF0KHJnX251bSwgcmdfc3RhdHVzKSkKICAgICAgICBpZiByZ19zdGF0dXNbJ25vZGUxJ11bJ3N0YXR1cyddID09ICdwcmltYXJ5JzoKICAgICAgICAgICAgcmdzX29uX25vZGUxLmFwcGVuZChyZ19udW0pCiAgICAgICAgZWxpZiByZ19zdGF0dXNbJ25vZGUwJ11bJ3N0YXR1cyddID09ICdwcmltYXJ5JzoKICAgICAgICAgICAgcmdzX29uX25vZGUwLmFwcGVuZChyZ19udW0pCiAgICByZXR1cm4gcmdzX29uX25vZGUwLCByZ3Nfb25fbm9kZTEKCgpkZWYgZGV0ZXJtaW5lX3ByaW1hY3kodm1fbmFtZSwgY2x1c3Rlcl9wdyk6CiAgICAiIiIKICAgIEZpbmRzIHRoZSBub2RlIG5hbWUgYW5kIHJvbGUgdXNpbmcgZXhwZWN0IHNjcmlwdCB0aGF0IGxvZ3MgaW4gdG8gdGhlIGNsaQogICAgTm9kZSBhbmQgcHJpbWFjeSBpbmZvcm1hdGlvbiBpcyBleHRyYWN0ZWQgZnJvbSBjbGkgcHJvbXB0CiAgICA6cGFyYW0gdm1fbmFtZTogbmFtZSBvZiB0aGUgdm0gb24gdGhlIGxvY2FsIGhvc3QKICAgIDpwYXJhbSBjbHVzdGVyX3B3OiBjbHVzdGVyIHB3CiAgICA6cmV0dXJuOiB0dXBsZSBvZiBub2RlIG5hbWUgYW5kIHJvbGUKICAgICIiIgogICAgdHJ5OgogICAgICAgIG91dHB1dCA9IGRvX2NoZWNrX2NhbGwoJy4ve3NjcmlwdH0ge25hbWV9IHtwd30nLmZvcm1hdCgKICAgICAgICAgICAgc2NyaXB0PWxvZ2luX3NjcmlwdCwKICAgICAgICAgICAgbmFtZT12bV9uYW1lLAogICAgICAgICAgICBwdz1jbHVzdGVyX3B3KSkKICAgIGV4Y2VwdCBzdWJwcm9jZXNzLkNhbGxlZFByb2Nlc3NFcnJvciBhcyBlOgogICAgICAgICMgaW4gcmFyZSBjYXNlIGlmIGV4cGVjdCBzY3JpcHQgZ2V0cyBzdHVjayBhbmQgdGltZXMgb3V0IHdpdGggbm9uLXplcm8KICAgICAgICAjIHJldHVybiBjb2RlLCBzdGlsbCBjaGVjayBvdXRwdXQgYXMgaXQgbWF5IGhhdmUgdGhlIGluZm8gd2UgbmVlZAogICAgICAgIHdyaXRlX3RvX2xvZygiRXJyb3IgZGV0ZWN0ZWQgZnJvbSBleHBlY3QuIENoZWNraW5nIGlmIG5lZWRlZCBpbmZvIGlzIHByZXNlbnQuIikKICAgICAgICB3cml0ZV90b19sb2coZS5vdXRwdXQpCiAgICAgICAgb3V0cHV0ID0gZS5vdXRwdXQKCiAgICBtYXRjaCA9IHJlLnNlYXJjaChyJ3socHJpbWFyeXxzZWNvbmRhcnkpOihub2RlLil9Jywgb3V0cHV0KQogICAgaWYgbm90IG1hdGNoOgogICAgICAgICMgbm8gcHJpbWFjeSBpbmZvIGZvdW5uZCBmcm9tIGV4cGVjdCBvdXRwdXQKICAgICAgICByYWlzZSBFeGNlcHRpb24oIlVuYWJsZSB0byBkZXRlcm1pbmUgbm9kZSBwcmltYWN5IikKCiAgICByb2xlID0gbWF0Y2guZ3JvdXAoMSkKICAgIG5vZGUgPSBtYXRjaC5ncm91cCgyKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">c2V0dGluZ3NfZgo=</text>
+        <text encoding="base64">ICAgIHN0ZGVycgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">c2V0dGluZ3NfZgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICMgdG9kbyAtIGlmIHNyeC1saWN1IGZhaWx1cmUgaXMgZGV0ZWN0ZWQsIEFORCByb2xsYmFjayBpcyBjb21wbGV0ZWQsIHRoZW4gaW5pdGlhdGUgR1JFIHR1bm5lbCByb2xsYmFjawo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICMgdG9kbyAtIGlmIHNyeC1saWN1IGZhaWx1cmUgaXMgZGV0ZWN0ZWQsIEFORCByb2xsYmFjayBpcyBjb21wbGV0ZWQsIHRoZW4gaW5pdGlhdGUgR1JFIHR1bm5lbCByb2xsYmFjawo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBmdW5jdGlvbiA9IGZyYW1lWzFdWzNdCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IGx4bWwK</text>
+        <text encoding="base64">ICAgICAgICBmdW5jdGlvbiA9IGZyYW1lWzFdWzNdCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZnJvbSBseG1sIGltcG9ydCBldHJlZQo=</text>
+        <text encoding="base64">aW1wb3J0IGx4bWwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IHN5cwo=</text>
+        <text encoding="base64">ZnJvbSBseG1sIGltcG9ydCBldHJlZQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>settings</last-search>
+      <last-search>del</last-search>
       <last-offset />
-      <last-pattern>settings</last-pattern>
+      <last-pattern>del</last-pattern>
       <last-replace>CodeSimpleSchema</last-replace>
       <last-substitute>CodeSchema</last-substitute>
       <last-dir>1</last-dir>
@@ -1346,7 +1347,6 @@
     </search>
     <history>
       <history-search>
-        <entry>write</entry>
         <entry>run_remote_command</entry>
         <entry>restore</entry>
         <entry>output</entry>
@@ -1366,12 +1366,9 @@
         <entry>import_settings</entry>
         <entry>open_yaml</entry>
         <entry>settings</entry>
+        <entry>del</entry>
       </history-search>
       <history-cmd>
-        <entry>133</entry>
-        <entry>-0</entry>
-        <entry>0-</entry>
-        <entry>206</entry>
         <entry>212</entry>
         <entry>260</entry>
         <entry encoding="base64">JzwsJz4w</entry>
@@ -1386,7 +1383,11 @@
         <entry>45</entry>
         <entry>wq</entry>
         <entry>q!</entry>
+        <entry>78</entry>
         <entry>0</entry>
+        <entry>230</entry>
+        <entry>92</entry>
+        <entry>1y78</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
