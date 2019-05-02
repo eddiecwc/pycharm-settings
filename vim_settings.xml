@@ -15,45 +15,17 @@
         <mark key="^" line="5" column="53" />
         <mark key="." line="5" column="53" />
       </file>
-      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" timestamp="1527607428576">
-        <mark key="'" line="33" column="7" />
-        <mark key="[" line="431" column="68" />
-        <mark key="]" line="433" column="0" />
-        <mark key="." line="433" column="0" />
-        <mark key="^" line="402" column="49" />
-      </file>
-      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/models/node.py" timestamp="1526021932941">
-        <mark key="'" line="14" column="55" />
-        <mark key="[" line="92" column="47" />
-        <mark key="]" line="92" column="25" />
-        <mark key="." line="92" column="25" />
-        <mark key="^" line="92" column="25" />
-      </file>
       <file name="$USER_HOME$/Sites/ESS-Monitor/TODO.md" timestamp="1527711760848">
         <mark key="[" line="17" column="12" />
         <mark key="]" line="18" column="51" />
         <mark key="^" line="18" column="51" />
         <mark key="." line="18" column="51" />
       </file>
-      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/templates/ess/node_table_headers.html" timestamp="1524376111299">
-        <mark key="'" line="33" column="14" />
-        <mark key="[" line="2" column="12" />
-        <mark key="]" line="2" column="20" />
-        <mark key="." line="2" column="20" />
-        <mark key="^" line="2" column="20" />
-      </file>
       <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/schemas/cluster_schema.py" timestamp="1526005228416">
         <mark key="[" line="11" column="0" />
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
         <mark key="^" line="25" column="39" />
-      </file>
-      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/schemas/code_schema.py" timestamp="1526076746845">
-        <mark key="'" line="8" column="54" />
-        <mark key="[" line="43" column="88" />
-        <mark key="]" line="43" column="88" />
-        <mark key="." line="43" column="88" />
-        <mark key="^" line="43" column="88" />
       </file>
       <file name="$USER_HOME$/projects/gateway/Juniper_vSRX_on_KVM/vSRX_xml_template_ha_SI_1_big_SRIOV.j2" timestamp="1553531895738">
         <mark key="'" line="133" column="19" />
@@ -97,39 +69,11 @@
         <mark key="." line="48" column="60" />
         <mark key="^" line="48" column="60" />
       </file>
-      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/templates/ess/codelog_list.html" timestamp="1522211554644">
-        <mark key="'" line="26" column="32" />
-        <mark key="[" line="14" column="14" />
-        <mark key="]" line="14" column="17" />
-        <mark key="^" line="14" column="17" />
-        <mark key="." line="14" column="17" />
-      </file>
       <file name="$USER_HOME$/Sites/FlaskApp/templates/login.html" timestamp="1517097477171">
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="68" />
         <mark key="^" line="12" column="72" />
         <mark key="." line="12" column="53" />
-      </file>
-      <file name="$USER_HOME$/Sites/flask_movie/templates/index.html" timestamp="1513935633685">
-        <mark key="'" line="159" column="0" />
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="^" line="157" column="0" />
-        <mark key="." line="7" column="0" />
-      </file>
-      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/templates/ess/product_add.html" timestamp="1518600945983">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="18" column="33" />
-        <mark key="]" line="18" column="39" />
-        <mark key="." line="18" column="39" />
-        <mark key="^" line="18" column="39" />
-      </file>
-      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/models/code.py" timestamp="1526021862661">
-        <mark key="'" line="38" column="65" />
-        <mark key="[" line="12" column="40" />
-        <mark key="]" line="12" column="40" />
-        <mark key="." line="12" column="40" />
-        <mark key="^" line="12" column="40" />
       </file>
       <file name="$USER_HOME$/projects/gateway/Juniper_vSRX_on_KVM/vSRX_xml_template_ha_SI_1_med.j2" timestamp="1553531910912">
         <mark key="'" line="0" column="0" />
@@ -149,25 +93,11 @@
         <mark key="." line="55" column="0" />
         <mark key="^" line="55" column="0" />
       </file>
-      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/templates/ess/table_headers.html" timestamp="1517386696493">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="^" line="44" column="22" />
-        <mark key="." line="7" column="0" />
-      </file>
       <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/templates/ess/cluster_list.html" timestamp="1524034639385">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
         <mark key="^" line="32" column="2" />
         <mark key="." line="4" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/gateway/Juniper_vSRX_on_KVM/setup_vSRX.sh" timestamp="1551592696321">
-        <mark key="'" line="10" column="25" />
-        <mark key="[" line="38" column="36" />
-        <mark key="]" line="38" column="36" />
-        <mark key="^" line="38" column="36" />
-        <mark key="." line="38" column="36" />
       </file>
       <file name="$USER_HOME$/projects/gateway/licu/vsrx-skip-licu-dev/srx-licu.py" timestamp="1551827304313">
         <mark key="[" line="1418" column="0" />
@@ -180,13 +110,6 @@
         <mark key="]" line="9" column="71" />
         <mark key="." line="9" column="71" />
         <mark key="^" line="11" column="45" />
-      </file>
-      <file name="$USER_HOME$/Sites/ESS-Monitor/scripts/utilities.py" timestamp="1515022758096">
-        <mark key="'" line="97" column="4" />
-        <mark key="[" line="67" column="42" />
-        <mark key="]" line="68" column="47" />
-        <mark key="." line="68" column="47" />
-        <mark key="^" line="68" column="47" />
       </file>
       <file name="$USER_HOME$/projects/gateway/Juniper_vSRX_on_KVM/Build_vSRX.py" timestamp="1556731147048">
         <mark key="'" line="75" column="12" />
@@ -201,20 +124,6 @@
         <mark key="]" line="135" column="24" />
         <mark key="." line="135" column="0" />
       </file>
-      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/utilities.py" timestamp="1526022588142">
-        <mark key="'" line="39" column="65" />
-        <mark key="[" line="179" column="0" />
-        <mark key="]" line="179" column="13" />
-        <mark key="^" line="179" column="13" />
-        <mark key="." line="179" column="13" />
-      </file>
-      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/mod_device/device.py" timestamp="1516579356573">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="215" column="0" />
-        <mark key="]" line="215" column="0" />
-        <mark key="^" line="190" column="24" />
-        <mark key="." line="215" column="0" />
-      </file>
       <file name="$USER_HOME$/projects/gateway/venv/lib/python2.7/site-packages/paramiko/client.py" timestamp="1554756975829">
         <mark key="[" line="217" column="8" />
         <mark key="]" line="217" column="8" />
@@ -223,21 +132,7 @@
       <file name="$USER_HOME$/projects/gateway/Juniper_vSRX_on_KVM/vSRX_conf_template_sa_no_pub_ncv.j2" timestamp="1551252732167">
         <mark key="'" line="18" column="11" />
       </file>
-      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/mod_cluster/node.py" timestamp="1516587549245">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="569" column="15" />
-        <mark key="]" line="569" column="35" />
-        <mark key="." line="569" column="35" />
-        <mark key="^" line="569" column="35" />
-      </file>
       <file name="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/ibm_setup/common.py" timestamp="1556562423590" />
-      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/mod_support/gateway.py" timestamp="1515889410441">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="57" column="7" />
-        <mark key="]" line="57" column="7" />
-        <mark key="^" line="59" column="4" />
-        <mark key="." line="57" column="7" />
-      </file>
       <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/ess_users/__init__.py" timestamp="1525921719323">
         <mark key="[" line="1" column="25" />
         <mark key="]" line="1" column="25" />
@@ -256,32 +151,11 @@
         <mark key="^" line="13" column="11" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/database.py" timestamp="1518384937012">
-        <mark key="'" line="2" column="30" />
-        <mark key="[" line="10" column="21" />
-        <mark key="]" line="10" column="35" />
-        <mark key="^" line="10" column="35" />
-        <mark key="." line="10" column="35" />
-      </file>
-      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/constants.py" timestamp="1531892948368">
-        <mark key="'" line="33" column="22" />
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="9" column="11" />
-        <mark key="." line="124" column="21" />
-        <mark key="^" line="124" column="21" />
-      </file>
       <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/mod_tester/__init__.py" timestamp="1515867144650">
         <mark key="[" line="0" column="26" />
         <mark key="]" line="0" column="39" />
         <mark key="^" line="0" column="39" />
         <mark key="." line="0" column="39" />
-      </file>
-      <file name="$USER_HOME$/projects/gateway/licu/vsrx-skip-licu-dev/modified_vsrx_upgrade.py" timestamp="1555000200507">
-        <mark key="'" line="351" column="8" />
-        <mark key="[" line="133" column="0" />
-        <mark key="]" line="133" column="0" />
-        <mark key="^" line="109" column="19" />
-        <mark key="." line="133" column="0" />
       </file>
       <file name="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/gre_change_run.py" timestamp="1556689776630">
         <mark key="'" line="0" column="0" />
@@ -302,13 +176,6 @@
         <mark key="]" line="165" column="0" />
         <mark key="." line="165" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/gateway/licu/do_update.py" timestamp="1553207735703">
-        <mark key="'" line="23" column="56" />
-        <mark key="[" line="76" column="36" />
-        <mark key="]" line="78" column="0" />
-        <mark key="^" line="78" column="0" />
-        <mark key="." line="78" column="0" />
-      </file>
       <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/templates/macros/macros.html" timestamp="1523829150130">
         <mark key="[" line="1" column="36" />
         <mark key="]" line="1" column="36" />
@@ -321,13 +188,6 @@
         <mark key="." line="7" column="22" />
         <mark key="^" line="7" column="22" />
       </file>
-      <file name="$USER_HOME$/projects/gateway/Juniper_vSRX_on_KVM/vSRX_xml_template_ha.j2" timestamp="1553531335175">
-        <mark key="'" line="111" column="25" />
-        <mark key="[" line="161" column="0" />
-        <mark key="]" line="161" column="0" />
-        <mark key="^" line="122" column="23" />
-        <mark key="." line="161" column="0" />
-      </file>
       <file name="$USER_HOME$/projects/gateway/vsrx_cluster_gre_tunnel_implementation-master/gre_change_mod.py" timestamp="1556501938838">
         <mark key="[" line="97" column="17" />
         <mark key="]" line="97" column="43" />
@@ -339,13 +199,6 @@
         <mark key="]" line="62" column="3" />
         <mark key="^" line="62" column="3" />
         <mark key="." line="62" column="3" />
-      </file>
-      <file name="$USER_HOME$/projects/gateway/licu/json-test.py" timestamp="1552581536286">
-        <mark key="'" line="43" column="12" />
-        <mark key="[" line="48" column="0" />
-        <mark key="]" line="48" column="0" />
-        <mark key="." line="48" column="0" />
-        <mark key="^" line="49" column="88" />
       </file>
       <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/templates/ess_users/user_list.html" timestamp="1517378988111">
         <mark key="[" line="37" column="39" />
@@ -424,44 +277,16 @@
         <mark key="^" line="26" column="21" />
         <mark key="." line="26" column="21" />
       </file>
-      <file name="$USER_HOME$/projects/gateway/Juniper_vSRX_on_KVM/Delete_vSRX.py" timestamp="1551592894721">
-        <mark key="'" line="38" column="4" />
-        <mark key="[" line="52" column="35" />
-        <mark key="]" line="52" column="35" />
-        <mark key="^" line="53" column="0" />
-        <mark key="." line="52" column="35" />
-      </file>
       <file name="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/ibm_setup/upgrade_defaults.yaml" timestamp="1556660970818">
         <mark key="[" line="11" column="0" />
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
-      </file>
-      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/mod_support/code.py" timestamp="1516214397620">
-        <mark key="'" line="61" column="48" />
-        <mark key="[" line="117" column="0" />
-        <mark key="]" line="117" column="79" />
-        <mark key="." line="116" column="60" />
-        <mark key="^" line="116" column="60" />
-      </file>
-      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/ess_users/models.py" timestamp="1525104190072">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="53" column="33" />
-        <mark key="]" line="53" column="38" />
-        <mark key="." line="53" column="38" />
-        <mark key="^" line="53" column="38" />
       </file>
       <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/mod_support/support.py" timestamp="1515479760355">
         <mark key="[" line="23" column="0" />
         <mark key="]" line="47" column="96" />
         <mark key="^" line="32" column="82" />
         <mark key="." line="32" column="82" />
-      </file>
-      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/ess_systems/routes.py" timestamp="1517326308023">
-        <mark key="'" line="10" column="41" />
-        <mark key="[" line="81" column="0" />
-        <mark key="]" line="82" column="0" />
-        <mark key="^" line="82" column="0" />
-        <mark key="." line="82" column="0" />
       </file>
       <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/templates/ess/cluster_table_headers.html" timestamp="1522187615323">
         <mark key="[" line="5" column="8" />
@@ -480,13 +305,6 @@
         <mark key="]" line="66" column="3" />
         <mark key="^" line="66" column="3" />
         <mark key="." line="66" column="3" />
-      </file>
-      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/mod_essnode/LinuxNode.py" timestamp="1515393770919">
-        <mark key="'" line="58" column="0" />
-        <mark key="[" line="133" column="0" />
-        <mark key="]" line="133" column="7" />
-        <mark key="^" line="133" column="7" />
-        <mark key="." line="133" column="7" />
       </file>
       <file name="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/vsrx_ibm.py" timestamp="1556690987818">
         <mark key="[" line="135" column="0" />
@@ -569,70 +387,14 @@
         <mark key="^" line="5" column="3" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/Sites/ESS-Monitor/scripts/fabric-test.py" timestamp="1514287483341">
-        <mark key="'" line="22" column="33" />
-        <mark key="[" line="37" column="23" />
-        <mark key="]" line="37" column="44" />
-        <mark key="^" line="37" column="44" />
-        <mark key="." line="37" column="44" />
-      </file>
-      <file name="$USER_HOME$/Sites/ESS-Monitor/scripts/LinuxNode.py" timestamp="1515092244787">
-        <mark key="'" line="492" column="18" />
-        <mark key="[" line="221" column="8" />
-        <mark key="]" line="221" column="12" />
-        <mark key="." line="221" column="12" />
-        <mark key="^" line="221" column="12" />
-      </file>
-      <file name="$USER_HOME$/projects/gateway/118-port-cpu-alloc/Build_vSRX.py" timestamp="1550878990436">
-        <mark key="'" line="636" column="69" />
-        <mark key="[" line="822" column="0" />
-        <mark key="]" line="822" column="0" />
-        <mark key="^" line="807" column="3" />
-        <mark key="." line="822" column="0" />
-      </file>
       <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/models/scan_command.py" timestamp="1533095390892">
         <mark key="[" line="52" column="3" />
         <mark key="]" line="55" column="0" />
         <mark key="^" line="55" column="0" />
         <mark key="." line="55" column="0" />
       </file>
-      <file name="$USER_HOME$/Sites/ESS-Monitor/scripts/collectLinuxNodeInfo.py" timestamp="1514356709242">
-        <mark key="'" line="34" column="14" />
-        <mark key="[" line="139" column="63" />
-        <mark key="]" line="139" column="63" />
-        <mark key="^" line="139" column="63" />
-        <mark key="." line="139" column="63" />
-      </file>
       <file name="$USER_HOME$/projects/gateway/Juniper_vSRX_on_KVM.15.1x/build_kvm_int.py" timestamp="1550867835559">
         <mark key="'" line="65" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/gateway/licu/common.py" timestamp="1553207726638">
-        <mark key="'" line="31" column="49" />
-        <mark key="[" line="132" column="32" />
-        <mark key="]" line="132" column="35" />
-        <mark key="^" line="132" column="35" />
-        <mark key="." line="132" column="35" />
-      </file>
-      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/templates/layouts/layout.html" timestamp="1524203040924">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="30" column="44" />
-        <mark key="]" line="30" column="59" />
-        <mark key="." line="30" column="59" />
-        <mark key="^" line="30" column="59" />
-      </file>
-      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/templates/ess/node_list.html" timestamp="1524971404244">
-        <mark key="'" line="18" column="0" />
-        <mark key="[" line="90" column="0" />
-        <mark key="]" line="136" column="22" />
-        <mark key="." line="25" column="49" />
-        <mark key="^" line="25" column="64" />
-      </file>
-      <file name="$USER_HOME$/Sites/flask_movie/templates/layouts/layout1.html" timestamp="1513935198698">
-        <mark key="'" line="10" column="41" />
-        <mark key="[" line="53" column="0" />
-        <mark key="]" line="55" column="17" />
-        <mark key="^" line="55" column="17" />
-        <mark key="." line="55" column="17" />
       </file>
       <file name="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/get_node_hostname.sh" timestamp="1556644454772">
         <mark key="[" line="5" column="12" />
@@ -642,23 +404,15 @@
       </file>
       <file name="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/run_upgrade.py" timestamp="1556745881268">
         <mark key="'" line="86" column="52" />
-        <mark key="[" line="266" column="106" />
-        <mark key="]" line="267" column="3" />
-        <mark key="." line="267" column="3" />
-        <mark key="^" line="267" column="3" />
+        <mark key="]" line="266" column="3" />
+        <mark key="." line="266" column="3" />
+        <mark key="^" line="266" column="3" />
       </file>
       <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/mod_tester/tester.py" timestamp="1515837619326">
         <mark key="[" line="55" column="0" />
         <mark key="]" line="56" column="29" />
         <mark key="." line="56" column="29" />
         <mark key="^" line="56" column="29" />
-      </file>
-      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/templates/ess/product_list.html" timestamp="1522211599811">
-        <mark key="'" line="9" column="0" />
-        <mark key="[" line="45" column="50" />
-        <mark key="]" line="45" column="50" />
-        <mark key="." line="45" column="50" />
-        <mark key="^" line="45" column="7" />
       </file>
       <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/templates/ess/device_table_headers.html" timestamp="1522296678947">
         <mark key="[" line="29" column="19" />
@@ -678,38 +432,17 @@
         <mark key="." line="4" column="33" />
         <mark key="^" line="4" column="32" />
       </file>
-      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/ess_systems/schemas.py" timestamp="1516866995648">
-        <mark key="'" line="84" column="27" />
-        <mark key="[" line="62" column="0" />
-        <mark key="]" line="62" column="0" />
-        <mark key="^" line="40" column="0" />
-        <mark key="." line="62" column="0" />
-      </file>
       <file name="$USER_HOME$/Sites/flask_movie/templates/security/login_user.html" timestamp="1513935903494">
         <mark key="[" line="16" column="44" />
         <mark key="]" line="16" column="64" />
         <mark key="^" line="16" column="64" />
         <mark key="." line="16" column="64" />
       </file>
-      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/mod_node/node.py" timestamp="1515521396191">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="70" column="33" />
-        <mark key="]" line="70" column="33" />
-        <mark key="^" line="70" column="41" />
-        <mark key="." line="70" column="33" />
-      </file>
       <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/templates/ess/code_list.html" timestamp="1522211505335">
         <mark key="[" line="48" column="50" />
         <mark key="]" line="48" column="50" />
         <mark key="." line="48" column="50" />
         <mark key="^" line="48" column="7" />
-      </file>
-      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/app.py" timestamp="1526004576322">
-        <mark key="'" line="102" column="52" />
-        <mark key="[" line="46" column="27" />
-        <mark key="]" line="47" column="29" />
-        <mark key="^" line="47" column="29" />
-        <mark key="." line="47" column="29" />
       </file>
       <file name="$USER_HOME$/Sites/FlaskApp/dbconnect.py" timestamp="1514250295811">
         <mark key="[" line="3" column="43" />
@@ -739,32 +472,11 @@
       <file name="$USER_HOME$/projects/gateway/Juniper_vSRX_on_KVM/vSRX_conf_template_ha_ncv.j2" timestamp="1551252500619">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/gateway/licu/do-update" timestamp="1550640403777">
-        <mark key="'" line="52" column="13" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="^" line="1" column="0" />
-        <mark key="." line="1" column="0" />
-      </file>
-      <file name="$USER_HOME$/Sites/FlaskApp/templates/header.html" timestamp="1514758379486">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="86" column="64" />
-        <mark key="]" line="86" column="66" />
-        <mark key="^" line="86" column="66" />
-        <mark key="." line="86" column="66" />
-      </file>
       <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/conf/log_cfg.py" timestamp="1521521056400">
         <mark key="[" line="28" column="0" />
         <mark key="]" line="29" column="0" />
         <mark key="." line="29" column="0" />
         <mark key="^" line="29" column="0" />
-      </file>
-      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/schemas.py" timestamp="1524861628097">
-        <mark key="'" line="39" column="0" />
-        <mark key="[" line="62" column="0" />
-        <mark key="]" line="120" column="44" />
-        <mark key="." line="59" column="46" />
-        <mark key="^" line="59" column="46" />
       </file>
       <file name="$USER_HOME$/projects/gateway/vsrx_cluster_gre_tunnel_implementation-master/orig_gre_change_prep_script.py" timestamp="1555081824839">
         <mark key="[" line="222" column="44" />
@@ -778,45 +490,17 @@
         <mark key="." line="35" column="2" />
         <mark key="^" line="35" column="2" />
       </file>
-      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/mixin.py" timestamp="1526022095999">
-        <mark key="'" line="147" column="0" />
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="1" />
-        <mark key="." line="7" column="1" />
-        <mark key="^" line="7" column="1" />
-      </file>
       <file name="/Build_vSRX.py" timestamp="1551589283649">
         <mark key="'" line="287" column="68" />
       </file>
       <file name="$USER_HOME$/projects/gateway/Juniper_vSRX_on_KVM/vSRX_conf_template_ha.j2" timestamp="1551252435787">
         <mark key="'" line="71" column="27" />
       </file>
-      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/mod_support/product_number.py" timestamp="1516348109317">
-        <mark key="'" line="47" column="10" />
-        <mark key="[" line="58" column="50" />
-        <mark key="]" line="58" column="50" />
-        <mark key="." line="58" column="50" />
-        <mark key="^" line="47" column="67" />
-      </file>
-      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/api/api-doc.md" timestamp="1532165099458">
-        <mark key="'" line="10" column="29" />
-        <mark key="[" line="13" column="23" />
-        <mark key="]" line="13" column="28" />
-        <mark key="^" line="13" column="28" />
-        <mark key="." line="13" column="28" />
-      </file>
       <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/ess_systems/__init__.py" timestamp="1516697979935">
         <mark key="[" line="2" column="24" />
         <mark key="]" line="2" column="30" />
         <mark key="." line="2" column="30" />
         <mark key="^" line="2" column="30" />
-      </file>
-      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/models.py" timestamp="1524859461779">
-        <mark key="'" line="184" column="22" />
-        <mark key="[" line="217" column="0" />
-        <mark key="]" line="217" column="0" />
-        <mark key="." line="217" column="0" />
-        <mark key="^" line="217" column="0" />
       </file>
       <file name="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/gre_change_mod.py" timestamp="1556581646268">
         <mark key="[" line="278" column="0" />
@@ -840,13 +524,6 @@
         <mark key="]" line="16" column="0" />
         <mark key="^" line="15" column="11" />
         <mark key="." line="16" column="0" />
-      </file>
-      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/schemas/node_schema.py" timestamp="1526077070552">
-        <mark key="'" line="12" column="40" />
-        <mark key="[" line="80" column="64" />
-        <mark key="]" line="80" column="87" />
-        <mark key="." line="80" column="87" />
-        <mark key="^" line="80" column="87" />
       </file>
       <file name="$USER_HOME$/projects/gateway/vsrx_cluster_gre_tunnel_implementation-master/sync-to" timestamp="1554930690181">
         <mark key="[" line="7" column="11" />
@@ -877,20 +554,6 @@
         <mark key="]" line="0" column="26" />
         <mark key="." line="0" column="26" />
         <mark key="^" line="0" column="26" />
-      </file>
-      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/celery_workers.py" timestamp="1519633990318">
-        <mark key="'" line="8" column="51" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="60" />
-        <mark key="." line="7" column="0" />
-        <mark key="^" line="24" column="3" />
-      </file>
-      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/models/dump.py" timestamp="1526005137915">
-        <mark key="'" line="10" column="21" />
-        <mark key="[" line="12" column="15" />
-        <mark key="]" line="13" column="44" />
-        <mark key="^" line="13" column="44" />
-        <mark key="." line="13" column="44" />
       </file>
       <file name="$USER_HOME$/projects/gateway/Juniper_vSRX_on_KVM/net_interfaces_routebr1bn.j2" timestamp="1553532051757">
         <mark key="[" line="23" column="24" />
@@ -937,13 +600,6 @@
       <file name="$USER_HOME$/projects/gateway/Juniper_vSRX_on_KVM/vSRX_conf_template_sa_no_pub.j2" timestamp="1551252711324">
         <mark key="'" line="21" column="11" />
       </file>
-      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/tasks.py" timestamp="1526022842174">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="530" column="55" />
-        <mark key="]" line="530" column="55" />
-        <mark key="." line="530" column="55" />
-        <mark key="^" line="530" column="71" />
-      </file>
       <file name="$USER_HOME$/Sites/ESS-Monitor/venv/lib/python3.6/site-packages/wtforms/ext/sqlalchemy/fields.py" timestamp="1531028477144">
         <mark key="[" line="188" column="12" />
         <mark key="]" line="188" column="20" />
@@ -980,45 +636,17 @@
         <mark key="^" line="51" column="66" />
         <mark key="." line="51" column="66" />
       </file>
-      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/conf/app_config.py" timestamp="1530404304273">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="45" column="17" />
-        <mark key="]" line="45" column="16" />
-        <mark key="." line="45" column="16" />
-        <mark key="^" line="45" column="16" />
-      </file>
       <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/api/routes.py" timestamp="1531890792230">
         <mark key="[" line="89" column="11" />
         <mark key="]" line="89" column="11" />
         <mark key="." line="89" column="11" />
         <mark key="^" line="87" column="0" />
       </file>
-      <file name="$USER_HOME$/Sites/flask_movie/main.py" timestamp="1513933434536">
-        <mark key="'" line="7" column="0" />
-        <mark key="[" line="61" column="28" />
-        <mark key="]" line="61" column="32" />
-        <mark key="." line="61" column="32" />
-        <mark key="^" line="61" column="32" />
-      </file>
-      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/static/js/ess-monitor.js" timestamp="1524464244890">
-        <mark key="'" line="179" column="47" />
-        <mark key="[" line="134" column="19" />
-        <mark key="]" line="134" column="23" />
-        <mark key="." line="134" column="23" />
-        <mark key="^" line="134" column="23" />
-      </file>
       <file name="$USER_HOME$/projects/gateway/Juniper_vSRX_on_KVM/net_interfaces_routebr2bn.j2" timestamp="1553534059384">
         <mark key="[" line="61" column="94" />
         <mark key="]" line="62" column="7" />
         <mark key="^" line="62" column="7" />
         <mark key="." line="62" column="7" />
-      </file>
-      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/templates/ess_systems/system_add.html" timestamp="1517294412428">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="^" line="55" column="48" />
-        <mark key="." line="11" column="0" />
       </file>
       <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/exceptions.py" timestamp="1521853296410">
         <mark key="[" line="43" column="8" />
@@ -1041,13 +669,6 @@
         <mark key="." line="1" column="0" />
         <mark key="^" line="0" column="39" />
       </file>
-      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/schemas/device_schema.py" timestamp="1526077088344">
-        <mark key="'" line="32" column="45" />
-        <mark key="[" line="27" column="67" />
-        <mark key="]" line="27" column="90" />
-        <mark key="." line="27" column="90" />
-        <mark key="^" line="27" column="90" />
-      </file>
       <file name="$USER_HOME$/Sites/FlaskApp/templates/converterexample.html" timestamp="1514781810249">
         <mark key="[" line="2" column="16" />
         <mark key="]" line="4" column="11" />
@@ -1059,13 +680,6 @@
         <mark key="]" line="35" column="19" />
         <mark key="^" line="35" column="19" />
         <mark key="." line="35" column="19" />
-      </file>
-      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/models/models.py" timestamp="1524864460047">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="50" column="0" />
-        <mark key="]" line="50" column="0" />
-        <mark key="." line="50" column="0" />
-        <mark key="^" line="46" column="5" />
       </file>
       <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/ess_users/schemas.py" timestamp="1525921712327">
         <mark key="[" line="23" column="18" />
@@ -1079,13 +693,6 @@
         <mark key="^" line="16" column="57" />
         <mark key="." line="16" column="57" />
       </file>
-      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/static/css/ess-monitor.css" timestamp="1524262059193">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="26" column="0" />
-        <mark key="^" line="38" column="16" />
-        <mark key="." line="26" column="0" />
-      </file>
       <file name="$USER_HOME$/projects/gateway/licu/vsrx-licu/modified_vsrx_upgrade.py" timestamp="1552678754492">
         <mark key="'" line="398" column="3" />
       </file>
@@ -1095,32 +702,11 @@
         <mark key="]" line="447" column="0" />
         <mark key="." line="447" column="0" />
       </file>
-      <file name="$USER_HOME$/Sites/FlaskApp/__init__.py" timestamp="1517010013941">
-        <mark key="'" line="7" column="29" />
-        <mark key="[" line="266" column="34" />
-        <mark key="]" line="266" column="34" />
-        <mark key="^" line="4" column="11" />
-        <mark key="." line="266" column="34" />
-      </file>
-      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/ess_systems/forms.py" timestamp="1517306442552">
-        <mark key="'" line="28" column="71" />
-        <mark key="[" line="37" column="95" />
-        <mark key="]" line="38" column="27" />
-        <mark key="." line="38" column="27" />
-        <mark key="^" line="38" column="27" />
-      </file>
       <file name="$USER_HOME$/PycharmProjects/playground/first.py" timestamp="1510732076473">
         <mark key="[" line="66" column="71" />
         <mark key="]" line="66" column="71" />
         <mark key="^" line="66" column="76" />
         <mark key="." line="66" column="71" />
-      </file>
-      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/mod_cluster/cluster.py" timestamp="1515836477416">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="49" column="16" />
-        <mark key="]" line="49" column="22" />
-        <mark key="." line="49" column="22" />
-        <mark key="^" line="49" column="22" />
       </file>
       <file name="$USER_HOME$/projects/gateway/vsrx_cluster_gre_tunnel_implementation-master/gre_change_prep_script.py" timestamp="1556306956563">
         <mark key="'" line="235" column="0" />
@@ -1129,32 +715,11 @@
         <mark key="^" line="145" column="39" />
         <mark key="." line="153" column="0" />
       </file>
-      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/models/device.py" timestamp="1526021885735">
-        <mark key="'" line="185" column="73" />
-        <mark key="[" line="12" column="30" />
-        <mark key="]" line="12" column="30" />
-        <mark key="." line="12" column="30" />
-        <mark key="^" line="12" column="74" />
-      </file>
       <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/mod_ess/LinuxNode.py" timestamp="1515145606831">
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="0" />
         <mark key="^" line="12" column="11" />
         <mark key="." line="12" column="0" />
-      </file>
-      <file name="$USER_HOME$/Sites/ESS-Monitor/TODO.txt" timestamp="1522217347789">
-        <mark key="'" line="1" column="0" />
-        <mark key="[" line="50" column="0" />
-        <mark key="]" line="51" column="0" />
-        <mark key="^" line="51" column="0" />
-        <mark key="." line="51" column="0" />
-      </file>
-      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/templates/header.html" timestamp="1524258428723">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="^" line="4" column="28" />
-        <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/mod_cluster/__init__.py" timestamp="1516087743185">
         <mark key="[" line="0" column="59" />
@@ -1167,20 +732,6 @@
         <mark key="[" line="109" column="0" />
         <mark key="]" line="109" column="0" />
         <mark key="." line="109" column="0" />
-      </file>
-      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/conf/machine-types.conf" timestamp="1521365154430">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="0" column="17" />
-        <mark key="]" line="0" column="18" />
-        <mark key="." line="0" column="18" />
-        <mark key="^" line="0" column="18" />
-      </file>
-      <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/forms.py" timestamp="1524949743687">
-        <mark key="'" line="31" column="4" />
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="^" line="13" column="33" />
-        <mark key="." line="14" column="0" />
       </file>
     </filemarks>
     <jumps>
