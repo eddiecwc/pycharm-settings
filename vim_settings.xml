@@ -290,10 +290,9 @@
       </file>
       <file name="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/gre_change_run.py" timestamp="1556899782383">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="62" column="42" />
-        <mark key="]" line="65" column="7" />
-        <mark key="^" line="65" column="7" />
-        <mark key="." line="65" column="7" />
+        <mark key="]" line="58" column="7" />
+        <mark key="^" line="58" column="7" />
+        <mark key="." line="58" column="7" />
       </file>
       <file name="$USER_HOME$/Sites/FlaskApp/templates/includes/commentbox.html" timestamp="1514778376934">
         <mark key="[" line="3" column="90" />
@@ -340,11 +339,10 @@
         <mark key="." line="97" column="43" />
       </file>
       <file name="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/upgrade_vSRX.sh" timestamp="1556898507855">
-        <mark key="'" line="6" column="23" />
-        <mark key="[" line="37" column="13" />
-        <mark key="]" line="37" column="13" />
-        <mark key="." line="37" column="13" />
-        <mark key="^" line="37" column="13" />
+        <mark key="[" line="5" column="13" />
+        <mark key="]" line="5" column="13" />
+        <mark key="." line="5" column="13" />
+        <mark key="^" line="5" column="13" />
       </file>
       <file name="$USER_HOME$/projects/gateway/licu/json-test.py" timestamp="1552581536286">
         <mark key="'" line="43" column="12" />
