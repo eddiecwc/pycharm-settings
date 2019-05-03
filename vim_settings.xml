@@ -288,12 +288,12 @@
         <mark key="^" line="109" column="19" />
         <mark key="." line="133" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/gre_change_run.py" timestamp="1556824264992">
-        <mark key="'" line="11" column="4" />
-        <mark key="[" line="383" column="30" />
-        <mark key="]" line="383" column="42" />
-        <mark key="^" line="383" column="42" />
-        <mark key="." line="383" column="42" />
+      <file name="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/gre_change_run.py" timestamp="1556899782383">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="62" column="42" />
+        <mark key="]" line="65" column="7" />
+        <mark key="^" line="65" column="7" />
+        <mark key="." line="65" column="7" />
       </file>
       <file name="$USER_HOME$/Sites/FlaskApp/templates/includes/commentbox.html" timestamp="1514778376934">
         <mark key="[" line="3" column="90" />
@@ -1251,7 +1251,6 @@
       <jump line="216" column="37" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/gre_change_mod.py" />
       <jump line="218" column="10" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/gre_change_mod.py" />
       <jump line="7" column="16" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/gre_change_mod.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/gre_change_run.py" />
       <jump line="239" column="31" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/gre_change_mod.py" />
       <jump line="21" column="23" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/gre_change_run.py" />
       <jump line="388" column="42" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/gre_change_run.py" />
@@ -1289,16 +1288,17 @@
       <jump line="135" column="8" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/common.py" />
       <jump line="6" column="23" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/upgrade_vSRX.sh" />
       <jump line="275" column="0" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/run_upgrade.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/gre_change_run.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBleGl0IDEK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">ICAgICAgICA=</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text encoding="base64">ICAgICAgICA=</text>
       </register>
       <register name="/" type="4">
-        <text>remote host returned</text>
+        <text>addbr</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICB3cml0ZV90b19sb2coZS5vdXRwdXQpCg==</text>
@@ -1335,9 +1335,9 @@
       </register>
     </registers>
     <search>
-      <last-search>remote host returned</last-search>
+      <last-search>addbr</last-search>
       <last-offset />
-      <last-pattern>remote host returned</last-pattern>
+      <last-pattern>addbr</last-pattern>
       <last-replace>CodeSimpleSchema</last-replace>
       <last-substitute>CodeSchema</last-substitute>
       <last-dir>1</last-dir>
@@ -1345,7 +1345,6 @@
     </search>
     <history>
       <history-search>
-        <entry>output</entry>
         <entry>gre</entry>
         <entry>log_file</entry>
         <entry>exec_remote</entry>
@@ -1365,6 +1364,7 @@
         <entry>libvirt</entry>
         <entry>do_check_call</entry>
         <entry>remote host returned</entry>
+        <entry>addbr</entry>
       </history-search>
       <history-cmd>
         <entry>212</entry>
@@ -1382,10 +1382,10 @@
         <entry>wq</entry>
         <entry>q!</entry>
         <entry>78</entry>
-        <entry>0</entry>
         <entry>230</entry>
         <entry>92</entry>
         <entry>1y78</entry>
+        <entry>0</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
