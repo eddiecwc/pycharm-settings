@@ -643,12 +643,12 @@
         <mark key="." line="5" column="13" />
         <mark key="^" line="5" column="13" />
       </file>
-      <file name="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/run_upgrade.py" timestamp="1557154866079">
-        <mark key="'" line="275" column="0" />
-        <mark key="[" line="249" column="22" />
-        <mark key="]" line="250" column="21" />
-        <mark key="^" line="250" column="21" />
-        <mark key="." line="250" column="21" />
+      <file name="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/run_upgrade.py" timestamp="1557155927983">
+        <mark key="'" line="175" column="9" />
+        <mark key="[" line="232" column="0" />
+        <mark key="]" line="232" column="0" />
+        <mark key="^" line="232" column="7" />
+        <mark key="." line="232" column="0" />
       </file>
       <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/mod_tester/tester.py" timestamp="1515837619326">
         <mark key="[" line="55" column="0" />
@@ -1188,9 +1188,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="93" column="44" filename="$USER_HOME$/projects/gateway/vsrx_cluster_gre_tunnel_implementation-master/gre_change_run.py" />
-      <jump line="444" column="17" filename="$USER_HOME$/projects/gateway/vsrx_cluster_gre_tunnel_implementation-master/gre_change_run.py" />
-      <jump line="449" column="15" filename="$USER_HOME$/projects/gateway/vsrx_cluster_gre_tunnel_implementation-master/gre_change_run.py" />
       <jump line="475" column="15" filename="$USER_HOME$/projects/gateway/vsrx_cluster_gre_tunnel_implementation-master/gre_change_run.py" />
       <jump line="479" column="12" filename="$USER_HOME$/projects/gateway/vsrx_cluster_gre_tunnel_implementation-master/gre_change_run.py" />
       <jump line="348" column="50" filename="$USER_HOME$/projects/gateway/vsrx_cluster_gre_tunnel_implementation-master/common.py" />
@@ -1198,7 +1195,6 @@
       <jump line="79" column="4" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/run_upgrade.py" />
       <jump line="7" column="16" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/run_upgrade.py" />
       <jump line="173" column="25" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/run_upgrade.py" />
-      <jump line="186" column="16" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/run_upgrade.py" />
       <jump line="25" column="47" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/run_upgrade.py" />
       <jump line="19" column="4" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/run_upgrade.py" />
       <jump line="22" column="4" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/run_upgrade.py" />
@@ -1206,7 +1202,6 @@
       <jump line="248" column="8" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/run_upgrade.py" />
       <jump line="258" column="3" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/run_upgrade.py" />
       <jump line="252" column="32" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/run_upgrade.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/run_upgrade.py" />
       <jump line="291" column="23" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/run_upgrade.py" />
       <jump line="53" column="25" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/run_upgrade.py" />
       <jump line="153" column="42" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/run_upgrade.py" />
@@ -1288,28 +1283,33 @@
       <jump line="72" column="17" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/upgrade_vSRX.sh" />
       <jump line="76" column="21" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/upgrade_vSRX.sh" />
       <jump line="78" column="21" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/upgrade_vSRX.sh" />
+      <jump line="168" column="57" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/run_upgrade.py" />
+      <jump line="161" column="7" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/run_upgrade.py" />
+      <jump line="186" column="93" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/run_upgrade.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/run_upgrade.py" />
+      <jump line="175" column="9" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/run_upgrade.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHJ1bl8K</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">dXBncmFkZSA=</text>
+        <text encoding="base64">VXBncmFkZSA=</text>
       </register>
       <register name="/" type="4">
-        <text>text</text>
+        <text>script_path</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBlY2hvICJ2U1JYIFVwZ3JhZGU6Igo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHJ1bl8K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAiIgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBhY3Rpb24gPSAiZG93bmdyYWRlIgogICAgICAgICIiCg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
@@ -1326,17 +1326,17 @@
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">ZG93bmdyYWRlCiAgICA=</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>text</last-search>
+      <last-search>script_path</last-search>
       <last-offset />
-      <last-pattern>text</last-pattern>
+      <last-pattern>script_path</last-pattern>
       <last-replace>CodeSimpleSchema</last-replace>
       <last-substitute>CodeSchema</last-substitute>
       <last-dir>1</last-dir>
@@ -1344,9 +1344,6 @@
     </search>
     <history>
       <history-search>
-        <entry>exec_remote</entry>
-        <entry>ping</entry>
-        <entry>send_ping</entry>
         <entry>bring_up_br_ctrl</entry>
         <entry>already</entry>
         <entry>generate_vsrx</entry>
@@ -1364,6 +1361,9 @@
         <entry>addbr</entry>
         <entry>downgrade</entry>
         <entry>text</entry>
+        <entry>restore</entry>
+        <entry>pgrade</entry>
+        <entry>script_path</entry>
       </history-search>
       <history-cmd>
         <entry>212</entry>
@@ -1383,9 +1383,9 @@
         <entry>92</entry>
         <entry>1y78</entry>
         <entry>q!</entry>
-        <entry>0</entry>
         <entry>$</entry>
         <entry>w</entry>
+        <entry>0</entry>
       </history-cmd>
       <history-expr />
       <history-input />
