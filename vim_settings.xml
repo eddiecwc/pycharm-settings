@@ -643,12 +643,12 @@
         <mark key="." line="5" column="13" />
         <mark key="^" line="5" column="13" />
       </file>
-      <file name="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/run_upgrade.py" timestamp="1557158383131">
-        <mark key="'" line="173" column="33" />
-        <mark key="[" line="283" column="22" />
-        <mark key="]" line="284" column="40" />
-        <mark key="^" line="284" column="40" />
-        <mark key="." line="284" column="40" />
+      <file name="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/run_upgrade.py" timestamp="1557160285473">
+        <mark key="'" line="169" column="55" />
+        <mark key="[" line="349" column="69" />
+        <mark key="]" line="349" column="102" />
+        <mark key="^" line="349" column="102" />
+        <mark key="." line="349" column="102" />
       </file>
       <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/mod_tester/tester.py" timestamp="1515837619326">
         <mark key="[" line="55" column="0" />
@@ -1189,7 +1189,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="348" column="50" filename="$USER_HOME$/projects/gateway/vsrx_cluster_gre_tunnel_implementation-master/common.py" />
       <jump line="78" column="0" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/run_upgrade.py" />
       <jump line="79" column="4" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/run_upgrade.py" />
       <jump line="7" column="16" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/run_upgrade.py" />
@@ -1289,46 +1288,47 @@
       <jump line="160" column="37" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/run_upgrade.py" />
       <jump line="168" column="43" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/run_upgrade.py" />
       <jump line="173" column="33" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/run_upgrade.py" />
+      <jump line="169" column="55" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/run_upgrade.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="&quot;" type="4">
+        <text>=</text>
       </register>
       <register name="-" type="4">
-        <text>_</text>
+        <text>=</text>
       </register>
       <register name="/" type="4">
         <text>mod_script</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">ICAgIHRyeToKICAgICAgICBjbWQgPSAicHl0aG9uIHt9Ii5mb3JtYXQobW9kX3NjcmlwdCkKICAgICAgICB3cml0ZV90b19sb2coIk1vZGlmeWluZyBuZXR3b3JrIGZpbGUgYW5kIFZNIGNvbmZpZ3VyYXRpb24gZm9yIEdSRSBjb252ZXJzaW9uLiIpCiAgICAgICAgcnVuX2FzeW5jX29uX2hvc3RzKGNsaWVudCwgY21kLCAiR1JFIG5ldHdvcmsgYW5kIFZNIG1vZGlmaWNhdGlvbiIsIGN3ZD1zY3JpcHRfcGF0aCkKICAgICAgICB3cml0ZV90b19sb2coIkdSRSBjb252ZXJzaW9uIGNvbmZpZyBtb2RpZmljYXRpb24gY29tcGxldGVkIHN1Y2Nlc3NmdWxseSIpCiAgICBleGNlcHQgRXhjZXB0aW9uIGFzIGU6CiAgICAgICAgcmVzdG9yZSA9IFRydWUKICAgICAgICB3cml0ZV90b19sb2coIkdSRSBDb25maWd1cmF0aW9uIG1vZGlmaWNhdGlvbiBmYWlsdXJlIGRldGVjdGVkLiBJbml0aWF0aW5nIHJvbGxiYWNrIikKICAgICAgICB3cml0ZV90b19sb2coZSkKICAgICAgICBjbWQgPSAicHl0aG9uIHt9IC0tcmVzdG9yZSIuZm9ybWF0KG1vZF9zY3JpcHQpCiAgICAgICAgcnVuX2FzeW5jX29uX2hvc3RzKGNsaWVudCwgY21kLCAiR1JFIG5ldHdvcmsgYW5kIFZNIGNvbmZpZ3VyYXRpb24gcmVzdG9yZSIsIGN3ZD1zY3JpcHRfcGF0aCkK</text>
+        <text encoding="base64">ICAgICAgICB3cml0ZV90b19sb2coIkluaXRpYXRpbmcgY29uZmlndXJhdGlvbiByb2xsYmFjayIpCiAgICAgICAgY21kID0gInB5dGhvbiB7fSAtLXJlc3RvcmUiLmZvcm1hdChtb2Rfc2NyaXB0KQogICAgICAgIHJ1bl9hc3luY19vbl9ob3N0cyhjbGllbnQsIGNtZCwgIkdSRSBuZXR3b3JrIGFuZCBWTSBjb25maWd1cmF0aW9uIHJlc3RvcmUiLCBjd2Q9c2NyaXB0X3BhdGgp</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICMgZG8gbm90IGRvIGJvdGggaW4gb25lIGxpbmUgdG8gbWFrZSBzdXJlIGJvdGggcnVuIHNjcmlwdHMgYXJlIGV4ZWN1dGVkCg==</text>
+      <register name="4" type="4">
+        <text encoding="base64">ICAgICAgICBjbWQgPSAicHl0aG9uIHt9IC0tcmVzdG9yZSIuZm9ybWF0KHByZXBfc2NyaXB0KQogICAgICAgIHJ1bl9hc3luY19vbl9ob3N0cyhjbGllbnQsIGNtZCwgIkdSRSBydW50aW1lIGNvbmZpZ3VyYXRpb24gcmVzdG9yZSIsIGN3ZD1zY3JpcHRfcGF0aCkKICAgICAgICB3cml0ZV90b19sb2coIkdSRSBydW50aW1lIG1vZGlmaWNhdGlvbiByb2xsYmFjayBjb21wbGV0ZWQgc3VjY2Vzc2Z1bGx5Iik=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="5" type="4">
+        <text encoding="base64">ICAgICAgICBjbWQgPSAicHl0aG9uIHt9IC0tcmVzdG9yZSIuZm9ybWF0KG1vZF9zY3JpcHQpCiAgICAgICAgcnVuX2FzeW5jX29uX2hvc3RzKGNsaWVudCwgY21kLCAiR1JFIG5ldHdvcmsgYW5kIFZNIGNvbmZpZ3VyYXRpb24gcmVzdG9yZSIsIGN3ZD1zY3JpcHRfcGF0aCkK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="7" type="4">
+        <text encoding="base64">ICAgICAgICB3cml0ZV90b19sb2coIkluaXRpYXRpbmcgY29uZmlndXJhdGlvbiByb2xsYmFjayIpCiAgICAgICAgY21kID0gInB5dGhvbiB7fSAtLXJlc3RvcmUiLmZvcm1hdChtb2Rfc2NyaXB0KQogICAgICAgIHJ1bl9hc3luY19vbl9ob3N0cyhjbGllbnQsIGNtZCwgIkdSRSBuZXR3b3JrIGFuZCBWTSBjb25maWd1cmF0aW9uIHJlc3RvcmUiLCBjd2Q9c2NyaXB0X3BhdGgp</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">ICAgIHNjcmlwdF9wYXRoID0gIi9ob21lL3ZTUlgvdXBncmFkZSIKICAgIHByZXBfc2NyaXB0ID0gImdyZV9jaGFuZ2VfcnVuLnB5IgogICAgbW9kX3NjcmlwdCA9ICJncmVfY2hhbmdlX21vZC5weSIK</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
