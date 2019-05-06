@@ -643,12 +643,12 @@
         <mark key="." line="5" column="13" />
         <mark key="^" line="5" column="13" />
       </file>
-      <file name="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/run_upgrade.py" timestamp="1557155927983">
+      <file name="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/run_upgrade.py" timestamp="1557157088500">
         <mark key="'" line="175" column="9" />
-        <mark key="[" line="232" column="0" />
-        <mark key="]" line="232" column="0" />
-        <mark key="^" line="232" column="7" />
-        <mark key="." line="232" column="0" />
+        <mark key="[" line="240" column="49" />
+        <mark key="]" line="240" column="55" />
+        <mark key="^" line="240" column="55" />
+        <mark key="." line="240" column="55" />
       </file>
       <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/mod_tester/tester.py" timestamp="1515837619326">
         <mark key="[" line="55" column="0" />
@@ -1290,38 +1290,38 @@
       <jump line="175" column="9" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/run_upgrade.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHJ1bl8K</text>
+      <register name="&quot;" type="4">
+        <text>d</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">VXBncmFkZSA=</text>
+        <text>d</text>
       </register>
       <register name="/" type="4">
         <text>script_path</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBlY2hvICJ2U1JYIFVwZ3JhZGU6Igo=</text>
+      <register name="0" type="4">
+        <text encoding="base64">ICAgIHRyeToKICAgICAgICBjbWQgPSAicHl0aG9uIHt9Ii5mb3JtYXQobW9kX3NjcmlwdCkKICAgICAgICB3cml0ZV90b19sb2coIk1vZGlmeWluZyBuZXR3b3JrIGZpbGUgYW5kIFZNIGNvbmZpZ3VyYXRpb24gZm9yIEdSRSBjb252ZXJzaW9uLiIpCiAgICAgICAgcnVuX2FzeW5jX29uX2hvc3RzKGNsaWVudCwgY21kLCAiR1JFIG5ldHdvcmsgYW5kIFZNIG1vZGlmaWNhdGlvbiIsIGN3ZD1zY3JpcHRfcGF0aCkKICAgICAgICB3cml0ZV90b19sb2coIkdSRSBjb252ZXJzaW9uIGNvbmZpZyBtb2RpZmljYXRpb24gY29tcGxldGVkIHN1Y2Nlc3NmdWxseSIpCiAgICBleGNlcHQgRXhjZXB0aW9uIGFzIGU6CiAgICAgICAgcmVzdG9yZSA9IFRydWUKICAgICAgICB3cml0ZV90b19sb2coIkdSRSBDb25maWd1cmF0aW9uIG1vZGlmaWNhdGlvbiBmYWlsdXJlIGRldGVjdGVkLiBJbml0aWF0aW5nIHJvbGxiYWNrIikKICAgICAgICB3cml0ZV90b19sb2coZSkKICAgICAgICBjbWQgPSAicHl0aG9uIHt9IC0tcmVzdG9yZSIuZm9ybWF0KG1vZF9zY3JpcHQpCiAgICAgICAgcnVuX2FzeW5jX29uX2hvc3RzKGNsaWVudCwgY21kLCAiR1JFIG5ldHdvcmsgYW5kIFZNIGNvbmZpZ3VyYXRpb24gcmVzdG9yZSIsIGN3ZD1zY3JpcHRfcGF0aCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHJ1bl8K</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAiIgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmVzdG9yZSA9IFRydWUK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBhY3Rpb24gPSAiZG93bmdyYWRlIgogICAgICAgICIiCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZGVmIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHJ1bl8K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAiIgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBhY3Rpb24gPSAiZG93bmdyYWRlIgogICAgICAgICIiCg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
@@ -1384,8 +1384,8 @@
         <entry>1y78</entry>
         <entry>q!</entry>
         <entry>$</entry>
-        <entry>w</entry>
         <entry>0</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
