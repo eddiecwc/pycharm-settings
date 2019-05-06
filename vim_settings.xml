@@ -643,12 +643,12 @@
         <mark key="." line="5" column="13" />
         <mark key="^" line="5" column="13" />
       </file>
-      <file name="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/run_upgrade.py" timestamp="1557161477440">
+      <file name="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/run_upgrade.py" timestamp="1557169021327">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="359" column="72" />
-        <mark key="]" line="359" column="85" />
+        <mark key="[" line="284" column="0" />
+        <mark key="]" line="284" column="0" />
         <mark key="^" line="359" column="85" />
-        <mark key="." line="359" column="85" />
+        <mark key="." line="284" column="0" />
       </file>
       <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/mod_tester/tester.py" timestamp="1515837619326">
         <mark key="[" line="55" column="0" />
@@ -1291,8 +1291,8 @@
       <jump line="24" column="0" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/common.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>parameters</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>parameters</text>
@@ -1304,28 +1304,28 @@
         <text encoding="base64">ICAgICAgICB3cml0ZV90b19sb2coIkluaXRpYXRpbmcgY29uZmlndXJhdGlvbiByb2xsYmFjayIpCiAgICAgICAgY21kID0gInB5dGhvbiB7fSAtLXJlc3RvcmUiLmZvcm1hdChtb2Rfc2NyaXB0KQogICAgICAgIHJ1bl9hc3luY19vbl9ob3N0cyhjbGllbnQsIGNtZCwgIkdSRSBuZXR3b3JrIGFuZCBWTSBjb25maWd1cmF0aW9uIHJlc3RvcmUiLCBjd2Q9c2NyaXB0X3BhdGgp</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">c2V0dGluZ3NfZmlsZSA9ICdpYm1fc2V0dXAvaW1wb3J0X3NldHRpbmdzLnlhbWwnCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">c2V0dGluZ3NfZmlsZSA9ICdpYm1fc2V0dXAvaW1wb3J0X3NldHRpbmdzLnlhbWwnCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB3cml0ZV90b19sb2coIklCTSBQb3N0LXVwZGF0ZSBzZXR1cCBmYWlsZWQuIikK</text>
+        <text encoding="base64">c2V0dGluZ3NfZmlsZSA9ICdpYm1fc2V0dXAvaW1wb3J0X3NldHRpbmdzLnlhbWwnCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB3cml0ZV90b19sb2coIklCTSBQb3N0LXVwZGF0ZSBzZXR1cCBmYWlsZWQuIikK</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgd3JpdGVfdG9fbG9nKCJHUkUgcnVudGltZSBtb2RpZmljYXRpb24gcm9sbGJhY2sgY29tcGxldGVkIHN1Y2Nlc3NmdWxseSIpCg==</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAjIG5leHQgcm9sbCBiYWNrIHJ1biB0aW1lIGNvbmZpZwogICAgICAgICAgICAgICAgY21kID0gInB5dGhvbiB7fSAtLXJlc3RvcmUiLmZvcm1hdChwcmVwX3NjcmlwdCkKICAgICAgICAgICAgICAgIHJ1bl9hc3luY19vbl9ob3N0cyhjbGllbnQsIGNtZCwgIkdSRSBydW50aW1lIGNvbmZpZ3VyYXRpb24gcmVzdG9yZSIsIGN3ZD1zY3JpcHRfcGF0aCkKIA==</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text encoding="base64">ICAgICAgICAgICAgICAgICMgZmlyc3Qgcm9sbCBiYWNrIGNvbmZpZyBhbmQgdm0gZGVmaW5pdGlvbiB4bWwKICAgICAgICAgICAgICAgIGNtZCA9ICJweXRob24ge30gLS1yZXN0b3JlIi5mb3JtYXQobW9kX3NjcmlwdCkKICAgICAgICAgICAgICAgIHJ1bl9hc3luY19vbl9ob3N0cyhjbGllbnQsIGNtZCwgIkdSRSBuZXR3b3JrIGFuZCBWTSBjb25maWd1cmF0aW9uIHJlc3RvcmUiLCBjd2Q9c2NyaXB0X3BhdGgpCg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
