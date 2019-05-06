@@ -338,11 +338,11 @@
         <mark key="^" line="97" column="43" />
         <mark key="." line="97" column="43" />
       </file>
-      <file name="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/upgrade_vSRX.sh" timestamp="1556898507855">
-        <mark key="[" line="5" column="13" />
-        <mark key="]" line="5" column="13" />
-        <mark key="." line="5" column="13" />
-        <mark key="^" line="5" column="13" />
+      <file name="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/upgrade_vSRX.sh" timestamp="1557153500826">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+        <mark key="^" line="5" column="43" />
       </file>
       <file name="$USER_HOME$/projects/gateway/licu/json-test.py" timestamp="1552581536286">
         <mark key="'" line="43" column="12" />
@@ -1289,11 +1289,11 @@
       <jump line="0" column="0" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/gre_change_run.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">ICAgICAgICA=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ZmkK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICAgICAgICA=</text>
+        <text>J</text>
       </register>
       <register name="/" type="4">
         <text>addbr</text>
@@ -1302,34 +1302,34 @@
         <text encoding="base64">ICAgICAgICB3cml0ZV90b19sb2coZS5vdXRwdXQpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBleGl0IDEK</text>
+        <text encoding="base64">ZmkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBlY2hvICJ2U1JYIHVwZ3JhZGUgZmFpbGVkIGJ1dCByb2xsYmFjayBjb21wbGV0ZWQgc3VjY2Vzc2Z1bGx5LiBDaGVjayBsb2dzLiIK</text>
+        <text encoding="base64">ICAgICAgICBleGl0IDEK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGVsaWYgW1sgJD8gLWVxIDQwIF1dIDt0aGVuCg==</text>
+        <text encoding="base64">ICAgICAgICBlY2hvICJ2U1JYIHVwZ3JhZGUgZmFpbGVkIGJ1dCByb2xsYmFjayBjb21wbGV0ZWQgc3VjY2Vzc2Z1bGx5LiBDaGVjayBsb2dzLiIK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGVsaWYgW1sgJD8gLWVxIDQwIF1dIDt0aGVuCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB3cml0ZV90b19sb2coZS5vdXRwdXQpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAgICAgICB3cml0ZV90b19sb2coZS5vdXRwdXQpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB3cml0ZV90b19sb2coZS5vdXRwdXQpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICMgdG9kbyBjaGVjayB3aXRoIFRpbSBvbiBhIG1ldGhvZCB0byBmaW5kIG91dCBpZiBzcngtbGljdSBmYWlsZWQgYW5kIHJvbGxiYWNrIHN1Y2NlZWRlZCwgb3Igcm9sbGJhY2sgZmFpbGVkCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAjIGFsbCBvdGhlcnMgLSBmYWlsdXJlIAo=</text>
+        <text encoding="base64">ICAgICMgdG9kbyBjaGVjayB3aXRoIFRpbSBvbiBhIG1ldGhvZCB0byBmaW5kIG91dCBpZiBzcngtbGljdSBmYWlsZWQgYW5kIHJvbGxiYWNrIHN1Y2NlZWRlZCwgb3Igcm9sbGJhY2sgZmFpbGVkCg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>q!</text>
       </register>
     </registers>
     <search>
@@ -1378,13 +1378,13 @@
         <entry>35</entry>
         <entry>45</entry>
         <entry>wq</entry>
-        <entry>q!</entry>
         <entry>78</entry>
         <entry>230</entry>
         <entry>92</entry>
         <entry>1y78</entry>
-        <entry>0</entry>
         <entry>w</entry>
+        <entry>0</entry>
+        <entry>q!</entry>
       </history-cmd>
       <history-expr />
       <history-input />
