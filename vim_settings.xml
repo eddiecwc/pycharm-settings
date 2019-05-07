@@ -338,11 +338,12 @@
         <mark key="^" line="97" column="43" />
         <mark key="." line="97" column="43" />
       </file>
-      <file name="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/upgrade_vSRX.sh" timestamp="1557154511484">
-        <mark key="[" line="5" column="22" />
-        <mark key="]" line="5" column="29" />
-        <mark key="." line="5" column="29" />
-        <mark key="^" line="5" column="29" />
+      <file name="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/upgrade_vSRX.sh" timestamp="1557190635928">
+        <mark key="'" line="5" column="0" />
+        <mark key="[" line="72" column="30" />
+        <mark key="]" line="72" column="36" />
+        <mark key="." line="72" column="36" />
+        <mark key="^" line="72" column="36" />
       </file>
       <file name="$USER_HOME$/projects/gateway/licu/json-test.py" timestamp="1552581536286">
         <mark key="'" line="43" column="12" />
@@ -1188,9 +1189,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="78" column="0" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/run_upgrade.py" />
-      <jump line="79" column="4" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/run_upgrade.py" />
-      <jump line="7" column="16" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/run_upgrade.py" />
       <jump line="25" column="47" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/run_upgrade.py" />
       <jump line="19" column="4" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/run_upgrade.py" />
       <jump line="231" column="4" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/run_upgrade.py" />
@@ -1270,8 +1268,6 @@
       <jump line="0" column="0" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/gre_change_run.py" />
       <jump line="27" column="29" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/upgrade_vSRX.sh" />
       <jump line="20" column="26" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/upgrade_vSRX.sh" />
-      <jump line="7" column="10" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/upgrade_vSRX.sh" />
-      <jump line="10" column="4" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/upgrade_vSRX.sh" />
       <jump line="58" column="20" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/upgrade_vSRX.sh" />
       <jump line="72" column="17" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/upgrade_vSRX.sh" />
       <jump line="76" column="21" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/upgrade_vSRX.sh" />
@@ -1288,55 +1284,60 @@
       <jump line="169" column="55" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/run_upgrade.py" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/run_upgrade.py" />
       <jump line="24" column="0" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/common.py" />
+      <jump line="17" column="10" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/upgrade_vSRX.sh" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/upgrade_vSRX.sh" />
+      <jump line="7" column="8" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/upgrade_vSRX.sh" />
+      <jump line="10" column="4" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/upgrade_vSRX.sh" />
+      <jump line="5" column="0" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/upgrade_vSRX.sh" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIG1vZGU9IiIK</text>
       </register>
       <register name="-" type="4">
-        <text>parameters</text>
+        <text>mode</text>
       </register>
       <register name="/" type="4">
-        <text>import_settings</text>
+        <text>mode</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">ICAgICAgICB3cml0ZV90b19sb2coIkluaXRpYXRpbmcgY29uZmlndXJhdGlvbiByb2xsYmFjayIpCiAgICAgICAgY21kID0gInB5dGhvbiB7fSAtLXJlc3RvcmUiLmZvcm1hdChtb2Rfc2NyaXB0KQogICAgICAgIHJ1bl9hc3luY19vbl9ob3N0cyhjbGllbnQsIGNtZCwgIkdSRSBuZXR3b3JrIGFuZCBWTSBjb25maWd1cmF0aW9uIHJlc3RvcmUiLCBjd2Q9c2NyaXB0X3BhdGgp</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIG1vZGU9IiIK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">c2V0dGluZ3NfZmlsZSA9ICdpYm1fc2V0dXAvaW1wb3J0X3NldHRpbmdzLnlhbWwnCg==</text>
+        <text encoding="base64">ICAgIG1vZGU9IiIK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">c2V0dGluZ3NfZmlsZSA9ICdpYm1fc2V0dXAvaW1wb3J0X3NldHRpbmdzLnlhbWwnCg==</text>
+        <text encoding="base64">ICAgIG1vZGU9IiQxIgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB3cml0ZV90b19sb2coIklCTSBQb3N0LXVwZGF0ZSBzZXR1cCBmYWlsZWQuIikK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">c2V0dGluZ3NfZmlsZSA9ICdpYm1fc2V0dXAvaW1wb3J0X3NldHRpbmdzLnlhbWwnCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgd3JpdGVfdG9fbG9nKCJHUkUgcnVudGltZSBtb2RpZmljYXRpb24gcm9sbGJhY2sgY29tcGxldGVkIHN1Y2Nlc3NmdWxseSIpCg==</text>
+        <text encoding="base64">c2V0dGluZ3NfZmlsZSA9ICdpYm1fc2V0dXAvaW1wb3J0X3NldHRpbmdzLnlhbWwnCg==</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAjIG5leHQgcm9sbCBiYWNrIHJ1biB0aW1lIGNvbmZpZwogICAgICAgICAgICAgICAgY21kID0gInB5dGhvbiB7fSAtLXJlc3RvcmUiLmZvcm1hdChwcmVwX3NjcmlwdCkKICAgICAgICAgICAgICAgIHJ1bl9hc3luY19vbl9ob3N0cyhjbGllbnQsIGNtZCwgIkdSRSBydW50aW1lIGNvbmZpZ3VyYXRpb24gcmVzdG9yZSIsIGN3ZD1zY3JpcHRfcGF0aCkKIA==</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICB3cml0ZV90b19sb2coIklCTSBQb3N0LXVwZGF0ZSBzZXR1cCBmYWlsZWQuIikK</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICMgZmlyc3Qgcm9sbCBiYWNrIGNvbmZpZyBhbmQgdm0gZGVmaW5pdGlvbiB4bWwKICAgICAgICAgICAgICAgIGNtZCA9ICJweXRob24ge30gLS1yZXN0b3JlIi5mb3JtYXQobW9kX3NjcmlwdCkKICAgICAgICAgICAgICAgIHJ1bl9hc3luY19vbl9ob3N0cyhjbGllbnQsIGNtZCwgIkdSRSBuZXR3b3JrIGFuZCBWTSBjb25maWd1cmF0aW9uIHJlc3RvcmUiLCBjd2Q9c2NyaXB0X3BhdGgpCg==</text>
-      </register>
-      <register name="9" type="2">
+      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgd3JpdGVfdG9fbG9nKCJHUkUgcnVudGltZSBtb2RpZmljYXRpb24gcm9sbGJhY2sgY29tcGxldGVkIHN1Y2Nlc3NmdWxseSIpCg==</text>
+      </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wq</text>
       </register>
     </registers>
     <search>
-      <last-search>import_settings</last-search>
+      <last-search>mode</last-search>
       <last-offset />
-      <last-pattern>import_settings</last-pattern>
+      <last-pattern>mode</last-pattern>
       <last-replace>CodeSimpleSchema</last-replace>
       <last-substitute>CodeSchema</last-substitute>
       <last-dir>1</last-dir>
@@ -1344,7 +1345,6 @@
     </search>
     <history>
       <history-search>
-        <entry>generate_vsrx</entry>
         <entry>Generate_v</entry>
         <entry>Generate_vSRX_</entry>
         <entry>import</entry>
@@ -1364,10 +1364,9 @@
         <entry>mod_script</entry>
         <entry>action =</entry>
         <entry>import_settings</entry>
+        <entry>mode</entry>
       </history-search>
       <history-cmd>
-        <entry>212</entry>
-        <entry>260</entry>
         <entry encoding="base64">JzwsJz4w</entry>
         <entry>168</entry>
         <entry>94</entry>
@@ -1377,15 +1376,17 @@
         <entry>:35</entry>
         <entry>35</entry>
         <entry>45</entry>
-        <entry>wq</entry>
         <entry>78</entry>
         <entry>230</entry>
         <entry>92</entry>
         <entry>1y78</entry>
         <entry>q!</entry>
-        <entry>$</entry>
+        <entry>1</entry>
+        <entry>6</entry>
         <entry>0</entry>
+        <entry>$</entry>
         <entry>w</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
