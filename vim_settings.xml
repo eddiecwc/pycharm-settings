@@ -55,12 +55,6 @@
         <mark key="." line="43" column="88" />
         <mark key="^" line="43" column="88" />
       </file>
-      <file name="$USER_HOME$/projects/gateway/Juniper_vSRX_on_KVM/vSRX_xml_template_ha_SI_1_big_SRIOV.j2" timestamp="1553531895738">
-        <mark key="'" line="133" column="19" />
-        <mark key="[" line="136" column="0" />
-        <mark key="]" line="136" column="24" />
-        <mark key="." line="136" column="0" />
-      </file>
       <file name="$USER_HOME$/Sites/FlaskApp/templates/interactive.html" timestamp="1514787861252">
         <mark key="[" line="6" column="73" />
         <mark key="]" line="6" column="77" />
@@ -72,12 +66,6 @@
         <mark key="]" line="25" column="14" />
         <mark key="^" line="25" column="14" />
         <mark key="." line="25" column="14" />
-      </file>
-      <file name="$USER_HOME$/projects/gateway/Juniper_vSRX_on_KVM/vSRX_xml_template_ha_SI_1.j2" timestamp="1553531414641">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="145" column="0" />
-        <mark key="]" line="145" column="24" />
-        <mark key="." line="145" column="0" />
       </file>
       <file name="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/helper_functions.py" timestamp="1557339188411">
         <mark key="[" line="91" column="4" />
@@ -101,12 +89,6 @@
         <mark key="]" line="48" column="60" />
         <mark key="." line="48" column="60" />
         <mark key="^" line="48" column="60" />
-      </file>
-      <file name="$USER_HOME$/projects/gateway/vsrx_cluster_gre_tunnel_implementation-master/gre_change_mod_script.py" timestamp="1556307639795">
-        <mark key="'" line="141" column="0" />
-        <mark key="[" line="238" column="0" />
-        <mark key="]" line="238" column="0" />
-        <mark key="." line="238" column="0" />
       </file>
       <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/templates/ess/codelog_list.html" timestamp="1522211554644">
         <mark key="'" line="26" column="32" />
@@ -141,12 +123,6 @@
         <mark key="]" line="12" column="40" />
         <mark key="." line="12" column="40" />
         <mark key="^" line="12" column="40" />
-      </file>
-      <file name="$USER_HOME$/projects/gateway/Juniper_vSRX_on_KVM/vSRX_xml_template_ha_SI_1_med.j2" timestamp="1553531910912">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="155" column="0" />
-        <mark key="]" line="155" column="24" />
-        <mark key="." line="155" column="0" />
       </file>
       <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/decorators.py" timestamp="1526004691719">
         <mark key="[" line="28" column="11" />
@@ -206,12 +182,6 @@
         <mark key="." line="52" column="45" />
         <mark key="^" line="472" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/gateway/Juniper_vSRX_on_KVM/vSRX_xml_template_ha_big_SRIOV.j2" timestamp="1553531368567">
-        <mark key="'" line="112" column="19" />
-        <mark key="[" line="135" column="0" />
-        <mark key="]" line="135" column="24" />
-        <mark key="." line="135" column="0" />
-      </file>
       <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/utilities.py" timestamp="1526022588142">
         <mark key="'" line="39" column="65" />
         <mark key="[" line="179" column="0" />
@@ -266,6 +236,12 @@
         <mark key="^" line="13" column="11" />
         <mark key="." line="8" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/gateway/scripts/libraries/Hardware.py" timestamp="1557348894125">
+        <mark key="'" line="14" column="38" />
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
+      </file>
       <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/database.py" timestamp="1518384937012">
         <mark key="'" line="2" column="30" />
         <mark key="[" line="10" column="21" />
@@ -304,12 +280,6 @@
         <mark key="]" line="4" column="20" />
         <mark key="^" line="4" column="20" />
         <mark key="." line="4" column="20" />
-      </file>
-      <file name="$USER_HOME$/projects/gateway/Juniper_vSRX_on_KVM/vSRX_xml_template_ha_big.j2" timestamp="1553531305987">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="165" column="0" />
-        <mark key="]" line="165" column="0" />
-        <mark key="." line="165" column="0" />
       </file>
       <file name="$USER_HOME$/projects/gateway/licu/do_update.py" timestamp="1553207735703">
         <mark key="'" line="23" column="56" />
@@ -523,12 +493,6 @@
         <mark key="." line="111" column="18" />
         <mark key="^" line="110" column="74" />
       </file>
-      <file name="$USER_HOME$/projects/gateway/Juniper_vSRX_on_KVM/vSRX_xml_template_ha_med.j2" timestamp="1553531391776">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="154" column="0" />
-        <mark key="]" line="154" column="24" />
-        <mark key="." line="154" column="0" />
-      </file>
       <file name="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/pkgs/pip/requirement.txt" timestamp="1556674747560">
         <mark key="[" line="27" column="8" />
         <mark key="]" line="27" column="8" />
@@ -604,6 +568,9 @@
         <mark key="^" line="55" column="0" />
         <mark key="." line="55" column="0" />
       </file>
+      <file name="/Dummy.txt" timestamp="1557348190110">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Sites/ESS-Monitor/scripts/collectLinuxNodeInfo.py" timestamp="1514356709242">
         <mark key="'" line="34" column="14" />
         <mark key="[" line="139" column="63" />
@@ -674,11 +641,12 @@
         <mark key="." line="29" column="24" />
         <mark key="^" line="29" column="24" />
       </file>
-      <file name="$USER_HOME$/projects/gateway/Juniper_vSRX_on_KVM/vSRX_xml_template_ha_SI_1_big.j2" timestamp="1553531526926">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="155" column="0" />
-        <mark key="]" line="155" column="24" />
-        <mark key="." line="155" column="0" />
+      <file name="$USER_HOME$/projects/gateway/scripts/venv/lib/python2.7/site-packages/SoftLayer/managers/hardware.py" timestamp="1557348855155">
+        <mark key="'" line="82" column="31" />
+        <mark key="[" line="233" column="37" />
+        <mark key="]" line="233" column="37" />
+        <mark key="." line="233" column="37" />
+        <mark key="^" line="233" column="37" />
       </file>
       <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/mod_support/__init__.py" timestamp="1516526135969">
         <mark key="[" line="4" column="33" />
@@ -863,6 +831,12 @@
         <mark key="]" line="7" column="35" />
         <mark key="^" line="7" column="35" />
         <mark key="." line="7" column="35" />
+      </file>
+      <file name="$USER_HOME$/projects/gateway/scripts/getSettings.py" timestamp="1557349639188">
+        <mark key="[" line="137" column="36" />
+        <mark key="]" line="138" column="13" />
+        <mark key="^" line="138" column="13" />
+        <mark key="." line="138" column="13" />
       </file>
       <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/models/cluster.py" timestamp="1524948184103">
         <mark key="[" line="12" column="33" />
@@ -1099,12 +1073,6 @@
       <file name="$USER_HOME$/projects/gateway/licu/vsrx-licu/modified_vsrx_upgrade.py" timestamp="1552678754492">
         <mark key="'" line="398" column="3" />
       </file>
-      <file name="$USER_HOME$/projects/gateway/vsrx_cluster_gre_tunnel_implementation-master/gre_change_run.py" timestamp="1556525483171">
-        <mark key="'" line="476" column="12" />
-        <mark key="[" line="447" column="0" />
-        <mark key="]" line="447" column="0" />
-        <mark key="." line="447" column="0" />
-      </file>
       <file name="$USER_HOME$/Sites/FlaskApp/__init__.py" timestamp="1517010013941">
         <mark key="'" line="7" column="29" />
         <mark key="[" line="266" column="34" />
@@ -1172,12 +1140,6 @@
         <mark key="^" line="0" column="74" />
         <mark key="." line="0" column="74" />
       </file>
-      <file name="$USER_HOME$/projects/gateway/Juniper_vSRX_on_KVM/init_kvm_int.py" timestamp="1553878731806">
-        <mark key="'" line="13" column="16" />
-        <mark key="[" line="109" column="0" />
-        <mark key="]" line="109" column="0" />
-        <mark key="." line="109" column="0" />
-      </file>
       <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/conf/machine-types.conf" timestamp="1521365154430">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="17" />
@@ -1194,14 +1156,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="313" column="7" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/common.py" />
-      <jump line="116" column="17" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/gre_change_run.py" />
-      <jump line="5" column="7" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/gre_change_run.py" />
-      <jump line="217" column="37" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/common.py" />
-      <jump line="118" column="2" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/gre_change_run.py" />
-      <jump line="31" column="21" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_on_KVM/Build_vSRX.py" />
-      <jump line="33" column="0" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_on_KVM/Build_vSRX.py" />
-      <jump line="73" column="15" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_on_KVM/Build_vSRX.py" />
       <jump line="75" column="12" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_on_KVM/Build_vSRX.py" />
       <jump line="32" column="0" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/gre_change_mod.py" />
       <jump line="238" column="29" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/gre_change_mod.py" />
@@ -1294,55 +1248,63 @@
       <jump line="159" column="12" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/run_upgrade.py" />
       <jump line="170" column="8" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/run_upgrade.py" />
       <jump line="182" column="8" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/run_upgrade.py" />
+      <jump line="50" column="0" filename="$USER_HOME$/projects/gateway/scripts/venv/lib/python2.7/site-packages/SoftLayer/managers/hardware.py" />
+      <jump line="53" column="15" filename="$USER_HOME$/projects/gateway/scripts/venv/lib/python2.7/site-packages/SoftLayer/managers/hardware.py" />
+      <jump line="240" column="38" filename="$USER_HOME$/projects/gateway/scripts/venv/lib/python2.7/site-packages/SoftLayer/managers/hardware.py" />
+      <jump line="238" column="58" filename="$USER_HOME$/projects/gateway/scripts/venv/lib/python2.7/site-packages/SoftLayer/managers/hardware.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/gateway/scripts/venv/lib/python2.7/site-packages/SoftLayer/managers/hardware.py" />
+      <jump line="82" column="31" filename="$USER_HOME$/projects/gateway/scripts/venv/lib/python2.7/site-packages/SoftLayer/managers/hardware.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/gateway/scripts/libraries/Hardware.py" />
+      <jump line="14" column="38" filename="$USER_HOME$/projects/gateway/scripts/libraries/Hardware.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">IAo=</text>
+      <register name="&quot;" type="4">
+        <text>V4x7faWu</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICAgICAgICA=</text>
+        <text>V4x7faWu</text>
       </register>
       <register name="/" type="4">
-        <text>gre</text>
+        <text>get_hardware</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">ICAgIE9uIHN1Y2Nlc3NmdWwgY29udmVyc2lvbiAtIHJlc3RvcmUgc3RhdHVzIGlzIHNldCB0byBGYWxzZQogICAgT24gZmFpbGVkIGNvbnZlcnNpb24gYnV0IHN1Y2Nlc3NmdWwgcmVzdG9yZSAtIHJlc3RvcmUgc3RhdHVzIGlzIHNldCB0byBUcnVlCiAgICBPbiBmYWlsZWQgY29udmVyc2lvbiBhbmQgZmFpbGVkIHJlc3RvcmUgLSBleGNlcHRpb24gaXMgcmFpc2VkCiA=</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBncm91cE51bWJlcj1vc0RldGFpbHNbIm5ldHdvcmtHYXRld2F5TWVtYmVyIl1bIm5ldHdvcmtHYXRld2F5Il1bImdyb3VwTnVtYmVyIl0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">IAo=</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIFJlc3RvcmUgc3RhdHVzIGlzIHNldCB0byB0cnVlIHVwb24gc3VjY2Vzc2Z1bCByZXN0b3JlCg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIGlmIHJlc3RvcmUgZmFpbHMK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIFJlc3RvcmUgc3RhdHVzIGlzIHNldCB0byB0cnVlIHVwb24gc3VjY2Vzc2Z1bCByZXN0b3JlIGFmdGVyIGNvbnZlcnNpb24gZmFpbHVyZS4gRXhjZXB0aW9uIGlzIHRyaWdnZXJlZAo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIHByaW50KGpzb24uZHVtcHMob3NEZXRhaWxzLCBpbmRlbnQ9NCkpCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIGJyX2NvdW50ID0gZ2F0ZXdheVsibmV0d29ya1NwYWNlIl0gPT0gIkJPVEgiID8gJzInIDogJzEnCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIG9zRGV0YWlsc1sibmV0d29ya0dhdGV3YXlNZW1iZXIiXVsibmV0d29ya0dhdGV3YXkiXVsiZ3JvdXBOdW1iZXIiXQo=</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB3cml0ZV90b19sb2coIkV4ZWN1dGlvbiBvZiB7fSBvbiByZW1vdGUgaG9zdCByZXR1cm5lZCIuZm9ybWF0KHJlbW90ZV9jbWQpKQo=</text>
+        <text encoding="base64">ICAgICMgb3NEZXRhaWxzID0gc2xfaGFyZHdhcmUuZ2V0T1MoaGFyZHdhcmVfaWQpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIG9zRGV0YWlscyA9IHNsX2hhcmR3YXJlLmdldE9TKGhhcmR3YXJlX2lkKQo=</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHdyaXRlX3RvX2xvZyhlKQo=</text>
+      <register name="9" type="4">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gc2VsZi5fX2FwaVdyYXBwZXIobGFtYmRhOiBzZWxmLl9fbWdyLgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBnZXRfaGFyZHdhcmUoaGFyZHdhcmVJRCkpCg==</text>
       </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>gre</last-search>
+      <last-search>get_hardware</last-search>
       <last-offset />
-      <last-pattern>gre</last-pattern>
+      <last-pattern>get_hardware</last-pattern>
       <last-replace>CodeSimpleSchema</last-replace>
       <last-substitute>CodeSchema</last-substitute>
       <last-dir>1</last-dir>
@@ -1350,9 +1312,6 @@
     </search>
     <history>
       <history-search>
-        <entry>addbr</entry>
-        <entry>downgrade</entry>
-        <entry>text</entry>
         <entry>restore</entry>
         <entry>pgrade</entry>
         <entry>script_path</entry>
@@ -1370,9 +1329,11 @@
         <entry>GRE interfaces file</entry>
         <entry>gre_change</entry>
         <entry>gre</entry>
+        <entry>account</entry>
+        <entry>gateway</entry>
+        <entry>get_hardware</entry>
       </history-search>
       <history-cmd>
-        <entry>168</entry>
         <entry>94</entry>
         <entry>265</entry>
         <entry>q</entry>
@@ -1383,15 +1344,16 @@
         <entry>230</entry>
         <entry>92</entry>
         <entry>1y78</entry>
-        <entry>q!</entry>
         <entry>1</entry>
         <entry>6</entry>
         <entry>do_check_call</entry>
         <entry>4</entry>
         <entry>$</entry>
+        <entry>wq</entry>
+        <entry>218</entry>
+        <entry>q!</entry>
         <entry>0</entry>
         <entry>w</entry>
-        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
