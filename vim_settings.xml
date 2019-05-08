@@ -343,12 +343,12 @@
         <mark key="^" line="97" column="43" />
         <mark key="." line="97" column="43" />
       </file>
-      <file name="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/upgrade_vSRX.sh" timestamp="1557190635928">
-        <mark key="'" line="5" column="0" />
-        <mark key="[" line="72" column="30" />
-        <mark key="]" line="72" column="36" />
-        <mark key="." line="72" column="36" />
-        <mark key="^" line="72" column="36" />
+      <file name="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/upgrade_vSRX.sh" timestamp="1557339864141">
+        <mark key="'" line="81" column="24" />
+        <mark key="[" line="83" column="75" />
+        <mark key="]" line="85" column="43" />
+        <mark key="." line="85" column="43" />
+        <mark key="^" line="85" column="43" />
       </file>
       <file name="$USER_HOME$/projects/gateway/licu/json-test.py" timestamp="1552581536286">
         <mark key="'" line="43" column="12" />
@@ -648,12 +648,12 @@
         <mark key="." line="5" column="13" />
         <mark key="^" line="5" column="13" />
       </file>
-      <file name="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/run_upgrade.py" timestamp="1557339146073">
-        <mark key="'" line="6" column="7" />
-        <mark key="[" line="87" column="67" />
-        <mark key="]" line="87" column="66" />
-        <mark key="^" line="87" column="66" />
-        <mark key="." line="87" column="66" />
+      <file name="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/run_upgrade.py" timestamp="1557340180262">
+        <mark key="'" line="58" column="66" />
+        <mark key="[" line="295" column="70" />
+        <mark key="]" line="301" column="7" />
+        <mark key="^" line="301" column="7" />
+        <mark key="." line="301" column="7" />
       </file>
       <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/mod_tester/tester.py" timestamp="1515837619326">
         <mark key="[" line="55" column="0" />
@@ -737,12 +737,12 @@
       <file name="$USER_HOME$/projects/gateway/Juniper_vSRX_on_KVM/vSRX_conf_template_sa_ncv.j2" timestamp="1551252679985">
         <mark key="'" line="80" column="33" />
       </file>
-      <file name="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/common.py" timestamp="1557339155786">
-        <mark key="'" line="69" column="20" />
-        <mark key="[" line="35" column="14" />
-        <mark key="]" line="35" column="15" />
-        <mark key="." line="35" column="15" />
-        <mark key="^" line="35" column="15" />
+      <file name="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/common.py" timestamp="1557340161984">
+        <mark key="'" line="220" column="81" />
+        <mark key="[" line="231" column="89" />
+        <mark key="]" line="231" column="89" />
+        <mark key="." line="231" column="89" />
+        <mark key="^" line="231" column="7" />
       </file>
       <file name="$USER_HOME$/projects/gateway/Juniper_vSRX_on_KVM/vSRX_conf_template_ha_ncv.j2" timestamp="1551252500619">
         <mark key="'" line="0" column="0" />
@@ -1194,17 +1194,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="291" column="23" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/run_upgrade.py" />
-      <jump line="53" column="25" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/run_upgrade.py" />
-      <jump line="153" column="42" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/run_upgrade.py" />
-      <jump line="154" column="44" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/run_upgrade.py" />
-      <jump line="159" column="15" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/run_upgrade.py" />
-      <jump line="18" column="9" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/run_upgrade.py" />
-      <jump line="70" column="59" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/run_upgrade.py" />
-      <jump line="81" column="52" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/run_upgrade.py" />
-      <jump line="13" column="12" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/common.py" />
-      <jump line="357" column="40" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/gre_change_run.py" />
-      <jump line="453" column="40" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/gre_change_run.py" />
       <jump line="482" column="37" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/gre_change_run.py" />
       <jump line="102" column="58" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/gre_change_run.py" />
       <jump line="76" column="0" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/common.py" />
@@ -1269,7 +1258,6 @@
       <jump line="20" column="26" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/upgrade_vSRX.sh" />
       <jump line="58" column="20" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/upgrade_vSRX.sh" />
       <jump line="72" column="17" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/upgrade_vSRX.sh" />
-      <jump line="76" column="21" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/upgrade_vSRX.sh" />
       <jump line="78" column="21" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/upgrade_vSRX.sh" />
       <jump line="161" column="7" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/run_upgrade.py" />
       <jump line="186" column="93" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/run_upgrade.py" />
@@ -1282,67 +1270,79 @@
       <jump line="173" column="33" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/run_upgrade.py" />
       <jump line="169" column="55" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/run_upgrade.py" />
       <jump line="24" column="0" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/common.py" />
-      <jump line="17" column="10" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/upgrade_vSRX.sh" />
-      <jump line="0" column="0" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/upgrade_vSRX.sh" />
       <jump line="7" column="8" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/upgrade_vSRX.sh" />
       <jump line="10" column="4" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/upgrade_vSRX.sh" />
       <jump line="5" column="0" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/upgrade_vSRX.sh" />
       <jump line="92" column="17" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/helper_functions.py" />
       <jump line="1" column="0" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/common.py" />
       <jump line="87" column="16" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/helper_functions.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/run_upgrade.py" />
       <jump line="6" column="7" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/run_upgrade.py" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/common.py" />
       <jump line="69" column="20" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/common.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/upgrade_vSRX.sh" />
+      <jump line="17" column="24" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/upgrade_vSRX.sh" />
+      <jump line="71" column="16" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/upgrade_vSRX.sh" />
+      <jump line="74" column="16" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/upgrade_vSRX.sh" />
+      <jump line="76" column="15" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/upgrade_vSRX.sh" />
+      <jump line="81" column="24" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/upgrade_vSRX.sh" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/run_upgrade.py" />
+      <jump line="10" column="12" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/run_upgrade.py" />
+      <jump line="29" column="15" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/run_upgrade.py" />
+      <jump line="31" column="19" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/run_upgrade.py" />
+      <jump line="51" column="19" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/run_upgrade.py" />
+      <jump line="53" column="8" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/run_upgrade.py" />
+      <jump line="55" column="8" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/run_upgrade.py" />
+      <jump line="58" column="66" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/run_upgrade.py" />
+      <jump line="220" column="81" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/common.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>p</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>p</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>do_check</text>
+        <text>sleep</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">IyAgICB3cml0ZV90b19sb2coInt9IG9uIHJlbW90ZSBob3N0IGV4aXQgY29kZToge30uIFJlcGxheSBvZiBleGVjdXRpb24gbG9nOiIuZm9ybWF0KGRlc2MsIHJjX3IpKQo=</text>
+      <register name="0" type="4">
+        <text encoding="base64">ICAgIHN0ZGluLCBzdGRvdXQsIHN0ZGVyciA9IGV4ZWNfcmVtb3RlX2NvbW1hbmQoY2xpZW50LCByZW1vdGVfY21kKQogICAgc3Rkb3V0X3IgPSBzdGRvdXQucmVhZCgpCiAgICBzdGRlcnJfciA9IHN0ZGVyci5yZWFkKCkKICAgIHJjX3IgPSBzdGRvdXQuY2hhbm5lbC5yZWN2X2V4aXRfc3RhdHVzKCkKICAgIHN0ZG91dC5jaGFubmVsLmNsb3NlKCkKICAgIHN0ZGVyci5jaGFubmVsLmNsb3NlKCkKICAgIHdyaXRlX3RvX2xvZygiRXhlY3V0aW9uIG9mIHt9IG9uIHJlbW90ZSBob3N0IHJldHVybmVkIi5mb3JtYXQocmVtb3RlX2NtZCkpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Y29weV9jb21wbGV0ZV9maWxlID0gJycK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIG1vZGU9IiIK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICAgIG1vZGU9IiIK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIG1vZGU9IiQxIgo=</text>
+        <text encoding="base64">ICAgIG1vZGU9IiIK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIG1vZGU9IiQxIgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">c2V0dGluZ3NfZmlsZSA9ICdpYm1fc2V0dXAvaW1wb3J0X3NldHRpbmdzLnlhbWwnCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">c2V0dGluZ3NfZmlsZSA9ICdpYm1fc2V0dXAvaW1wb3J0X3NldHRpbmdzLnlhbWwnCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB3cml0ZV90b19sb2coIklCTSBQb3N0LXVwZGF0ZSBzZXR1cCBmYWlsZWQuIikK</text>
+        <text encoding="base64">c2V0dGluZ3NfZmlsZSA9ICdpYm1fc2V0dXAvaW1wb3J0X3NldHRpbmdzLnlhbWwnCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB3cml0ZV90b19sb2coIklCTSBQb3N0LXVwZGF0ZSBzZXR1cCBmYWlsZWQuIikK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>do_check</last-search>
+      <last-search>sleep</last-search>
       <last-offset />
-      <last-pattern>do_check</last-pattern>
+      <last-pattern>sleep</last-pattern>
       <last-replace>CodeSimpleSchema</last-replace>
       <last-substitute>CodeSchema</last-substitute>
       <last-dir>1</last-dir>
@@ -1350,9 +1350,6 @@
     </search>
     <history>
       <history-search>
-        <entry>open_yaml</entry>
-        <entry>settings</entry>
-        <entry>del</entry>
         <entry>libvirt</entry>
         <entry>do_check_call</entry>
         <entry>remote host returned</entry>
@@ -1370,13 +1367,15 @@
         <entry>max</entry>
         <entry>calling</entry>
         <entry>do_check</entry>
+        <entry>vSRX</entry>
+        <entry>remote</entry>
+        <entry>sleep</entry>
       </history-search>
       <history-cmd>
         <entry>168</entry>
         <entry>94</entry>
         <entry>265</entry>
         <entry>q</entry>
-        <entry>4</entry>
         <entry>:35</entry>
         <entry>35</entry>
         <entry>45</entry>
@@ -1388,9 +1387,10 @@
         <entry>1</entry>
         <entry>6</entry>
         <entry>wq</entry>
-        <entry>$</entry>
         <entry>do_check_call</entry>
         <entry>0</entry>
+        <entry>4</entry>
+        <entry>$</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
