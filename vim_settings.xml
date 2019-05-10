@@ -351,8 +351,8 @@
         <mark key="^" line="25" column="37" />
         <mark key="." line="27" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/gateway/Juniper_vSRX_on_KVM/build_kvm_int.py" timestamp="1554150399153">
-        <mark key="'" line="1175" column="63" />
+      <file name="$USER_HOME$/projects/gateway/Juniper_vSRX_on_KVM/build_kvm_int.py" timestamp="1557512700943">
+        <mark key="'" line="67" column="35" />
       </file>
       <file name="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/modified_vsrx_upgrade.py" timestamp="1556823351216">
         <mark key="'" line="812" column="31" />
@@ -1174,24 +1174,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="544" column="10" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/modified_vsrx_upgrade.py" />
-      <jump line="545" column="34" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/modified_vsrx_upgrade.py" />
-      <jump line="547" column="10" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/modified_vsrx_upgrade.py" />
-      <jump line="562" column="34" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/modified_vsrx_upgrade.py" />
-      <jump line="744" column="25" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/modified_vsrx_upgrade.py" />
-      <jump line="745" column="23" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/modified_vsrx_upgrade.py" />
-      <jump line="812" column="31" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/modified_vsrx_upgrade.py" />
-      <jump line="135" column="8" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/common.py" />
-      <jump line="6" column="23" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/upgrade_vSRX.sh" />
-      <jump line="275" column="0" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/run_upgrade.py" />
-      <jump line="27" column="29" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/upgrade_vSRX.sh" />
-      <jump line="20" column="26" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/upgrade_vSRX.sh" />
-      <jump line="58" column="20" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/upgrade_vSRX.sh" />
-      <jump line="72" column="17" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/upgrade_vSRX.sh" />
-      <jump line="78" column="21" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/upgrade_vSRX.sh" />
-      <jump line="161" column="7" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/run_upgrade.py" />
-      <jump line="186" column="93" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/run_upgrade.py" />
-      <jump line="175" column="9" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/run_upgrade.py" />
       <jump line="22" column="9" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/run_upgrade.py" />
       <jump line="152" column="29" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/run_upgrade.py" />
       <jump line="157" column="0" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/run_upgrade.py" />
@@ -1274,6 +1256,24 @@
       <jump line="884" column="32" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_on_KVM/Build_vSRX.py" />
       <jump line="102" column="39" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_on_KVM/Build_vSRX.py" />
       <jump line="34" column="17" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_on_KVM/Build_vSRX.py" />
+      <jump line="372" column="0" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_on_KVM/build_kvm_int.py" />
+      <jump line="413" column="20" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_on_KVM/build_kvm_int.py" />
+      <jump line="415" column="7" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_on_KVM/build_kvm_int.py" />
+      <jump line="416" column="58" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_on_KVM/build_kvm_int.py" />
+      <jump line="29" column="21" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_on_KVM/build_kvm_int.py" />
+      <jump line="64" column="13" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_on_KVM/build_kvm_int.py" />
+      <jump line="69" column="35" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_on_KVM/build_kvm_int.py" />
+      <jump line="100" column="21" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_on_KVM/build_kvm_int.py" />
+      <jump line="256" column="13" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_on_KVM/build_kvm_int.py" />
+      <jump line="258" column="15" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_on_KVM/build_kvm_int.py" />
+      <jump line="259" column="12" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_on_KVM/build_kvm_int.py" />
+      <jump line="266" column="15" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_on_KVM/build_kvm_int.py" />
+      <jump line="367" column="54" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_on_KVM/build_kvm_int.py" />
+      <jump line="368" column="45" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_on_KVM/build_kvm_int.py" />
+      <jump line="424" column="28" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_on_KVM/build_kvm_int.py" />
+      <jump line="62" column="49" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_on_KVM/build_kvm_int.py" />
+      <jump line="66" column="44" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_on_KVM/build_kvm_int.py" />
+      <jump line="67" column="35" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_on_KVM/build_kvm_int.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1283,7 +1283,7 @@
         <text>8</text>
       </register>
       <register name="/" type="4">
-        <text>Send_Ping</text>
+        <text>grub</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGh3ID0gZ2V0X2hhcmR3YXJlX29iamVjdChjbGllbnQsIGNvbmZpZykK</text>
@@ -1320,9 +1320,9 @@
       </register>
     </registers>
     <search>
-      <last-search>Send_Ping</last-search>
+      <last-search>grub</last-search>
       <last-offset />
-      <last-pattern>Send_Ping</last-pattern>
+      <last-pattern>grub</last-pattern>
       <last-replace>CodeSimpleSchema</last-replace>
       <last-substitute>CodeSchema</last-substitute>
       <last-dir>1</last-dir>
@@ -1330,8 +1330,6 @@
     </search>
     <history>
       <history-search>
-        <entry>get_host</entry>
-        <entry>host_name</entry>
         <entry>hostname</entry>
         <entry>vm_is_down</entry>
         <entry>determine_pri</entry>
@@ -1350,6 +1348,8 @@
         <entry>Bld</entry>
         <entry>Bld_vSRX_Base_HA</entry>
         <entry>Send_Ping</entry>
+        <entry>reboot</entry>
+        <entry>grub</entry>
       </history-search>
       <history-cmd>
         <entry>45</entry>
