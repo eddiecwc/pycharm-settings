@@ -686,12 +686,12 @@
         <mark key="^" line="47" column="29" />
         <mark key="." line="47" column="29" />
       </file>
-      <file name="$USER_HOME$/projects/gateway/scripts/utils.py" timestamp="1557531202847">
-        <mark key="'" line="48" column="24" />
-        <mark key="[" line="54" column="75" />
-        <mark key="]" line="54" column="106" />
-        <mark key="^" line="54" column="106" />
-        <mark key="." line="54" column="106" />
+      <file name="$USER_HOME$/projects/gateway/scripts/utils.py" timestamp="1557532605027">
+        <mark key="'" line="104" column="11" />
+        <mark key="[" line="209" column="0" />
+        <mark key="]" line="209" column="0" />
+        <mark key="^" line="32" column="12" />
+        <mark key="." line="209" column="0" />
       </file>
       <file name="$USER_HOME$/Sites/FlaskApp/dbconnect.py" timestamp="1514250295811">
         <mark key="[" line="3" column="43" />
@@ -1175,9 +1175,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="173" column="33" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/run_upgrade.py" />
-      <jump line="169" column="55" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/run_upgrade.py" />
-      <jump line="24" column="0" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/common.py" />
       <jump line="7" column="8" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/upgrade_vSRX.sh" />
       <jump line="10" column="4" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/upgrade_vSRX.sh" />
       <jump line="5" column="0" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/upgrade_vSRX.sh" />
@@ -1275,55 +1272,58 @@
       <jump line="68" column="28" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_on_KVM/build_kvm_int.py" />
       <jump line="335" column="29" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_on_KVM/build_kvm_int.py" />
       <jump line="48" column="24" filename="$USER_HOME$/projects/gateway/scripts/utils.py" />
+      <jump line="74" column="29" filename="$USER_HOME$/projects/gateway/scripts/utils.py" />
+      <jump line="80" column="21" filename="$USER_HOME$/projects/gateway/scripts/utils.py" />
+      <jump line="81" column="11" filename="$USER_HOME$/projects/gateway/scripts/utils.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>.</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>w</text>
       </register>
       <register name="/" type="4">
-        <text>primaryBackend</text>
+        <text>possibleVlans</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGh3ID0gZ2V0X2hhcmR3YXJlX29iamVjdChjbGllbnQsIGNvbmZpZykK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAiXV0sICIgXAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAidXNlcm5hbWUsICIgXAo=</text>
+      <register name="2" type="4">
+        <text encoding="base64">ICAgIGRldGFpbHMgPSB7CiAgICAgICAgJ2hhcmR3YXJlRGV0YWlscyc6IFtdCiAgICB9</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICJwYXNzd29yZHNbIiBcCg==</text>
+        <text encoding="base64">aW1wb3J0IAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICJpZCwgIiBcCg==</text>
+        <text encoding="base64">ZGVmIGdldF9nYXRld2F5Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAibmV0d29ya1NwYWNlXSwgIiBcCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAicHJpbWFyeVJvdXRlci5ob3N0bmFtZSwgIiBcCg==</text>
+        <text encoding="base64">ICAgICAgICAiIiIgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAidmxhbk51bWJlciwgIiBcCg==</text>
+        <text encoding="base64">aW1wb3J0IGFyZ3BhcnNlCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAiaWQsICIgXAo=</text>
+        <text encoding="base64">aW1wb3J0IHN1YnByb2Nlc3MK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAibmV0d29ya1NwYWNlXSwgIiBcCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>primaryBackend</last-search>
+      <last-search>possibleVlans</last-search>
       <last-offset />
-      <last-pattern>primaryBackend</last-pattern>
+      <last-pattern>possibleVlans</last-pattern>
       <last-replace>CodeSimpleSchema</last-replace>
       <last-substitute>CodeSchema</last-substitute>
       <last-dir>1</last-dir>
@@ -1331,8 +1331,6 @@
     </search>
     <history>
       <history-search>
-        <entry>retry</entry>
-        <entry>get_10G_hostname</entry>
         <entry>hostname_list</entry>
         <entry>config</entry>
         <entry>ssh_keys</entry>
@@ -1351,6 +1349,8 @@
         <entry>interfaces_file</entry>
         <entry>add_iommu_settings_to_grub</entry>
         <entry>primaryBackend</entry>
+        <entry>objectMask</entry>
+        <entry>possibleVlans</entry>
       </history-search>
       <history-cmd>
         <entry>45</entry>
@@ -1370,8 +1370,8 @@
         <entry>245</entry>
         <entry>q!</entry>
         <entry>1859</entry>
-        <entry>0</entry>
         <entry>q</entry>
+        <entry>0</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
