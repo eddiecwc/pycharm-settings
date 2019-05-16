@@ -172,12 +172,12 @@
         <mark key="." line="68" column="47" />
         <mark key="^" line="68" column="47" />
       </file>
-      <file name="$USER_HOME$/projects/gateway/Juniper_vSRX_on_KVM/Build_vSRX.py" timestamp="1558034285687">
+      <file name="$USER_HOME$/projects/gateway/Juniper_vSRX_on_KVM/Build_vSRX.py" timestamp="1558042047380">
         <mark key="'" line="501" column="39" />
-        <mark key="[" line="911" column="0" />
-        <mark key="]" line="911" column="0" />
-        <mark key="." line="911" column="0" />
-        <mark key="^" line="1075" column="32" />
+        <mark key="[" line="213" column="53" />
+        <mark key="]" line="214" column="12" />
+        <mark key="." line="213" column="52" />
+        <mark key="^" line="214" column="12" />
       </file>
       <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/utilities.py" timestamp="1526022588142">
         <mark key="'" line="39" column="65" />
@@ -1303,11 +1303,11 @@
       <jump line="501" column="39" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_on_KVM/Build_vSRX.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>\</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICAgIA==</text>
+        <text>\</text>
       </register>
       <register name="/" type="4">
         <text>UPGRADE</text>
@@ -1343,7 +1343,7 @@
         <text encoding="base64">cWVtdS1rdm1fMSUzYTIuNStkZnNnLTV1YnVudHUxMC4yNV9hbWQ2NC5kZWIK</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wq</text>
       </register>
     </registers>
     <search>
@@ -1396,9 +1396,9 @@
         <entry>177</entry>
         <entry>792</entry>
         <entry>q</entry>
-        <entry>wq</entry>
         <entry>0</entry>
         <entry>w</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
