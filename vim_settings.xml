@@ -172,8 +172,8 @@
         <mark key="." line="68" column="47" />
         <mark key="^" line="68" column="47" />
       </file>
-      <file name="$USER_HOME$/projects/gateway/Juniper_vSRX_on_KVM/Build_vSRX.py" timestamp="1557954771962">
-        <mark key="'" line="420" column="8" />
+      <file name="$USER_HOME$/projects/gateway/Juniper_vSRX_on_KVM/Build_vSRX.py" timestamp="1558034285687">
+        <mark key="'" line="501" column="39" />
         <mark key="[" line="911" column="0" />
         <mark key="]" line="911" column="0" />
         <mark key="." line="911" column="0" />
@@ -860,10 +860,9 @@
         <mark key="." line="12" column="0" />
       </file>
       <file name="$USER_HOME$/projects/gateway/Juniper_vSRX_on_KVM/pkg_install.sh" timestamp="1557959652671">
-        <mark key="[" line="68" column="0" />
-        <mark key="]" line="68" column="0" />
-        <mark key="^" line="63" column="20" />
-        <mark key="." line="68" column="0" />
+        <mark key="[" line="54" column="0" />
+        <mark key="]" line="54" column="0" />
+        <mark key="." line="54" column="0" />
       </file>
       <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/models/cluster.py" timestamp="1524948184103">
         <mark key="[" line="12" column="33" />
@@ -1124,7 +1123,7 @@
       <file name="$USER_HOME$/projects/gateway/Juniper_vSRX_on_KVM/pkgs/pkg_list.txt" timestamp="1557959024806">
         <mark key="[" line="68" column="0" />
         <mark key="]" line="68" column="0" />
-        <mark key="^" line="72" column="41" />
+        <mark key="^" line="68" column="41" />
         <mark key="." line="68" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/playground/first.py" timestamp="1510732076473">
@@ -1202,7 +1201,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2296" column="22" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/srx-licu.py" />
       <jump line="80" column="4" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/srx-licu.py" />
       <jump line="1150" column="0" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/srx-licu.py" />
       <jump line="1109" column="4" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/srx-licu.py" />
@@ -1302,6 +1300,7 @@
       <jump line="1157" column="54" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_on_KVM/Build_vSRX.py" />
       <jump line="757" column="0" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_on_KVM/Build_vSRX.py" />
       <jump line="420" column="8" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_on_KVM/Build_vSRX.py" />
+      <jump line="501" column="39" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_on_KVM/Build_vSRX.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -1311,7 +1310,7 @@
         <text encoding="base64">ICAgIA==</text>
       </register>
       <register name="/" type="4">
-        <text>reboot</text>
+        <text>UPGRADE</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">c3VkbyBkcGtnIC1pIC4vcGtncy9hcHQvbGlicnN2ZzItMl8yLjQwLjEzLTNfYW1kNjQuZGViIC4vcGtncy9hcHQvbGlicnN2ZzItY29tbW9uXzIuNDAuMTMtM19hbWQ2NC5kZWIgLi9wa2dzL2FwdC9saWJnZGstcGl4YnVmMi4wLWNvbW1vbl8yLjMyLjItMXVidW50dTEuNF9hbGwuZGViIC4vcGtncy9hcHQvbGliZ2RrLXBpeGJ1ZjIuMC0wXzIuMzIuMi0xdWJ1bnR1MS40X2FtZDY0LmRlYiAuL3BrZ3MvYXB0L2hpY29sb3ItaWNvbi10aGVtZV8wLjE1LTB1YnVudHUxX2FsbC5kZWIgLi9wa2dzL2FwdC9saWJndGstMy1jb21tb25fMy4xOC45LTF1YnVudHUzLjNfYWxsLmRlYiAuL3BrZ3MvYXB0L2xpYmd0ay0zLTBfMy4xOC45LTF1YnVudHUzLjNfYW1kNjQuZGViIC4vcGtncy9hcHQvbGliZ3RrLTMtYmluXzMuMTguOS0xdWJ1bnR1My4zX2FtZDY0LmRlYiAuL3BrZ3MvYXB0L2Fkd2FpdGEtaWNvbi10aGVtZV8zLjE4LjAtMnVidW50dTMuMV9hbGwuZGViIC4vcGtncy9hcHQvaHVtYW5pdHktaWNvbi10aGVtZV8wLjYuMTAuMV9hbGwuZGViIC4vcGtncy9hcHQvdWJ1bnR1LW1vbm9fMTQuMDQrMTYuMDQuMjAxODAzMjYtMHVidW50dTFfYWxsLmRlYiAuL3BrZ3MvYXB0L2Fkd2FpdGEtaWNvbi10aGVtZS1mdWxsXzMuMTguMC0ydWJ1bnR1My4xX2FsbC5kZWIgLi9wa2dzL2FwdC9saWJ3YXlsYW5kLWN1cnNvcjBfMS4xMi4wLTF+dWJ1bnR1MTYuMDQuM19hbWQ2NC5kZWIgIC4vcGtncy9hcHQvbGlid2F5bGFuZC1zZXJ2ZXIwXzEuMTIuMC0xfnVidW50dTE2LjA0LjNfYW1kNjQuZGViICAuL3BrZ3MvYXB0L2xpYndheWxhbmQtY2xpZW50MF8xLjEyLjAtMX51YnVudHUxNi4wNC4zX2FtZDY0LmRlYiAuL3BrZ3MvYXB0L2xpYndheWxhbmQtZWdsMS1tZXNhXzE3LjIuOC0wdWJ1bnR1MH4xNi4wNC4xX2FtZDY0LmRlYiAuL3BrZ3MvYXB0L2xpYnhjdXJzb3IxXzElMjUzYTEuMS4xNC0xdWJ1bnR1MC4xNi4wNC4xX2FtZDY0LmRlYiAuL3BrZ3MvYXB0L2xpYmVnbDEtbWVzYV8xNy4yLjgtMHVidW50dTB+MTYuMDQuMV9hbWQ2NC5kZWIgLi9wa2dzL2FwdC9saWJnYm0xXzE3LjIuOC0wdWJ1bnR1MH4xNi4wNC4xX2FtZDY0LmRlYiAuL3BrZ3MvYXB0L2xpYnhjYi1yZW5kZXIwXzEuMTEuMS0xdWJ1bnR1MV9hbWQ2NC5kZWIgLi9wa2dzL2FwdC9saWJ4Y2Itc2htMF8xLjExLjEtMXVidW50dTFfYW1kNjQuZGViIC4vcGtncy9hcHQvbGlieGNiLXNoYXBlMF8xLjExLjEtMXVidW50dTFfYW1kNjQuZGViIC4vcGtncy9hcHQvbGlieGNiLXN5bmMxXzEuMTEuMS0xdWJ1bnR1MV9hbWQ2NC5kZWIgLi9wa2dzL2FwdC9saWJ4MTEteGNiMV8yJTI1M2ExLjYuMy0xdWJ1bnR1Ml9hbWQ2NC5kZWIgLi9wa2dzL2FwdC9saWJ4Y2ItZHJpMi0wXzEuMTEuMS0xdWJ1bnR1MV9hbWQ2NC5kZWIgLi9wa2dzL2FwdC9saWJ4Y2ItZHJpMy0wXzEuMTEuMS0xdWJ1bnR1MV9hbWQ2NC5kZWIgLi9wa2dzL2FwdC9saWJ4Y2ItZ2x4MF8xLjExLjEtMXVidW50dTFfYW1kNjQuZGViIC4vcGtncy9hcHQvbGlieGNiLXByZXNlbnQwXzEuMTEuMS0xdWJ1bnR1MV9hbWQ2NC5kZWIgIC4vcGtncy9hcHQvbGlieGNiLXhmaXhlczBfMS4xMS4xLTF1YnVudHUxX2FtZDY0LmRlYiAuL3BrZ3MvYXB0L2xpYmdsYXBpLW1lc2FfMTcuMi44LTB1YnVudHUwfjE2LjA0LjFfYW1kNjQuZGViIC4vcGtncy9hcHQvbGliZ2wxLW1lc2EtZHJpXzE3LjIuOC0wdWJ1bnR1MH4xNi4wNC4xX2FtZDY0LmRlYiAuL3BrZ3MvYXB0L2xpYmdsMS1tZXNhLWdseF8xNy4yLjgtMHVidW50dTB+MTYuMDQuMV9hbWQ2NC5kZWIgLi9wa2dzL2FwdC9saWJjYWlybzJfMS4xNC42LTFfYW1kNjQuZGViIC4vcGtncy9hcHQvbGliY2Fpcm8tZ29iamVjdDJfMS4xNC42LTFfYW1kNjQuZGViIC4vcGtncy9hcHQvbGlicGFuZ29jYWlyby0xLjAtMF8xLjM4LjEtMV9hbWQ2NC5kZWIK</text>
@@ -1348,9 +1347,9 @@
       </register>
     </registers>
     <search>
-      <last-search>reboot</last-search>
+      <last-search>UPGRADE</last-search>
       <last-offset />
-      <last-pattern>reboot</last-pattern>
+      <last-pattern>UPGRADE</last-pattern>
       <last-replace>CodeSimpleSchema</last-replace>
       <last-substitute>CodeSchema</last-substitute>
       <last-dir>1</last-dir>
@@ -1358,7 +1357,6 @@
     </search>
     <history>
       <history-search>
-        <entry>primaryBackend</entry>
         <entry>objectMask</entry>
         <entry>possibleVlans</entry>
         <entry>main</entry>
@@ -1378,6 +1376,7 @@
         <entry>init_srx_cfg_sh_ha</entry>
         <entry>workaround</entry>
         <entry>reboot</entry>
+        <entry>UPGRADE</entry>
       </history-search>
       <history-cmd>
         <entry>230</entry>
