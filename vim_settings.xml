@@ -531,12 +531,12 @@
         <mark key="^" line="25" column="4" />
         <mark key="." line="25" column="4" />
       </file>
-      <file name="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/srx-licu.py" timestamp="1558189984774">
-        <mark key="'" line="75" column="0" />
-        <mark key="[" line="190" column="12" />
-        <mark key="]" line="190" column="13" />
-        <mark key="." line="190" column="13" />
-        <mark key="^" line="190" column="13" />
+      <file name="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/srx-licu.py" timestamp="1558208915456">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="169" column="35" />
+        <mark key="]" line="169" column="35" />
+        <mark key="." line="169" column="35" />
+        <mark key="^" line="169" column="35" />
       </file>
       <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/templates/ess/code_table_headers.html" timestamp="1520814619754">
         <mark key="[" line="4" column="8" />
@@ -1200,14 +1200,10 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="602" column="44" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/modified_vsrx_upgrade.py" />
-      <jump line="604" column="41" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/modified_vsrx_upgrade.py" />
-      <jump line="606" column="11" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/modified_vsrx_upgrade.py" />
       <jump line="607" column="10" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/modified_vsrx_upgrade.py" />
       <jump line="608" column="4" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/modified_vsrx_upgrade.py" />
       <jump line="615" column="73" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/modified_vsrx_upgrade.py" />
       <jump line="202" column="31" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/srx-licu.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/srx-licu.py" />
       <jump line="97" column="21" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/srx-licu.py" />
       <jump line="189" column="27" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/srx-licu.py" />
       <jump line="2100" column="4" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/srx-licu.py" />
@@ -1300,16 +1296,20 @@
       <jump line="192" column="10" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/srx-licu.py" />
       <jump line="69" column="41" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/srx-licu.py" />
       <jump line="75" column="0" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/srx-licu.py" />
+      <jump line="171" column="0" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/srx-licu.py" />
+      <jump line="148" column="4" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/srx-licu.py" />
+      <jump line="106" column="19" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/srx-licu.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/srx-licu.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>D</text>
+        <text>4</text>
       </register>
       <register name="-" type="4">
-        <text>D</text>
+        <text>4</text>
       </register>
       <register name="/" type="4">
-        <text>IBM_</text>
+        <text>interface status info</text>
       </register>
       <register name="0" type="4">
         <text>parser.add_argument(&quot;--test_upgrade_failure_rollback&quot;, help=test_upgrade_failure_rollback_help,
@@ -1347,9 +1347,9 @@
       </register>
     </registers>
     <search>
-      <last-search>IBM_</last-search>
+      <last-search>interface status info</last-search>
       <last-offset />
-      <last-pattern>IBM_</last-pattern>
+      <last-pattern>interface status info</last-pattern>
       <last-replace>CodeSimpleSchema</last-replace>
       <last-substitute>CodeSchema</last-substitute>
       <last-dir>1</last-dir>
@@ -1357,12 +1357,6 @@
     </search>
     <history>
       <history-search>
-        <entry>vm_is_down</entry>
-        <entry encoding="base64">Q3VycmVudCA=</entry>
-        <entry>TODO</entry>
-        <entry>old</entry>
-        <entry>config_load_error_rollback</entry>
-        <entry>licu_data</entry>
         <entry>check_license</entry>
         <entry>post_upgrade_checks</entry>
         <entry>Build_clu</entry>
@@ -1377,11 +1371,14 @@
         <entry>start_vm</entry>
         <entry>license</entry>
         <entry>IBM_</entry>
+        <entry>get_logical_int_status</entry>
+        <entry>Verified that inter</entry>
+        <entry>Verified that</entry>
+        <entry>interfaces status info</entry>
+        <entry>interfaces status</entry>
+        <entry>interface status info</entry>
       </history-search>
       <history-cmd>
-        <entry>1</entry>
-        <entry>6</entry>
-        <entry>do_check_call</entry>
         <entry>4</entry>
         <entry>$</entry>
         <entry>218</entry>
@@ -1397,8 +1394,11 @@
         <entry>251</entry>
         <entry>13443</entry>
         <entry>133</entry>
-        <entry>0</entry>
+        <entry>2306</entry>
+        <entry>110</entry>
+        <entry>170</entry>
         <entry>w</entry>
+        <entry>0</entry>
       </history-cmd>
       <history-expr />
       <history-input />
