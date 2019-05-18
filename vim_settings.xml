@@ -531,12 +531,12 @@
         <mark key="^" line="25" column="4" />
         <mark key="." line="25" column="4" />
       </file>
-      <file name="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/srx-licu.py" timestamp="1558208915456">
+      <file name="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/srx-licu.py" timestamp="1558209883588">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="169" column="35" />
-        <mark key="]" line="169" column="35" />
-        <mark key="." line="169" column="35" />
-        <mark key="^" line="169" column="35" />
+        <mark key="[" line="168" column="42" />
+        <mark key="]" line="168" column="42" />
+        <mark key="." line="168" column="42" />
+        <mark key="^" line="168" column="42" />
       </file>
       <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/templates/ess/code_table_headers.html" timestamp="1520814619754">
         <mark key="[" line="4" column="8" />
@@ -1303,10 +1303,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>4</text>
+        <text>pprint</text>
       </register>
       <register name="-" type="4">
-        <text>4</text>
+        <text>pprint</text>
       </register>
       <register name="/" type="4">
         <text>interface status info</text>
@@ -1397,8 +1397,8 @@
         <entry>2306</entry>
         <entry>110</entry>
         <entry>170</entry>
-        <entry>w</entry>
         <entry>0</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
