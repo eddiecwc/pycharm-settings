@@ -266,7 +266,7 @@
         <mark key="^" line="109" column="19" />
         <mark key="." line="133" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/gre_change_run.py" timestamp="1557777309875">
+      <file name="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/gre_change_run.py" timestamp="1558169294722">
         <mark key="'" line="502" column="8" />
         <mark key="[" line="180" column="25" />
         <mark key="]" line="181" column="3" />
@@ -312,11 +312,11 @@
         <mark key="." line="97" column="43" />
       </file>
       <file name="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/upgrade_vSRX.sh" timestamp="1557339864141">
-        <mark key="'" line="81" column="24" />
-        <mark key="[" line="83" column="75" />
-        <mark key="]" line="85" column="43" />
-        <mark key="." line="85" column="43" />
-        <mark key="^" line="85" column="43" />
+        <mark key="'" line="94" column="24" />
+        <mark key="[" line="96" column="75" />
+        <mark key="]" line="98" column="43" />
+        <mark key="." line="98" column="43" />
+        <mark key="^" line="98" column="43" />
       </file>
       <file name="$USER_HOME$/projects/gateway/licu/json-test.py" timestamp="1552581536286">
         <mark key="'" line="43" column="12" />
@@ -1201,13 +1201,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="208" column="30" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/srx-licu.py" />
-      <jump line="4" column="45" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/srx-licu.py" />
-      <jump line="94" column="16" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/srx-licu.py" />
-      <jump line="95" column="27" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/srx-licu.py" />
-      <jump line="178" column="10" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/srx-licu.py" />
-      <jump line="180" column="11" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/srx-licu.py" />
-      <jump line="187" column="10" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/srx-licu.py" />
       <jump line="0" column="2" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/modified_vsrx_upgrade.py" />
       <jump line="596" column="21" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/modified_vsrx_upgrade.py" />
       <jump line="597" column="0" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/modified_vsrx_upgrade.py" />
@@ -1301,6 +1294,13 @@
       <jump line="594" column="39" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/modified_vsrx_upgrade.py" />
       <jump line="599" column="19" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/modified_vsrx_upgrade.py" />
       <jump line="600" column="20" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/modified_vsrx_upgrade.py" />
+      <jump line="105" column="0" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/gre_change_run.py" />
+      <jump line="107" column="6" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/gre_change_run.py" />
+      <jump line="470" column="16" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/gre_change_run.py" />
+      <jump line="500" column="17" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/gre_change_run.py" />
+      <jump line="180" column="27" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/gre_change_run.py" />
+      <jump line="170" column="4" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/gre_change_run.py" />
+      <jump line="502" column="8" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/gre_change_run.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1310,7 +1310,7 @@
         <text>\</text>
       </register>
       <register name="/" type="4">
-        <text>local_path</text>
+        <text>start_vm</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">c3VkbyBkcGtnIC1pIC4vcGtncy9hcHQvbGlicnN2ZzItMl8yLjQwLjEzLTNfYW1kNjQuZGViIC4vcGtncy9hcHQvbGlicnN2ZzItY29tbW9uXzIuNDAuMTMtM19hbWQ2NC5kZWIgLi9wa2dzL2FwdC9saWJnZGstcGl4YnVmMi4wLWNvbW1vbl8yLjMyLjItMXVidW50dTEuNF9hbGwuZGViIC4vcGtncy9hcHQvbGliZ2RrLXBpeGJ1ZjIuMC0wXzIuMzIuMi0xdWJ1bnR1MS40X2FtZDY0LmRlYiAuL3BrZ3MvYXB0L2hpY29sb3ItaWNvbi10aGVtZV8wLjE1LTB1YnVudHUxX2FsbC5kZWIgLi9wa2dzL2FwdC9saWJndGstMy1jb21tb25fMy4xOC45LTF1YnVudHUzLjNfYWxsLmRlYiAuL3BrZ3MvYXB0L2xpYmd0ay0zLTBfMy4xOC45LTF1YnVudHUzLjNfYW1kNjQuZGViIC4vcGtncy9hcHQvbGliZ3RrLTMtYmluXzMuMTguOS0xdWJ1bnR1My4zX2FtZDY0LmRlYiAuL3BrZ3MvYXB0L2Fkd2FpdGEtaWNvbi10aGVtZV8zLjE4LjAtMnVidW50dTMuMV9hbGwuZGViIC4vcGtncy9hcHQvaHVtYW5pdHktaWNvbi10aGVtZV8wLjYuMTAuMV9hbGwuZGViIC4vcGtncy9hcHQvdWJ1bnR1LW1vbm9fMTQuMDQrMTYuMDQuMjAxODAzMjYtMHVidW50dTFfYWxsLmRlYiAuL3BrZ3MvYXB0L2Fkd2FpdGEtaWNvbi10aGVtZS1mdWxsXzMuMTguMC0ydWJ1bnR1My4xX2FsbC5kZWIgLi9wa2dzL2FwdC9saWJ3YXlsYW5kLWN1cnNvcjBfMS4xMi4wLTF+dWJ1bnR1MTYuMDQuM19hbWQ2NC5kZWIgIC4vcGtncy9hcHQvbGlid2F5bGFuZC1zZXJ2ZXIwXzEuMTIuMC0xfnVidW50dTE2LjA0LjNfYW1kNjQuZGViICAuL3BrZ3MvYXB0L2xpYndheWxhbmQtY2xpZW50MF8xLjEyLjAtMX51YnVudHUxNi4wNC4zX2FtZDY0LmRlYiAuL3BrZ3MvYXB0L2xpYndheWxhbmQtZWdsMS1tZXNhXzE3LjIuOC0wdWJ1bnR1MH4xNi4wNC4xX2FtZDY0LmRlYiAuL3BrZ3MvYXB0L2xpYnhjdXJzb3IxXzElMjUzYTEuMS4xNC0xdWJ1bnR1MC4xNi4wNC4xX2FtZDY0LmRlYiAuL3BrZ3MvYXB0L2xpYmVnbDEtbWVzYV8xNy4yLjgtMHVidW50dTB+MTYuMDQuMV9hbWQ2NC5kZWIgLi9wa2dzL2FwdC9saWJnYm0xXzE3LjIuOC0wdWJ1bnR1MH4xNi4wNC4xX2FtZDY0LmRlYiAuL3BrZ3MvYXB0L2xpYnhjYi1yZW5kZXIwXzEuMTEuMS0xdWJ1bnR1MV9hbWQ2NC5kZWIgLi9wa2dzL2FwdC9saWJ4Y2Itc2htMF8xLjExLjEtMXVidW50dTFfYW1kNjQuZGViIC4vcGtncy9hcHQvbGlieGNiLXNoYXBlMF8xLjExLjEtMXVidW50dTFfYW1kNjQuZGViIC4vcGtncy9hcHQvbGlieGNiLXN5bmMxXzEuMTEuMS0xdWJ1bnR1MV9hbWQ2NC5kZWIgLi9wa2dzL2FwdC9saWJ4MTEteGNiMV8yJTI1M2ExLjYuMy0xdWJ1bnR1Ml9hbWQ2NC5kZWIgLi9wa2dzL2FwdC9saWJ4Y2ItZHJpMi0wXzEuMTEuMS0xdWJ1bnR1MV9hbWQ2NC5kZWIgLi9wa2dzL2FwdC9saWJ4Y2ItZHJpMy0wXzEuMTEuMS0xdWJ1bnR1MV9hbWQ2NC5kZWIgLi9wa2dzL2FwdC9saWJ4Y2ItZ2x4MF8xLjExLjEtMXVidW50dTFfYW1kNjQuZGViIC4vcGtncy9hcHQvbGlieGNiLXByZXNlbnQwXzEuMTEuMS0xdWJ1bnR1MV9hbWQ2NC5kZWIgIC4vcGtncy9hcHQvbGlieGNiLXhmaXhlczBfMS4xMS4xLTF1YnVudHUxX2FtZDY0LmRlYiAuL3BrZ3MvYXB0L2xpYmdsYXBpLW1lc2FfMTcuMi44LTB1YnVudHUwfjE2LjA0LjFfYW1kNjQuZGViIC4vcGtncy9hcHQvbGliZ2wxLW1lc2EtZHJpXzE3LjIuOC0wdWJ1bnR1MH4xNi4wNC4xX2FtZDY0LmRlYiAuL3BrZ3MvYXB0L2xpYmdsMS1tZXNhLWdseF8xNy4yLjgtMHVidW50dTB+MTYuMDQuMV9hbWQ2NC5kZWIgLi9wa2dzL2FwdC9saWJjYWlybzJfMS4xNC42LTFfYW1kNjQuZGViIC4vcGtncy9hcHQvbGliY2Fpcm8tZ29iamVjdDJfMS4xNC42LTFfYW1kNjQuZGViIC4vcGtncy9hcHQvbGlicGFuZ29jYWlyby0xLjAtMF8xLjM4LjEtMV9hbWQ2NC5kZWIK</text>
@@ -1343,13 +1343,13 @@
         <text encoding="base64">cWVtdS1rdm1fMSUzYTIuNStkZnNnLTV1YnVudHUxMC4yNV9hbWQ2NC5kZWIK</text>
       </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>133</text>
       </register>
     </registers>
     <search>
-      <last-search>local_path</last-search>
+      <last-search>start_vm</last-search>
       <last-offset />
-      <last-pattern>local_path</last-pattern>
+      <last-pattern>start_vm</last-pattern>
       <last-replace>CodeSimpleSchema</last-replace>
       <last-substitute>CodeSchema</last-substitute>
       <last-dir>1</last-dir>
@@ -1357,11 +1357,9 @@
     </search>
     <history>
       <history-search>
-        <entry>possibleVlans</entry>
         <entry>main</entry>
         <entry>vm_is_down</entry>
         <entry encoding="base64">Q3VycmVudCA=</entry>
-        <entry>start_vm</entry>
         <entry>TODO</entry>
         <entry>old</entry>
         <entry>config_load_error_rollback</entry>
@@ -1377,11 +1375,10 @@
         <entry>UPGRADE</entry>
         <entry>license</entry>
         <entry>local_path</entry>
+        <entry>bring_up_br</entry>
+        <entry>start_vm</entry>
       </history-search>
       <history-cmd>
-        <entry>230</entry>
-        <entry>92</entry>
-        <entry>1y78</entry>
         <entry>1</entry>
         <entry>6</entry>
         <entry>do_check_call</entry>
@@ -1399,6 +1396,9 @@
         <entry>0</entry>
         <entry>w</entry>
         <entry>wq</entry>
+        <entry>251</entry>
+        <entry>13443</entry>
+        <entry>133</entry>
       </history-cmd>
       <history-expr />
       <history-input />
