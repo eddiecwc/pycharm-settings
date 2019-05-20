@@ -312,11 +312,11 @@
         <mark key="." line="97" column="43" />
       </file>
       <file name="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/upgrade_vSRX.sh" timestamp="1557339864141">
-        <mark key="'" line="94" column="24" />
-        <mark key="[" line="96" column="75" />
-        <mark key="]" line="98" column="43" />
-        <mark key="." line="98" column="43" />
-        <mark key="^" line="98" column="43" />
+        <mark key="'" line="81" column="24" />
+        <mark key="[" line="83" column="75" />
+        <mark key="]" line="85" column="43" />
+        <mark key="." line="85" column="43" />
+        <mark key="^" line="85" column="43" />
       </file>
       <file name="$USER_HOME$/projects/gateway/licu/json-test.py" timestamp="1552581536286">
         <mark key="'" line="43" column="12" />
@@ -531,12 +531,8 @@
         <mark key="^" line="25" column="4" />
         <mark key="." line="25" column="4" />
       </file>
-      <file name="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/srx-licu.py" timestamp="1558209883588">
+      <file name="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/srx-licu.py" timestamp="1558368251079">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="168" column="42" />
-        <mark key="]" line="168" column="42" />
-        <mark key="." line="168" column="42" />
-        <mark key="^" line="168" column="42" />
       </file>
       <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/templates/ess/code_table_headers.html" timestamp="1520814619754">
         <mark key="[" line="4" column="8" />
