@@ -806,11 +806,11 @@
         <mark key="." line="7" column="14" />
         <mark key="^" line="7" column="14" />
       </file>
-      <file name="$USER_HOME$/projects/sandbox/test.py" timestamp="1558451991863">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="^" line="10" column="0" />
-        <mark key="." line="10" column="0" />
+      <file name="$USER_HOME$/projects/sandbox/test.py" timestamp="1558452717424">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="10" column="13" />
+        <mark key="^" line="10" column="13" />
+        <mark key="." line="10" column="13" />
       </file>
       <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/models.py" timestamp="1524859461779">
         <mark key="'" line="184" column="22" />
@@ -1307,54 +1307,54 @@
       <jump line="0" column="0" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/srx-licu.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">cHJpbnQoQS52YWwpCg==</text>
+      <register name="&quot;" type="4">
+        <text>i</text>
       </register>
       <register name="-" type="4">
-        <text>a</text>
+        <text>i</text>
       </register>
       <register name="/" type="4">
-        <text>interface status info</text>
+        <text>NETMODEL</text>
       </register>
       <register name="0" type="4">
         <text>parser.add_argument(&quot;--test_upgrade_failure_rollback&quot;, help=test_upgrade_failure_rollback_help,
                     type=str, default='N')</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">cHJpbnQoQS52YWwpCg==</text>
+        <text encoding="base64">ZnJvbSBtb2QgaW1wb3J0IG9yaWdfZnVuY3Rpb24K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Z2V0X3ZhbCgpCg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">QS52YWwgPSAxCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">Z2V0X3ZhbCgpCg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">cHJpbnQoQS52YWwpCg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">Z2V0X3ZhbCgpCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">QS52YWwgPSAxCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Z2V0X3ZhbCgpCg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHZhbCA9IE5vbmUK</text>
+        <text encoding="base64">cHJpbnQoQS52YWwpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Y2xhc3MgQToK</text>
+        <text encoding="base64">ICAgIHZhbCA9IE5vbmUK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZGVmIGdldF92YWwoKToK</text>
+        <text encoding="base64">Y2xhc3MgQToK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>interface status info</last-search>
+      <last-search>NETMODEL</last-search>
       <last-offset />
-      <last-pattern>interface status info</last-pattern>
+      <last-pattern>NETMODEL</last-pattern>
       <last-replace>CodeSimpleSchema</last-replace>
       <last-substitute>CodeSchema</last-substitute>
       <last-dir>1</last-dir>
@@ -1362,7 +1362,6 @@
     </search>
     <history>
       <history-search>
-        <entry>check_license</entry>
         <entry>post_upgrade_checks</entry>
         <entry>Build_clu</entry>
         <entry>Build_Cl</entry>
@@ -1382,6 +1381,7 @@
         <entry>interfaces status info</entry>
         <entry>interfaces status</entry>
         <entry>interface status info</entry>
+        <entry>NETMODEL</entry>
       </history-search>
       <history-cmd>
         <entry>4</entry>
@@ -1402,8 +1402,8 @@
         <entry>2306</entry>
         <entry>110</entry>
         <entry>170</entry>
-        <entry>0</entry>
         <entry>w</entry>
+        <entry>0</entry>
       </history-cmd>
       <history-expr />
       <history-input />
