@@ -67,10 +67,11 @@
         <mark key="^" line="25" column="14" />
         <mark key="." line="25" column="14" />
       </file>
-      <file name="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/helper_functions.py" timestamp="1557339188411">
-        <mark key="[" line="91" column="4" />
-        <mark key="]" line="91" column="4" />
-        <mark key="." line="91" column="4" />
+      <file name="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/helper_functions.py" timestamp="1558454128007">
+        <mark key="[" line="139" column="12" />
+        <mark key="]" line="140" column="37" />
+        <mark key="." line="140" column="37" />
+        <mark key="^" line="140" column="37" />
       </file>
       <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/mod_node/cluster.py" timestamp="1515524518190">
         <mark key="[" line="46" column="24" />
@@ -1402,8 +1403,8 @@
         <entry>2306</entry>
         <entry>110</entry>
         <entry>170</entry>
-        <entry>w</entry>
         <entry>0</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
