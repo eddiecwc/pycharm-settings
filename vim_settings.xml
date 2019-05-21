@@ -67,11 +67,12 @@
         <mark key="^" line="25" column="14" />
         <mark key="." line="25" column="14" />
       </file>
-      <file name="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/helper_functions.py" timestamp="1558471008668">
-        <mark key="[" line="139" column="12" />
-        <mark key="]" line="140" column="37" />
-        <mark key="." line="140" column="37" />
-        <mark key="^" line="140" column="37" />
+      <file name="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/helper_functions.py" timestamp="1558474473519">
+        <mark key="'" line="6" column="49" />
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="53" />
+        <mark key="." line="117" column="8" />
+        <mark key="^" line="117" column="8" />
       </file>
       <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/mod_node/cluster.py" timestamp="1515524518190">
         <mark key="[" line="46" column="24" />
@@ -341,12 +342,12 @@
         <mark key="^" line="25" column="37" />
         <mark key="." line="27" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/modified_vsrx_upgrade.py" timestamp="1558458672892">
-        <mark key="'" line="600" column="20" />
-        <mark key="[" line="666" column="4" />
-        <mark key="]" line="667" column="29" />
-        <mark key="^" line="667" column="29" />
-        <mark key="." line="667" column="29" />
+      <file name="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/modified_vsrx_upgrade.py" timestamp="1558474528263">
+        <mark key="'" line="37" column="12" />
+        <mark key="[" line="668" column="43" />
+        <mark key="]" line="668" column="43" />
+        <mark key="." line="668" column="43" />
+        <mark key="^" line="667" column="53" />
       </file>
       <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/extensions.py" timestamp="1526004758181">
         <mark key="[" line="24" column="27" />
@@ -366,11 +367,11 @@
         <mark key="^" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/error_generator.py" timestamp="1558471939823">
-        <mark key="[" line="32" column="62" />
-        <mark key="]" line="32" column="50" />
-        <mark key="." line="32" column="50" />
-        <mark key="^" line="32" column="50" />
+      <file name="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/error_generator.py" timestamp="1558474216532">
+        <mark key="[" line="24" column="12" />
+        <mark key="]" line="24" column="12" />
+        <mark key="." line="24" column="12" />
+        <mark key="^" line="24" column="12" />
       </file>
       <file name="$USER_HOME$/projects/gateway/Juniper_vSRX_on_KVM/interface_config.sh" timestamp="1553878345528">
         <mark key="[" line="9" column="32" />
@@ -704,10 +705,11 @@
         <mark key="^" line="3" column="34" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/common.py" timestamp="1558468082690">
-        <mark key="[" line="383" column="0" />
-        <mark key="]" line="383" column="0" />
-        <mark key="." line="383" column="0" />
+      <file name="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/common.py" timestamp="1558472296264">
+        <mark key="[" line="190" column="0" />
+        <mark key="]" line="190" column="3" />
+        <mark key="." line="190" column="3" />
+        <mark key="^" line="190" column="3" />
       </file>
       <file name="$USER_HOME$/projects/gateway/licu/do-update" timestamp="1550640403777">
         <mark key="'" line="52" column="13" />
@@ -1019,11 +1021,11 @@
         <mark key="^" line="46" column="7" />
         <mark key="." line="46" column="7" />
       </file>
-      <file name="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/test_errors_conf.yaml" timestamp="1558468167375">
-        <mark key="[" line="4" column="22" />
-        <mark key="]" line="4" column="22" />
-        <mark key="^" line="4" column="22" />
-        <mark key="." line="4" column="22" />
+      <file name="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/test_errors_conf.yaml" timestamp="1558473012108">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="19" />
+        <mark key="^" line="5" column="19" />
+        <mark key="." line="5" column="19" />
       </file>
       <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/conf/machine_types.py" timestamp="1521417722034">
         <mark key="[" line="30" column="39" />
@@ -1196,14 +1198,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="892" column="85" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_on_KVM/Build_vSRX.py" />
-      <jump line="449" column="38" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_on_KVM/Build_vSRX.py" />
-      <jump line="444" column="38" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_on_KVM/Build_vSRX.py" />
-      <jump line="1044" column="31" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_on_KVM/Build_vSRX.py" />
-      <jump line="1064" column="80" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_on_KVM/Build_vSRX.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_on_KVM/Build_vSRX.py" />
-      <jump line="756" column="67" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_on_KVM/Build_vSRX.py" />
-      <jump line="758" column="80" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_on_KVM/Build_vSRX.py" />
       <jump line="759" column="32" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_on_KVM/Build_vSRX.py" />
       <jump line="761" column="32" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_on_KVM/Build_vSRX.py" />
       <jump line="765" column="36" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_on_KVM/Build_vSRX.py" />
@@ -1296,64 +1290,63 @@
       <jump line="2104" column="12" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/srx-licu.py" />
       <jump line="2106" column="3" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/srx-licu.py" />
       <jump line="2107" column="42" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/srx-licu.py" />
+      <jump line="32" column="38" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/helper_functions.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/helper_functions.py" />
+      <jump line="65" column="0" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/helper_functions.py" />
+      <jump line="111" column="23" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/helper_functions.py" />
+      <jump line="113" column="61" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/helper_functions.py" />
+      <jump line="5" column="0" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/helper_functions.py" />
+      <jump line="6" column="49" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/helper_functions.py" />
+      <jump line="37" column="12" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/modified_vsrx_upgrade.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ZnJvbSBjb21tb24gaW1wb3J0IG1heF9yZXRyaWVzCg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>default_data</text>
+        <text>TODO</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ZnJvbSBqbnByLmp1bm9zIGltcG9ydCBleGNlcHRpb24gYXMgam5wcl9leGNlcHRpb24K</text>
+        <text encoding="base64">ZnJvbSBlcnJvcl9nZW5lcmF0b3IgaW1wb3J0IEVycm9yR2VuZXJhdG9yLCBFcnJvclR5cGUK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZnJvbSBjb21tb24gaW1wb3J0IG1heF9yZXRyaWVzCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZnJvbSBjb21tb24gaW1wb3J0IG9wZW5feWFtbF9maWxlCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZnJvbSBjb21tb24gaW1wb3J0ICh0ZXN0X2Vycm9yc19jb25mLCBvcGVuX3lhbWxfZmlsZSwgbWF4X3JldHJpZXMsIHdyaXRlX3RvX2xvZykK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZnJvbSBjb21tb24gaW1wb3J0ICh0ZXN0X2Vycm9yc19jb25mLCBvcGVuX3lhbWxfZmlsZSwgbWF4X3JldHJpZXMsIHdyaXRlX3RvX2xvZykK</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyBUT0RPIC0gaW5qZWN0IGVycm9yIGhlcmUK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAjIFRPRE8gLSBpbmplY3QgZXJyb3IgaGVyZQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICA7cGFyZW0gbXNnOiBtZXNzYWdlIHRvIGdvIHdpdGggdGhlIGVycm9yCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICMgVE9ETyAtIGluamVjdCBlcnJvciBoZXJlCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyBUT0RPIC0gaW5qZWN0IGVycm9yIGhlcmUK</text>
       </register>
-      <register name="9" type="4">
-        <text>node0_fxp0: 192.168.237.1
-node1_fxp0: 192.168.237.2
-host0: 192.168.237.3
-host1: 192.168.237.4
-netmask: 255.255.255.248
-prefix-length: 29
-subnet: 192.168.237.0
-username: root
-local_path: /home/vSRX/upgrade   # path to upgrade material
-image_name: vSRX_Image.qcow2</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgIyBUT0RPIC0gaW5qZWN0IGVycm9yIGhlcmUK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>default_data</last-search>
+      <last-search>TODO</last-search>
       <last-offset />
-      <last-pattern>default_data</last-pattern>
+      <last-pattern>TODO</last-pattern>
       <last-replace>CodeSimpleSchema</last-replace>
       <last-substitute>CodeSchema</last-substitute>
       <last-dir>1</last-dir>
@@ -1361,11 +1354,6 @@ image_name: vSRX_Image.qcow2</text>
     </search>
     <history>
       <history-search>
-        <entry>UPGRADE</entry>
-        <entry>local_path</entry>
-        <entry>bring_up_br</entry>
-        <entry>start_vm</entry>
-        <entry>license</entry>
         <entry>IBM_</entry>
         <entry>get_logical_int_status</entry>
         <entry>Verified that inter</entry>
@@ -1381,6 +1369,11 @@ image_name: vSRX_Image.qcow2</text>
         <entry>yaml</entry>
         <entry>open_yaml</entry>
         <entry>default_data</entry>
+        <entry encoding="base64">XDwpXD4=</entry>
+        <entry>call</entry>
+        <entry>Shell</entry>
+        <entry>shell</entry>
+        <entry>TODO</entry>
       </history-search>
       <history-cmd>
         <entry>218</entry>
