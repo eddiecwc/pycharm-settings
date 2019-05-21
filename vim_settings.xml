@@ -353,12 +353,12 @@
       <file name="$USER_HOME$/projects/gateway/Juniper_vSRX_on_KVM/build_kvm_int.py" timestamp="1557514834876">
         <mark key="'" line="335" column="29" />
       </file>
-      <file name="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/modified_vsrx_upgrade.py" timestamp="1558128104070">
+      <file name="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/modified_vsrx_upgrade.py" timestamp="1558456298182">
         <mark key="'" line="600" column="20" />
-        <mark key="[" line="809" column="0" />
-        <mark key="]" line="809" column="0" />
+        <mark key="[" line="597" column="16" />
+        <mark key="]" line="597" column="16" />
         <mark key="^" line="181" column="3" />
-        <mark key="." line="809" column="0" />
+        <mark key="." line="597" column="16" />
       </file>
       <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/extensions.py" timestamp="1526004758181">
         <mark key="[" line="24" column="27" />
@@ -1313,10 +1313,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>i</text>
+        <text>'</text>
       </register>
       <register name="-" type="4">
-        <text>i</text>
+        <text>'</text>
       </register>
       <register name="/" type="4">
         <text>first_node_upgrade</text>
