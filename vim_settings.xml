@@ -67,7 +67,7 @@
         <mark key="^" line="25" column="14" />
         <mark key="." line="25" column="14" />
       </file>
-      <file name="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/helper_functions.py" timestamp="1558454128007">
+      <file name="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/helper_functions.py" timestamp="1558471008668">
         <mark key="[" line="139" column="12" />
         <mark key="]" line="140" column="37" />
         <mark key="." line="140" column="37" />
@@ -366,11 +366,11 @@
         <mark key="^" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/error_generator.py" timestamp="1558468788122">
-        <mark key="[" line="32" column="0" />
-        <mark key="]" line="33" column="36" />
-        <mark key="." line="33" column="36" />
-        <mark key="^" line="33" column="36" />
+      <file name="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/error_generator.py" timestamp="1558471939823">
+        <mark key="[" line="32" column="62" />
+        <mark key="]" line="32" column="50" />
+        <mark key="." line="32" column="50" />
+        <mark key="^" line="32" column="50" />
       </file>
       <file name="$USER_HOME$/projects/gateway/Juniper_vSRX_on_KVM/interface_config.sh" timestamp="1553878345528">
         <mark key="[" line="9" column="32" />
@@ -1299,10 +1299,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnJvbSBjb21tb24gaW1wb3J0IG1heF9yZXRyaWVzCg==</text>
       </register>
       <register name="-" type="4">
-        <text>10</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>default_data</text>
@@ -1311,18 +1311,30 @@
         <text encoding="base64">ZnJvbSBqbnByLmp1bm9zIGltcG9ydCBleGNlcHRpb24gYXMgam5wcl9leGNlcHRpb24K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnJvbSBjb21tb24gaW1wb3J0IG1heF9yZXRyaWVzCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICA7cGFyZW0gbXNnOiBtZXNzYWdlIHRvIGdvIHdpdGggdGhlIGVycm9yCg==</text>
+        <text encoding="base64">ZnJvbSBjb21tb24gaW1wb3J0IG9wZW5feWFtbF9maWxlCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnJvbSBjb21tb24gaW1wb3J0ICh0ZXN0X2Vycm9yc19jb25mLCBvcGVuX3lhbWxfZmlsZSwgbWF4X3JldHJpZXMsIHdyaXRlX3RvX2xvZykK</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">ZnJvbSBjb21tb24gaW1wb3J0ICh0ZXN0X2Vycm9yc19jb25mLCBvcGVuX3lhbWxfZmlsZSwgbWF4X3JldHJpZXMsIHdyaXRlX3RvX2xvZykK</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICA7cGFyZW0gbXNnOiBtZXNzYWdlIHRvIGdvIHdpdGggdGhlIGVycm9yCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="9" type="4">
         <text>node0_fxp0: 192.168.237.1
 node1_fxp0: 192.168.237.2
 host0: 192.168.237.3
@@ -1333,18 +1345,6 @@ subnet: 192.168.237.0
 username: root
 local_path: /home/vSRX/upgrade   # path to upgrade material
 image_name: vSRX_Image.qcow2</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
