@@ -67,7 +67,7 @@
         <mark key="^" line="25" column="14" />
         <mark key="." line="25" column="14" />
       </file>
-      <file name="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/helper_functions.py" timestamp="1558474473519">
+      <file name="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/helper_functions.py" timestamp="1558476239854">
         <mark key="'" line="6" column="49" />
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="53" />
@@ -342,12 +342,12 @@
         <mark key="^" line="25" column="37" />
         <mark key="." line="27" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/modified_vsrx_upgrade.py" timestamp="1558474528263">
-        <mark key="'" line="37" column="12" />
-        <mark key="[" line="668" column="43" />
-        <mark key="]" line="668" column="43" />
-        <mark key="." line="668" column="43" />
-        <mark key="^" line="667" column="53" />
+      <file name="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/modified_vsrx_upgrade.py" timestamp="1558476449127">
+        <mark key="'" line="685" column="7" />
+        <mark key="[" line="672" column="4" />
+        <mark key="]" line="673" column="30" />
+        <mark key="." line="673" column="30" />
+        <mark key="^" line="673" column="30" />
       </file>
       <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/extensions.py" timestamp="1526004758181">
         <mark key="[" line="24" column="27" />
@@ -367,7 +367,7 @@
         <mark key="^" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/error_generator.py" timestamp="1558474216532">
+      <file name="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/error_generator.py" timestamp="1558475850836">
         <mark key="[" line="24" column="12" />
         <mark key="]" line="24" column="12" />
         <mark key="." line="24" column="12" />
@@ -522,12 +522,12 @@
         <mark key="^" line="25" column="4" />
         <mark key="." line="25" column="4" />
       </file>
-      <file name="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/srx-licu.py" timestamp="1558468242030">
-        <mark key="'" line="2107" column="42" />
-        <mark key="[" line="1582" column="110" />
-        <mark key="]" line="1583" column="37" />
-        <mark key="^" line="1583" column="37" />
-        <mark key="." line="1583" column="37" />
+      <file name="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/srx-licu.py" timestamp="1558476490633">
+        <mark key="'" line="1647" column="18" />
+        <mark key="[" line="1589" column="110" />
+        <mark key="]" line="1590" column="38" />
+        <mark key="^" line="1590" column="38" />
+        <mark key="." line="1590" column="38" />
       </file>
       <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/templates/ess/code_table_headers.html" timestamp="1520814619754">
         <mark key="[" line="4" column="8" />
@@ -1021,7 +1021,7 @@
         <mark key="^" line="46" column="7" />
         <mark key="." line="46" column="7" />
       </file>
-      <file name="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/test_errors_conf.yaml" timestamp="1558473012108">
+      <file name="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/test_errors_conf.yaml" timestamp="1558476810649">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="19" />
         <mark key="^" line="5" column="19" />
@@ -1198,17 +1198,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="759" column="32" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_on_KVM/Build_vSRX.py" />
-      <jump line="761" column="32" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_on_KVM/Build_vSRX.py" />
-      <jump line="765" column="36" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_on_KVM/Build_vSRX.py" />
-      <jump line="769" column="40" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_on_KVM/Build_vSRX.py" />
-      <jump line="774" column="82" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_on_KVM/Build_vSRX.py" />
-      <jump line="778" column="78" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_on_KVM/Build_vSRX.py" />
-      <jump line="782" column="74" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_on_KVM/Build_vSRX.py" />
-      <jump line="813" column="91" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_on_KVM/Build_vSRX.py" />
-      <jump line="843" column="26" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_on_KVM/Build_vSRX.py" />
-      <jump line="893" column="89" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_on_KVM/Build_vSRX.py" />
-      <jump line="912" column="25" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_on_KVM/Build_vSRX.py" />
       <jump line="979" column="4" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_on_KVM/Build_vSRX.py" />
       <jump line="1083" column="32" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_on_KVM/Build_vSRX.py" />
       <jump line="1085" column="94" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_on_KVM/Build_vSRX.py" />
@@ -1298,55 +1287,66 @@
       <jump line="5" column="0" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/helper_functions.py" />
       <jump line="6" column="49" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/helper_functions.py" />
       <jump line="37" column="12" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/modified_vsrx_upgrade.py" />
+      <jump line="32" column="52" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/srx-licu.py" />
+      <jump line="294" column="100" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/srx-licu.py" />
+      <jump line="436" column="51" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/srx-licu.py" />
+      <jump line="1594" column="38" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/srx-licu.py" />
+      <jump line="1740" column="39" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/srx-licu.py" />
+      <jump line="1921" column="6" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/srx-licu.py" />
+      <jump line="282" column="45" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/srx-licu.py" />
+      <jump line="685" column="7" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/modified_vsrx_upgrade.py" />
+      <jump line="1590" column="28" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/srx-licu.py" />
+      <jump line="1625" column="22" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/srx-licu.py" />
+      <jump line="1647" column="18" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/srx-licu.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgIyBUT0RPIC0gaW5qZWN0IGVycm9yIGhlcmUK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
-        <text>TODO</text>
+        <text>40</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ZnJvbSBlcnJvcl9nZW5lcmF0b3IgaW1wb3J0IEVycm9yR2VuZXJhdG9yLCBFcnJvclR5cGUK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyBUT0RPIC0gaW5qZWN0IGVycm9yIGhlcmUK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICMgVE9ETyAtIGluamVjdCBlcnJvciBoZXJlCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyBUT0RPIC0gaW5qZWN0IGVycm9yIGhlcmUK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAjIFRPRE8gLSBpbmplY3QgZXJyb3IgaGVyZQo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgIyBUT0RPIC0gaW5qZWN0IGVycm9yIGhlcmUK</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICMgVE9ETyAtIGluamVjdCBlcnJvciBoZXJlCg==</text>
+        <text encoding="base64">ICAgICAgICAjIFRPRE8gLSBpbmplY3QgZXJyb3IgaGVyZQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyBUT0RPIC0gaW5qZWN0IGVycm9yIGhlcmUK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyBUT0RPIC0gaW5qZWN0IGVycm9yIGhlcmUK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICMgVE9ETyAtIGluamVjdCBlcnJvciBoZXJlCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>TODO</last-search>
+      <last-search>40</last-search>
       <last-offset />
-      <last-pattern>TODO</last-pattern>
+      <last-pattern>40</last-pattern>
       <last-replace>CodeSimpleSchema</last-replace>
       <last-substitute>CodeSchema</last-substitute>
       <last-dir>1</last-dir>
@@ -1354,9 +1354,6 @@
     </search>
     <history>
       <history-search>
-        <entry>IBM_</entry>
-        <entry>get_logical_int_status</entry>
-        <entry>Verified that inter</entry>
         <entry>Verified that</entry>
         <entry>interfaces status info</entry>
         <entry>interfaces status</entry>
@@ -1373,7 +1370,10 @@
         <entry>call</entry>
         <entry>Shell</entry>
         <entry>shell</entry>
+        <entry>TOdo</entry>
         <entry>TODO</entry>
+        <entry>get_error</entry>
+        <entry>40</entry>
       </history-search>
       <history-cmd>
         <entry>218</entry>
