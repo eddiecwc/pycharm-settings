@@ -367,11 +367,11 @@
         <mark key="^" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/error_generator.py" timestamp="1558550252802">
-        <mark key="[" line="54" column="83" />
-        <mark key="]" line="55" column="9" />
-        <mark key="." line="55" column="9" />
-        <mark key="^" line="55" column="9" />
+      <file name="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/error_generator.py" timestamp="1558551830949">
+        <mark key="[" line="67" column="13" />
+        <mark key="]" line="68" column="79" />
+        <mark key="." line="68" column="79" />
+        <mark key="^" line="68" column="79" />
       </file>
       <file name="$USER_HOME$/projects/gateway/Juniper_vSRX_on_KVM/interface_config.sh" timestamp="1553878345528">
         <mark key="[" line="9" column="32" />
@@ -1313,11 +1313,11 @@
       <jump line="2113" column="12" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/srx-licu.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>open_yaml</text>
