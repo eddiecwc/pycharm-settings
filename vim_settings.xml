@@ -520,12 +520,12 @@
         <mark key="^" line="25" column="4" />
         <mark key="." line="25" column="4" />
       </file>
-      <file name="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/srx-licu.py" timestamp="1558550653459">
-        <mark key="'" line="2113" column="12" />
-        <mark key="[" line="1594" column="110" />
-        <mark key="]" line="1595" column="38" />
-        <mark key="^" line="1595" column="38" />
-        <mark key="." line="1595" column="38" />
+      <file name="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/srx-licu.py" timestamp="1558646377414">
+        <mark key="'" line="1479" column="33" />
+        <mark key="[" line="1930" column="0" />
+        <mark key="]" line="1930" column="3" />
+        <mark key="." line="1930" column="3" />
+        <mark key="^" line="1930" column="3" />
       </file>
       <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/templates/ess/code_table_headers.html" timestamp="1520814619754">
         <mark key="[" line="4" column="8" />
@@ -1193,11 +1193,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2099" column="0" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/srx-licu.py" />
-      <jump line="2101" column="0" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/srx-licu.py" />
-      <jump line="2102" column="39" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/srx-licu.py" />
-      <jump line="2119" column="11" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/srx-licu.py" />
-      <jump line="2124" column="11" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/srx-licu.py" />
       <jump line="2176" column="10" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/srx-licu.py" />
       <jump line="190" column="29" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/srx-licu.py" />
       <jump line="2109" column="23" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/srx-licu.py" />
@@ -1293,25 +1288,30 @@
       <jump line="41" column="35" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/remote_node_upgrade.py" />
       <jump line="148" column="36" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/remote_node_upgrade.py" />
       <jump line="153" column="22" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/remote_node_upgrade.py" />
+      <jump line="341" column="0" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/srx-licu.py" />
+      <jump line="1282" column="59" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/srx-licu.py" />
+      <jump line="1285" column="55" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/srx-licu.py" />
+      <jump line="1441" column="29" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/srx-licu.py" />
+      <jump line="1479" column="33" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/srx-licu.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">aXMg</text>
+        <text encoding="base64">ICAgICAgICA=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">aXMg</text>
+        <text encoding="base64">ICAgICAgICA=</text>
       </register>
       <register name="/" type="4">
-        <text>modified</text>
+        <text>show</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">ICAgIGV4Y2VwdCBzdWJwcm9jZXNzLkNhbGxlZFByb2Nlc3NFcnJvcjoKICAgICAgICAjIG5vdCBhIGJvbmQsIHNpbmNlIGJvbmRpbmcgZmlsZSBub3QgZm91bmQgZm9yIHRoaXMgaW50ZXJmYWNlCiAgICAgICAgd3JpdGVfdG9fbG9nKCJ7fSBpcyBub3QgYSBib25kIGludGVyZmFjZS4gUmV0dXJuaW5nIGl0c2VsZiIuZm9ybWF0KGludF9uYW1lKSkKICAgICAgICAjIG5vIG1lbWJlciBpbnRlcmZhY2UsIHNvIGp1c3QgcmV0dXJuIHRoZSBpbnRlcmZhY2UgaW4gYSBsaXN0CiAgICAgICAgcmV0dXJuIFtpbnRfbmFtZV0K</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAic2hvdyBjb25maWd1cmF0aW9uIHwgbm8tbW9yZSIsCiAgICAgICAgInNob3cgc3lzdGVtIHVwdGltZSIsCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICIiIgo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
@@ -1320,28 +1320,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">cQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB3cml0ZV90b19sb2coaXNzdWJjbGFzcyhzZWxmLmVycm9yLCBFeGNlcHRpb24pKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAogICAgCg==</text>
+        <text encoding="base64">cQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgd3JpdGVfdG9fbG9nKGlzc3ViY2xhc3Moc2VsZi5lcnJvciwgRXhjZXB0aW9uKSkK</text>
+        <text encoding="base64">ICAgICAgICB3cml0ZV90b19sb2coaXNzdWJjbGFzcyhzZWxmLmVycm9yLCBFeGNlcHRpb24pKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICIiIgo=</text>
+        <text encoding="base64">ICAgIAogICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>modified</last-search>
+      <last-search>show</last-search>
       <last-offset />
-      <last-pattern>modified</last-pattern>
+      <last-pattern>show</last-pattern>
       <last-replace>CodeSimpleSchema</last-replace>
       <last-substitute>CodeSchema</last-substitute>
       <last-dir>1</last-dir>
@@ -1349,8 +1349,6 @@
     </search>
     <history>
       <history-search>
-        <entry>get_error</entry>
-        <entry>40</entry>
         <entry>data is</entry>
         <entry>open_yaml</entry>
         <entry>type</entry>
@@ -1369,6 +1367,8 @@
         <entry>configLoad</entry>
         <entry>Load</entry>
         <entry>modified</entry>
+        <entry>syslog</entry>
+        <entry>show</entry>
       </history-search>
       <history-cmd>
         <entry>q!</entry>
@@ -1386,10 +1386,10 @@
         <entry>170</entry>
         <entry>1199</entry>
         <entry>$</entry>
-        <entry>0</entry>
         <entry>674</entry>
         <entry>72</entry>
         <entry>104</entry>
+        <entry>0</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
