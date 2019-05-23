@@ -345,12 +345,12 @@
         <mark key="^" line="25" column="37" />
         <mark key="." line="27" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/modified_vsrx_upgrade.py" timestamp="1558590280095">
+      <file name="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/modified_vsrx_upgrade.py" timestamp="1558592091468">
         <mark key="'" line="675" column="13" />
-        <mark key="[" line="672" column="4" />
-        <mark key="]" line="673" column="30" />
-        <mark key="." line="673" column="30" />
-        <mark key="^" line="673" column="30" />
+        <mark key="[" line="667" column="54" />
+        <mark key="]" line="667" column="56" />
+        <mark key="." line="667" column="56" />
+        <mark key="^" line="667" column="56" />
       </file>
       <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/extensions.py" timestamp="1526004758181">
         <mark key="[" line="24" column="27" />
@@ -1295,8 +1295,8 @@
       <jump line="153" column="22" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/remote_node_upgrade.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>p</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>p</text>
@@ -1308,34 +1308,34 @@
         <text encoding="base64">ICAgIGV4Y2VwdCBzdWJwcm9jZXNzLkNhbGxlZFByb2Nlc3NFcnJvcjoKICAgICAgICAjIG5vdCBhIGJvbmQsIHNpbmNlIGJvbmRpbmcgZmlsZSBub3QgZm91bmQgZm9yIHRoaXMgaW50ZXJmYWNlCiAgICAgICAgd3JpdGVfdG9fbG9nKCJ7fSBpcyBub3QgYSBib25kIGludGVyZmFjZS4gUmV0dXJuaW5nIGl0c2VsZiIuZm9ybWF0KGludF9uYW1lKSkKICAgICAgICAjIG5vIG1lbWJlciBpbnRlcmZhY2UsIHNvIGp1c3QgcmV0dXJuIHRoZSBpbnRlcmZhY2UgaW4gYSBsaXN0CiAgICAgICAgcmV0dXJuIFtpbnRfbmFtZV0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB3cml0ZV90b19sb2coaXNzdWJjbGFzcyhzZWxmLmVycm9yLCBFeGNlcHRpb24pKQo=</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIAogICAgCg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgd3JpdGVfdG9fbG9nKGlzc3ViY2xhc3Moc2VsZi5lcnJvciwgRXhjZXB0aW9uKSkK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICIiIgo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">cQo=</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIFJldHVybiBhIGxpc3Qgb2YgdGhlIG1lbWJlciBldGggaW50ZXJmYWNlcyAuCg==</text>
+        <text encoding="base64">ICAgICAgICB3cml0ZV90b19sb2coaXNzdWJjbGFzcyhzZWxmLmVycm9yLCBFeGNlcHRpb24pKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIElmIHNwZWNpZmllZCBpbnRlcmZhY2UgaXMgbm90IGEgYm9uZCwgdGhlbiBqdXN0IHJldHVybiB0aGUgb3JpZ2luYWwgaW50ZXJmYWNlIGFzIGxpc3QK</text>
+        <text encoding="base64">ICAgIAogICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgd3JpdGVfdG9fbG9nKGlzc3ViY2xhc3Moc2VsZi5lcnJvciwgRXhjZXB0aW9uKSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGVfaW50cyA9IHByaXZhdGVfaW50cyArIHZuZXRzIAo=</text>
+        <text encoding="base64">ICAgICIiIgo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>104</text>
       </register>
     </registers>
     <search>
@@ -1371,7 +1371,6 @@
         <entry>modified</entry>
       </history-search>
       <history-cmd>
-        <entry>164</entry>
         <entry>q!</entry>
         <entry>1859</entry>
         <entry>245</entry>
@@ -1391,6 +1390,7 @@
         <entry>674</entry>
         <entry>72</entry>
         <entry>w</entry>
+        <entry>104</entry>
       </history-cmd>
       <history-expr />
       <history-input />
