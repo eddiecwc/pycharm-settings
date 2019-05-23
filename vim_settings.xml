@@ -370,11 +370,11 @@
         <mark key="^" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/error_generator.py" timestamp="1558591021801">
-        <mark key="[" line="69" column="74" />
-        <mark key="]" line="69" column="92" />
-        <mark key="." line="69" column="92" />
-        <mark key="^" line="69" column="92" />
+      <file name="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/error_generator.py" timestamp="1558597075242">
+        <mark key="[" line="62" column="34" />
+        <mark key="]" line="62" column="34" />
+        <mark key="." line="62" column="34" />
+        <mark key="^" line="62" column="34" />
       </file>
       <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/mod_support/dump.py" timestamp="1516577755129">
         <mark key="[" line="7" column="0" />
@@ -1335,7 +1335,7 @@
         <text encoding="base64">ICAgICIiIgo=</text>
       </register>
       <register name=":" type="4">
-        <text>104</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -1389,8 +1389,8 @@
         <entry>0</entry>
         <entry>674</entry>
         <entry>72</entry>
-        <entry>w</entry>
         <entry>104</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
