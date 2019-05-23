@@ -370,11 +370,11 @@
         <mark key="^" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/error_generator.py" timestamp="1558597075242">
-        <mark key="[" line="62" column="34" />
-        <mark key="]" line="62" column="34" />
-        <mark key="." line="62" column="34" />
-        <mark key="^" line="62" column="34" />
+      <file name="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/error_generator.py" timestamp="1558626786161">
+        <mark key="[" line="58" column="22" />
+        <mark key="]" line="58" column="22" />
+        <mark key="." line="58" column="22" />
+        <mark key="^" line="58" column="97" />
       </file>
       <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/mod_support/dump.py" timestamp="1516577755129">
         <mark key="[" line="7" column="0" />
@@ -1295,11 +1295,11 @@
       <jump line="153" column="22" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/remote_node_upgrade.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">aXMg</text>
       </register>
       <register name="-" type="4">
-        <text>p</text>
+        <text encoding="base64">aXMg</text>
       </register>
       <register name="/" type="4">
         <text>modified</text>
