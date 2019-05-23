@@ -191,11 +191,6 @@
         <mark key="^" line="190" column="24" />
         <mark key="." line="215" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/gateway/venv/lib/python2.7/site-packages/paramiko/client.py" timestamp="1554756975829">
-        <mark key="[" line="217" column="8" />
-        <mark key="]" line="217" column="8" />
-        <mark key="." line="217" column="8" />
-      </file>
       <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/mod_cluster/node.py" timestamp="1516587549245">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="569" column="15" />
@@ -227,6 +222,18 @@
         <mark key="]" line="8" column="0" />
         <mark key="^" line="13" column="11" />
         <mark key="." line="8" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/remote_node_upgrade.py" timestamp="1558590582091">
+        <mark key="'" line="153" column="22" />
+        <mark key="[" line="66" column="4" />
+        <mark key="]" line="66" column="4" />
+        <mark key="." line="66" column="4" />
+      </file>
+      <file name="$USER_HOME$/projects/gateway/scripts/libraries/Hardware.py" timestamp="1557348894125">
+        <mark key="'" line="14" column="38" />
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
       </file>
       <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/database.py" timestamp="1518384937012">
         <mark key="'" line="2" column="30" />
@@ -338,8 +345,8 @@
         <mark key="^" line="25" column="37" />
         <mark key="." line="27" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/modified_vsrx_upgrade.py" timestamp="1558476449127">
-        <mark key="'" line="685" column="7" />
+      <file name="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/modified_vsrx_upgrade.py" timestamp="1558590280095">
+        <mark key="'" line="675" column="13" />
         <mark key="[" line="672" column="4" />
         <mark key="]" line="673" column="30" />
         <mark key="." line="673" column="30" />
@@ -363,16 +370,11 @@
         <mark key="^" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/error_generator.py" timestamp="1558586863814">
-        <mark key="[" line="60" column="59" />
-        <mark key="]" line="60" column="59" />
-        <mark key="." line="60" column="59" />
-        <mark key="^" line="60" column="59" />
-      </file>
-      <file name="$USER_HOME$/projects/gateway/Juniper_vSRX_on_KVM/interface_config.sh" timestamp="1553878345528">
-        <mark key="[" line="9" column="32" />
-        <mark key="]" line="9" column="33" />
-        <mark key="." line="9" column="33" />
+      <file name="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/error_generator.py" timestamp="1558591021801">
+        <mark key="[" line="69" column="74" />
+        <mark key="]" line="69" column="92" />
+        <mark key="." line="69" column="92" />
+        <mark key="^" line="69" column="92" />
       </file>
       <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/mod_support/dump.py" timestamp="1516577755129">
         <mark key="[" line="7" column="0" />
@@ -604,11 +606,6 @@
         <mark key="]" line="55" column="17" />
         <mark key="^" line="55" column="17" />
         <mark key="." line="55" column="17" />
-      </file>
-      <file name="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/get_node_hostname.sh" timestamp="1557417371997">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
       </file>
       <file name="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/run_upgrade.py" timestamp="1557417939255">
         <mark key="'" line="0" column="0" />
@@ -842,11 +839,6 @@
         <mark key="]" line="12" column="0" />
         <mark key="^" line="11" column="11" />
         <mark key="." line="12" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/gateway/Juniper_vSRX_on_KVM/pkg_install.sh" timestamp="1557959652671">
-        <mark key="[" line="54" column="0" />
-        <mark key="]" line="54" column="0" />
-        <mark key="." line="54" column="0" />
       </file>
       <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/models/cluster.py" timestamp="1524948184103">
         <mark key="[" line="12" column="33" />
@@ -1201,12 +1193,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1076" column="18" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/srx-licu.py" />
-      <jump line="1077" column="25" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/srx-licu.py" />
-      <jump line="248" column="4" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/srx-licu.py" />
-      <jump line="2097" column="0" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/srx-licu.py" />
-      <jump line="2100" column="39" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/srx-licu.py" />
-      <jump line="2111" column="18" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/srx-licu.py" />
       <jump line="2099" column="0" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/srx-licu.py" />
       <jump line="2101" column="0" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/srx-licu.py" />
       <jump line="2102" column="39" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/srx-licu.py" />
@@ -1301,16 +1287,22 @@
       <jump line="36" column="6" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/pkg_install.sh" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/upgrade_vSRX.sh" />
       <jump line="100" column="29" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/upgrade_vSRX.sh" />
+      <jump line="668" column="44" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/modified_vsrx_upgrade.py" />
+      <jump line="671" column="5" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/modified_vsrx_upgrade.py" />
+      <jump line="675" column="13" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/modified_vsrx_upgrade.py" />
+      <jump line="41" column="35" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/remote_node_upgrade.py" />
+      <jump line="148" column="36" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/remote_node_upgrade.py" />
+      <jump line="153" column="22" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/remote_node_upgrade.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>(</text>
+        <text>p</text>
       </register>
       <register name="-" type="4">
-        <text>(</text>
+        <text>p</text>
       </register>
       <register name="/" type="4">
-        <text>FILE_COPY</text>
+        <text>modified</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">ICAgIGV4Y2VwdCBzdWJwcm9jZXNzLkNhbGxlZFByb2Nlc3NFcnJvcjoKICAgICAgICAjIG5vdCBhIGJvbmQsIHNpbmNlIGJvbmRpbmcgZmlsZSBub3QgZm91bmQgZm9yIHRoaXMgaW50ZXJmYWNlCiAgICAgICAgd3JpdGVfdG9fbG9nKCJ7fSBpcyBub3QgYSBib25kIGludGVyZmFjZS4gUmV0dXJuaW5nIGl0c2VsZiIuZm9ybWF0KGludF9uYW1lKSkKICAgICAgICAjIG5vIG1lbWJlciBpbnRlcmZhY2UsIHNvIGp1c3QgcmV0dXJuIHRoZSBpbnRlcmZhY2UgaW4gYSBsaXN0CiAgICAgICAgcmV0dXJuIFtpbnRfbmFtZV0K</text>
@@ -1347,9 +1339,9 @@
       </register>
     </registers>
     <search>
-      <last-search>FILE_COPY</last-search>
+      <last-search>modified</last-search>
       <last-offset />
-      <last-pattern>FILE_COPY</last-pattern>
+      <last-pattern>modified</last-pattern>
       <last-replace>CodeSimpleSchema</last-replace>
       <last-substitute>CodeSchema</last-substitute>
       <last-dir>1</last-dir>
@@ -1357,9 +1349,6 @@
     </search>
     <history>
       <history-search>
-        <entry>shell</entry>
-        <entry>TOdo</entry>
-        <entry>TODO</entry>
         <entry>get_error</entry>
         <entry>40</entry>
         <entry>data is</entry>
@@ -1377,10 +1366,11 @@
         <entry>private</entry>
         <entry>sleep</entry>
         <entry>FILE_COPY</entry>
+        <entry>configLoad</entry>
+        <entry>Load</entry>
+        <entry>modified</entry>
       </history-search>
       <history-cmd>
-        <entry>218</entry>
-        <entry>311</entry>
         <entry>164</entry>
         <entry>q!</entry>
         <entry>1859</entry>
@@ -1398,6 +1388,8 @@
         <entry>1199</entry>
         <entry>$</entry>
         <entry>0</entry>
+        <entry>674</entry>
+        <entry>72</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
