@@ -520,8 +520,8 @@
         <mark key="^" line="25" column="4" />
         <mark key="." line="25" column="4" />
       </file>
-      <file name="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/srx-licu.py" timestamp="1558666079969">
-        <mark key="'" line="32" column="28" />
+      <file name="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/srx-licu.py" timestamp="1558679923259">
+        <mark key="'" line="1589" column="16" />
         <mark key="[" line="1589" column="62" />
         <mark key="]" line="1589" column="67" />
         <mark key="." line="1589" column="67" />
@@ -1288,11 +1288,11 @@
       <jump line="1441" column="29" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/srx-licu.py" />
       <jump line="1479" column="33" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/srx-licu.py" />
       <jump line="2097" column="33" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/srx-licu.py" />
-      <jump line="1589" column="67" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/srx-licu.py" />
       <jump line="1588" column="22" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/srx-licu.py" />
       <jump line="32" column="28" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/srx-licu.py" />
       <jump line="311" column="48" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/common.py" />
       <jump line="191" column="17" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/common.py" />
+      <jump line="1589" column="16" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/srx-licu.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -1302,7 +1302,7 @@
         <text>.</text>
       </register>
       <register name="/" type="4">
-        <text>open_yaml</text>
+        <text>saving con</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgd3JpdGVfdG9fbG9nKCJSYWlzaW5nIGluamVjdGVkIGV4Y2VwdGlvbiB7fSIuZm9ybWF0KHNlbGYuZXJyb3IuX19jbGFzc19fLl9fbmFtZV9fKSkKICAgICAgICAgICAgcmFpc2Ugc2VsZi5lcnJvcgo=</text>
@@ -1339,9 +1339,9 @@
       </register>
     </registers>
     <search>
-      <last-search>open_yaml</last-search>
+      <last-search>saving con</last-search>
       <last-offset />
-      <last-pattern>open_yaml</last-pattern>
+      <last-pattern>saving con</last-pattern>
       <last-replace>CodeSimpleSchema</last-replace>
       <last-substitute>CodeSchema</last-substitute>
       <last-dir>1</last-dir>
@@ -1349,7 +1349,6 @@
     </search>
     <history>
       <history-search>
-        <entry>modify</entry>
         <entry>private_ints</entry>
         <entry>bond0_ints</entry>
         <entry>get_private_vnets</entry>
@@ -1369,6 +1368,7 @@
         <entry>ConnectTime</entry>
         <entry>ErrorGenerator</entry>
         <entry>open_yaml</entry>
+        <entry>saving con</entry>
       </history-search>
       <history-cmd>
         <entry>1859</entry>
