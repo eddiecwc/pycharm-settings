@@ -67,11 +67,10 @@
         <mark key="^" line="25" column="14" />
         <mark key="." line="25" column="14" />
       </file>
-      <file name="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/helper_functions.py" timestamp="1558725662453">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="^" line="141" column="0" />
-        <mark key="." line="5" column="0" />
+      <file name="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/helper_functions.py" timestamp="1558727960362">
+        <mark key="[" line="160" column="0" />
+        <mark key="]" line="160" column="0" />
+        <mark key="." line="160" column="0" />
       </file>
       <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/mod_node/cluster.py" timestamp="1515524518190">
         <mark key="[" line="46" column="24" />
@@ -1299,10 +1298,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">IyAgICAgICAgbm9kZS5jdS51bmxvY2soKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>Exception</text>
       </register>
       <register name="/" type="4">
         <text>max_retr</text>
@@ -1311,31 +1310,31 @@
         <text encoding="base64">ICAgICAgICB3cml0ZV90b19sb2coInt9Ii5mb3JtYXQoZS5fX2NsYXNzX18uX19uYW1lX18pKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">IyAgICAgICAgbm9kZS5jdS51bmxvY2soKQo=</text>
-      </register>
-      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGt3YXJncywgZSkK</text>
+      </register>
       <register name="3" type="2">
-        <text encoding="base64">ZnJvbSBwYXJhbWlrby5jaGFubmVsLnNvY2tldCBpbXBvcnQgZXJyb3IgYXMgcG1fc29ja2V0X2Vycm9yCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbXNnID0gInt9IHdpdGgga3dhcmdzIHt9IGZhaWxlZCB0aGUgc2Vjb25kIHRpbWUgZHVlIHRvIHt9LiIuZm9ybWF0KGNhbGwuX19uYW1lX18sCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB3cml0ZV90b19sb2coInt9Ii5mb3JtYXQoZS5fX2NsYXNzX18uX19uYW1lX18pKQo=</text>
+        <text encoding="base64">ICAgICAgICBleGNlcHQgRXhjZXB0aW9uIGFzIGU6Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB3cml0ZV90b19sb2coInt9Ii5mb3JtYXQoZS5fX2NsYXNzX18uX19uYW1lX18pKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgd3JpdGVfdG9fbG9nKCkgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICB3cml0ZV90b19sb2coZSkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLm51bV9lcnJvcnMgKz0gMQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLm51bV9lcnJvcnMgKz0gMQo=</text>
+      <register name="8" type="4">
+        <text encoding="base64">ICAgIGVycm9yX2dlbmVyYXRvciA9IEVycm9yR2VuZXJhdG9yKGVycm9yX3R5cGU9RXJyb3JUeXBlLkNPTk5FQ1RJT05fRVJST1IsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBlcnJvcj1FeGNlcHRpb24sCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBtYXhfcmV0cnk9MSkKIA==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICMgbWF0Y2hlcyAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
