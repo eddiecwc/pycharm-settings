@@ -370,11 +370,11 @@
         <mark key="^" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/error_generator.py" timestamp="1558664072209">
-        <mark key="[" line="65" column="40" />
-        <mark key="]" line="65" column="40" />
-        <mark key="." line="65" column="40" />
-        <mark key="^" line="65" column="40" />
+      <file name="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/error_generator.py" timestamp="1558675987274">
+        <mark key="[" line="36" column="49" />
+        <mark key="]" line="36" column="50" />
+        <mark key="." line="36" column="50" />
+        <mark key="^" line="36" column="50" />
       </file>
       <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/mod_support/dump.py" timestamp="1516577755129">
         <mark key="[" line="7" column="0" />
@@ -698,12 +698,12 @@
         <mark key="^" line="3" column="34" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/common.py" timestamp="1558586319288">
-        <mark key="'" line="317" column="65" />
-        <mark key="[" line="330" column="48" />
-        <mark key="]" line="330" column="58" />
-        <mark key="." line="330" column="58" />
-        <mark key="^" line="330" column="58" />
+      <file name="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/common.py" timestamp="1558675859313">
+        <mark key="'" line="191" column="17" />
+        <mark key="[" line="188" column="8" />
+        <mark key="]" line="188" column="9" />
+        <mark key="." line="188" column="9" />
+        <mark key="^" line="188" column="9" />
       </file>
       <file name="$USER_HOME$/projects/gateway/licu/do-update" timestamp="1550640403777">
         <mark key="'" line="52" column="13" />
@@ -1193,8 +1193,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2144" column="7" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/srx-licu.py" />
-      <jump line="2146" column="17" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/srx-licu.py" />
       <jump line="2149" column="3" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/srx-licu.py" />
       <jump line="2150" column="16" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/srx-licu.py" />
       <jump line="2157" column="3" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/srx-licu.py" />
@@ -1293,28 +1291,30 @@
       <jump line="1589" column="67" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/srx-licu.py" />
       <jump line="1588" column="22" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/srx-licu.py" />
       <jump line="32" column="28" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/srx-licu.py" />
+      <jump line="311" column="48" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/common.py" />
+      <jump line="191" column="17" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/common.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">ICAgICAgICA=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHdyaXRlX3RvX2xvZygiTG9hZGVkIFlBTUwgZmlsZToge30iLmZvcm1hdCh5YW1sX2lucHV0X2ZpbGUpKQo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICAgICAgICA=</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
-        <text>ErrorGenerator</text>
+        <text>open_yaml</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAic2hvdyBjb25maWd1cmF0aW9uIHwgbm8tbW9yZSIsCiAgICAgICAgInNob3cgc3lzdGVtIHVwdGltZSIsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgd3JpdGVfdG9fbG9nKCJSYWlzaW5nIGluamVjdGVkIGV4Y2VwdGlvbiB7fSIuZm9ybWF0KHNlbGYuZXJyb3IuX19jbGFzc19fLl9fbmFtZV9fKSkKICAgICAgICAgICAgcmFpc2Ugc2VsZi5lcnJvcgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHdyaXRlX3RvX2xvZygiTG9hZGVkIFlBTUwgZmlsZToge30iLmZvcm1hdCh5YW1sX2lucHV0X2ZpbGUpKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICIiIgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG9yIGlzc3ViY2xhc3Moc2VsZi5lcnJvciwgRXhjZXB0aW9uKToK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
@@ -1323,25 +1323,25 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICIiIgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">cQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB3cml0ZV90b19sb2coaXNzdWJjbGFzcyhzZWxmLmVycm9yLCBFeGNlcHRpb24pKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAogICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>ErrorGenerator</last-search>
+      <last-search>open_yaml</last-search>
       <last-offset />
-      <last-pattern>ErrorGenerator</last-pattern>
+      <last-pattern>open_yaml</last-pattern>
       <last-replace>CodeSimpleSchema</last-replace>
       <last-substitute>CodeSchema</last-substitute>
       <last-dir>1</last-dir>
@@ -1349,7 +1349,6 @@
     </search>
     <history>
       <history-search>
-        <entry>bond</entry>
         <entry>modify</entry>
         <entry>private_ints</entry>
         <entry>bond0_ints</entry>
@@ -1369,9 +1368,9 @@
         <entry>Connect</entry>
         <entry>ConnectTime</entry>
         <entry>ErrorGenerator</entry>
+        <entry>open_yaml</entry>
       </history-search>
       <history-cmd>
-        <entry>q!</entry>
         <entry>1859</entry>
         <entry>245</entry>
         <entry>177</entry>
@@ -1390,6 +1389,7 @@
         <entry>72</entry>
         <entry>104</entry>
         <entry>0</entry>
+        <entry>1596</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
