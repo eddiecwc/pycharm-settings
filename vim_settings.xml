@@ -520,12 +520,12 @@
         <mark key="^" line="25" column="4" />
         <mark key="." line="25" column="4" />
       </file>
-      <file name="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/srx-licu.py" timestamp="1558646377414">
-        <mark key="'" line="1479" column="33" />
-        <mark key="[" line="1930" column="0" />
-        <mark key="]" line="1930" column="3" />
-        <mark key="." line="1930" column="3" />
-        <mark key="^" line="1930" column="3" />
+      <file name="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/srx-licu.py" timestamp="1558666079969">
+        <mark key="'" line="32" column="28" />
+        <mark key="[" line="1589" column="62" />
+        <mark key="]" line="1589" column="67" />
+        <mark key="." line="1589" column="67" />
+        <mark key="^" line="1589" column="67" />
       </file>
       <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/templates/ess/code_table_headers.html" timestamp="1520814619754">
         <mark key="[" line="4" column="8" />
@@ -1193,9 +1193,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2176" column="10" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/srx-licu.py" />
-      <jump line="190" column="29" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/srx-licu.py" />
-      <jump line="2109" column="23" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/srx-licu.py" />
       <jump line="2144" column="7" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/srx-licu.py" />
       <jump line="2146" column="17" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/srx-licu.py" />
       <jump line="2149" column="3" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/srx-licu.py" />
@@ -1224,7 +1221,6 @@
       <jump line="5" column="0" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/helper_functions.py" />
       <jump line="6" column="49" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/helper_functions.py" />
       <jump line="37" column="12" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/modified_vsrx_upgrade.py" />
-      <jump line="32" column="52" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/srx-licu.py" />
       <jump line="294" column="100" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/srx-licu.py" />
       <jump line="436" column="51" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/srx-licu.py" />
       <jump line="1594" column="38" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/srx-licu.py" />
@@ -1293,6 +1289,10 @@
       <jump line="1285" column="55" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/srx-licu.py" />
       <jump line="1441" column="29" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/srx-licu.py" />
       <jump line="1479" column="33" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/srx-licu.py" />
+      <jump line="2097" column="33" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/srx-licu.py" />
+      <jump line="1589" column="67" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/srx-licu.py" />
+      <jump line="1588" column="22" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/srx-licu.py" />
+      <jump line="32" column="28" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/srx-licu.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1302,7 +1302,7 @@
         <text encoding="base64">ICAgICAgICA=</text>
       </register>
       <register name="/" type="4">
-        <text>show</text>
+        <text>ErrorGenerator</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAic2hvdyBjb25maWd1cmF0aW9uIHwgbm8tbW9yZSIsCiAgICAgICAgInNob3cgc3lzdGVtIHVwdGltZSIsCg==</text>
@@ -1339,9 +1339,9 @@
       </register>
     </registers>
     <search>
-      <last-search>show</last-search>
+      <last-search>ErrorGenerator</last-search>
       <last-offset />
-      <last-pattern>show</last-pattern>
+      <last-pattern>ErrorGenerator</last-pattern>
       <last-replace>CodeSimpleSchema</last-replace>
       <last-substitute>CodeSchema</last-substitute>
       <last-dir>1</last-dir>
@@ -1349,10 +1349,6 @@
     </search>
     <history>
       <history-search>
-        <entry>data is</entry>
-        <entry>open_yaml</entry>
-        <entry>type</entry>
-        <entry>bonding</entry>
         <entry>bond</entry>
         <entry>modify</entry>
         <entry>private_ints</entry>
@@ -1369,6 +1365,10 @@
         <entry>modified</entry>
         <entry>syslog</entry>
         <entry>show</entry>
+        <entry>CONNECTIOIN</entry>
+        <entry>Connect</entry>
+        <entry>ConnectTime</entry>
+        <entry>ErrorGenerator</entry>
       </history-search>
       <history-cmd>
         <entry>q!</entry>
