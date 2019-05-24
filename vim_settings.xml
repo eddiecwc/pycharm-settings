@@ -67,12 +67,12 @@
         <mark key="^" line="25" column="14" />
         <mark key="." line="25" column="14" />
       </file>
-      <file name="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/helper_functions.py" timestamp="1558684980031">
+      <file name="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/helper_functions.py" timestamp="1558709015212">
         <mark key="'" line="143" column="43" />
-        <mark key="[" line="66" column="47" />
-        <mark key="]" line="66" column="47" />
-        <mark key="." line="66" column="47" />
-        <mark key="^" line="66" column="47" />
+        <mark key="[" line="161" column="8" />
+        <mark key="]" line="161" column="11" />
+        <mark key="^" line="161" column="11" />
+        <mark key="." line="161" column="11" />
       </file>
       <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/mod_node/cluster.py" timestamp="1515524518190">
         <mark key="[" line="46" column="24" />
@@ -1296,44 +1296,44 @@
       <jump line="56" column="48" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/error_generator.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>1</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICB3cml0ZV90b19sb2coInt9Ii5mb3JtYXQoZS5fX2NsYXNzX18uX19uYW1lX18pKQo=</text>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>max_retr</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgd3JpdGVfdG9fbG9nKCJSYWlzaW5nIGluamVjdGVkIGV4Y2VwdGlvbiB7fSIuZm9ybWF0KHNlbGYuZXJyb3IuX19jbGFzc19fLl9fbmFtZV9fKSkKICAgICAgICAgICAgcmFpc2Ugc2VsZi5lcnJvcgo=</text>
+        <text encoding="base64">ICAgICAgICB3cml0ZV90b19sb2coInt9Ii5mb3JtYXQoZS5fX2NsYXNzX18uX19uYW1lX18pKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLm51bV9lcnJvcnMgKz0gMQo=</text>
+        <text encoding="base64">ICAgICAgICB3cml0ZV90b19sb2coInt9Ii5mb3JtYXQoZS5fX2NsYXNzX18uX19uYW1lX18pKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLm51bV9lcnJvcnMgKz0gMQo=</text>
+        <text encoding="base64">ICAgICAgICB3cml0ZV90b19sb2coInt9Ii5mb3JtYXQoZS5fX2NsYXNzX18uX19uYW1lX18pKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgd3JpdGVfdG9fbG9nKCkgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHdyaXRlX3RvX2xvZygiTG9hZGVkIFlBTUwgZmlsZToge30iLmZvcm1hdCh5YW1sX2lucHV0X2ZpbGUpKQo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLm51bV9lcnJvcnMgKz0gMQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLm51bV9lcnJvcnMgKz0gMQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG9yIGlzc3ViY2xhc3Moc2VsZi5lcnJvciwgRXhjZXB0aW9uKToK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHdyaXRlX3RvX2xvZygiTG9hZGVkIFlBTUwgZmlsZToge30iLmZvcm1hdCh5YW1sX2lucHV0X2ZpbGUpKQo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICIiIgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG9yIGlzc3ViY2xhc3Moc2VsZi5lcnJvciwgRXhjZXB0aW9uKToK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
