@@ -265,8 +265,8 @@
         <mark key="^" line="109" column="19" />
         <mark key="." line="133" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/gre_change_run.py" timestamp="1558572390724">
-        <mark key="'" line="427" column="16" />
+      <file name="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/gre_change_run.py" timestamp="1558753073510">
+        <mark key="'" line="481" column="0" />
         <mark key="[" line="180" column="25" />
         <mark key="]" line="181" column="3" />
         <mark key="." line="181" column="3" />
@@ -1195,7 +1195,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="336" column="4" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/srx-licu.py" />
       <jump line="2104" column="12" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/srx-licu.py" />
       <jump line="2106" column="3" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/srx-licu.py" />
       <jump line="2107" column="42" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/srx-licu.py" />
@@ -1295,6 +1294,7 @@
       <jump line="37" column="41" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/error_generator.py" />
       <jump line="39" column="30" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/error_generator.py" />
       <jump line="56" column="48" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/error_generator.py" />
+      <jump line="481" column="0" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/gre_change_run.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -1304,7 +1304,7 @@
         <text>Exception</text>
       </register>
       <register name="/" type="4">
-        <text>max_retr</text>
+        <text>shutdown_vm</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICB3cml0ZV90b19sb2coInt9Ii5mb3JtYXQoZS5fX2NsYXNzX18uX19uYW1lX18pKQo=</text>
@@ -1341,9 +1341,9 @@
       </register>
     </registers>
     <search>
-      <last-search>max_retr</last-search>
+      <last-search>shutdown_vm</last-search>
       <last-offset />
-      <last-pattern>max_retr</last-pattern>
+      <last-pattern>shutdown_vm</last-pattern>
       <last-replace>CodeSimpleSchema</last-replace>
       <last-substitute>CodeSchema</last-substitute>
       <last-dir>1</last-dir>
@@ -1351,7 +1351,6 @@
     </search>
     <history>
       <history-search>
-        <entry>get_private_vnets</entry>
         <entry>modify_vm_con</entry>
         <entry>vnets</entry>
         <entry>bond_name</entry>
@@ -1371,6 +1370,7 @@
         <entry>saving con</entry>
         <entry>max</entry>
         <entry>max_retr</entry>
+        <entry>shutdown_vm</entry>
       </history-search>
       <history-cmd>
         <entry>1859</entry>
