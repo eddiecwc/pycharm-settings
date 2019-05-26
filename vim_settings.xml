@@ -67,10 +67,12 @@
         <mark key="^" line="25" column="14" />
         <mark key="." line="25" column="14" />
       </file>
-      <file name="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/helper_functions.py" timestamp="1558727960362">
-        <mark key="[" line="160" column="0" />
-        <mark key="]" line="160" column="0" />
-        <mark key="." line="160" column="0" />
+      <file name="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/helper_functions.py" timestamp="1558841022269">
+        <mark key="'" line="58" column="25" />
+        <mark key="[" line="130" column="43" />
+        <mark key="]" line="130" column="60" />
+        <mark key="." line="130" column="60" />
+        <mark key="^" line="130" column="60" />
       </file>
       <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/mod_node/cluster.py" timestamp="1515524518190">
         <mark key="[" line="46" column="24" />
@@ -625,7 +627,9 @@
       <file name="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/ibm_setup/ibm_pre.py" timestamp="1558725912293">
         <mark key="[" line="32" column="0" />
       </file>
-      <file name="/helper_functions.py" timestamp="1558725261074" />
+      <file name="/helper_functions.py" timestamp="1558841030715">
+        <mark key="'" line="8" column="41" />
+      </file>
       <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/templates/ess/product_list.html" timestamp="1522211599811">
         <mark key="'" line="9" column="0" />
         <mark key="[" line="45" column="50" />
@@ -1189,17 +1193,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="150" column="33" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/common.py" />
-      <jump line="1671" column="59" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/srx-licu.py" />
-      <jump line="2118" column="15" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/srx-licu.py" />
-      <jump line="2123" column="13" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/srx-licu.py" />
-      <jump line="196" column="20" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/srx-licu.py" />
-      <jump line="343" column="4" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/srx-licu.py" />
-      <jump line="2113" column="12" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/srx-licu.py" />
-      <jump line="31" column="17" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/helper_functions.py" />
-      <jump line="64" column="47" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/helper_functions.py" />
-      <jump line="121" column="43" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/helper_functions.py" />
-      <jump line="143" column="43" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/helper_functions.py" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/common.py" />
       <jump line="249" column="11" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/gre_change_mod.py" />
       <jump line="255" column="42" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/gre_change_mod.py" />
@@ -1289,55 +1282,66 @@
       <jump line="1485" column="29" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/srx-licu.py" />
       <jump line="1489" column="8" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/srx-licu.py" />
       <jump line="309" column="30" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/srx-licu.py" />
+      <jump line="14" column="10" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/helper_functions.py" />
+      <jump line="8" column="41" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/helper_functions.py" />
+      <jump line="19" column="40" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/helper_functions.py" />
+      <jump line="23" column="32" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/helper_functions.py" />
+      <jump line="24" column="27" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/helper_functions.py" />
+      <jump line="58" column="25" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/helper_functions.py" />
+      <jump line="18" column="40" filename="/helper_functions.py" />
+      <jump line="22" column="32" filename="/helper_functions.py" />
+      <jump line="23" column="27" filename="/helper_functions.py" />
+      <jump line="51" column="25" filename="/helper_functions.py" />
+      <jump line="8" column="41" filename="/helper_functions.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAiIiIK</text>
+      <register name="&quot;" type="4">
+        <text>Exception</text>
       </register>
       <register name="-" type="4">
         <text>Exception</text>
       </register>
       <register name="/" type="4">
-        <text>unlocking configuration data</text>
+        <text>StartShell</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICB3cml0ZV90b19sb2coInt9Ii5mb3JtYXQoZS5fX2NsYXNzX18uX19uYW1lX18pKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAiIiIK</text>
+        <text encoding="base64">ICAgIHJhaXNlIHNvY2tldC5lcnJvcigpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAiIiIK</text>
+        <text encoding="base64">ICAgIGltcG9ydCBzb2NrZXQK</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="3" type="4">
+        <text encoding="base64">ICAgICAgICBlbHNlOgogICAgICAgICAgICAgICAgbXNnID0gKCJPcGVyYXRpb24gdG8gb3BlbiBkZXZfc3Mge30gZmFpbGVkIGR1ZSB0byB7fTsgZXhpdGluZyIKICAgICAgICAgICAgICAgICAgICAgIC5mb3JtYXQoZGV2X3NzLCBlKSkKICAgICAgICAgICAgICAgIHdyaXRlX3RvX2xvZyhtc2cpCiAgICAgICAgICAgICAgICByYWlzZSBFeGNlcHRpb24obXNnKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGt3YXJncywgZSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgZS5zdHJlcnJvciA9PSAnT3BlcmF0aW9uIHRpbWVkIG91dCc6Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbXNnID0gInt9IHdpdGgga3dhcmdzIHt9IGZhaWxlZCB0aGUgc2Vjb25kIHRpbWUgZHVlIHRvIHt9LiIuZm9ybWF0KGNhbGwuX19uYW1lX18sCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBleGNlcHQgRXhjZXB0aW9uIGFzIGU6Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGV2Lm9wZW4oYXV0b19wcm9iZT0xNSkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29ubmVjdGVkID0gVHJ1ZQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB3cml0ZV90b19sb2coZSkK</text>
+        <text encoding="base64">ICAgICAgICBleGNlcHQgRXhjZXB0aW9uIGFzIGU6Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHdoaWxlIHJldHJpZXMgPCBtYXhfdHJpZXMgYW5kIG5vdCBkZXYuY29ubmVjdGVkOgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>unlocking configuration data</last-search>
+      <last-search>StartShell</last-search>
       <last-offset />
-      <last-pattern>unlocking configuration data</last-pattern>
+      <last-pattern>StartShell</last-pattern>
       <last-replace>CodeSimpleSchema</last-replace>
       <last-substitute>CodeSchema</last-substitute>
       <last-dir>1</last-dir>
@@ -1345,7 +1349,6 @@
     </search>
     <history>
       <history-search>
-        <entry>sleep</entry>
         <entry>FILE_COPY</entry>
         <entry>configLoad</entry>
         <entry>Load</entry>
@@ -1365,6 +1368,7 @@
         <entry>stage_enabled</entry>
         <entry>lock</entry>
         <entry>unlocking configuration data</entry>
+        <entry>StartShell</entry>
       </history-search>
       <history-cmd>
         <entry>1859</entry>
