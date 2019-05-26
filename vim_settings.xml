@@ -1334,7 +1334,7 @@
         <text encoding="base64">ICAgICAgICAgICAgY29ubmVjdGVkID0gVHJ1ZQo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>1691</text>
       </register>
     </registers>
     <search>
@@ -1370,10 +1370,6 @@
         <entry>stage</entry>
       </history-search>
       <history-cmd>
-        <entry>1859</entry>
-        <entry>245</entry>
-        <entry>177</entry>
-        <entry>792</entry>
         <entry>q</entry>
         <entry>wq</entry>
         <entry>251</entry>
@@ -1390,6 +1386,10 @@
         <entry>1596</entry>
         <entry>0</entry>
         <entry>w</entry>
+        <entry>699</entry>
+        <entry>2293</entry>
+        <entry>637</entry>
+        <entry>1691</entry>
       </history-cmd>
       <history-expr />
       <history-input />
