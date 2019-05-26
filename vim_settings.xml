@@ -366,13 +366,6 @@
         <mark key="^" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/error_generator.py" timestamp="1558684918696">
-        <mark key="'" line="56" column="48" />
-        <mark key="[" line="66" column="0" />
-        <mark key="]" line="66" column="28" />
-        <mark key="^" line="63" column="50" />
-        <mark key="." line="66" column="0" />
-      </file>
       <file name="$USER_HOME$/projects/gateway/Juniper_vSRX_on_KVM/interface_config.sh" timestamp="1553878345528">
         <mark key="[" line="9" column="32" />
         <mark key="]" line="9" column="33" />
@@ -1299,7 +1292,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAiIiIK</text>
       </register>
       <register name="-" type="4">
         <text>Exception</text>
@@ -1311,31 +1304,31 @@
         <text encoding="base64">ICAgICAgICB3cml0ZV90b19sb2coInt9Ii5mb3JtYXQoZS5fX2NsYXNzX18uX19uYW1lX18pKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAiIiIK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGt3YXJncywgZSkK</text>
+        <text encoding="base64">ICAgICAgICAiIiIK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbXNnID0gInt9IHdpdGgga3dhcmdzIHt9IGZhaWxlZCB0aGUgc2Vjb25kIHRpbWUgZHVlIHRvIHt9LiIuZm9ybWF0KGNhbGwuX19uYW1lX18sCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBleGNlcHQgRXhjZXB0aW9uIGFzIGU6Cg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGt3YXJncywgZSkK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgbXNnID0gInt9IHdpdGgga3dhcmdzIHt9IGZhaWxlZCB0aGUgc2Vjb25kIHRpbWUgZHVlIHRvIHt9LiIuZm9ybWF0KGNhbGwuX19uYW1lX18sCg==</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB3cml0ZV90b19sb2coZSkK</text>
+        <text encoding="base64">ICAgICAgICBleGNlcHQgRXhjZXB0aW9uIGFzIGU6Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">ICAgIGVycm9yX2dlbmVyYXRvciA9IEVycm9yR2VuZXJhdG9yKGVycm9yX3R5cGU9RXJyb3JUeXBlLkNPTk5FQ1RJT05fRVJST1IsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBlcnJvcj1FeGNlcHRpb24sCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBtYXhfcmV0cnk9MSkKIA==</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICB3cml0ZV90b19sb2coZSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICMgbWF0Y2hlcyAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -1392,8 +1385,8 @@
         <entry>72</entry>
         <entry>104</entry>
         <entry>1596</entry>
-        <entry>w</entry>
         <entry>0</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
