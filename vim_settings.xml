@@ -67,10 +67,11 @@
         <mark key="^" line="25" column="14" />
         <mark key="." line="25" column="14" />
       </file>
-      <file name="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/helper_functions.py" timestamp="1558842245082">
-        <mark key="[" line="147" column="0" />
-        <mark key="]" line="147" column="0" />
-        <mark key="." line="147" column="0" />
+      <file name="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/helper_functions.py" timestamp="1558843417042">
+        <mark key="[" line="130" column="64" />
+        <mark key="]" line="130" column="76" />
+        <mark key="." line="130" column="76" />
+        <mark key="^" line="130" column="76" />
       </file>
       <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/mod_node/cluster.py" timestamp="1515524518190">
         <mark key="[" line="46" column="24" />
@@ -515,8 +516,8 @@
         <mark key="^" line="25" column="4" />
         <mark key="." line="25" column="4" />
       </file>
-      <file name="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/srx-licu.py" timestamp="1558823314033">
-        <mark key="'" line="309" column="30" />
+      <file name="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/srx-licu.py" timestamp="1558844021538">
+        <mark key="'" line="291" column="27" />
         <mark key="[" line="1443" column="0" />
         <mark key="]" line="1443" column="0" />
         <mark key="." line="1443" column="0" />
@@ -1014,11 +1015,11 @@
         <mark key="^" line="46" column="7" />
         <mark key="." line="46" column="7" />
       </file>
-      <file name="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/test_errors_conf.yaml" timestamp="1558476810649">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="19" />
-        <mark key="^" line="5" column="19" />
-        <mark key="." line="5" column="19" />
+      <file name="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/test_errors_conf.yaml" timestamp="1558844055512">
+        <mark key="[" line="1" column="15" />
+        <mark key="]" line="1" column="15" />
+        <mark key="^" line="1" column="15" />
+        <mark key="." line="1" column="15" />
       </file>
       <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/conf/machine_types.py" timestamp="1521417722034">
         <mark key="[" line="30" column="39" />
@@ -1191,11 +1192,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/common.py" />
-      <jump line="249" column="11" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/gre_change_mod.py" />
-      <jump line="255" column="42" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/gre_change_mod.py" />
-      <jump line="26" column="41" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/gre_change_mod.py" />
-      <jump line="53" column="53" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/gre_change_mod.py" />
       <jump line="77" column="56" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/gre_change_mod.py" />
       <jump line="251" column="4" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/gre_change_mod.py" />
       <jump line="252" column="0" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/gre_change_mod.py" />
@@ -1261,7 +1257,6 @@
       <jump line="1371" column="54" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/srx-licu.py" />
       <jump line="1405" column="4" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/srx-licu.py" />
       <jump line="818" column="4" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/srx-licu.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/srx-licu.py" />
       <jump line="288" column="35" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/srx-licu.py" />
       <jump line="290" column="39" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/srx-licu.py" />
       <jump line="310" column="39" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/srx-licu.py" />
@@ -1291,16 +1286,22 @@
       <jump line="23" column="27" filename="/helper_functions.py" />
       <jump line="51" column="25" filename="/helper_functions.py" />
       <jump line="8" column="41" filename="/helper_functions.py" />
+      <jump line="450" column="4" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/srx-licu.py" />
+      <jump line="470" column="4" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/srx-licu.py" />
+      <jump line="551" column="4" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/srx-licu.py" />
+      <jump line="571" column="4" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/srx-licu.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/srx-licu.py" />
+      <jump line="291" column="27" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/srx-licu.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgd3JpdGVfdG9fbG9nKCJ7fSIuZm9ybWF0KGUuX19jbGFzc19fLl9fbmFtZV9fKSkK</text>
+      <register name="&quot;" type="4">
+        <text>1</text>
       </register>
       <register name="-" type="4">
-        <text>Exception</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
-        <text>StartShell</text>
+        <text>stage</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICB3cml0ZV90b19sb2coInt9Ii5mb3JtYXQoZS5fX2NsYXNzX18uX19uYW1lX18pKQo=</text>
@@ -1337,9 +1338,9 @@
       </register>
     </registers>
     <search>
-      <last-search>StartShell</last-search>
+      <last-search>stage</last-search>
       <last-offset />
-      <last-pattern>StartShell</last-pattern>
+      <last-pattern>stage</last-pattern>
       <last-replace>CodeSimpleSchema</last-replace>
       <last-substitute>CodeSchema</last-substitute>
       <last-dir>1</last-dir>
@@ -1347,7 +1348,6 @@
     </search>
     <history>
       <history-search>
-        <entry>FILE_COPY</entry>
         <entry>configLoad</entry>
         <entry>Load</entry>
         <entry>modified</entry>
@@ -1362,11 +1362,12 @@
         <entry>max</entry>
         <entry>max_retr</entry>
         <entry>shutdown_vm</entry>
-        <entry>stage</entry>
         <entry>stage_enabled</entry>
         <entry>lock</entry>
         <entry>unlocking configuration data</entry>
         <entry>StartShell</entry>
+        <entry>configure</entry>
+        <entry>stage</entry>
       </history-search>
       <history-cmd>
         <entry>1859</entry>
