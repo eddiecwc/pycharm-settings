@@ -854,11 +854,11 @@
         <mark key="^" line="7" column="35" />
         <mark key="." line="7" column="35" />
       </file>
-      <file name="$USER_HOME$/projects/gateway/scripts/getSettings.py" timestamp="1559058873859">
-        <mark key="[" line="26" column="48" />
-        <mark key="]" line="26" column="48" />
-        <mark key="^" line="26" column="47" />
-        <mark key="." line="26" column="48" />
+      <file name="$USER_HOME$/projects/gateway/scripts/getSettings.py" timestamp="1559060388074">
+        <mark key="[" line="41" column="0" />
+        <mark key="]" line="42" column="33" />
+        <mark key="^" line="42" column="33" />
+        <mark key="." line="42" column="33" />
       </file>
       <file name="$USER_HOME$/projects/gateway/Juniper_vSRX_on_KVM/pkg_install.sh" timestamp="1557959652671">
         <mark key="[" line="54" column="0" />
@@ -1321,10 +1321,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>(</text>
+        <text>ha1</text>
       </register>
       <register name="-" type="4">
-        <text>(</text>
+        <text>ha1</text>
       </register>
       <register name="/" type="4">
         <text>mkdir</text>
