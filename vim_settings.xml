@@ -724,6 +724,12 @@
         <mark key="^" line="3" column="34" />
         <mark key="." line="11" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/common.py" timestamp="1559856630016">
+        <mark key="[" line="414" column="18" />
+        <mark key="]" line="414" column="18" />
+        <mark key="^" line="414" column="18" />
+        <mark key="." line="414" column="18" />
+      </file>
       <file name="$USER_HOME$/projects/gateway/licu/do-update" timestamp="1550640403777">
         <mark key="'" line="52" column="13" />
         <mark key="[" line="0" column="0" />
@@ -1318,10 +1324,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>ha1</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>ha1</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>mkdir</text>
