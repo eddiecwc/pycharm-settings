@@ -626,8 +626,8 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/run_upgrade.py" timestamp="1557417939255">
-        <mark key="'" line="0" column="0" />
+      <file name="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/run_upgrade.py" timestamp="1559857155248">
+        <mark key="'" line="103" column="13" />
         <mark key="[" line="90" column="65" />
         <mark key="]" line="90" column="92" />
         <mark key="^" line="90" column="92" />
@@ -1221,7 +1221,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="675" column="13" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/modified_vsrx_upgrade.py" />
       <jump line="41" column="35" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/remote_node_upgrade.py" />
       <jump line="148" column="36" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/remote_node_upgrade.py" />
       <jump line="153" column="22" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/remote_node_upgrade.py" />
@@ -1321,6 +1320,7 @@
       <jump line="354" column="20" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/modified_vsrx_upgrade.py" />
       <jump line="726" column="14" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/modified_vsrx_upgrade.py" />
       <jump line="557" column="21" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/modified_vsrx_upgrade.py" />
+      <jump line="103" column="13" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/run_upgrade.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1330,7 +1330,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>mkdir</text>
+        <text>rg_lo</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ZnJvbSBseG1sLmV0cmVlIGltcG9ydCBfRWxlbWVudAo=</text>
@@ -1367,9 +1367,9 @@
       </register>
     </registers>
     <search>
-      <last-search>mkdir</last-search>
+      <last-search>rg_lo</last-search>
       <last-offset />
-      <last-pattern>mkdir</last-pattern>
+      <last-pattern>rg_lo</last-pattern>
       <last-replace>CodeSimpleSchema</last-replace>
       <last-substitute>CodeSchema</last-substitute>
       <last-dir>1</last-dir>
@@ -1377,8 +1377,6 @@
     </search>
     <history>
       <history-search>
-        <entry>open_yaml</entry>
-        <entry>saving con</entry>
         <entry>max</entry>
         <entry>max_retr</entry>
         <entry>shutdown_vm</entry>
@@ -1397,6 +1395,8 @@
         <entry>max_retry</entry>
         <entry>TARGET</entry>
         <entry>mkdir</entry>
+        <entry>rg_loca</entry>
+        <entry>rg_lo</entry>
       </history-search>
       <history-cmd>
         <entry>wq</entry>
