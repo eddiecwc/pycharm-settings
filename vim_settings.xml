@@ -273,12 +273,12 @@
         <mark key="^" line="109" column="19" />
         <mark key="." line="133" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/gre_change_run.py" timestamp="1559886360736">
+      <file name="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/gre_change_run.py" timestamp="1559888935686">
         <mark key="'" line="7" column="6" />
-        <mark key="[" line="409" column="0" />
-        <mark key="]" line="408" column="32" />
-        <mark key="." line="408" column="32" />
-        <mark key="^" line="409" column="3" />
+        <mark key="[" line="426" column="6" />
+        <mark key="]" line="426" column="11" />
+        <mark key="." line="426" column="11" />
+        <mark key="^" line="426" column="11" />
       </file>
       <file name="$USER_HOME$/Sites/FlaskApp/templates/includes/commentbox.html" timestamp="1514778376934">
         <mark key="[" line="3" column="90" />
@@ -1325,10 +1325,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>,</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text>get_device</text>
@@ -1336,32 +1336,32 @@
       <register name="0" type="4">
         <text encoding="base64">ICAgICAgICBmYWN0cyA9IGdldF9kZXZpY2VfZmFjdHMoZGV2aWNlKQogICAgICAgIHN0YXRlX3JnMCA9IGZhY3RzWyJzcnhfY2x1c3Rlcl9yZWR1bmRhbmN5X2dyb3VwIl1bJzAnXVtub2RlXVsic3RhdHVzIl0KICAgICAgICBzdGF0ZV9yZzEgPSBmYWN0c1sic3J4X2NsdXN0ZXJfcmVkdW5kYW5jeV9ncm91cCJdWycxJ11bbm9kZV1bInN0YXR1cyJdCiAgICAgICAgd3JpdGVfdG9fbG9nKCJSZWR1bmRhbmN5IGdyb3VwIDAgezB9IHN0YXR1czogezF9Ii5mb3JtYXQobm9kZSwgc3RhdGVfcmcwKSkKICAgICAgICB3cml0ZV90b19sb2coIlJlZHVuZGFuY3kgZ3JvdXAgMSB7MH0gc3RhdHVzOiB7MX0iLmZvcm1hdChub2RlLCBzdGF0ZV9yZzEpKQo=</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">ICAgIDxsb2FkLWNvbmZpZ3VyYXRpb24tcmVzdWx0cz4KICAgICAgICA8cnBjLWVycm9yPgogICAgICAgICAgICA8ZXJyb3Itc2V2ZXJpdHk+ZXJyb3I8L2Vycm9yLXNldmVyaXR5PgogICAgICAgICAgICA8ZXJyb3ItaW5mbz4KICAgICAgICAgICAgICAgIDxiYWQtZWxlbWVudD5kZWxldGUgc3lzdGVtIGhvc3QtbmFtZTwvYmFkLWVsZW1lbnQ+CiAgICAgICAgICAgIDwvZXJyb3ItaW5mbz4KICAgICAgICAgICAgPGVycm9yLW1lc3NhZ2U+SU5KRUNURUQgRVJST1I8L2Vycm9yLW1lc3NhZ2U+CiAgICAgICAgPC9ycGMtZXJyb3I+CiAgICAgICAgPGxvYWQtZXJyb3ItY291bnQ+MTwvbG9hZC1lcnJvci1jb3VudD4KICAgIDwvbG9hZC1jb25maWd1cmF0aW9uLXJlc3VsdHM+CjwvcnBjLXJlcGx5PiIiIg==</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIHhtbCA9ICIiIjxycGMtcmVwbHkgbWVzc2FnZS1pZD0idXJuOnV1aWQ6MGQ1MzdkNjItZjMyOC0xMWUzLThlMGEtOTBiMTFjNGI5ZDY3Ij4K</text>
+      <register name="2" type="4">
+        <text encoding="base64">ICAgIHN0YXRlX3JnMCA9IGZhY3RzWyJzcnhfY2x1c3Rlcl9yZWR1bmRhbmN5X2dyb3VwIl1bJzAnXVtub2RlXVsic3RhdHVzIl0KICAgIHN0YXRlX3JnMSA9IGZhY3RzWyJzcnhfY2x1c3Rlcl9yZWR1bmRhbmN5X2dyb3VwIl1bJzEnXVtub2RlXVsic3RhdHVzIl0KICAgIHdyaXRlX3RvX2xvZygiUmVkdW5kYW5jeSBncm91cCAwIHswfSBzdGF0dXM6IHsxfSIuZm9ybWF0KG5vZGUsIHN0YXRlX3JnMCkpCiAgICB3cml0ZV90b19sb2coIlJlZHVuZGFuY3kgZ3JvdXAgMSB7MH0gc3RhdHVzOiB7MX0iLmZvcm1hdChub2RlLCBzdGF0ZV9yZzEpKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHhtbCA9ICIiIjxycGMtcmVwbHkgbWVzc2FnZS1pZD0idXJuOnV1aWQ6MGQ1MzdkNjItZjMyOC0xMWUzLThlMGEtOTBiMTFjNGI5ZDY3Ij4K</text>
-      </register>
-      <register name="4" type="4">
-        <text encoding="base64">ICAgIHhtbCA9ICIiIjxycGMtcmVwbHkgbWVzc2FnZS1pZD0idXJuOnV1aWQ6MGQ1MzdkNjItZjMyOC0xMWUzLThlMGEtOTBiMTFjNGI5ZDY3Ij4KICAgIDxsb2FkLWNvbmZpZ3VyYXRpb24tcmVzdWx0cz4KICAgICAgICA8cnBjLWVycm9yPgogICAgICAgICAgICA8ZXJyb3Itc2V2ZXJpdHk+ZXJyb3I8L2Vycm9yLXNldmVyaXR5PgogICAgICAgICAgICA8ZXJyb3ItaW5mbz4KICAgICAgICAgICAgICAgIDxiYWQtZWxlbWVudD5kZWxldGUgc3lzdGVtIGhvc3QtbmFtZTwvYmFkLWVsZW1lbnQ+CiAgICAgICAgICAgIDwvZXJyb3ItaW5mbz4KICAgICAgICAgICAgPGVycm9yLW1lc3NhZ2U+SU5KRUNURUQgRVJST1I8L2Vycm9yLW1lc3NhZ2U+CiAgICAgICAgPC9ycGMtZXJyb3I+CiAgICAgICAgPGxvYWQtZXJyb3ItY291bnQ+MTwvbG9hZC1lcnJvci1jb3VudD4KICAgIDwvbG9hZC1jb25maWd1cmF0aW9uLXJlc3VsdHM+CjwvcnBjLXJlcGx5PiIiIg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="4">
+        <text encoding="base64">ICAgICMgc3RhdGVfcmcwID0gZmFjdHNbInNyeF9jbHVzdGVyX3JlZHVuZGFuY3lfZ3JvdXAiXVsnMCddW25vZGVdWyJzdGF0dXMiXQogICAgIyBzdGF0ZV9yZzEgPSBmYWN0c1sic3J4X2NsdXN0ZXJfcmVkdW5kYW5jeV9ncm91cCJdWycxJ11bbm9kZV1bInN0YXR1cyJdCiAgICAjIHdyaXRlX3RvX2xvZygiUmVkdW5kYW5jeSBncm91cCAwIHswfSBzdGF0dXM6IHsxfSIuZm9ybWF0KG5vZGUsIHN0YXRlX3JnMCkpCiAgICAjIHdyaXRlX3RvX2xvZygiUmVkdW5kYW5jeSBncm91cCAxIHswfSBzdGF0dXM6IHsxfSIuZm9ybWF0KG5vZGUsIHN0YXRlX3JnMSkpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZnJvbSBseG1sLmV0cmVlIGltcG9ydCBFbGVtZW50LCBFbGVtZW50VHJlZQo=</text>
+        <text encoding="base64">ICAgICAgICByYWlzZSBFeGNlcHRpb24gICAgICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBleGl0KDEpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">PC9ycGMtcmVwbHk+Cg==</text>
+        <text encoding="base64">ICAgIHdyaXRlX3RvKGZhY3RzKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIDwvbG9hZC1jb25maWd1cmF0aW9uLXJlc3VsdHM+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -1400,7 +1400,6 @@
         <entry>get_device</entry>
       </history-search>
       <history-cmd>
-        <entry>wq</entry>
         <entry>251</entry>
         <entry>13443</entry>
         <entry>133</entry>
@@ -1419,6 +1418,7 @@
         <entry>668</entry>
         <entry>$</entry>
         <entry>0</entry>
+        <entry>we</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
