@@ -273,12 +273,12 @@
         <mark key="^" line="109" column="19" />
         <mark key="." line="133" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/gre_change_run.py" timestamp="1558753073510">
-        <mark key="'" line="481" column="0" />
-        <mark key="[" line="180" column="25" />
-        <mark key="]" line="181" column="3" />
-        <mark key="." line="181" column="3" />
-        <mark key="^" line="181" column="3" />
+      <file name="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/gre_change_run.py" timestamp="1559886360736">
+        <mark key="'" line="7" column="6" />
+        <mark key="[" line="409" column="0" />
+        <mark key="]" line="408" column="32" />
+        <mark key="." line="408" column="32" />
+        <mark key="^" line="409" column="3" />
       </file>
       <file name="$USER_HOME$/Sites/FlaskApp/templates/includes/commentbox.html" timestamp="1514778376934">
         <mark key="[" line="3" column="90" />
@@ -724,7 +724,8 @@
         <mark key="^" line="3" column="34" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/common.py" timestamp="1559856630016">
+      <file name="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/common.py" timestamp="1559886998114">
+        <mark key="'" line="0" column="0" />
         <mark key="[" line="414" column="18" />
         <mark key="]" line="414" column="18" />
         <mark key="^" line="414" column="18" />
@@ -1221,10 +1222,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="41" column="35" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/remote_node_upgrade.py" />
-      <jump line="148" column="36" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/remote_node_upgrade.py" />
-      <jump line="153" column="22" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/remote_node_upgrade.py" />
-      <jump line="341" column="0" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/srx-licu.py" />
       <jump line="1282" column="59" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/srx-licu.py" />
       <jump line="1285" column="55" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/srx-licu.py" />
       <jump line="1441" column="29" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/srx-licu.py" />
@@ -1321,6 +1318,10 @@
       <jump line="726" column="14" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/modified_vsrx_upgrade.py" />
       <jump line="557" column="21" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/modified_vsrx_upgrade.py" />
       <jump line="103" column="13" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/run_upgrade.py" />
+      <jump line="54" column="6" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/gre_change_run.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/gre_change_run.py" />
+      <jump line="7" column="6" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/gre_change_run.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/common.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1330,10 +1331,10 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>rg_lo</text>
+        <text>get_device</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ZnJvbSBseG1sLmV0cmVlIGltcG9ydCBfRWxlbWVudAo=</text>
+      <register name="0" type="4">
+        <text encoding="base64">ICAgICAgICBmYWN0cyA9IGdldF9kZXZpY2VfZmFjdHMoZGV2aWNlKQogICAgICAgIHN0YXRlX3JnMCA9IGZhY3RzWyJzcnhfY2x1c3Rlcl9yZWR1bmRhbmN5X2dyb3VwIl1bJzAnXVtub2RlXVsic3RhdHVzIl0KICAgICAgICBzdGF0ZV9yZzEgPSBmYWN0c1sic3J4X2NsdXN0ZXJfcmVkdW5kYW5jeV9ncm91cCJdWycxJ11bbm9kZV1bInN0YXR1cyJdCiAgICAgICAgd3JpdGVfdG9fbG9nKCJSZWR1bmRhbmN5IGdyb3VwIDAgezB9IHN0YXR1czogezF9Ii5mb3JtYXQobm9kZSwgc3RhdGVfcmcwKSkKICAgICAgICB3cml0ZV90b19sb2coIlJlZHVuZGFuY3kgZ3JvdXAgMSB7MH0gc3RhdHVzOiB7MX0iLmZvcm1hdChub2RlLCBzdGF0ZV9yZzEpKQo=</text>
       </register>
       <register name="1" type="4">
         <text encoding="base64">ICAgIDxsb2FkLWNvbmZpZ3VyYXRpb24tcmVzdWx0cz4KICAgICAgICA8cnBjLWVycm9yPgogICAgICAgICAgICA8ZXJyb3Itc2V2ZXJpdHk+ZXJyb3I8L2Vycm9yLXNldmVyaXR5PgogICAgICAgICAgICA8ZXJyb3ItaW5mbz4KICAgICAgICAgICAgICAgIDxiYWQtZWxlbWVudD5kZWxldGUgc3lzdGVtIGhvc3QtbmFtZTwvYmFkLWVsZW1lbnQ+CiAgICAgICAgICAgIDwvZXJyb3ItaW5mbz4KICAgICAgICAgICAgPGVycm9yLW1lc3NhZ2U+SU5KRUNURUQgRVJST1I8L2Vycm9yLW1lc3NhZ2U+CiAgICAgICAgPC9ycGMtZXJyb3I+CiAgICAgICAgPGxvYWQtZXJyb3ItY291bnQ+MTwvbG9hZC1lcnJvci1jb3VudD4KICAgIDwvbG9hZC1jb25maWd1cmF0aW9uLXJlc3VsdHM+CjwvcnBjLXJlcGx5PiIiIg==</text>
@@ -1367,9 +1368,9 @@
       </register>
     </registers>
     <search>
-      <last-search>rg_lo</last-search>
+      <last-search>get_device</last-search>
       <last-offset />
-      <last-pattern>rg_lo</last-pattern>
+      <last-pattern>get_device</last-pattern>
       <last-replace>CodeSimpleSchema</last-replace>
       <last-substitute>CodeSchema</last-substitute>
       <last-dir>1</last-dir>
@@ -1377,8 +1378,6 @@
     </search>
     <history>
       <history-search>
-        <entry>max</entry>
-        <entry>max_retr</entry>
         <entry>shutdown_vm</entry>
         <entry>stage_enabled</entry>
         <entry>lock</entry>
@@ -1397,6 +1396,8 @@
         <entry>mkdir</entry>
         <entry>rg_loca</entry>
         <entry>rg_lo</entry>
+        <entry>get_device_facts</entry>
+        <entry>get_device</entry>
       </history-search>
       <history-cmd>
         <entry>wq</entry>
@@ -1415,9 +1416,9 @@
         <entry>2293</entry>
         <entry>637</entry>
         <entry>1691</entry>
+        <entry>668</entry>
         <entry>$</entry>
         <entry>0</entry>
-        <entry>668</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
