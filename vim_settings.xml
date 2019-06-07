@@ -626,12 +626,12 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/run_upgrade.py" timestamp="1559857155248">
+      <file name="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/run_upgrade.py" timestamp="1559893410541">
         <mark key="'" line="103" column="13" />
-        <mark key="[" line="90" column="65" />
-        <mark key="]" line="90" column="92" />
-        <mark key="^" line="90" column="92" />
-        <mark key="." line="90" column="92" />
+        <mark key="[" line="229" column="65" />
+        <mark key="]" line="229" column="74" />
+        <mark key="." line="229" column="74" />
+        <mark key="^" line="229" column="74" />
       </file>
       <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/mod_tester/tester.py" timestamp="1515837619326">
         <mark key="[" line="55" column="0" />
@@ -1325,10 +1325,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgd3JpdGVfdG9fbG9nKGUpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text encoding="base64">cnVudGltZSA=</text>
       </register>
       <register name="/" type="4">
         <text>role</text>
@@ -1337,13 +1337,13 @@
         <text encoding="base64">ICAgICAgICBmYWN0cyA9IGdldF9kZXZpY2VfZmFjdHMoZGV2aWNlKQogICAgICAgIHN0YXRlX3JnMCA9IGZhY3RzWyJzcnhfY2x1c3Rlcl9yZWR1bmRhbmN5X2dyb3VwIl1bJzAnXVtub2RlXVsic3RhdHVzIl0KICAgICAgICBzdGF0ZV9yZzEgPSBmYWN0c1sic3J4X2NsdXN0ZXJfcmVkdW5kYW5jeV9ncm91cCJdWycxJ11bbm9kZV1bInN0YXR1cyJdCiAgICAgICAgd3JpdGVfdG9fbG9nKCJSZWR1bmRhbmN5IGdyb3VwIDAgezB9IHN0YXR1czogezF9Ii5mb3JtYXQobm9kZSwgc3RhdGVfcmcwKSkKICAgICAgICB3cml0ZV90b19sb2coIlJlZHVuZGFuY3kgZ3JvdXAgMSB7MH0gc3RhdHVzOiB7MX0iLmZvcm1hdChub2RlLCBzdGF0ZV9yZzEpKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgd3JpdGVfdG9fbG9nKGUpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHJlbW90ZV9ub2RlID0gIiIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHJlbW90ZV9ub2RlID0gIiIK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
@@ -1355,13 +1355,13 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">ICAgIGlmIG5vZGUgPT0gcHJpbWFyeVsiMCJdOgo=</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text encoding="base64">RmFsc2UKICAgIA==</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpc19wcmltYXJ5ID0gCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
