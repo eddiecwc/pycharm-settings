@@ -273,12 +273,12 @@
         <mark key="^" line="109" column="19" />
         <mark key="." line="133" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/gre_change_run.py" timestamp="1559888935686">
-        <mark key="'" line="7" column="6" />
-        <mark key="[" line="426" column="6" />
-        <mark key="]" line="426" column="11" />
-        <mark key="." line="426" column="11" />
-        <mark key="^" line="426" column="11" />
+      <file name="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/gre_change_run.py" timestamp="1559891820598">
+        <mark key="'" line="447" column="0" />
+        <mark key="[" line="499" column="0" />
+        <mark key="]" line="499" column="0" />
+        <mark key="^" line="498" column="7" />
+        <mark key="." line="499" column="0" />
       </file>
       <file name="$USER_HOME$/Sites/FlaskApp/templates/includes/commentbox.html" timestamp="1514778376934">
         <mark key="[" line="3" column="90" />
@@ -724,12 +724,12 @@
         <mark key="^" line="3" column="34" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/common.py" timestamp="1559886998114">
+      <file name="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/common.py" timestamp="1559891359938">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="414" column="18" />
-        <mark key="]" line="414" column="18" />
-        <mark key="^" line="414" column="18" />
-        <mark key="." line="414" column="18" />
+        <mark key="[" line="95" column="46" />
+        <mark key="]" line="95" column="51" />
+        <mark key="." line="95" column="51" />
+        <mark key="^" line="95" column="51" />
       </file>
       <file name="$USER_HOME$/projects/gateway/licu/do-update" timestamp="1550640403777">
         <mark key="'" line="52" column="13" />
@@ -1222,11 +1222,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1282" column="59" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/srx-licu.py" />
-      <jump line="1285" column="55" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/srx-licu.py" />
-      <jump line="1441" column="29" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/srx-licu.py" />
-      <jump line="1479" column="33" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/srx-licu.py" />
-      <jump line="2097" column="33" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/srx-licu.py" />
       <jump line="1588" column="22" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/srx-licu.py" />
       <jump line="311" column="48" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/common.py" />
       <jump line="191" column="17" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/common.py" />
@@ -1322,16 +1317,21 @@
       <jump line="0" column="0" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/gre_change_run.py" />
       <jump line="7" column="6" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/gre_change_run.py" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/common.py" />
+      <jump line="438" column="23" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/gre_change_run.py" />
+      <jump line="440" column="8" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/gre_change_run.py" />
+      <jump line="462" column="10" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/gre_change_run.py" />
+      <jump line="506" column="11" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/gre_change_run.py" />
+      <jump line="448" column="0" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/gre_change_run.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>,</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>&quot;</text>
       </register>
       <register name="/" type="4">
-        <text>get_device</text>
+        <text>role</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">ICAgICAgICBmYWN0cyA9IGdldF9kZXZpY2VfZmFjdHMoZGV2aWNlKQogICAgICAgIHN0YXRlX3JnMCA9IGZhY3RzWyJzcnhfY2x1c3Rlcl9yZWR1bmRhbmN5X2dyb3VwIl1bJzAnXVtub2RlXVsic3RhdHVzIl0KICAgICAgICBzdGF0ZV9yZzEgPSBmYWN0c1sic3J4X2NsdXN0ZXJfcmVkdW5kYW5jeV9ncm91cCJdWycxJ11bbm9kZV1bInN0YXR1cyJdCiAgICAgICAgd3JpdGVfdG9fbG9nKCJSZWR1bmRhbmN5IGdyb3VwIDAgezB9IHN0YXR1czogezF9Ii5mb3JtYXQobm9kZSwgc3RhdGVfcmcwKSkKICAgICAgICB3cml0ZV90b19sb2coIlJlZHVuZGFuY3kgZ3JvdXAgMSB7MH0gc3RhdHVzOiB7MX0iLmZvcm1hdChub2RlLCBzdGF0ZV9yZzEpKQo=</text>
@@ -1339,8 +1339,8 @@
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">ICAgIHN0YXRlX3JnMCA9IGZhY3RzWyJzcnhfY2x1c3Rlcl9yZWR1bmRhbmN5X2dyb3VwIl1bJzAnXVtub2RlXVsic3RhdHVzIl0KICAgIHN0YXRlX3JnMSA9IGZhY3RzWyJzcnhfY2x1c3Rlcl9yZWR1bmRhbmN5X2dyb3VwIl1bJzEnXVtub2RlXVsic3RhdHVzIl0KICAgIHdyaXRlX3RvX2xvZygiUmVkdW5kYW5jeSBncm91cCAwIHswfSBzdGF0dXM6IHsxfSIuZm9ybWF0KG5vZGUsIHN0YXRlX3JnMCkpCiAgICB3cml0ZV90b19sb2coIlJlZHVuZGFuY3kgZ3JvdXAgMSB7MH0gc3RhdHVzOiB7MX0iLmZvcm1hdChub2RlLCBzdGF0ZV9yZzEpKQo=</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIHJlbW90ZV9ub2RlID0gIiIK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
@@ -1348,29 +1348,29 @@
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">ICAgICMgc3RhdGVfcmcwID0gZmFjdHNbInNyeF9jbHVzdGVyX3JlZHVuZGFuY3lfZ3JvdXAiXVsnMCddW25vZGVdWyJzdGF0dXMiXQogICAgIyBzdGF0ZV9yZzEgPSBmYWN0c1sic3J4X2NsdXN0ZXJfcmVkdW5kYW5jeV9ncm91cCJdWycxJ11bbm9kZV1bInN0YXR1cyJdCiAgICAjIHdyaXRlX3RvX2xvZygiUmVkdW5kYW5jeSBncm91cCAwIHswfSBzdGF0dXM6IHsxfSIuZm9ybWF0KG5vZGUsIHN0YXRlX3JnMCkpCiAgICAjIHdyaXRlX3RvX2xvZygiUmVkdW5kYW5jeSBncm91cCAxIHswfSBzdGF0dXM6IHsxfSIuZm9ybWF0KG5vZGUsIHN0YXRlX3JnMSkpCg==</text>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICByYWlzZSBFeGNlcHRpb24gICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBleGl0KDEpCg==</text>
+        <text encoding="base64">ICAgIGlmIG5vZGUgPT0gcHJpbWFyeVsiMCJdOgo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIHdyaXRlX3RvKGZhY3RzKQo=</text>
+      <register name="8" type="4">
+        <text encoding="base64">RmFsc2UKICAgIA==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpc19wcmltYXJ5ID0gCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>get_device</last-search>
+      <last-search>role</last-search>
       <last-offset />
-      <last-pattern>get_device</last-pattern>
+      <last-pattern>role</last-pattern>
       <last-replace>CodeSimpleSchema</last-replace>
       <last-substitute>CodeSchema</last-substitute>
       <last-dir>1</last-dir>
@@ -1378,7 +1378,6 @@
     </search>
     <history>
       <history-search>
-        <entry>shutdown_vm</entry>
         <entry>stage_enabled</entry>
         <entry>lock</entry>
         <entry>unlocking configuration data</entry>
@@ -1398,6 +1397,7 @@
         <entry>rg_lo</entry>
         <entry>get_device_facts</entry>
         <entry>get_device</entry>
+        <entry>role</entry>
       </history-search>
       <history-cmd>
         <entry>251</entry>
