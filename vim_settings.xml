@@ -273,12 +273,12 @@
         <mark key="^" line="109" column="19" />
         <mark key="." line="133" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/gre_change_run.py" timestamp="1559891820598">
-        <mark key="'" line="447" column="0" />
-        <mark key="[" line="499" column="0" />
-        <mark key="]" line="499" column="0" />
-        <mark key="^" line="498" column="7" />
-        <mark key="." line="499" column="0" />
+      <file name="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/gre_change_run.py" timestamp="1560792497055">
+        <mark key="'" line="498" column="12" />
+        <mark key="[" line="354" column="0" />
+        <mark key="]" line="354" column="3" />
+        <mark key="^" line="354" column="3" />
+        <mark key="." line="354" column="3" />
       </file>
       <file name="$USER_HOME$/Sites/FlaskApp/templates/includes/commentbox.html" timestamp="1514778376934">
         <mark key="[" line="3" column="90" />
@@ -724,8 +724,8 @@
         <mark key="^" line="3" column="34" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/common.py" timestamp="1560358554240">
-        <mark key="'" line="0" column="0" />
+      <file name="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/common.py" timestamp="1560792606383">
+        <mark key="'" line="73" column="24" />
         <mark key="[" line="95" column="46" />
         <mark key="]" line="95" column="51" />
         <mark key="." line="95" column="51" />
@@ -1230,12 +1230,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="310" column="39" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/srx-licu.py" />
-      <jump line="314" column="35" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/srx-licu.py" />
-      <jump line="319" column="35" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/srx-licu.py" />
-      <jump line="1028" column="42" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/srx-licu.py" />
-      <jump line="1391" column="48" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/srx-licu.py" />
-      <jump line="1398" column="48" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/srx-licu.py" />
       <jump line="1417" column="4" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/srx-licu.py" />
       <jump line="1430" column="35" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/srx-licu.py" />
       <jump line="1431" column="46" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/srx-licu.py" />
@@ -1330,6 +1324,12 @@
       <jump line="2360" column="3" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/srx-licu.py" />
       <jump line="2363" column="56" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/srx-licu.py" />
       <jump line="85" column="4" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/srx-licu.py" />
+      <jump line="349" column="0" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/gre_change_run.py" />
+      <jump line="354" column="4" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/gre_change_run.py" />
+      <jump line="469" column="15" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/gre_change_run.py" />
+      <jump line="494" column="12" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/gre_change_run.py" />
+      <jump line="71" column="14" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/common.py" />
+      <jump line="73" column="24" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/common.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1339,7 +1339,7 @@
         <text>.</text>
       </register>
       <register name="/" type="4">
-        <text>post_</text>
+        <text>do_check_call</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAqIFtIb3cgdG8gcmVzb2x2ZSB1bmNvbmZpZ3VyZWQgQk0gcmVjb3Jkc10oI3VuY29uZmlndXJlZCkK</text>
@@ -1376,9 +1376,9 @@
       </register>
     </registers>
     <search>
-      <last-search>post_</last-search>
+      <last-search>do_check_call</last-search>
       <last-offset />
-      <last-pattern>post_</last-pattern>
+      <last-pattern>do_check_call</last-pattern>
       <last-replace>CodeSimpleSchema</last-replace>
       <last-substitute>CodeSchema</last-substitute>
       <last-dir>1</last-dir>
@@ -1386,8 +1386,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Encountered error attempting to connect to</entry>
-        <entry>ErrorGenerator</entry>
         <entry>ErrorGen</entry>
         <entry>rsp</entry>
         <entry>_Element</entry>
@@ -1406,6 +1404,8 @@
         <entry>post</entry>
         <entry>post_upgrade_checks</entry>
         <entry>post_</entry>
+        <entry>move_vnet_to_br</entry>
+        <entry>do_check_call</entry>
       </history-search>
       <history-cmd>
         <entry>133</entry>
