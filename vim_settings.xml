@@ -203,12 +203,12 @@
         <mark key="." line="569" column="35" />
         <mark key="^" line="569" column="35" />
       </file>
-      <file name="$USER_HOME$/projects/gateway/Gateway-Design-and-Process/onboarding/Gateway-Configuration-Tips.md" timestamp="1560930653218">
+      <file name="$USER_HOME$/projects/gateway/Gateway-Design-and-Process/onboarding/Gateway-Configuration-Tips.md" timestamp="1560962504597">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="61" column="15" />
-        <mark key="]" line="62" column="5" />
-        <mark key="." line="62" column="5" />
-        <mark key="^" line="62" column="5" />
+        <mark key="[" line="184" column="0" />
+        <mark key="]" line="184" column="267" />
+        <mark key="^" line="184" column="267" />
+        <mark key="." line="184" column="267" />
       </file>
       <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/mod_support/gateway.py" timestamp="1515889410441">
         <mark key="'" line="0" column="0" />
@@ -784,6 +784,9 @@
         <mark key="." line="7" column="1" />
         <mark key="^" line="7" column="1" />
       </file>
+      <file name="/Python Console" timestamp="1560961578302">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/mod_support/product_number.py" timestamp="1516348109317">
         <mark key="'" line="47" column="10" />
         <mark key="[" line="58" column="50" />
@@ -1340,46 +1343,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>v</text>
+        <text>b</text>
       </register>
       <register name="-" type="4">
-        <text>v</text>
+        <text>b</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxTZXR1cFw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAqIFtIb3cgdG8gcmVzb2x2ZSB1bmNvbmZpZ3VyZWQgQk0gcmVjb3Jkc10oI3VuY29uZmlndXJlZCkK</text>
+        <text encoding="base64">ICAgICAgICAqIEV4YW1wbGUgY29uZmlndXJhdGlvbiBmb3IgVkxBTjEtVkxBTjIK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Q29tbWFuZHMgaWYgdXNpbmcgQ0xJOgo=</text>
+        <text encoding="base64">b3IgaXBlcmYzIC1zIC1EIHRvIHN0YXJ0IGl0IGFzIGRhZW1vbgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">dGhlbiBvbiB0aGUgc2VydmVyIGJhcmVtZXRhbCBqdXN0IHJ1biBpcGVyZjMgLXMgdG8gc3RhcnQgaXQgaW4gc2VydmVyIG1vZGUK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Q1VTVE9NRVItUFJJVkFURSBWTEFOcyBzaG91bGQgYmUgZGVmaW5lZCBpbiByZXRoMiBzdGFuemEgZm9yIEhBLCBhbmQgYWUwIG9uIFNBCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">SW4gdGhlICJpbnRlcmZhY2VzIiBzdWJzZWN0aW9uLCBmaW5kIHRoZSBpbnRlcmZhY2Ugd2hlcmUgVkxBTiB3aWxsIGJlIGRlZmluZWQuIEZvciBTQSBzeXN0ZW1zIGl0IHdpbGwgYmUgYWUqIGludGVyZmFjZS4gRm9yIEhBIHN5c3RlbXMgaXQgd2lsbCBiZSByZXRoKi4gCg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgKiAK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAqIEV4YW1wbGUgY29tbWFuZCB1c2VkIGZvciB0ZXN0OiBgaXBlcmYzIC1jICRpcCAtaSA1IC1WIC1kIC10ICRzZWNvbmRzIC1QIDMgMj4mMSB8IHRlZSBpcGVyZjMub3V0YAo=</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgfWBgYAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">b2YgdGhlIGdhdGV3YXkgZnJvbSBjbG91ZC5pYm0uY29tIGdhdGV3YXkgcGFnZS4gCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">KiBGCg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICogTWFrZSBzdXJlIGl0J3Mgcm91dGVkIHRocm91Z2ggdGhlIGdhdGV3YXksIGFuZCBub3Qgcm91dGUtYXJvdW5kLiAK</text>
+      <register name="9" type="4">
+        <text encoding="base64">YmFzaAogICAgICAgICAgICA=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wq</text>
       </register>
     </registers>
     <search>
@@ -1432,9 +1435,9 @@
         <entry>$</entry>
         <entry>we</entry>
         <entry>q</entry>
-        <entry>wq</entry>
         <entry>0</entry>
         <entry>w</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
