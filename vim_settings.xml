@@ -287,6 +287,7 @@
         <mark key="^" line="358" column="27" />
         <mark key="." line="353" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/gateway/Juniper_vSRX_on_KVM/pkg_install_15.sh" timestamp="1561045989113" />
       <file name="$USER_HOME$/Sites/FlaskApp/templates/includes/commentbox.html" timestamp="1514778376934">
         <mark key="[" line="3" column="90" />
         <mark key="]" line="4" column="20" />
@@ -875,10 +876,11 @@
         <mark key="^" line="42" column="33" />
         <mark key="." line="42" column="33" />
       </file>
-      <file name="$USER_HOME$/projects/gateway/Juniper_vSRX_on_KVM/pkg_install.sh" timestamp="1557959652671">
-        <mark key="[" line="54" column="0" />
-        <mark key="]" line="54" column="0" />
-        <mark key="." line="54" column="0" />
+      <file name="$USER_HOME$/projects/gateway/Juniper_vSRX_on_KVM/pkg_install.sh" timestamp="1561046519607">
+        <mark key="[" line="36" column="19" />
+        <mark key="]" line="37" column="40" />
+        <mark key="." line="37" column="40" />
+        <mark key="^" line="37" column="40" />
       </file>
       <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/models/cluster.py" timestamp="1524948184103">
         <mark key="[" line="12" column="33" />
@@ -1342,11 +1344,11 @@
       <jump line="0" column="0" filename="$USER_HOME$/projects/gateway/Gateway-Design-and-Process/onboarding/Gateway-Configuration-Tips.md" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>b</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgc3VkbyBhcHQtZ2V0IGluc3RhbGwgLWYgLXkgJHtwfSAyPiYxCg==</text>
       </register>
       <register name="-" type="4">
-        <text>b</text>
+        <text encoding="base64">PT0g</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxTZXR1cFw+</text>
@@ -1355,34 +1357,34 @@
         <text encoding="base64">ICAgICAgICAqIEV4YW1wbGUgY29uZmlndXJhdGlvbiBmb3IgVkxBTjEtVkxBTjIK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">b3IgaXBlcmYzIC1zIC1EIHRvIHN0YXJ0IGl0IGFzIGRhZW1vbgo=</text>
+        <text encoding="base64">ICAgICAgc3VkbyBhcHQtZ2V0IGluc3RhbGwgLWYgLXkgJHtwfSAyPiYxCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">dGhlbiBvbiB0aGUgc2VydmVyIGJhcmVtZXRhbCBqdXN0IHJ1biBpcGVyZjMgLXMgdG8gc3RhcnQgaXQgaW4gc2VydmVyIG1vZGUK</text>
+        <text encoding="base64">ZXhwb3J0IAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">b3IgaXBlcmYzIC1zIC1EIHRvIHN0YXJ0IGl0IGFzIGRhZW1vbgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgKiAK</text>
+        <text encoding="base64">dGhlbiBvbiB0aGUgc2VydmVyIGJhcmVtZXRhbCBqdXN0IHJ1biBpcGVyZjMgLXMgdG8gc3RhcnQgaXQgaW4gc2VydmVyIG1vZGUK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAqIEV4YW1wbGUgY29tbWFuZCB1c2VkIGZvciB0ZXN0OiBgaXBlcmYzIC1jICRpcCAtaSA1IC1WIC1kIC10ICRzZWNvbmRzIC1QIDMgMj4mMSB8IHRlZSBpcGVyZjMub3V0YAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfWBgYAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgKiAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAqIEV4YW1wbGUgY29tbWFuZCB1c2VkIGZvciB0ZXN0OiBgaXBlcmYzIC1jICRpcCAtaSA1IC1WIC1kIC10ICRzZWNvbmRzIC1QIDMgMj4mMSB8IHRlZSBpcGVyZjMub3V0YAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgfWBgYAo=</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">YmFzaAogICAgICAgICAgICA=</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -1436,8 +1438,8 @@
         <entry>we</entry>
         <entry>q</entry>
         <entry>0</entry>
-        <entry>w</entry>
         <entry>wq</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
