@@ -832,9 +832,9 @@
         <mark key="^" line="24" column="36" />
         <mark key="." line="24" column="36" />
       </file>
-      <file name="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/pkg_install.sh" timestamp="1559934036174">
-        <mark key="'" line="46" column="6" />
-        <mark key="[" line="33" column="35" />
+      <file name="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/pkg_install.sh" timestamp="1561088896507">
+        <mark key="'" line="3" column="41" />
+        <mark key="[" line="33" column="9" />
         <mark key="]" line="33" column="39" />
         <mark key="." line="33" column="39" />
         <mark key="^" line="33" column="39" />
@@ -1242,10 +1242,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="51" column="25" filename="/helper_functions.py" />
-      <jump line="8" column="41" filename="/helper_functions.py" />
-      <jump line="450" column="4" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/srx-licu.py" />
-      <jump line="470" column="4" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/srx-licu.py" />
       <jump line="551" column="4" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/srx-licu.py" />
       <jump line="571" column="4" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/srx-licu.py" />
       <jump line="291" column="27" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/srx-licu.py" />
@@ -1342,6 +1338,10 @@
       <jump line="114" column="26" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/srx-licu.py" />
       <jump line="115" column="26" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/srx-licu.py" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/gateway/Gateway-Design-and-Process/onboarding/Gateway-Configuration-Tips.md" />
+      <jump line="39" column="39" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/pkg_install.sh" />
+      <jump line="33" column="4" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/pkg_install.sh" />
+      <jump line="2" column="2" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/pkg_install.sh" />
+      <jump line="3" column="41" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/pkg_install.sh" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -1351,7 +1351,7 @@
         <text encoding="base64">PT0g</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxTZXR1cFw+</text>
+        <text>sudo</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAqIEV4YW1wbGUgY29uZmlndXJhdGlvbiBmb3IgVkxBTjEtVkxBTjIK</text>
@@ -1388,17 +1388,16 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxTZXR1cFw+</last-search>
+      <last-search>sudo</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxTZXR1cFw+</last-pattern>
+      <last-pattern>sudo</last-pattern>
       <last-replace>CodeSimpleSchema</last-replace>
       <last-substitute>CodeSchema</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>TARGET</entry>
         <entry>mkdir</entry>
         <entry>rg_loca</entry>
         <entry>rg_lo</entry>
@@ -1418,6 +1417,7 @@
         <entry>Waiting 20 seconds and then checking</entry>
         <entry>get_logical_int_status</entry>
         <entry encoding="base64">XDxTZXR1cFw+</entry>
+        <entry>sudo</entry>
       </history-search>
       <history-cmd>
         <entry>133</entry>
