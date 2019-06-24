@@ -1146,6 +1146,12 @@
         <mark key="^" line="4" column="11" />
         <mark key="." line="266" column="34" />
       </file>
+      <file name="$USER_HOME$/projects/gateway/Gateway-Design-and-Process/onboarding/Gateway-Debug.md" timestamp="1561418697587">
+        <mark key="[" line="197" column="0" />
+        <mark key="]" line="197" column="0" />
+        <mark key="^" line="197" column="0" />
+        <mark key="." line="197" column="0" />
+      </file>
       <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/ess_systems/forms.py" timestamp="1517306442552">
         <mark key="'" line="28" column="71" />
         <mark key="[" line="37" column="95" />
@@ -1343,11 +1349,11 @@
       <jump line="3" column="41" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/pkg_install.sh" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgc3VkbyBhcHQtZ2V0IGluc3RhbGwgLWYgLXkgJHtwfSAyPiYxCg==</text>
+      <register name="&quot;" type="4">
+        <text>6</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">PT0g</text>
+        <text>6</text>
       </register>
       <register name="/" type="4">
         <text>sudo</text>
@@ -1436,8 +1442,8 @@
         <entry>$</entry>
         <entry>we</entry>
         <entry>q</entry>
-        <entry>0</entry>
         <entry>wq</entry>
+        <entry>0</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
