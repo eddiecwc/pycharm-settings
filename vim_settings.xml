@@ -1146,11 +1146,12 @@
         <mark key="^" line="4" column="11" />
         <mark key="." line="266" column="34" />
       </file>
-      <file name="$USER_HOME$/projects/gateway/Gateway-Design-and-Process/onboarding/Gateway-Debug.md" timestamp="1561418697587">
-        <mark key="[" line="197" column="0" />
-        <mark key="]" line="197" column="0" />
-        <mark key="^" line="197" column="0" />
-        <mark key="." line="197" column="0" />
+      <file name="$USER_HOME$/projects/gateway/Gateway-Design-and-Process/onboarding/Gateway-Debug.md" timestamp="1561428160600">
+        <mark key="'" line="199" column="75" />
+        <mark key="[" line="201" column="64" />
+        <mark key="]" line="201" column="47" />
+        <mark key="." line="201" column="47" />
+        <mark key="^" line="201" column="47" />
       </file>
       <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/ess_systems/forms.py" timestamp="1517306442552">
         <mark key="'" line="28" column="71" />
@@ -1247,7 +1248,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="551" column="4" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/srx-licu.py" />
       <jump line="571" column="4" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/srx-licu.py" />
       <jump line="291" column="27" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/srx-licu.py" />
       <jump line="155" column="8" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/ibm_setup/ibm_pre.py" />
@@ -1347,63 +1347,63 @@
       <jump line="33" column="4" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/pkg_install.sh" />
       <jump line="2" column="2" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/pkg_install.sh" />
       <jump line="3" column="41" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/pkg_install.sh" />
+      <jump line="198" column="75" filename="$USER_HOME$/projects/gateway/Gateway-Design-and-Process/onboarding/Gateway-Debug.md" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>6</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>6</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>sudo</text>
+        <text encoding="base64">XDxFbmRcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAqIEV4YW1wbGUgY29uZmlndXJhdGlvbiBmb3IgVkxBTjEtVkxBTjIK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgc3VkbyBhcHQtZ2V0IGluc3RhbGwgLWYgLXkgJHtwfSAyPiYxCg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">LS0tLS0tLS18CiAgICAg</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZXhwb3J0IAo=</text>
+        <text encoding="base64">ICAgIHwtLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLXwgLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS18LS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tfAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">b3IgaXBlcmYzIC1zIC1EIHRvIHN0YXJ0IGl0IGFzIGRhZW1vbgo=</text>
+        <text encoding="base64">ICAgIDx0cj4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">dGhlbiBvbiB0aGUgc2VydmVyIGJhcmVtZXRhbCBqdXN0IHJ1biBpcGVyZjMgLXMgdG8gc3RhcnQgaXQgaW4gc2VydmVyIG1vZGUK</text>
+        <text encoding="base64">ICAgICAgICA8dGQgY29sc3Bhbj0yPiAqKkVuZCoqIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICA8dGQgcm93c3Bhbj0yPiAqKk9wZXJhdGlvbioqICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgKiAK</text>
+        <text encoding="base64">ICAgICAgICA8dGQgY29sc3Bhbj0yPiAqKlN0YXJ0KiogIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAqIEV4YW1wbGUgY29tbWFuZCB1c2VkIGZvciB0ZXN0OiBgaXBlcmYzIC1jICRpcCAtaSA1IC1WIC1kIC10ICRzZWNvbmRzIC1QIDMgMj4mMSB8IHRlZSBpcGVyZjMub3V0YAo=</text>
+        <text encoding="base64">ICAgIDx0cj4gICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfWBgYAo=</text>
+        <text encoding="base64">ICAgIDx0YWJsZT4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIHwgPHRkIGNvbHNwYW49ZGRrMj5kb3VibGUK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>sudo</last-search>
+      <last-search encoding="base64">XDxFbmRcPg==</last-search>
       <last-offset />
-      <last-pattern>sudo</last-pattern>
+      <last-pattern encoding="base64">XDxFbmRcPg==</last-pattern>
       <last-replace>CodeSimpleSchema</last-replace>
       <last-substitute>CodeSchema</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>mkdir</entry>
         <entry>rg_loca</entry>
         <entry>rg_lo</entry>
         <entry>get_device_facts</entry>
@@ -1423,6 +1423,7 @@
         <entry>get_logical_int_status</entry>
         <entry encoding="base64">XDxTZXR1cFw+</entry>
         <entry>sudo</entry>
+        <entry encoding="base64">XDxFbmRcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>133</entry>
