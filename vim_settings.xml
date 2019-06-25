@@ -1146,11 +1146,11 @@
         <mark key="^" line="4" column="11" />
         <mark key="." line="266" column="34" />
       </file>
-      <file name="$USER_HOME$/projects/gateway/Gateway-Design-and-Process/onboarding/Gateway-Debug.md" timestamp="1561439508664">
-        <mark key="[" line="120" column="0" />
-        <mark key="]" line="120" column="8" />
-        <mark key="." line="120" column="8" />
-        <mark key="^" line="110" column="3" />
+      <file name="$USER_HOME$/projects/gateway/Gateway-Design-and-Process/onboarding/Gateway-Debug.md" timestamp="1561474312424">
+        <mark key="[" line="366" column="0" />
+        <mark key="]" line="366" column="197" />
+        <mark key="." line="366" column="0" />
+        <mark key="^" line="272" column="184" />
       </file>
       <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/ess_systems/forms.py" timestamp="1517306442552">
         <mark key="'" line="28" column="71" />
@@ -1349,17 +1349,17 @@
       <jump line="198" column="75" filename="$USER_HOME$/projects/gateway/Gateway-Design-and-Process/onboarding/Gateway-Debug.md" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">ICAgIA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAqIFZlcmlmeSB0aGF0IGNsaWVudCBpcGVyZi9waW5nIHRlc3QgaXMgc3RpbGwgYWJsZSB0byBjb250aW51ZS4gVGVtcG9yYXJ5IHNob3J0IGRpc3J1cHRpb25zIGFyZSBva2F5IGFzIGxvbmcgYXMgd29ya2xvYWQgcGlja3MgYmFjayB1cCBhbmQgbm8gc2lnbmlmaWNhbnQgZHJvcCBvZmYgaW4gdGhyb3VnaHB1dC4gICAgICAgICAgICAK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICAgIA==</text>
+        <text encoding="base64">QXNzb2NpYXRlIA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxFbmRcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgdm5ldDAK</text>
+        <text encoding="base64">ICAgICAgICAqIFZlcmlmeSB0aGF0IGNsaWVudCBpcGVyZi9waW5nIHRlc3QgaXMgc3RpbGwgYWJsZSB0byBjb250aW51ZS4gVGVtcG9yYXJ5IHNob3J0IGRpc3J1cHRpb25zIGFyZSBva2F5IGFzIGxvbmcgYXMgd29ya2xvYWQgcGlja3MgYmFjayB1cCBhbmQgbm8gc2lnbmlmaWNhbnQgZHJvcCBvZmYgaW4gdGhyb3VnaHB1dC4gICAgICAgICAgICAK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">CQo=</text>
