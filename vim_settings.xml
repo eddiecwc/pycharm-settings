@@ -692,11 +692,11 @@
         <mark key="^" line="16" column="64" />
         <mark key="." line="16" column="64" />
       </file>
-      <file name="$USER_HOME$/projects/gateway/scripts/failures.md" timestamp="1561561972053">
-        <mark key="[" line="6" column="10" />
-        <mark key="]" line="6" column="10" />
-        <mark key="^" line="6" column="13" />
-        <mark key="." line="6" column="10" />
+      <file name="$USER_HOME$/projects/gateway/scripts/failures.md" timestamp="1561562036886">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="7" />
+        <mark key="^" line="3" column="7" />
+        <mark key="." line="3" column="7" />
       </file>
       <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/mod_node/node.py" timestamp="1515521396191">
         <mark key="'" line="0" column="0" />
@@ -1354,8 +1354,8 @@
       <jump line="198" column="75" filename="$USER_HOME$/projects/gateway/Gateway-Design-and-Process/onboarding/Gateway-Debug.md" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>u</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>u</text>
@@ -1367,31 +1367,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIGBgYAogICAgICAgICAgICAgICAgQ2x1c3RlciBJRDogMwogICAgICAgICAgICAgICAgTm9kZSAgIFByaW9yaXR5IFN0YXR1cyAgICAgICAgIFByZWVtcHQgTWFudWFsICAgTW9uaXRvci1mYWlsdXJlcwoKICAgICAgICAgICAgICAgIFJlZHVuZGFuY3kgZ3JvdXA6IDAgLCBGYWlsb3ZlciBjb3VudDogMQogICAgICAgICAgICAgICAgbm9kZTAgIDEwMCAgICAgIHByaW1hcnkgICAgICAgIG5vICAgICAgbm8gICAgICAgTm9uZQogICAgICAgICAgICAgICAgbm9kZTEgIDEgICAgICAgIHNlY29uZGFyeSAgICAgIG5vICAgICAgbm8gICAgICAgTm9uZQoKICAgICAgICAgICAgICAgIFJlZHVuZGFuY3kgZ3JvdXA6IDEgLCBGYWlsb3ZlciBjb3VudDogMQogICAgICAgICAgICAgICAgbm9kZTAgIDEwMCAgICAgIHByaW1hcnkgICAgICAgIHllcyAgICAgbm8gICAgICAgTm9uZQogICAgICAgICAgICAgICAgbm9kZTEgIDEgICAgICAgIHNlY29uZGFyeSAgICAgIHllcyAgICAgbm8gICAgICAgTm9uZQoKICAgICAgICAgICAgICAgIGBgYCAgICAgICAg</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">fCAgIHwgICB8Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">fCDigKYgfCAgIHwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgKiAuLi4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHZuZXQyCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHZuZXQxCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -1448,8 +1448,8 @@
         <entry>we</entry>
         <entry>q</entry>
         <entry>wq</entry>
-        <entry>0</entry>
         <entry>w</entry>
+        <entry>0</entry>
       </history-cmd>
       <history-expr />
       <history-input />
