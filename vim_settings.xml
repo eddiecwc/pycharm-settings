@@ -541,8 +541,8 @@
         <mark key="^" line="25" column="4" />
         <mark key="." line="25" column="4" />
       </file>
-      <file name="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/srx-licu.py" timestamp="1560832987137">
-        <mark key="'" line="115" column="26" />
+      <file name="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/srx-licu.py" timestamp="1561570696267">
+        <mark key="'" line="2269" column="6" />
         <mark key="[" line="124" column="53" />
         <mark key="]" line="125" column="20" />
         <mark key="." line="125" column="20" />
@@ -692,11 +692,11 @@
         <mark key="^" line="16" column="64" />
         <mark key="." line="16" column="64" />
       </file>
-      <file name="$USER_HOME$/projects/gateway/scripts/failures.md" timestamp="1561566610547">
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="27" column="0" />
-        <mark key="^" line="4" column="7" />
-        <mark key="." line="27" column="0" />
+      <file name="$USER_HOME$/projects/gateway/scripts/failures.md" timestamp="1561570889494">
+        <mark key="[" line="16" column="6" />
+        <mark key="]" line="16" column="6" />
+        <mark key="." line="16" column="6" />
+        <mark key="^" line="16" column="6" />
       </file>
       <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/mod_node/node.py" timestamp="1515521396191">
         <mark key="'" line="0" column="0" />
@@ -790,7 +790,7 @@
         <mark key="." line="7" column="1" />
         <mark key="^" line="7" column="1" />
       </file>
-      <file name="/Python Console" timestamp="1561138547524">
+      <file name="/Python Console" timestamp="1561569193429">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/mod_support/product_number.py" timestamp="1516348109317">
@@ -1070,7 +1070,7 @@
         <mark key="^" line="46" column="7" />
         <mark key="." line="46" column="7" />
       </file>
-      <file name="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/test_errors_conf.yaml" timestamp="1558844055512">
+      <file name="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/test_errors_conf.yaml" timestamp="1561569758836">
         <mark key="[" line="1" column="15" />
         <mark key="]" line="1" column="15" />
         <mark key="^" line="1" column="15" />
@@ -1252,11 +1252,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="571" column="4" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/srx-licu.py" />
-      <jump line="291" column="27" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/srx-licu.py" />
-      <jump line="155" column="8" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/ibm_setup/ibm_pre.py" />
-      <jump line="27" column="14" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/helper_functions.py" />
-      <jump line="9" column="0" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/srx-licu.py" />
       <jump line="1589" column="25" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/srx-licu.py" />
       <jump line="32" column="31" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/srx-licu.py" />
       <jump line="10" column="31" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/helper_functions.py" />
@@ -1352,34 +1347,39 @@
       <jump line="2" column="2" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/pkg_install.sh" />
       <jump line="3" column="41" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/pkg_install.sh" />
       <jump line="198" column="75" filename="$USER_HOME$/projects/gateway/Gateway-Design-and-Process/onboarding/Gateway-Debug.md" />
+      <jump line="182" column="40" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/srx-licu.py" />
+      <jump line="634" column="11" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/srx-licu.py" />
+      <jump line="730" column="22" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/srx-licu.py" />
+      <jump line="2268" column="28" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/srx-licu.py" />
+      <jump line="2269" column="6" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/srx-licu.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="&quot;" type="4">
+        <text>u</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">dG8g</text>
+        <text>u</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxFbmRcPg==</text>
+        <text>pri_config</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">ICAgICAgICAgICAgICAgIGBgYAogICAgICAgICAgICAgICAgQ2x1c3RlciBJRDogMwogICAgICAgICAgICAgICAgTm9kZSAgIFByaW9yaXR5IFN0YXR1cyAgICAgICAgIFByZWVtcHQgTWFudWFsICAgTW9uaXRvci1mYWlsdXJlcwoKICAgICAgICAgICAgICAgIFJlZHVuZGFuY3kgZ3JvdXA6IDAgLCBGYWlsb3ZlciBjb3VudDogMQogICAgICAgICAgICAgICAgbm9kZTAgIDEwMCAgICAgIHByaW1hcnkgICAgICAgIG5vICAgICAgbm8gICAgICAgTm9uZQogICAgICAgICAgICAgICAgbm9kZTEgIDEgICAgICAgIHNlY29uZGFyeSAgICAgIG5vICAgICAgbm8gICAgICAgTm9uZQoKICAgICAgICAgICAgICAgIFJlZHVuZGFuY3kgZ3JvdXA6IDEgLCBGYWlsb3ZlciBjb3VudDogMQogICAgICAgICAgICAgICAgbm9kZTAgIDEwMCAgICAgIHByaW1hcnkgICAgICAgIHllcyAgICAgbm8gICAgICAgTm9uZQogICAgICAgICAgICAgICAgbm9kZTEgIDEgICAgICAgIHNlY29uZGFyeSAgICAgIHllcyAgICAgbm8gICAgICAgTm9uZQoKICAgICAgICAgICAgICAgIGBgYCAgICAgICAg</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="1" type="4">
+        <text encoding="base64">cHJlcmVxIAogICA=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="3" type="4">
+        <text encoding="base64">ICAgICAgICAqIEZhaWxlZCB0byBiYWNrdXAgZXhpc3RpbmcgY29uZmlndXJhdGlvbgogICAgICAgICAgICAqIERpYWdub3NpcwogICAgICAgICAgICAgICAgKiBNZXNzYWdlICJFbmNvdW50ZXJlZCBlcnJvciB3aGVuIHNhdmluZyBjb25maWd1cmF0aW9uIG9uIG5vZGUiIGVycm9yIGlzIGRpc3BsYXllZCBpbiB0aGUgbG9nCiAgICAgICAgICAgICogUmVzb2x1dGlvbgogICAgICAgICAgICAgICAgKiBtYW51YWxseSBhdHRlbXB0IHRvIGJhY2t1cCB2U1JYIGNvbmZpZy4gRnJvbSB2U1JYIGNsaSwgcnVuICJzaG93IGNvbmZpZ3VyYXRpb24gfCBzYXZlIDxiYWNrdXAtY29uZmlnLWZpbGU+Ii4KIA==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">KiAK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAgIAo=</text>
@@ -1388,28 +1388,26 @@
         <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxFbmRcPg==</last-search>
+      <last-search>pri_config</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxFbmRcPg==</last-pattern>
+      <last-pattern>pri_config</last-pattern>
       <last-replace>CodeSimpleSchema</last-replace>
       <last-substitute>CodeSchema</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>rg_loca</entry>
-        <entry>rg_lo</entry>
         <entry>get_device_facts</entry>
         <entry>get_device</entry>
         <entry>role</entry>
@@ -1428,6 +1426,8 @@
         <entry encoding="base64">XDxTZXR1cFw+</entry>
         <entry>sudo</entry>
         <entry encoding="base64">XDxFbmRcPg==</entry>
+        <entry>node0_primary</entry>
+        <entry>pri_config</entry>
       </history-search>
       <history-cmd>
         <entry>133</entry>
@@ -1444,12 +1444,12 @@
         <entry>637</entry>
         <entry>1691</entry>
         <entry>668</entry>
-        <entry>$</entry>
         <entry>we</entry>
         <entry>q</entry>
         <entry>wq</entry>
-        <entry>w</entry>
         <entry>0</entry>
+        <entry>$</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
