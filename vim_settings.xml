@@ -692,6 +692,12 @@
         <mark key="^" line="16" column="64" />
         <mark key="." line="16" column="64" />
       </file>
+      <file name="$USER_HOME$/projects/gateway/scripts/failures.md" timestamp="1561561972053">
+        <mark key="[" line="6" column="10" />
+        <mark key="]" line="6" column="10" />
+        <mark key="^" line="6" column="13" />
+        <mark key="." line="6" column="10" />
+      </file>
       <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/mod_node/node.py" timestamp="1515521396191">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="70" column="33" />
@@ -1348,11 +1354,11 @@
       <jump line="198" column="75" filename="$USER_HOME$/projects/gateway/Gateway-Design-and-Process/onboarding/Gateway-Debug.md" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
+      <register name="&quot;" type="4">
+        <text>u</text>
       </register>
       <register name="-" type="4">
-        <text>j</text>
+        <text>u</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxFbmRcPg==</text>
