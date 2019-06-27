@@ -930,12 +930,12 @@
         <mark key="^" line="24" column="7" />
         <mark key="." line="24" column="7" />
       </file>
-      <file name="$USER_HOME$/projects/gateway/Gateway-services/docs/PagerDuty/README.md" timestamp="1561656084467">
+      <file name="$USER_HOME$/projects/gateway/Gateway-services/docs/PagerDuty/README.md" timestamp="1561656847794">
         <mark key="'" line="52" column="0" />
-        <mark key="[" line="529" column="0" />
-        <mark key="]" line="529" column="3" />
-        <mark key="." line="529" column="3" />
-        <mark key="^" line="529" column="3" />
+        <mark key="[" line="636" column="67" />
+        <mark key="]" line="636" column="67" />
+        <mark key="." line="636" column="67" />
+        <mark key="^" line="636" column="88" />
       </file>
       <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/mod_node/__init__.py" timestamp="1515521737977">
         <mark key="[" line="0" column="21" />
@@ -1151,7 +1151,8 @@
         <mark key="^" line="4" column="11" />
         <mark key="." line="266" column="34" />
       </file>
-      <file name="$USER_HOME$/projects/gateway/Gateway-Design-and-Process/onboarding/Gateway-Debug.md" timestamp="1561655746065">
+      <file name="$USER_HOME$/projects/gateway/Gateway-Design-and-Process/onboarding/Gateway-Debug.md" timestamp="1561656748000">
+        <mark key="'" line="0" column="0" />
         <mark key="[" line="265" column="0" />
         <mark key="]" line="265" column="0" />
         <mark key="." line="265" column="0" />
@@ -1251,10 +1252,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="15" column="0" filename="$USER_HOME$/projects/gateway/venv/lib/python2.7/site-packages/jnpr/junos/exception.py" />
-      <jump line="20" column="33" filename="$USER_HOME$/projects/gateway/venv/lib/python2.7/site-packages/jnpr/junos/exception.py" />
-      <jump line="24" column="11" filename="$USER_HOME$/projects/gateway/venv/lib/python2.7/site-packages/jnpr/junos/exception.py" />
-      <jump line="31" column="19" filename="$USER_HOME$/projects/gateway/venv/lib/python2.7/site-packages/jnpr/junos/exception.py" />
       <jump line="60" column="29" filename="$USER_HOME$/projects/gateway/venv/lib/python2.7/site-packages/jnpr/junos/exception.py" />
       <jump line="64" column="43" filename="$USER_HOME$/projects/gateway/venv/lib/python2.7/site-packages/jnpr/junos/exception.py" />
       <jump line="86" column="23" filename="$USER_HOME$/projects/gateway/venv/lib/python2.7/site-packages/jnpr/junos/exception.py" />
@@ -1351,55 +1348,59 @@
       <jump line="0" column="0" filename="$USER_HOME$/projects/gateway/Gateway-services/docs/PagerDuty/README.md" />
       <jump line="4" column="6" filename="$USER_HOME$/projects/gateway/Gateway-services/docs/PagerDuty/README.md" />
       <jump line="48" column="0" filename="$USER_HOME$/projects/gateway/Gateway-services/docs/PagerDuty/README.md" />
+      <jump line="3" column="25" filename="$USER_HOME$/projects/gateway/Gateway-Design-and-Process/onboarding/Gateway-Debug.md" />
+      <jump line="216" column="23" filename="$USER_HOME$/projects/gateway/Gateway-Design-and-Process/onboarding/Gateway-Debug.md" />
+      <jump line="217" column="33" filename="$USER_HOME$/projects/gateway/Gateway-Design-and-Process/onboarding/Gateway-Debug.md" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/gateway/Gateway-Design-and-Process/onboarding/Gateway-Debug.md" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>c</text>
+        <text encoding="base64">aXMg</text>
       </register>
       <register name="-" type="4">
-        <text>c</text>
+        <text encoding="base64">aXMg</text>
       </register>
       <register name="/" type="4">
-        <text>PagerDuty Onboarding</text>
+        <text>gw-cluster</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">ICAgICogW1ByZS1VcGdyYWRlIFZhbGlkYXRpb24gSXNzdWVzXSgjcHJlLXVwZ3JhZGUtdmFsaWRhdGlvbi1pc3N1ZXMpCiAgICAqIFtHUkUgQ29udmVyc2lvbiBJc3N1ZXNdKCNncmUtY29udmVyc2lvbi1pc3N1ZXMpCiAgICAqIFtGaXJzdCBOb2RlIFVwZ3JhZGUgSXNzdWVzXSgjbm9kZTEtdXBncmFkZS1pc3N1ZXMpCiAgICAqIFtTZWNvbmQgTm9kZSBVcGdyYWRlIElzc3Vlc10oI25vZGUxLXVwZ3JhZGUtaXNzdWVzKQogICAgKiBbUG9zdC1VcGdyYWRlIFZhbGlkYXRpb24gSXNzdWVzXSgjcG9zdC11cGdyYWRlLXZhbGlkYXRpb24taXNzdWVzKQog</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">RW50cmFuY2UgCiAgICAgICAg</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgKgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">VGhlIHVwZ3JhZGUgcHJvY2VzcyBjYW4gYmUgZGl2aWRlZCBpbnRvIHRoZSBzdGFnZXMgYXMgc2hvd24gaW4gdGhlIHRhYmxlIGJlbG93LiBFYWNoIHN0YWdlIG1vZGlmaWVzIHZlcnNpb24gb2Ygc3BlY2lmaWMgY29tcG9uZW50cwo=</text>
+        <text encoding="base64">ICAgPGEgbmFtZT0idmVyaWZ5LXBpYy1zdGF0dXMiIC8+IAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">IyMjIFVwZ3JhZGUK</text>
+        <text encoding="base64">ICAgU2hvdyBzdGF0dXMgb2YgUGh5c2ljYWwgSW50ZXJmYWNlIENhcmRzIChQSUMpIGFzc2lnbmVkIHRvIHRoZSB2U1JYIDxhIG5hbWU9InBpYy1zdGF0dXMiLz4K</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="4" type="4">
+        <text encoding="base64">RW50cmFuY2UgCiAgICAgICAg</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgCg==</text>
+        <text encoding="base64">VGhlIHVwZ3JhZGUgcHJvY2VzcyBjYW4gYmUgZGl2aWRlZCBpbnRvIHRoZSBzdGFnZXMgYXMgc2hvd24gaW4gdGhlIHRhYmxlIGJlbG93LiBFYWNoIHN0YWdlIG1vZGlmaWVzIHZlcnNpb24gb2Ygc3BlY2lmaWMgY29tcG9uZW50cwo=</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">IyMjIFByZS1Eb3duZ3JhZGUgVmFsaWRhdGlvbiBJc3N1ZXMgPGEgbmFtZT0icHJlLWRvd25ncmFkZS12YWxpZGF0aW9uLWlzc3VlcyIgLz4KCiMjIyBGaXJzdCBOb2RlIERvd25ncmFkZSBJc3N1ZXMgPGEgbmFtZT0ibm9kZTAtZG93bmdyYWRlLWlzc3VlcyIgLz4KCiMjIyBTZWNvbmQgTm9kZSBEb3duZ3JhZGUgSXNzdWVzIDxhIG5hbWU9Im5vZGUxLWRvd25ncmFkZS1pc3N1ZXMiIC8+CgojIyMgR1JFIFJvbGxiYWNrIElzc3VlcyA8YSBuYW1lPSJncmUtcm9sbGJhY2staXNzdWVzIiAvPgoKIyMjIFBvc3QtRG93bmdyYWRlIFZhbGlkYXRpb24gSXNzdWVzIDxhIG5hbWU9InBvc3QtZG93bmdyYWRlLXZhbGlkYXRpb24taXNzdWVzIiAvPgog</text>
+      <register name="6" type="2">
+        <text encoding="base64">IyMjIFVwZ3JhZGUK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICogW1Bvc3QtVXBncmFkZSBWYWxpZGF0aW9uIElzc3Vlc10oI3Bvc3QtdXBncmFkZS12YWxpZGF0aW9uLWlzc3VlcykK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICogW0dSRSBDb252ZXJzaW9uIElzc3Vlc10oI2dyZS1jb252ZXJzaW9uLWlzc3VlcykK</text>
+        <text encoding="base64">ICAgCg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICogWy4uLl0oI21pc2MpCg==</text>
+      <register name="9" type="4">
+        <text encoding="base64">IyMjIFByZS1Eb3duZ3JhZGUgVmFsaWRhdGlvbiBJc3N1ZXMgPGEgbmFtZT0icHJlLWRvd25ncmFkZS12YWxpZGF0aW9uLWlzc3VlcyIgLz4KCiMjIyBGaXJzdCBOb2RlIERvd25ncmFkZSBJc3N1ZXMgPGEgbmFtZT0ibm9kZTAtZG93bmdyYWRlLWlzc3VlcyIgLz4KCiMjIyBTZWNvbmQgTm9kZSBEb3duZ3JhZGUgSXNzdWVzIDxhIG5hbWU9Im5vZGUxLWRvd25ncmFkZS1pc3N1ZXMiIC8+CgojIyMgR1JFIFJvbGxiYWNrIElzc3VlcyA8YSBuYW1lPSJncmUtcm9sbGJhY2staXNzdWVzIiAvPgoKIyMjIFBvc3QtRG93bmdyYWRlIFZhbGlkYXRpb24gSXNzdWVzIDxhIG5hbWU9InBvc3QtZG93bmdyYWRlLXZhbGlkYXRpb24taXNzdWVzIiAvPgog</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>PagerDuty Onboarding</last-search>
+      <last-search>gw-cluster</last-search>
       <last-offset />
-      <last-pattern>PagerDuty Onboarding</last-pattern>
+      <last-pattern>gw-cluster</last-pattern>
       <last-replace>CodeSimpleSchema</last-replace>
       <last-substitute>CodeSchema</last-substitute>
       <last-dir>1</last-dir>
@@ -1407,8 +1408,6 @@
     </search>
     <history>
       <history-search>
-        <entry>VPN</entry>
-        <entry>interface</entry>
         <entry>post</entry>
         <entry>post_upgrade_checks</entry>
         <entry>post_</entry>
@@ -1427,6 +1426,8 @@
         <entry>Please see</entry>
         <entry>Escalation</entry>
         <entry>PagerDuty Onboarding</entry>
+        <entry>clustered</entry>
+        <entry>gw-cluster</entry>
       </history-search>
       <history-cmd>
         <entry>133</entry>
@@ -1446,8 +1447,8 @@
         <entry>we</entry>
         <entry>q</entry>
         <entry>wq</entry>
-        <entry>0</entry>
         <entry>$</entry>
+        <entry>0</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
