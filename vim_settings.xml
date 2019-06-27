@@ -692,7 +692,7 @@
         <mark key="^" line="16" column="64" />
         <mark key="." line="16" column="64" />
       </file>
-      <file name="$USER_HOME$/projects/gateway/scripts/failures.md" timestamp="1561596897913">
+      <file name="$USER_HOME$/projects/gateway/scripts/failures.md" timestamp="1561655564835">
         <mark key="[" line="72" column="0" />
         <mark key="]" line="72" column="0" />
         <mark key="." line="72" column="0" />
@@ -930,12 +930,12 @@
         <mark key="^" line="24" column="7" />
         <mark key="." line="24" column="7" />
       </file>
-      <file name="$USER_HOME$/projects/gateway/Gateway-services/docs/PagerDuty/README.md" timestamp="1561651729782">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="19" column="99" />
-        <mark key="]" line="20" column="80" />
-        <mark key="." line="20" column="80" />
-        <mark key="^" line="20" column="80" />
+      <file name="$USER_HOME$/projects/gateway/Gateway-services/docs/PagerDuty/README.md" timestamp="1561655534326">
+        <mark key="'" line="52" column="0" />
+        <mark key="[" line="528" column="0" />
+        <mark key="]" line="528" column="0" />
+        <mark key="^" line="620" column="0" />
+        <mark key="." line="528" column="0" />
       </file>
       <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/mod_node/__init__.py" timestamp="1515521737977">
         <mark key="[" line="0" column="21" />
@@ -1251,10 +1251,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="30" column="26" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/helper_functions.py" />
-      <jump line="64" column="25" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/helper_functions.py" />
-      <jump line="129" column="25" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/helper_functions.py" />
-      <jump line="707" column="12" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/modified_vsrx_upgrade.py" />
       <jump line="15" column="0" filename="$USER_HOME$/projects/gateway/venv/lib/python2.7/site-packages/jnpr/junos/exception.py" />
       <jump line="20" column="33" filename="$USER_HOME$/projects/gateway/venv/lib/python2.7/site-packages/jnpr/junos/exception.py" />
       <jump line="24" column="11" filename="$USER_HOME$/projects/gateway/venv/lib/python2.7/site-packages/jnpr/junos/exception.py" />
@@ -1290,7 +1286,6 @@
       <jump line="506" column="11" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/gre_change_run.py" />
       <jump line="448" column="0" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/gre_change_run.py" />
       <jump line="401" column="0" filename="$USER_HOME$/projects/gateway/Gateway-services/docs/PagerDuty/README.md" />
-      <jump line="0" column="0" filename="$USER_HOME$/projects/gateway/Gateway-services/docs/PagerDuty/README.md" />
       <jump line="2222" column="36" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/srx-licu.py" />
       <jump line="2293" column="62" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/srx-licu.py" />
       <jump line="2300" column="58" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/srx-licu.py" />
@@ -1351,55 +1346,60 @@
       <jump line="2144" column="19" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/srx-licu.py" />
       <jump line="2151" column="25" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/srx-licu.py" />
       <jump line="2152" column="45" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/srx-licu.py" />
+      <jump line="30" column="23" filename="$USER_HOME$/projects/gateway/Gateway-services/docs/PagerDuty/README.md" />
+      <jump line="128" column="0" filename="$USER_HOME$/projects/gateway/Gateway-services/docs/PagerDuty/README.md" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/gateway/Gateway-services/docs/PagerDuty/README.md" />
+      <jump line="4" column="6" filename="$USER_HOME$/projects/gateway/Gateway-services/docs/PagerDuty/README.md" />
+      <jump line="48" column="0" filename="$USER_HOME$/projects/gateway/Gateway-services/docs/PagerDuty/README.md" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Rmlyc3Qg</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>interfaces</text>
+        <text>PagerDuty Onboarding</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICogW0ZpcnN0IE5vZGUgVXBncmFkZSBJc3N1ZXNdKCNub2RlMS11cGdyYWRlLWlzc3VlcykK</text>
+      <register name="0" type="4">
+        <text encoding="base64">ICAgICogW1ByZS1VcGdyYWRlIFZhbGlkYXRpb24gSXNzdWVzXSgjcHJlLXVwZ3JhZGUtdmFsaWRhdGlvbi1pc3N1ZXMpCiAgICAqIFtHUkUgQ29udmVyc2lvbiBJc3N1ZXNdKCNncmUtY29udmVyc2lvbi1pc3N1ZXMpCiAgICAqIFtGaXJzdCBOb2RlIFVwZ3JhZGUgSXNzdWVzXSgjbm9kZTEtdXBncmFkZS1pc3N1ZXMpCiAgICAqIFtTZWNvbmQgTm9kZSBVcGdyYWRlIElzc3Vlc10oI25vZGUxLXVwZ3JhZGUtaXNzdWVzKQogICAgKiBbUG9zdC1VcGdyYWRlIFZhbGlkYXRpb24gSXNzdWVzXSgjcG9zdC11cGdyYWRlLXZhbGlkYXRpb24taXNzdWVzKQog</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDExLiBPbiBzZWNvbmRhcnkgaG9zdCwgcnVuIGBici1jdGwgc2hvd2AgdG8gdmVyaWZ5IHZuZXQxIGlzIG9uY2UgYWdhaW4gYXNzb2NpYXRlZCB3aXRoIGJyMC4gCg==</text>
+        <text encoding="base64">ICAgCg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="3" type="4">
+        <text encoding="base64">IyMjIFByZS1Eb3duZ3JhZGUgVmFsaWRhdGlvbiBJc3N1ZXMgPGEgbmFtZT0icHJlLWRvd25ncmFkZS12YWxpZGF0aW9uLWlzc3VlcyIgLz4KCiMjIyBGaXJzdCBOb2RlIERvd25ncmFkZSBJc3N1ZXMgPGEgbmFtZT0ibm9kZTAtZG93bmdyYWRlLWlzc3VlcyIgLz4KCiMjIyBTZWNvbmQgTm9kZSBEb3duZ3JhZGUgSXNzdWVzIDxhIG5hbWU9Im5vZGUxLWRvd25ncmFkZS1pc3N1ZXMiIC8+CgojIyMgR1JFIFJvbGxiYWNrIElzc3VlcyA8YSBuYW1lPSJncmUtcm9sbGJhY2staXNzdWVzIiAvPgoKIyMjIFBvc3QtRG93bmdyYWRlIFZhbGlkYXRpb24gSXNzdWVzIDxhIG5hbWU9InBvc3QtZG93bmdyYWRlLXZhbGlkYXRpb24taXNzdWVzIiAvPgog</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDIuIFRoZSBpbnN0cnVjdGlvbiBmb3IgcHJpbWFyeSBhbmQgc2Vjb25kYXJ5IGhvc3RzIG5lZWQgdG8gcnVuIGEgICAgICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICogW1Bvc3QtVXBncmFkZSBWYWxpZGF0aW9uIElzc3Vlc10oI3Bvc3QtdXBncmFkZS12YWxpZGF0aW9uLWlzc3VlcykK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcm9vdEBlZGRpZS1saWN1LWUyZS0xMGctc2luZ2xlLXByaXYtcHViLWhhMC12U1JYLU5vZGUwPgo=</text>
+        <text encoding="base64">ICAgICogW0dSRSBDb252ZXJzaW9uIElzc3Vlc10oI2dyZS1jb252ZXJzaW9uLWlzc3VlcykK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICogWy4uLl0oI21pc2MpCg==</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">CgoKCgoKCgoKCgoK</text>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDIuIGBweXRob24gZ3JlX2NoYW5nZV9ydW4ucHlgCg==</text>
+        <text encoding="base64">IyMjIEdSRSBDb252ZXJzaW9uIElzc3VlcyA8YSBuYW1lPSJncmUtY29udmVyc2lvbi1pc3N1ZXMiIC8+Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>interfaces</last-search>
+      <last-search>PagerDuty Onboarding</last-search>
       <last-offset />
-      <last-pattern>interfaces</last-pattern>
+      <last-pattern>PagerDuty Onboarding</last-pattern>
       <last-replace>CodeSimpleSchema</last-replace>
       <last-substitute>CodeSchema</last-substitute>
       <last-dir>1</last-dir>
@@ -1407,9 +1407,6 @@
     </search>
     <history>
       <history-search>
-        <entry>get_device</entry>
-        <entry>role</entry>
-        <entry encoding="base64">XDxSZXNpb2x1dGlvblw+</entry>
         <entry>VPN</entry>
         <entry>interface</entry>
         <entry>post</entry>
@@ -1427,6 +1424,9 @@
         <entry>node0_primary</entry>
         <entry>pri_config</entry>
         <entry>interfaces</entry>
+        <entry>Please see</entry>
+        <entry>Escalation</entry>
+        <entry>PagerDuty Onboarding</entry>
       </history-search>
       <history-cmd>
         <entry>133</entry>
