@@ -930,12 +930,12 @@
         <mark key="^" line="24" column="7" />
         <mark key="." line="24" column="7" />
       </file>
-      <file name="$USER_HOME$/projects/gateway/Gateway-services/docs/PagerDuty/README.md" timestamp="1561757989802">
-        <mark key="'" line="57" column="0" />
-        <mark key="[" line="761" column="0" />
-        <mark key="]" line="762" column="0" />
-        <mark key="^" line="762" column="0" />
-        <mark key="." line="762" column="0" />
+      <file name="$USER_HOME$/projects/gateway/Gateway-services/docs/PagerDuty/README.md" timestamp="1561761792698">
+        <mark key="'" line="41" column="42" />
+        <mark key="[" line="830" column="45" />
+        <mark key="]" line="830" column="45" />
+        <mark key="." line="830" column="45" />
+        <mark key="^" line="830" column="45" />
       </file>
       <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/mod_node/__init__.py" timestamp="1515521737977">
         <mark key="[" line="0" column="21" />
@@ -1252,12 +1252,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="60" column="29" filename="$USER_HOME$/projects/gateway/venv/lib/python2.7/site-packages/jnpr/junos/exception.py" />
-      <jump line="64" column="43" filename="$USER_HOME$/projects/gateway/venv/lib/python2.7/site-packages/jnpr/junos/exception.py" />
-      <jump line="86" column="23" filename="$USER_HOME$/projects/gateway/venv/lib/python2.7/site-packages/jnpr/junos/exception.py" />
-      <jump line="36" column="21" filename="$USER_HOME$/projects/gateway/venv/lib/python2.7/site-packages/jnpr/junos/exception.py" />
-      <jump line="41" column="44" filename="$USER_HOME$/projects/gateway/venv/lib/python2.7/site-packages/jnpr/junos/exception.py" />
-      <jump line="42" column="25" filename="$USER_HOME$/projects/gateway/venv/lib/python2.7/site-packages/jnpr/junos/exception.py" />
       <jump line="48" column="33" filename="$USER_HOME$/projects/gateway/venv/lib/python2.7/site-packages/jnpr/junos/exception.py" />
       <jump line="59" column="0" filename="$USER_HOME$/projects/gateway/venv/lib/python2.7/site-packages/jnpr/junos/exception.py" />
       <jump line="12" column="0" filename="$USER_HOME$/projects/gateway/venv/lib/python2.7/site-packages/jnpr/junos/exception.py" />
@@ -1345,66 +1339,68 @@
       <jump line="2152" column="45" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/srx-licu.py" />
       <jump line="30" column="23" filename="$USER_HOME$/projects/gateway/Gateway-services/docs/PagerDuty/README.md" />
       <jump line="128" column="0" filename="$USER_HOME$/projects/gateway/Gateway-services/docs/PagerDuty/README.md" />
-      <jump line="0" column="0" filename="$USER_HOME$/projects/gateway/Gateway-services/docs/PagerDuty/README.md" />
       <jump line="4" column="6" filename="$USER_HOME$/projects/gateway/Gateway-services/docs/PagerDuty/README.md" />
       <jump line="48" column="0" filename="$USER_HOME$/projects/gateway/Gateway-services/docs/PagerDuty/README.md" />
       <jump line="3" column="25" filename="$USER_HOME$/projects/gateway/Gateway-Design-and-Process/onboarding/Gateway-Debug.md" />
       <jump line="216" column="23" filename="$USER_HOME$/projects/gateway/Gateway-Design-and-Process/onboarding/Gateway-Debug.md" />
       <jump line="217" column="33" filename="$USER_HOME$/projects/gateway/Gateway-Design-and-Process/onboarding/Gateway-Debug.md" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/gateway/Gateway-Design-and-Process/onboarding/Gateway-Debug.md" />
+      <jump line="34" column="36" filename="$USER_HOME$/projects/gateway/Gateway-services/docs/PagerDuty/README.md" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/gateway/Gateway-services/docs/PagerDuty/README.md" />
+      <jump line="1" column="0" filename="$USER_HOME$/projects/gateway/Gateway-services/docs/PagerDuty/README.md" />
+      <jump line="37" column="44" filename="$USER_HOME$/projects/gateway/Gateway-services/docs/PagerDuty/README.md" />
+      <jump line="38" column="37" filename="$USER_HOME$/projects/gateway/Gateway-services/docs/PagerDuty/README.md" />
+      <jump line="39" column="31" filename="$USER_HOME$/projects/gateway/Gateway-services/docs/PagerDuty/README.md" />
+      <jump line="41" column="42" filename="$USER_HOME$/projects/gateway/Gateway-services/docs/PagerDuty/README.md" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">KiBSZWNsdXN0ZXIK</text>
+      <register name="&quot;" type="4">
+        <text>f</text>
       </register>
       <register name="-" type="4">
-        <text>*</text>
+        <text>f</text>
       </register>
       <register name="/" type="4">
-        <text>gw-cluster</text>
+        <text>node1-interface-disable-issues</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgKiBGYWlsb3ZlciAtIEZvcmNlcyB1c2VyIHRyYWZmaWMgdG8gZ28gdGhyb3VnaCBuZXdseSB1cGdyYWRlZCBub2RlMSBhbmQgZGlzYWJsZSBub2RlMCBhdCB0aGUgc2FtZSB0aW1lCiAgICAgICAgICAgICAgICAqIFN0YWdlIG5vZGUxIGludGVyZmFjZSBlbmFibGUKICAgICAgICAgICAgICAgICogU3RhZ2Ugbm9kZTAgaW50ZXJmYWNlIGRpc2FibGUKICAgICAgICAgICAgICAgICogQ29tbWl0IG5vZGUxIGludGVyZmFjZSBlbmFibGUKICAgICAgICAgICAgICAgICogQ29tbWl0IG5vZGUwIGludGVyZmFjZSBkaXNhYmxlCiAgICAgICAgICAgICogVXBncmFkZSBub2RlMAogICAgICAgICAgICAgICAgKiBTaHV0ZG93biBub2RlMCBWTQogICAgICAgICAgICAgICAgKiBDcmVhdGUgYW5kIGNvbmZpZ3VyZSB0ZW1wb3JhcnkgdlNSWCAxOC40IFZNICgqKm5vIHJvbGxiYWNrIG9jY3VycyBkdXJpbmcgbm9kZTAgdXBncmFkZSoqKQogICAgICAgICAgICAgICAgKiBNb2RpZnkgbm9kZTAgVk0gdG8gdXNlIG5ldyBxY293IGFuZCB0ZWxuZXQgY29uc29sZQogICAgICAgICAgICAgICAgKiBCcmluZyB1cCBub2RlMCBWTSB3aXRoIG5ldyBxY293IGltYWdlCiAgICAgICAgICAgICogRmFpbGJhY2sgLSBGb3JjZXMgdXNlciB0cmFmZmljIGJhY2sgdG8gcHJpbWFyeSBub2RlCiAgICAgICAgICAgICAgICAqIFN0YWdlIG5vZGUwIGludGVyZmFjZSBlbmFibGUKICAgICAgICAgICAgICAgICogU3RhZ2Ugbm9kZTEgaW50ZXJmYWNlIGRpc2FibGUKICAgICAgICAgICAgICAgICogQ29tbWl0IG5vZGUwIGludGVyZmFjZSBlbmFibGUKICAgICAgICAgICAgICAgICogQ29tbWl0IG5vZGUxIGludGVyZmFjZSBkaXNhYmxlCiAgICAgICAgICAgICogUmVjbHVzdGVyCiAgICAgICAgICAgICAgICAqIEVuc3VyZS9FbmFibGUgaG9zdDEgdm5ldDEvMiBhcmUgY29ycmVjdCAgICAgICAgICAgIAogICAgICAgICAgICAgICAgKiBFbnN1cmUvRW5hYmxlIGhvc3QwIHZuZXQxLzIgYXJlIGNvcnJlY3QgICAgICAgICAgICAKICAgICAgICAgICAgICAgICogRW5hYmxlIG5vZGUxIGludGVyZmFjZXMKICAgICAgICAgICAgICAgICogUG9zdC11cGdyYWRlIGhlYWx0aCBjaGVjaw==</text>
+      <register name="0" type="2">
+        <text encoding="base64">IyMjIyBEaXNhYmxlIG5vZGUxIGludGVyZmFjZXMgJiBob3N0MCB2bmV0MS8yIDxhIG5hbWU9Im5vZGUxLWludGVyZmFjZS1kaXNhYmxlLWlzc3VlcyIgLz4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">KiBSZWNsdXN0ZXIK</text>
+        <text encoding="base64">Pgo=</text>
       </register>
-      <register name="2" type="4">
-        <text>* Recluster
-    * Ensure/Enable host1 vnet1/2 are correct            
-    * Ensure/Enable host0 vnet1/2 are correct            
-    * Enable node1 interfaces
-    * Post-upgrade health check</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgIFVuYWJsZSB0byBzaHV0ZG93biA8Vk0+IGR1ZSB0byA8UkVBU09OPgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgKiBDb21taXQgbm9kZTEgaW50ZXJmYWNlIGRpc2FibGUK</text>
+        <text encoding="base64">ICAgICAgIC5mb3JtYXQoc291cmNlX2t2bV9uYW1lLCBlKQo=</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">KiBGYWlsYmFjayAtIEZvcmNlcyB1c2VyIHRyYWZmaWMgYmFjayB0byBwcmltYXJ5IG5vZGUKICAgICogU3RhZ2Ugbm9kZTAgaW50ZXJmYWNlIGVuYWJsZQogICAgKiBTdGFnZSBub2RlMSBpbnRlcmZhY2UgZGlzYWJsZQogICAgKiBDb21taXQgbm9kZTAgaW50ZXJmYWNlIGVuYWJsZQog</text>
+      <register name="4" type="2">
+        <text encoding="base64">KiBSdW4gYHNob3cgY2hhc3NpcyBjbHVzdGVyIHN0YXR1c2AgCg==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">ICAgICogU2h1dGRvd24gbm9kZTAgVk0KICAgICogQ3JlYXRlIGFuZCBjb25maWd1cmUgdGVtcG9yYXJ5IHZTUlggMTguNCBWTSAoKipubyByb2xsYmFjayBvY2N1cnMgZHVyaW5nIG5vZGUwIHVwZ3JhZGUqKikKICAgICogTW9kaWZ5IG5vZGUwIFZNIHRvIHVzZSBuZXcgcWNvdyBhbmQgdGVsbmV0IGNvbnNvbGUKICAgICogQnJpbmcgdXAgbm9kZTAgVk0gd2l0aCBuZXcgcWNvdyBpbWFnZQ==</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjaGVja19vdXRwdXQoWyJicmN0bCIsICJhZGRpZiIsICAiYnItY3RybCIsICJ2bmV0MSJdKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">KiBVcGdyYWRlIG5vZGUwCg==</text>
+        <text encoding="base64">W01vZGlmaWVkIHVwZ3JhZGVdWzIwMTktMDYtMjggMTA6NTY6NDIuNzMyNzcyXSBUaGUgcmVtb3RlIG5vZGUgdXBncmFkZSBjb3VsZCB0YWtlIGFyb3VuZCBhbiBob3VyIHRvIGNvbXBsZXRlLgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgKiBDb21taXQgbm9kZTAgaW50ZXJmYWNlIGRpc2FibGUK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">KiBGYWlsb3ZlciAtIEZvcmNlcyB1c2VyIHRyYWZmaWMgdG8gZ28gdGhyb3VnaCBuZXdseSB1cGdyYWRlZCBub2RlMSBhbmQgZGlzYWJsZSBub2RlMCBhdCB0aGUgc2FtZSB0aW1lCiAgICAqIFN0YWdlIG5vZGUxIGludGVyZmFjZSBlbmFibGUKICAgICogU3RhZ2Ugbm9kZTAgaW50ZXJmYWNlIGRpc2FibGUKICAgICogQ29tbWl0IG5vZGUxIGludGVyZmFjZSBlbmFibGUKIA==</text>
+      <register name="8" type="2">
+        <text encoding="base64">UmlnaHQgYWZ0ZXIgdGhpcyBwcm9jZXNzCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">IyMjIEZhaWxvdmVyIElzc3Vlcwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>gw-cluster</last-search>
+      <last-search>node1-interface-disable-issues</last-search>
       <last-offset />
-      <last-pattern>gw-cluster</last-pattern>
+      <last-pattern>node1-interface-disable-issues</last-pattern>
       <last-replace>CodeSimpleSchema</last-replace>
       <last-substitute>CodeSchema</last-substitute>
       <last-dir>1</last-dir>
@@ -1412,10 +1408,6 @@
     </search>
     <history>
       <history-search>
-        <entry>post</entry>
-        <entry>post_upgrade_checks</entry>
-        <entry>post_</entry>
-        <entry>move_vnet_to_br</entry>
         <entry>do_check_call</entry>
         <entry>status</entry>
         <entry>status_line</entry>
@@ -1432,6 +1424,10 @@
         <entry>PagerDuty Onboarding</entry>
         <entry>clustered</entry>
         <entry>gw-cluster</entry>
+        <entry>Node not in cluster</entry>
+        <entry>manual</entry>
+        <entry>gre-cleanup</entry>
+        <entry>node1-interface-disable-issues</entry>
       </history-search>
       <history-cmd>
         <entry>133</entry>
