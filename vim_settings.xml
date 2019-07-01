@@ -930,12 +930,12 @@
         <mark key="^" line="24" column="7" />
         <mark key="." line="24" column="7" />
       </file>
-      <file name="$USER_HOME$/projects/gateway/Gateway-services/docs/PagerDuty/README.md" timestamp="1561962128729">
-        <mark key="'" line="41" column="42" />
-        <mark key="[" line="878" column="10" />
-        <mark key="]" line="878" column="10" />
-        <mark key="." line="878" column="10" />
-        <mark key="^" line="877" column="24" />
+      <file name="$USER_HOME$/projects/gateway/Gateway-services/docs/PagerDuty/README.md" timestamp="1561963385484">
+        <mark key="'" line="58" column="12" />
+        <mark key="[" line="923" column="0" />
+        <mark key="]" line="925" column="57" />
+        <mark key="." line="925" column="57" />
+        <mark key="^" line="925" column="57" />
       </file>
       <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/mod_node/__init__.py" timestamp="1515521737977">
         <mark key="[" line="0" column="21" />
@@ -1252,12 +1252,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="48" column="33" filename="$USER_HOME$/projects/gateway/venv/lib/python2.7/site-packages/jnpr/junos/exception.py" />
-      <jump line="59" column="0" filename="$USER_HOME$/projects/gateway/venv/lib/python2.7/site-packages/jnpr/junos/exception.py" />
-      <jump line="12" column="0" filename="$USER_HOME$/projects/gateway/venv/lib/python2.7/site-packages/jnpr/junos/exception.py" />
-      <jump line="670" column="0" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/modified_vsrx_upgrade.py" />
-      <jump line="666" column="18" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/modified_vsrx_upgrade.py" />
-      <jump line="32" column="28" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/modified_vsrx_upgrade.py" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/srx-licu.py" />
       <jump line="1590" column="37" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/srx-licu.py" />
       <jump line="665" column="0" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/modified_vsrx_upgrade.py" />
@@ -1352,55 +1346,61 @@
       <jump line="38" column="37" filename="$USER_HOME$/projects/gateway/Gateway-services/docs/PagerDuty/README.md" />
       <jump line="39" column="31" filename="$USER_HOME$/projects/gateway/Gateway-services/docs/PagerDuty/README.md" />
       <jump line="41" column="42" filename="$USER_HOME$/projects/gateway/Gateway-services/docs/PagerDuty/README.md" />
+      <jump line="42" column="66" filename="$USER_HOME$/projects/gateway/Gateway-services/docs/PagerDuty/README.md" />
+      <jump line="89" column="34" filename="$USER_HOME$/projects/gateway/Gateway-services/docs/PagerDuty/README.md" />
+      <jump line="91" column="31" filename="$USER_HOME$/projects/gateway/Gateway-services/docs/PagerDuty/README.md" />
+      <jump line="148" column="69" filename="$USER_HOME$/projects/gateway/Gateway-services/docs/PagerDuty/README.md" />
+      <jump line="150" column="7" filename="$USER_HOME$/projects/gateway/Gateway-services/docs/PagerDuty/README.md" />
+      <jump line="58" column="12" filename="$USER_HOME$/projects/gateway/Gateway-services/docs/PagerDuty/README.md" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>/</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Zm9sbG93ZWQgYnkgR1JFIHJvbGxiYWNrIAo=</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
-        <text>node1-interface-disable-issues</text>
+        <text>show version</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">KiBbUmV2ZXJ0IEdSRSBjaGFuZ2VzXSgjZ3JlLWNsZWFudXApCg==</text>
+        <text encoding="base64">IyMjIyBWZXJpZnkgR2F0ZXdheSBpcyBjbHVzdGVyZWQgPGEgbmFtZT0iZ3ctY2x1c3RlciIgLz4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgCg==</text>
+        <text encoding="base64">Zm9sbG93ZWQgYnkgR1JFIHJvbGxiYWNrIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">KiBEZWxldGUgVEFSR0VUdlNSWCBkaXJlY3Rvcnk6Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIC92YXIvbGliL2xpYnZpcnQvaW1hZ2VzL1RBUkdFVHZTUlguCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">IyMjIyMgUmVzb2x1dGlvbgoKQXQgdGhpcyBwb2ludCB3ZSBjYW4gc3RpbGwgdHJ5IHRvIHJvbGxiYWNrIHRvIHRoZSBvcmlnaW5hbCBzdGF0ZS4K</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">IyMjIyMK</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">KiAK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgCg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">TG9vayBmb3IgbG9nIGVudHJpZXMgc2ltaWxhciB0byB0aGUgZm9sbG93aW5nIAo=</text>
+        <text encoding="base64">KiBEZWxldGUgVEFSR0VUdlNSWCBkaXJlY3Rvcnk6Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">KiBCYWNrdXAgbm9kZTEgVk0gaW1hZ2UK</text>
+        <text encoding="base64">ICAgIC92YXIvbGliL2xpYnZpcnQvaW1hZ2VzL1RBUkdFVHZTUlguCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">KiBTaHV0ZG93biBub2RlMSBWTQo=</text>
+        <text encoding="base64">IyMjIyMgUmVzb2x1dGlvbgoKQXQgdGhpcyBwb2ludCB3ZSBjYW4gc3RpbGwgdHJ5IHRvIHJvbGxiYWNrIHRvIHRoZSBvcmlnaW5hbCBzdGF0ZS4K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>node1-interface-disable-issues</last-search>
+      <last-search>show version</last-search>
       <last-offset />
-      <last-pattern>node1-interface-disable-issues</last-pattern>
+      <last-pattern>show version</last-pattern>
       <last-replace>CodeSimpleSchema</last-replace>
       <last-substitute>CodeSchema</last-substitute>
       <last-dir>1</last-dir>
@@ -1408,9 +1408,6 @@
     </search>
     <history>
       <history-search>
-        <entry>do_check_call</entry>
-        <entry>status</entry>
-        <entry>status_line</entry>
         <entry>Waiting 20 seconds and then checking</entry>
         <entry>get_logical_int_status</entry>
         <entry encoding="base64">XDxTZXR1cFw+</entry>
@@ -1428,6 +1425,9 @@
         <entry>manual</entry>
         <entry>gre-cleanup</entry>
         <entry>node1-interface-disable-issues</entry>
+        <entry>stuck</entry>
+        <entry>stuck during shut</entry>
+        <entry>show version</entry>
       </history-search>
       <history-cmd>
         <entry>133</entry>
@@ -1447,8 +1447,8 @@
         <entry>we</entry>
         <entry>q</entry>
         <entry>wq</entry>
-        <entry>$</entry>
         <entry>0</entry>
+        <entry>$</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
