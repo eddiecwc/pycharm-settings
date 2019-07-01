@@ -633,8 +633,8 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/run_upgrade.py" timestamp="1559893410541">
-        <mark key="'" line="103" column="13" />
+      <file name="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/run_upgrade.py" timestamp="1562011320240">
+        <mark key="'" line="302" column="52" />
         <mark key="[" line="229" column="65" />
         <mark key="]" line="229" column="74" />
         <mark key="." line="229" column="74" />
@@ -646,8 +646,8 @@
         <mark key="." line="56" column="29" />
         <mark key="^" line="56" column="29" />
       </file>
-      <file name="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/ibm_setup/ibm_pre.py" timestamp="1562010474379">
-        <mark key="'" line="12" column="26" />
+      <file name="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/ibm_setup/ibm_pre.py" timestamp="1562011585827">
+        <mark key="'" line="164" column="18" />
         <mark key="[" line="32" column="0" />
       </file>
       <file name="/helper_functions.py" timestamp="1558841030715">
@@ -1252,14 +1252,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2351" column="4" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/srx-licu.py" />
-      <jump line="2358" column="3" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/srx-licu.py" />
-      <jump line="77" column="25" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/srx-licu.py" />
-      <jump line="299" column="53" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/srx-licu.py" />
-      <jump line="1188" column="77" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/srx-licu.py" />
-      <jump line="1189" column="7" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/srx-licu.py" />
-      <jump line="1191" column="67" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/srx-licu.py" />
-      <jump line="2353" column="4" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/srx-licu.py" />
       <jump line="2355" column="4" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/srx-licu.py" />
       <jump line="2357" column="44" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/srx-licu.py" />
       <jump line="2359" column="73" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/srx-licu.py" />
@@ -1352,6 +1344,14 @@
       <jump line="717" column="88" filename="$USER_HOME$/projects/gateway/Gateway-services/docs/PagerDuty/README.md" />
       <jump line="727" column="126" filename="$USER_HOME$/projects/gateway/Gateway-services/docs/PagerDuty/README.md" />
       <jump line="12" column="26" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/ibm_setup/ibm_pre.py" />
+      <jump line="23" column="9" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/run_upgrade.py" />
+      <jump line="45" column="14" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/run_upgrade.py" />
+      <jump line="69" column="34" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/run_upgrade.py" />
+      <jump line="70" column="17" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/run_upgrade.py" />
+      <jump line="172" column="43" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/run_upgrade.py" />
+      <jump line="213" column="36" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/run_upgrade.py" />
+      <jump line="302" column="52" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/run_upgrade.py" />
+      <jump line="164" column="18" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/ibm_setup/ibm_pre.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1361,7 +1361,7 @@
         <text>&quot;</text>
       </register>
       <register name="/" type="4">
-        <text>fxp</text>
+        <text>installing host</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">IyMjIE5vZGUgc3RhdHVzIHNob3dzIGxvc3QgZm9yIGVpdGhlciBub2RlMCBvciBub2RlMSAgPGEgbmFtZT0icG9zdC11cGdyYWRlLW5vZGUtY29tbXVuaWNhdGlvbiI+Cg==</text>
@@ -1398,9 +1398,9 @@
       </register>
     </registers>
     <search>
-      <last-search>fxp</last-search>
+      <last-search>installing host</last-search>
       <last-offset />
-      <last-pattern>fxp</last-pattern>
+      <last-pattern>installing host</last-pattern>
       <last-replace>CodeSimpleSchema</last-replace>
       <last-substitute>CodeSchema</last-substitute>
       <last-dir>1</last-dir>
@@ -1408,9 +1408,6 @@
     </search>
     <history>
       <history-search>
-        <entry>gw-cluster</entry>
-        <entry>Node not in cluster</entry>
-        <entry>manual</entry>
         <entry>node1-interface-disable-issues</entry>
         <entry>stuck</entry>
         <entry>stuck during shut</entry>
@@ -1428,6 +1425,9 @@
         <entry>node1-rollback</entry>
         <entry>gre-ctrl</entry>
         <entry>fxp</entry>
+        <entry>ibm_prew</entry>
+        <entry>pre</entry>
+        <entry>installing host</entry>
       </history-search>
       <history-cmd>
         <entry>674</entry>
