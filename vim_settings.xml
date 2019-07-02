@@ -1394,7 +1394,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>1622</text>
+        <text>348</text>
       </register>
     </registers>
     <search>
@@ -1430,8 +1430,6 @@
         <entry>licu_node0_primary</entry>
       </history-search>
       <history-cmd>
-        <entry>72</entry>
-        <entry>104</entry>
         <entry>1596</entry>
         <entry>699</entry>
         <entry>2293</entry>
@@ -1450,6 +1448,8 @@
         <entry>2238</entry>
         <entry>q!</entry>
         <entry>1622</entry>
+        <entry>471</entry>
+        <entry>348</entry>
       </history-cmd>
       <history-expr />
       <history-input />
