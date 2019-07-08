@@ -931,11 +931,12 @@
         <mark key="^" line="24" column="7" />
         <mark key="." line="24" column="7" />
       </file>
-      <file name="$USER_HOME$/projects/gateway/Gateway-services/docs/PagerDuty/README.md" timestamp="1562572922893">
-        <mark key="[" line="1149" column="0" />
-        <mark key="]" line="1150" column="0" />
-        <mark key="." line="1150" column="0" />
-        <mark key="^" line="1146" column="85" />
+      <file name="$USER_HOME$/projects/gateway/Gateway-services/docs/PagerDuty/README.md" timestamp="1562575676470">
+        <mark key="'" line="803" column="0" />
+        <mark key="[" line="1224" column="0" />
+        <mark key="]" line="1224" column="78" />
+        <mark key="." line="890" column="23" />
+        <mark key="^" line="889" column="22" />
       </file>
       <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/mod_node/__init__.py" timestamp="1515521737977">
         <mark key="[" line="0" column="21" />
@@ -1252,18 +1253,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="30" column="23" filename="$USER_HOME$/projects/gateway/Gateway-services/docs/PagerDuty/README.md" />
-      <jump line="128" column="0" filename="$USER_HOME$/projects/gateway/Gateway-services/docs/PagerDuty/README.md" />
-      <jump line="4" column="6" filename="$USER_HOME$/projects/gateway/Gateway-services/docs/PagerDuty/README.md" />
-      <jump line="48" column="0" filename="$USER_HOME$/projects/gateway/Gateway-services/docs/PagerDuty/README.md" />
-      <jump line="3" column="25" filename="$USER_HOME$/projects/gateway/Gateway-Design-and-Process/onboarding/Gateway-Debug.md" />
-      <jump line="216" column="23" filename="$USER_HOME$/projects/gateway/Gateway-Design-and-Process/onboarding/Gateway-Debug.md" />
-      <jump line="217" column="33" filename="$USER_HOME$/projects/gateway/Gateway-Design-and-Process/onboarding/Gateway-Debug.md" />
-      <jump line="0" column="0" filename="$USER_HOME$/projects/gateway/Gateway-Design-and-Process/onboarding/Gateway-Debug.md" />
-      <jump line="34" column="36" filename="$USER_HOME$/projects/gateway/Gateway-services/docs/PagerDuty/README.md" />
-      <jump line="1" column="0" filename="$USER_HOME$/projects/gateway/Gateway-services/docs/PagerDuty/README.md" />
-      <jump line="37" column="44" filename="$USER_HOME$/projects/gateway/Gateway-services/docs/PagerDuty/README.md" />
-      <jump line="38" column="37" filename="$USER_HOME$/projects/gateway/Gateway-services/docs/PagerDuty/README.md" />
       <jump line="39" column="31" filename="$USER_HOME$/projects/gateway/Gateway-services/docs/PagerDuty/README.md" />
       <jump line="41" column="42" filename="$USER_HOME$/projects/gateway/Gateway-services/docs/PagerDuty/README.md" />
       <jump line="42" column="66" filename="$USER_HOME$/projects/gateway/Gateway-services/docs/PagerDuty/README.md" />
@@ -1272,7 +1261,6 @@
       <jump line="148" column="69" filename="$USER_HOME$/projects/gateway/Gateway-services/docs/PagerDuty/README.md" />
       <jump line="150" column="7" filename="$USER_HOME$/projects/gateway/Gateway-services/docs/PagerDuty/README.md" />
       <jump line="58" column="12" filename="$USER_HOME$/projects/gateway/Gateway-services/docs/PagerDuty/README.md" />
-      <jump line="32" column="39" filename="$USER_HOME$/projects/gateway/Gateway-services/docs/PagerDuty/README.md" />
       <jump line="855" column="0" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/srx-licu.py" />
       <jump line="2303" column="20" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/srx-licu.py" />
       <jump line="1266" column="16" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/srx-licu.py" />
@@ -1294,7 +1282,6 @@
       <jump line="991" column="136" filename="$USER_HOME$/projects/gateway/Gateway-services/docs/PagerDuty/README.md" />
       <jump line="1000" column="39" filename="$USER_HOME$/projects/gateway/Gateway-services/docs/PagerDuty/README.md" />
       <jump line="43" column="34" filename="$USER_HOME$/projects/gateway/Gateway-services/docs/PagerDuty/README.md" />
-      <jump line="0" column="0" filename="$USER_HOME$/projects/gateway/Gateway-services/docs/PagerDuty/README.md" />
       <jump line="653" column="111" filename="$USER_HOME$/projects/gateway/Gateway-services/docs/PagerDuty/README.md" />
       <jump line="716" column="89" filename="$USER_HOME$/projects/gateway/Gateway-services/docs/PagerDuty/README.md" />
       <jump line="717" column="88" filename="$USER_HOME$/projects/gateway/Gateway-services/docs/PagerDuty/README.md" />
@@ -1352,22 +1339,36 @@
       <jump line="255" column="19" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/srx-licu.py" />
       <jump line="284" column="25" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/srx-licu.py" />
       <jump line="2369" column="0" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/srx-licu.py" />
+      <jump line="32" column="24" filename="$USER_HOME$/projects/gateway/Gateway-services/docs/PagerDuty/README.md" />
+      <jump line="2" column="20" filename="$USER_HOME$/projects/gateway/Gateway-services/docs/PagerDuty/README.md" />
+      <jump line="1172" column="14" filename="$USER_HOME$/projects/gateway/Gateway-services/docs/PagerDuty/README.md" />
+      <jump line="1162" column="49" filename="$USER_HOME$/projects/gateway/Gateway-services/docs/PagerDuty/README.md" />
+      <jump line="788" column="25" filename="$USER_HOME$/projects/gateway/Gateway-services/docs/PagerDuty/README.md" />
+      <jump line="1189" column="23" filename="$USER_HOME$/projects/gateway/Gateway-services/docs/PagerDuty/README.md" />
+      <jump line="741" column="63" filename="$USER_HOME$/projects/gateway/Gateway-services/docs/PagerDuty/README.md" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/gateway/Gateway-services/docs/PagerDuty/README.md" />
+      <jump line="813" column="126" filename="$USER_HOME$/projects/gateway/Gateway-services/docs/PagerDuty/README.md" />
+      <jump line="1124" column="54" filename="$USER_HOME$/projects/gateway/Gateway-services/docs/PagerDuty/README.md" />
+      <jump line="739" column="111" filename="$USER_HOME$/projects/gateway/Gateway-services/docs/PagerDuty/README.md" />
+      <jump line="802" column="89" filename="$USER_HOME$/projects/gateway/Gateway-services/docs/PagerDuty/README.md" />
+      <jump line="864" column="0" filename="$USER_HOME$/projects/gateway/Gateway-services/docs/PagerDuty/README.md" />
+      <jump line="803" column="0" filename="$USER_HOME$/projects/gateway/Gateway-services/docs/PagerDuty/README.md" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Qm90aCBub2RlcyBoYXZlIGJlZW4gdXBncmFkZWQgdG8gdlNSWCAxOC40LCBob3dldmVyIHRoZXkgY2Fubm90IGNsdXN0ZXIgYW5kIHNob3dzIHJlbW90ZSBub2RlIGFzIGBsb3N0YAo=</text>
+        <text encoding="base64">IyMjIHZTUlggaW50ZXJmYWNlIHRvIG5vZGUgaW50ZXJmYWNlIG1hcHBpbmcgPGEgbmFtZT0idnNyeC1pbnRlcmZhY2UtbWFwcGluZyI+Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>communication</text>
+        <text>]</text>
       </register>
       <register name="/" type="4">
-        <text>Device</text>
+        <text>ConnectAuth</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">IyMjIE5vZGUgc3RhdHVzIHNob3dzIGxvc3QgZm9yIGVpdGhlciBub2RlMCBvciBub2RlMSAgPGEgbmFtZT0icG9zdC11cGdyYWRlLW5vZGUtY29tbXVuaWNhdGlvbiI+CgojIyMjIERpYWdub3NpcwoKQm90aCBub2RlcyBoYXZlIGJlZW4gdXBncmFkZWQgdG8gdlNSWCAxOC40LCBob3dldmVyIHRoZXkgY2Fubm90IGNsdXN0ZXIgYW5kIHNob3dzIHJlbW90ZSBub2RlIGFzIGBsb3N0YAoKIyMjIyBSZXNvbHV0aW9u</text>
+      <register name="0" type="2">
+        <text encoding="base64">IyMjIHZTUlggaW50ZXJmYWNlIHRvIG5vZGUgaW50ZXJmYWNlIG1hcHBpbmcgPGEgbmFtZT0idnNyeC1pbnRlcmZhY2UtbWFwcGluZyI+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Qm90aCBub2RlcyBoYXZlIGJlZW4gdXBncmFkZWQgdG8gdlNSWCAxOC40LCBob3dldmVyIHRoZXkgY2Fubm90IGNsdXN0ZXIgYW5kIHNob3dzIHJlbW90ZSBub2RlIGFzIGBsb3N0YAo=</text>
+        <text encoding="base64">ICAqIFtQcmUtVXBncmFkZSBWYWxpZGF0aW9uIElzc3Vlc10K</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
@@ -1376,31 +1377,31 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">YWRkcmVzcyAxOTIuMTY4LjIzNy4yISBzZW50IGZyb20gYWRkcmVzczogNTI6NTQ6MDA6ZWU6NjY6NTcgKGVycm9yIGNvdW50ID0gMTIpCg==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">IyMgR2F0ZXdheSBVcGdyYWRlL0Rvd25ncmFkZSB0cmFuc2FjdGlvbiBmYWlsdXJlcyA8YSBuYW1lPSJndy12ZXJzaW9uLXVwZGF0ZS1mYWlsdXJlcyIvPgo=</text>
+      <register name="5" type="2">
+        <text encoding="base64">RXZlbiBpZiB0aGlzIGhhcHBlbnMgaW4gdGhlIGJlZ2lubmluZyBvZiB0aGUgcHJvY2VzcyBhbmQgeW91IGZlZWwgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">MAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">CgoqIEVuc3VyZS9FbmFibGUgaG9zdDEgdm5ldDEvMiBhcmUgY29ycmVjdCAgICAgICAgICAgIAoqIEVuc3VyZS9FbmFibGUgaG9zdDAgdm5ldDEvMiBhcmUgY29ycmVjdCAgICAgICAgICAgIAoqIEVuYWJsZSBub2RlMSBpbnRlcmZhY2VzCiogUG9zdC11cGdyYWRlIGhlYWx0aCBjaGVjawo=</text>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB2bmV0MAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>$</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>Device</last-search>
+      <last-search>ConnectAuth</last-search>
       <last-offset />
-      <last-pattern>Device</last-pattern>
+      <last-pattern>ConnectAuth</last-pattern>
       <last-replace>CodeSimpleSchema</last-replace>
       <last-substitute>CodeSchema</last-substitute>
       <last-dir>1</last-dir>
@@ -1408,12 +1409,6 @@
     </search>
     <history>
       <history-search>
-        <entry>node1_primary_down</entry>
-        <entry>node1_primary_downgrade</entry>
-        <entry>def node1_downgrade</entry>
-        <entry>node1-rollback</entry>
-        <entry>gre-ctrl</entry>
-        <entry>fxp</entry>
         <entry>ibm_prew</entry>
         <entry>pre</entry>
         <entry>installing host</entry>
@@ -1428,6 +1423,12 @@
         <entry encoding="base64">TElDVSA=</entry>
         <entry>port</entry>
         <entry>Device</entry>
+        <entry>Node note in</entry>
+        <entry>Node not in cluster</entry>
+        <entry>license</entry>
+        <entry>bridge</entry>
+        <entry>gre-ctrl</entry>
+        <entry>ConnectAuth</entry>
       </history-search>
       <history-cmd>
         <entry>1596</entry>
@@ -1441,15 +1442,15 @@
         <entry>wq</entry>
         <entry>483</entry>
         <entry>566</entry>
-        <entry>w</entry>
         <entry>2065</entry>
         <entry>2238</entry>
         <entry>q!</entry>
         <entry>1622</entry>
         <entry>471</entry>
         <entry>348</entry>
-        <entry>0</entry>
         <entry>$</entry>
+        <entry>w</entry>
+        <entry>0</entry>
       </history-cmd>
       <history-expr />
       <history-input />
