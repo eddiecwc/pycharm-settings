@@ -650,9 +650,6 @@
         <mark key="'" line="164" column="18" />
         <mark key="[" line="32" column="0" />
       </file>
-      <file name="/helper_functions.py" timestamp="1558841030715">
-        <mark key="'" line="8" column="41" />
-      </file>
       <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/templates/ess/product_list.html" timestamp="1522211599811">
         <mark key="'" line="9" column="0" />
         <mark key="[" line="45" column="50" />
@@ -924,11 +921,21 @@
         <mark key="^" line="13" column="44" />
         <mark key="." line="13" column="44" />
       </file>
+      <file name="/README.md" timestamp="1562572193393">
+        <mark key="[" line="440" column="0" />
+        <mark key="]" line="447" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/gateway/Juniper_vSRX_on_KVM/net_interfaces_routebr1bn.j2" timestamp="1553532051757">
         <mark key="[" line="23" column="24" />
         <mark key="]" line="24" column="7" />
         <mark key="^" line="24" column="7" />
         <mark key="." line="24" column="7" />
+      </file>
+      <file name="$USER_HOME$/projects/gateway/Gateway-services/docs/PagerDuty/README.md" timestamp="1562572922893">
+        <mark key="[" line="1149" column="0" />
+        <mark key="]" line="1150" column="0" />
+        <mark key="." line="1150" column="0" />
+        <mark key="^" line="1146" column="85" />
       </file>
       <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/mod_node/__init__.py" timestamp="1515521737977">
         <mark key="[" line="0" column="21" />
@@ -1347,44 +1354,44 @@
       <jump line="2369" column="0" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/srx-licu.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>&quot;</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Qm90aCBub2RlcyBoYXZlIGJlZW4gdXBncmFkZWQgdG8gdlNSWCAxOC40LCBob3dldmVyIHRoZXkgY2Fubm90IGNsdXN0ZXIgYW5kIHNob3dzIHJlbW90ZSBub2RlIGFzIGBsb3N0YAo=</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text>communication</text>
       </register>
       <register name="/" type="4">
         <text>Device</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">IyMjIE5vZGUgc3RhdHVzIHNob3dzIGxvc3QgZm9yIGVpdGhlciBub2RlMCBvciBub2RlMSAgPGEgbmFtZT0icG9zdC11cGdyYWRlLW5vZGUtY29tbXVuaWNhdGlvbiI+Cg==</text>
+      <register name="0" type="4">
+        <text encoding="base64">IyMjIE5vZGUgc3RhdHVzIHNob3dzIGxvc3QgZm9yIGVpdGhlciBub2RlMCBvciBub2RlMSAgPGEgbmFtZT0icG9zdC11cGdyYWRlLW5vZGUtY29tbXVuaWNhdGlvbiI+CgojIyMjIERpYWdub3NpcwoKQm90aCBub2RlcyBoYXZlIGJlZW4gdXBncmFkZWQgdG8gdlNSWCAxOC40LCBob3dldmVyIHRoZXkgY2Fubm90IGNsdXN0ZXIgYW5kIHNob3dzIHJlbW90ZSBub2RlIGFzIGBsb3N0YAoKIyMjIyBSZXNvbHV0aW9u</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">MAo=</text>
+        <text encoding="base64">Qm90aCBub2RlcyBoYXZlIGJlZW4gdXBncmFkZWQgdG8gdlNSWCAxOC40LCBob3dldmVyIHRoZXkgY2Fubm90IGNsdXN0ZXIgYW5kIHNob3dzIHJlbW90ZSBub2RlIGFzIGBsb3N0YAo=</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">CgoqIEVuc3VyZS9FbmFibGUgaG9zdDEgdm5ldDEvMiBhcmUgY29ycmVjdCAgICAgICAgICAgIAoqIEVuc3VyZS9FbmFibGUgaG9zdDAgdm5ldDEvMiBhcmUgY29ycmVjdCAgICAgICAgICAgIAoqIEVuYWJsZSBub2RlMSBpbnRlcmZhY2VzCiogUG9zdC11cGdyYWRlIGhlYWx0aCBjaGVjawo=</text>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB2bmV0MAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="5" type="4">
+        <text encoding="base64">IyMgR2F0ZXdheSBVcGdyYWRlL0Rvd25ncmFkZSB0cmFuc2FjdGlvbiBmYWlsdXJlcyA8YSBuYW1lPSJndy12ZXJzaW9uLXVwZGF0ZS1mYWlsdXJlcyIvPgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB2bmV0MQo=</text>
+        <text encoding="base64">MAo=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBici1jdHJsCSAgICA4MDAwLjJhYmZlOTUyY2YzNiAgIG5vICAgICAgICAgICAgICBncmUtY3RybAo=</text>
+      <register name="7" type="4">
+        <text encoding="base64">CgoqIEVuc3VyZS9FbmFibGUgaG9zdDEgdm5ldDEvMiBhcmUgY29ycmVjdCAgICAgICAgICAgIAoqIEVuc3VyZS9FbmFibGUgaG9zdDAgdm5ldDEvMiBhcmUgY29ycmVjdCAgICAgICAgICAgIAoqIEVuYWJsZSBub2RlMSBpbnRlcmZhY2VzCiogUG9zdC11cGdyYWRlIGhlYWx0aCBjaGVjawo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBicmlkZ2UgbmFtZSBicmlkZ2UgaWQJCVNUUCBlbmFibGVkCWludGVyZmFjZXMK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB2bmV0MAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>$</text>
