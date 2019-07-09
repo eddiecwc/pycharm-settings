@@ -541,8 +541,8 @@
         <mark key="^" line="25" column="4" />
         <mark key="." line="25" column="4" />
       </file>
-      <file name="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/srx-licu.py" timestamp="1562654883814">
-        <mark key="'" line="2296" column="16" />
+      <file name="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/srx-licu.py" timestamp="1562658464552">
+        <mark key="'" line="904" column="4" />
         <mark key="[" line="2144" column="19" />
         <mark key="]" line="125" column="20" />
         <mark key="." line="2144" column="19" />
@@ -931,12 +931,12 @@
         <mark key="^" line="24" column="7" />
         <mark key="." line="24" column="7" />
       </file>
-      <file name="$USER_HOME$/projects/gateway/Gateway-services/docs/PagerDuty/README.md" timestamp="1562654646071">
-        <mark key="'" line="803" column="0" />
-        <mark key="[" line="1254" column="0" />
-        <mark key="]" line="1255" column="0" />
-        <mark key="." line="1255" column="0" />
-        <mark key="^" line="1255" column="0" />
+      <file name="$USER_HOME$/projects/gateway/Gateway-services/docs/PagerDuty/README.md" timestamp="1562658660935">
+        <mark key="'" line="1025" column="55" />
+        <mark key="[" line="1276" column="116" />
+        <mark key="]" line="1276" column="116" />
+        <mark key="." line="1276" column="116" />
+        <mark key="^" line="1276" column="120" />
       </file>
       <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/mod_node/__init__.py" timestamp="1515521737977">
         <mark key="[" line="0" column="21" />
@@ -980,6 +980,9 @@
         <mark key="]" line="5" column="18" />
         <mark key="." line="5" column="18" />
         <mark key="^" line="5" column="18" />
+      </file>
+      <file name="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/vsrx_rollback.py" timestamp="1562657895694">
+        <mark key="'" line="306" column="60" />
       </file>
       <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/tasks.py" timestamp="1526022842174">
         <mark key="'" line="0" column="0" />
@@ -1253,19 +1256,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="41" column="42" filename="$USER_HOME$/projects/gateway/Gateway-services/docs/PagerDuty/README.md" />
-      <jump line="42" column="66" filename="$USER_HOME$/projects/gateway/Gateway-services/docs/PagerDuty/README.md" />
-      <jump line="89" column="34" filename="$USER_HOME$/projects/gateway/Gateway-services/docs/PagerDuty/README.md" />
-      <jump line="91" column="31" filename="$USER_HOME$/projects/gateway/Gateway-services/docs/PagerDuty/README.md" />
-      <jump line="148" column="69" filename="$USER_HOME$/projects/gateway/Gateway-services/docs/PagerDuty/README.md" />
-      <jump line="150" column="7" filename="$USER_HOME$/projects/gateway/Gateway-services/docs/PagerDuty/README.md" />
-      <jump line="58" column="12" filename="$USER_HOME$/projects/gateway/Gateway-services/docs/PagerDuty/README.md" />
-      <jump line="855" column="0" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/srx-licu.py" />
-      <jump line="2303" column="20" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/srx-licu.py" />
-      <jump line="1266" column="16" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/srx-licu.py" />
-      <jump line="1213" column="12" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/srx-licu.py" />
-      <jump line="565" column="8" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/srx-licu.py" />
-      <jump line="904" column="4" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/srx-licu.py" />
       <jump line="1090" column="4" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/srx-licu.py" />
       <jump line="1239" column="19" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/srx-licu.py" />
       <jump line="1718" column="11" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/srx-licu.py" />
@@ -1276,7 +1266,6 @@
       <jump line="744" column="22" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/srx-licu.py" />
       <jump line="442" column="24" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/srx-licu.py" />
       <jump line="1753" column="16" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/srx-licu.py" />
-      <jump line="872" column="25" filename="$USER_HOME$/projects/gateway/Gateway-services/docs/PagerDuty/README.md" />
       <jump line="925" column="19" filename="$USER_HOME$/projects/gateway/Gateway-services/docs/PagerDuty/README.md" />
       <jump line="991" column="136" filename="$USER_HOME$/projects/gateway/Gateway-services/docs/PagerDuty/README.md" />
       <jump line="1000" column="39" filename="$USER_HOME$/projects/gateway/Gateway-services/docs/PagerDuty/README.md" />
@@ -1353,55 +1342,69 @@
       <jump line="803" column="0" filename="$USER_HOME$/projects/gateway/Gateway-services/docs/PagerDuty/README.md" />
       <jump line="2211" column="7" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/srx-licu.py" />
       <jump line="2296" column="16" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/srx-licu.py" />
+      <jump line="662" column="16" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/srx-licu.py" />
+      <jump line="884" column="6" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/srx-licu.py" />
+      <jump line="1182" column="8" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/srx-licu.py" />
+      <jump line="294" column="46" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/vsrx_rollback.py" />
+      <jump line="306" column="60" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/vsrx_rollback.py" />
+      <jump line="848" column="47" filename="$USER_HOME$/projects/gateway/Gateway-services/docs/PagerDuty/README.md" />
+      <jump line="871" column="27" filename="$USER_HOME$/projects/gateway/Gateway-services/docs/PagerDuty/README.md" />
+      <jump line="872" column="2" filename="$USER_HOME$/projects/gateway/Gateway-services/docs/PagerDuty/README.md" />
+      <jump line="930" column="105" filename="$USER_HOME$/projects/gateway/Gateway-services/docs/PagerDuty/README.md" />
+      <jump line="1005" column="49" filename="$USER_HOME$/projects/gateway/Gateway-services/docs/PagerDuty/README.md" />
+      <jump line="1025" column="55" filename="$USER_HOME$/projects/gateway/Gateway-services/docs/PagerDuty/README.md" />
+      <jump line="1657" column="28" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/srx-licu.py" />
+      <jump line="565" column="8" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/srx-licu.py" />
+      <jump line="904" column="4" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/srx-licu.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>.</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">YWN0aXZlIA==</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
-        <text>licu_node0_primary_downgrade</text>
+        <text>node0_downgrade</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">IyMjIHZTUlggaW50ZXJmYWNlIHRvIG5vZGUgaW50ZXJmYWNlIG1hcHBpbmcgPGEgbmFtZT0idnNyeC1pbnRlcmZhY2UtbWFwcGluZyI+Cg==</text>
+        <text encoding="base64">IyMjIyBSZXNvbHV0aW9uIDxhIG5hbWU9Im5vZGUxLXJvbGxiYWNrLXByb2NlZHVyZSIgLz4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">VGhlIGVhc2llc3QgdGhpbmcgdG8gZG8gdXBvbiBmYWlsdXJlIGlzIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">KiAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">KiBzYW1lIGFzIHVwZ3JhZGUK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">UmVmZXIgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">SW4gYWRkaXRpb24gdG8gdGhlIHByZS11cGdyYWRlICwgZG93bmdyYWRlIGhhcyBhIGNvdXBsZSBvZiBhZGRpdGlvbmFsIAo=</text>
+        <text encoding="base64">bm9kZTEtcm9sbGJhY2stcHJvY2VkdXJlCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">VGhlIGRvd25ncmFkZSByZXF1aXJlbWVudHMgYXJlIG1vc3RseSB0aGUgc2FtZSBhcyB0aGUgdXBncmFkZSByZXF1aXJlbWVudHMuIEluIAo=</text>
+        <text encoding="base64">ICAgICogYHZpcnNoIGRlZmluZSAvdmFyL2xpYi9saWJ2aXJ0L2ltYWdlcy88Vk1fTkFNRT4vdlNSWF9YTUxfanVub3NfMTUueG1sYAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAqIFtQcmUtVXBncmFkZSBWYWxpZGF0aW9uIElzc3Vlc10K</text>
+        <text encoding="base64">NS4gUmVzdG9yZSBvcmlnaW5hbCB2U1JYIDE1IFZNIFhNTCB3aXRoIHRoZSBYTUwgYmFja3VwIGZpbGU6IAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">KiBNb2RpZnkgbm9kZTEgVk0gdG8gdXNlIG5ldyBxY293IGFuZCB0ZWxuZXQgY29uc29sZQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">KiBDcmVhdGUgYW5kIGNvbmZpZ3VyZSB0ZW1wb3JhcnkgdlNSWCAxOC40IFZNIChyb2xsYmFjayBpZiBjb25maWd1cmF0aW9uIGlzIHVuc3VjY2Vzc2Z1bCkK</text>
       </register>
       <register name=":" type="4">
-        <text>877</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>licu_node0_primary_downgrade</last-search>
+      <last-search>node0_downgrade</last-search>
       <last-offset />
-      <last-pattern>licu_node0_primary_downgrade</last-pattern>
+      <last-pattern>node0_downgrade</last-pattern>
       <last-replace>CodeSimpleSchema</last-replace>
       <last-substitute>CodeSchema</last-substitute>
       <last-dir>1</last-dir>
@@ -1409,10 +1412,6 @@
     </search>
     <history>
       <history-search>
-        <entry>pre</entry>
-        <entry>installing host</entry>
-        <entry>licu_node0_prim</entry>
-        <entry>licu_node0_primary</entry>
         <entry>attempting to open</entry>
         <entry>:0</entry>
         <entry>Testing</entry>
@@ -1429,9 +1428,12 @@
         <entry>gre-ctrl</entry>
         <entry>ConnectAuth</entry>
         <entry>licu_node0_primary_downgrade</entry>
+        <entry>node1_downgrade</entry>
+        <entry>xml</entry>
+        <entry>manual</entry>
+        <entry>node0_downgrade</entry>
       </history-search>
       <history-cmd>
-        <entry>699</entry>
         <entry>2293</entry>
         <entry>637</entry>
         <entry>1691</entry>
@@ -1447,10 +1449,11 @@
         <entry>1622</entry>
         <entry>471</entry>
         <entry>348</entry>
-        <entry>$</entry>
-        <entry>w</entry>
         <entry>0</entry>
         <entry>877</entry>
+        <entry>881</entry>
+        <entry>$</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
