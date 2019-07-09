@@ -191,11 +191,6 @@
         <mark key="^" line="190" column="24" />
         <mark key="." line="215" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/gateway/venv/lib/python2.7/site-packages/paramiko/client.py" timestamp="1554756975829">
-        <mark key="[" line="217" column="8" />
-        <mark key="]" line="217" column="8" />
-        <mark key="." line="217" column="8" />
-      </file>
       <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/mod_cluster/node.py" timestamp="1516587549245">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="569" column="15" />
@@ -388,15 +383,11 @@
         <mark key="^" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/error_generator.py" timestamp="1558883958155">
+      <file name="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/error_generator.py" timestamp="1562683050979">
+        <mark key="'" line="6" column="5" />
         <mark key="[" line="88" column="12" />
         <mark key="]" line="88" column="12" />
         <mark key="." line="88" column="12" />
-      </file>
-      <file name="$USER_HOME$/projects/gateway/Juniper_vSRX_on_KVM/interface_config.sh" timestamp="1553878345528">
-        <mark key="[" line="9" column="32" />
-        <mark key="]" line="9" column="33" />
-        <mark key="." line="9" column="33" />
       </file>
       <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/mod_support/dump.py" timestamp="1516577755129">
         <mark key="[" line="7" column="0" />
@@ -428,11 +419,6 @@
         <mark key="]" line="52" column="35" />
         <mark key="^" line="53" column="0" />
         <mark key="." line="52" column="35" />
-      </file>
-      <file name="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/ibm_setup/upgrade_defaults.yaml" timestamp="1558725718158">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
       </file>
       <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/mod_support/code.py" timestamp="1516214397620">
         <mark key="'" line="61" column="48" />
@@ -628,11 +614,6 @@
         <mark key="^" line="55" column="17" />
         <mark key="." line="55" column="17" />
       </file>
-      <file name="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/get_node_hostname.sh" timestamp="1557417371997">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
-      </file>
       <file name="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/run_upgrade.py" timestamp="1562011320240">
         <mark key="'" line="302" column="52" />
         <mark key="[" line="229" column="65" />
@@ -821,11 +802,6 @@
         <mark key="]" line="217" column="0" />
         <mark key="." line="217" column="0" />
         <mark key="^" line="217" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/gre_change_mod.py" timestamp="1558570613518">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/schemas/dump_schema.py" timestamp="1525932253395">
         <mark key="[" line="24" column="36" />
@@ -1256,10 +1232,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="744" column="22" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/srx-licu.py" />
-      <jump line="442" column="24" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/srx-licu.py" />
-      <jump line="1753" column="16" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/srx-licu.py" />
-      <jump line="925" column="19" filename="$USER_HOME$/projects/gateway/Gateway-services/docs/PagerDuty/README.md" />
       <jump line="991" column="136" filename="$USER_HOME$/projects/gateway/Gateway-services/docs/PagerDuty/README.md" />
       <jump line="1000" column="39" filename="$USER_HOME$/projects/gateway/Gateway-services/docs/PagerDuty/README.md" />
       <jump line="43" column="34" filename="$USER_HOME$/projects/gateway/Gateway-services/docs/PagerDuty/README.md" />
@@ -1356,6 +1328,10 @@
       <jump line="48" column="44" filename="$USER_HOME$/projects/gateway/Gateway-services/docs/PagerDuty/README.md" />
       <jump line="49" column="58" filename="$USER_HOME$/projects/gateway/Gateway-services/docs/PagerDuty/README.md" />
       <jump line="50" column="52" filename="$USER_HOME$/projects/gateway/Gateway-services/docs/PagerDuty/README.md" />
+      <jump line="86" column="0" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/error_generator.py" />
+      <jump line="26" column="34" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/error_generator.py" />
+      <jump line="38" column="17" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/error_generator.py" />
+      <jump line="6" column="5" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/error_generator.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1365,7 +1341,7 @@
         <text>i</text>
       </register>
       <register name="/" type="4">
-        <text>post-upgrade-node-</text>
+        <text>random</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">IyMjIE90aGVyIHBvc3QtZG93bmdyYWRlIHZhbGlkYXRpb24gaXNzdWVzIDxhIG5hbWU9Im90aGVyLXBvc3QtZG93bmdyYWRlLXZhbGlkYXRpb24taXNzdWVzIiAvPgo=</text>
@@ -1402,9 +1378,9 @@
       </register>
     </registers>
     <search>
-      <last-search>post-upgrade-node-</last-search>
+      <last-search>random</last-search>
       <last-offset />
-      <last-pattern>post-upgrade-node-</last-pattern>
+      <last-pattern>random</last-pattern>
       <last-replace>CodeSimpleSchema</last-replace>
       <last-substitute>CodeSchema</last-substitute>
       <last-dir>1</last-dir>
@@ -1412,7 +1388,6 @@
     </search>
     <history>
       <history-search>
-        <entry>open_dev</entry>
         <entry>LICU</entry>
         <entry>open</entry>
         <entry encoding="base64">TElDVSA=</entry>
@@ -1432,6 +1407,7 @@
         <entry>br0</entry>
         <entry>post-upgrade</entry>
         <entry>post-upgrade-node-</entry>
+        <entry>random</entry>
       </history-search>
       <history-cmd>
         <entry>2293</entry>
@@ -1452,8 +1428,8 @@
         <entry>877</entry>
         <entry>881</entry>
         <entry>$</entry>
-        <entry>0</entry>
         <entry>w</entry>
+        <entry>0</entry>
       </history-cmd>
       <history-expr />
       <history-input />
