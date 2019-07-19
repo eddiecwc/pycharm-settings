@@ -681,6 +681,12 @@
         <mark key="^" line="40" column="0" />
         <mark key="." line="62" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/nlb/event-watcher/watcher.py" timestamp="1563575929061">
+        <mark key="[" line="46" column="1" />
+        <mark key="]" line="46" column="1" />
+        <mark key="^" line="46" column="1" />
+        <mark key="." line="46" column="1" />
+      </file>
       <file name="$USER_HOME$/Sites/flask_movie/templates/security/login_user.html" timestamp="1513935903494">
         <mark key="[" line="16" column="44" />
         <mark key="]" line="16" column="64" />
@@ -741,7 +747,6 @@
         <mark key="." line="95" column="51" />
         <mark key="^" line="95" column="51" />
       </file>
-      <file name="$USER_HOME$/projects/gateway/Juniper_vSRX_on_KVM/vSRX_demo_License.txt" timestamp="1563403183277" />
       <file name="$USER_HOME$/projects/gateway/licu/do-update" timestamp="1550640403777">
         <mark key="'" line="52" column="13" />
         <mark key="[" line="0" column="0" />
@@ -787,9 +792,6 @@
         <mark key="]" line="7" column="1" />
         <mark key="." line="7" column="1" />
         <mark key="^" line="7" column="1" />
-      </file>
-      <file name="/Python Console" timestamp="1561569193429">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/mod_support/product_number.py" timestamp="1516348109317">
         <mark key="'" line="47" column="10" />
