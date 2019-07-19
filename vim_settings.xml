@@ -352,6 +352,9 @@
         <mark key="^" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/nlb/regional-compute/pkg/compute/server.go" timestamp="1563572246077">
+        <mark key="'" line="2703" column="12" />
+      </file>
       <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/templates/ess/code_add.html" timestamp="1520814433598">
         <mark key="[" line="27" column="0" />
         <mark key="]" line="27" column="0" />
@@ -1249,8 +1252,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="69" column="34" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/run_upgrade.py" />
-      <jump line="70" column="17" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/run_upgrade.py" />
       <jump line="172" column="43" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/run_upgrade.py" />
       <jump line="213" column="36" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/run_upgrade.py" />
       <jump line="302" column="52" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/run_upgrade.py" />
@@ -1349,6 +1350,8 @@
       <jump line="0" column="0" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_on_KVM/Build_vSRX.py" />
       <jump line="58" column="5" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_on_KVM/Build_vSRX.py" />
       <jump line="218" column="16" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_on_KVM/Build_vSRX.py" />
+      <jump line="212" column="8" filename="$USER_HOME$/projects/nlb/regional-compute/pkg/compute/server.go" />
+      <jump line="2703" column="12" filename="$USER_HOME$/projects/nlb/regional-compute/pkg/compute/server.go" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -1358,7 +1361,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>interface_mapping</text>
+        <text>computeClient</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">IyMjIEludGVyZmFjZSBjaGVjayBmYWlsdXJlcyA8YSBuYW1lPSJwb3N0LWNoZWNrLWludGVyZmFjZS1zdGF0dXMiIC8+Cg==</text>
@@ -1395,9 +1398,9 @@
       </register>
     </registers>
     <search>
-      <last-search>interface_mapping</last-search>
+      <last-search>computeClient</last-search>
       <last-offset />
-      <last-pattern>interface_mapping</last-pattern>
+      <last-pattern>computeClient</last-pattern>
       <last-replace>CodeSimpleSchema</last-replace>
       <last-substitute>CodeSchema</last-substitute>
       <last-dir>1</last-dir>
@@ -1405,7 +1408,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Device</entry>
         <entry>Node note in</entry>
         <entry>Node not in cluster</entry>
         <entry>license</entry>
@@ -1425,6 +1427,7 @@
         <entry>GRE Conversion I</entry>
         <entry>VMName</entry>
         <entry>interface_mapping</entry>
+        <entry>computeClient</entry>
       </history-search>
       <history-cmd>
         <entry>1691</entry>
