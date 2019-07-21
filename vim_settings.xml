@@ -681,11 +681,11 @@
         <mark key="^" line="40" column="0" />
         <mark key="." line="62" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/nlb/event-watcher/watcher.py" timestamp="1563692256602">
-        <mark key="[" line="8" column="84" />
-        <mark key="]" line="8" column="84" />
-        <mark key="." line="8" column="84" />
-        <mark key="^" line="8" column="84" />
+      <file name="$USER_HOME$/projects/nlb/event-watcher/watcher.py" timestamp="1563695130270">
+        <mark key="[" line="94" column="14" />
+        <mark key="]" line="90" column="0" />
+        <mark key="." line="90" column="0" />
+        <mark key="^" line="90" column="0" />
       </file>
       <file name="$USER_HOME$/Sites/flask_movie/templates/security/login_user.html" timestamp="1513935903494">
         <mark key="[" line="16" column="44" />
@@ -1262,10 +1262,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1215" column="0" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/srx-licu.py" />
-      <jump line="2324" column="12" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/srx-licu.py" />
-      <jump line="659" column="4" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/srx-licu.py" />
-      <jump line="852" column="4" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/srx-licu.py" />
       <jump line="140" column="0" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/helper_functions.py" />
       <jump line="148" column="8" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/helper_functions.py" />
       <jump line="149" column="8" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/helper_functions.py" />
@@ -1362,55 +1358,59 @@
       <jump line="1558" column="24" filename="/System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/xmlrpclib.py" />
       <jump line="1562" column="22" filename="/System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/xmlrpclib.py" />
       <jump line="1563" column="18" filename="/System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/xmlrpclib.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/nlb/event-watcher/watcher.py" />
+      <jump line="3" column="20" filename="$USER_HOME$/projects/nlb/event-watcher/watcher.py" />
+      <jump line="48" column="21" filename="$USER_HOME$/projects/nlb/event-watcher/watcher.py" />
+      <jump line="59" column="24" filename="$USER_HOME$/projects/nlb/event-watcher/watcher.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHBhc3MK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>m</text>
       </register>
       <register name="/" type="4">
-        <text>uri</text>
+        <text>print</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">IyMjIEludGVyZmFjZSBjaGVjayBmYWlsdXJlcyA8YSBuYW1lPSJwb3N0LWNoZWNrLWludGVyZmFjZS1zdGF0dXMiIC8+Cg==</text>
+      <register name="0" type="4">
+        <text encoding="base64">ICAgICAgICAjICMgaWYgdGhlIHRva2VuIHBhcmFtZXRlciBpcyBzZXQgdG8gYW4gZW1wdHkgc3RyaW5nLCB0aGUgcmV0dXJuIGZyb20gZXZlbnRfZnJvbSB3aWxsIGNvbnRhaW4gYWxsCiAgICAgICAgIyAjIGV2ZW50cyB0aGF0IGhhdmUgb2NjdXJyZWQsIHlvdSBwcm9iYWJseSB3YW50IHRvIHVzZSB0aGlzIHRoZSBmaXJzdCB0aW1lIHlvdSB1c2UgZXZlbnRfZnJvbQogICAgICAgICMgdG9rZW5fZnJvbSA9ICcnCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIEZPUk1BVCA9ICclKGFzY3RpbWUpLTE1cyAlKHNlcnZlcl9pcClzICUodXNlciktOHMgJShtZXNzYWdlKXMnCg==</text>
+        <text encoding="base64">ICAgIHBhc3MK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICJwb29sX3VwZGF0ZSIsCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRpbWUuc2xlZXAoMSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAjIHByaW50IGV2ZW50Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHBwcmludChldmVudCkK</text>
+        <text encoding="base64">ICAgICJ2bV9ndWVzdF9tZXRyaWNzIiwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHByaW50KGV2ZW50cykK</text>
+        <text encoding="base64">ICAgICJ2bV9tZXRyaWNzIiwgCg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">IyBDb3B5cmlnaHQgKGMpIENpdHJpeCBTeXN0ZW1zLCBJbmMuCiMgQWxsIHJpZ2h0cyByZXNlcnZlZC4KIwojIFJlZGlzdHJpYnV0aW9uIGFuZCB1c2UgaW4gc291cmNlIGFuZCBiaW5hcnkgZm9ybXMsIHdpdGggb3Igd2l0aG91dAojIG1vZGlmaWNhdGlvbiwgYXJlIHBlcm1pdHRlZCBwcm92aWRlZCB0aGF0IHRoZSBmb2xsb3dpbmcgY29uZGl0aW9ucwojIGFyZSBtZXQ6CiMKIyAgIDEpIFJlZGlzdHJpYnV0aW9ucyBvZiBzb3VyY2UgY29kZSBtdXN0IHJldGFpbiB0aGUgYWJvdmUgY29weXJpZ2h0CiMgICAgICBub3RpY2UsIHRoaXMgbGlzdCBvZiBjb25kaXRpb25zIGFuZCB0aGUgZm9sbG93aW5nIGRpc2NsYWltZXIuCiMKIyAgIDIpIFJlZGlzdHJpYnV0aW9ucyBpbiBiaW5hcnkgZm9ybSBtdXN0IHJlcHJvZHVjZSB0aGUgYWJvdmUKIyAgICAgIGNvcHlyaWdodCBub3RpY2UsIHRoaXMgbGlzdCBvZiBjb25kaXRpb25zIGFuZCB0aGUgZm9sbG93aW5nCiMgICAgICBkaXNjbGFpbWVyIGluIHRoZSBkb2N1bWVudGF0aW9uIGFuZC9vciBvdGhlciBtYXRlcmlhbHMKIyAgICAgIHByb3ZpZGVkIHdpdGggdGhlIGRpc3RyaWJ1dGlvbi4KIwojIFRISVMgU09GVFdBUkUgSVMgUFJPVklERUQgQlkgVEhFIENPUFlSSUdIVCBIT0xERVJTIEFORCBDT05UUklCVVRPUlMKIyAiQVMgSVMiIEFORCBBTlkgRVhQUkVTUyBPUiBJTVBMSUVEIFdBUlJBTlRJRVMsIElOQ0xVRElORywgQlVUIE5PVAojIExJTUlURUQgVE8sIFRIRSBJTVBMSUVEIFdBUlJBTlRJRVMgT0YgTUVSQ0hBTlRBQklMSVRZIEFORCBGSVRORVNTCiMgRk9SIEEgUEFSVElDVUxBUiBQVVJQT1NFIEFSRSBESVNDTEFJTUVELiBJTiBOTyBFVkVOVCBTSEFMTCBUSEUKIyBDT1BZUklHSFQgSE9MREVSIE9SIENPTlRSSUJVVE9SUyBCRSBMSUFCTEUgRk9SIEFOWSBESVJFQ1QsCiMgSU5ESVJFQ1QsIElOQ0lERU5UQUwsIFNQRUNJQUwsIEVYRU1QTEFSWSwgT1IgQ09OU0VRVUVOVElBTCBEQU1BR0VTCiMgKElOQ0xVRElORywgQlVUIE5PVCBMSU1JVEVEIFRPLCBQUk9DVVJFTUVOVCBPRiBTVUJTVElUVVRFIEdPT0RTIE9SCiMgU0VSVklDRVM7IExPU1MgT0YgVVNFLCBEQVRBLCBPUiBQUk9GSVRTOyBPUiBCVVNJTkVTUyBJTlRFUlJVUFRJT04pCiMgSE9XRVZFUiBDQVVTRUQgQU5EIE9OIEFOWSBUSEVPUlkgT0YgTElBQklMSVRZLCBXSEVUSEVSIElOIENPTlRSQUNULAojIFNUUklDVCBMSUFCSUxJVFksIE9SIFRPUlQgKElOQ0xVRElORyBORUdMSUdFTkNFIE9SIE9USEVSV0lTRSkKIyBBUklTSU5HIElOIEFOWSBXQVkgT1VUIE9GIFRIRSBVU0UgT0YgVEhJUyBTT0ZUV0FSRSwgRVZFTiBJRiBBRFZJU0VECiMgT0YgVEhFIFBPU1NJQklMSVRZIE9GIFNVQ0ggREFNQUdFLgojIFNpbXBsZSBweXRob24gZXhhbXBsZSB0byBkZW1vbnN0cmF0ZSB0aGUgZXZlbnQgc3lzdGVtLiBMb2dzIGludG8gdGhlIHNlcnZlciwKIyByZWdpc3RlcnMgZm9yIGFsbCBldmVudHMgYW5kIHByaW50cyB0aGVtIHRvIHRoZSBzY3JlZW4uCiMgY2FsbCB2aWEgcHl0aG9uIGV2ZW50X2Zyb20ucHkgaHR0cDovL215aG9zdC51ay54ZW5zb3VyY2UuY29tIHVzZXJfbmFtZSB1c2VyX3Bhc3N3b3JkCg==</text>
+      <register name="7" type="2">
+        <text encoding="base64">TE9HX0ZJTEVfTkFNRSA9ICJldmVudHMubG9nIgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">IyBSZWdpc3RlciBmb3IgZXZlbnRzIG9uIGFsbCBjbGFzc2VzCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">IyBldmVudF90eXBlcyA9IFsiKiJdCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGRhdGVmbXQ9JyVIOiVNOiVTJykgICMgV2Ugb25seSB3YW50IHRvIHNlZSBjZXJ0YWluIHBhcnRzIG9mIHRoZSBtZXNzYWdlCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>uri</last-search>
+      <last-search>print</last-search>
       <last-offset />
-      <last-pattern>uri</last-pattern>
+      <last-pattern>print</last-pattern>
       <last-replace>CodeSimpleSchema</last-replace>
       <last-substitute>CodeSchema</last-substitute>
       <last-dir>1</last-dir>
@@ -1418,7 +1418,6 @@
     </search>
     <history>
       <history-search>
-        <entry>bridge</entry>
         <entry>gre-ctrl</entry>
         <entry>ConnectAuth</entry>
         <entry>licu_node0_primary_downgrade</entry>
@@ -1438,13 +1437,13 @@
         <entry>XenAPI</entry>
         <entry>url</entry>
         <entry>uri</entry>
+        <entry>print</entry>
       </history-search>
       <history-cmd>
         <entry>1691</entry>
         <entry>668</entry>
         <entry>we</entry>
         <entry>q</entry>
-        <entry>wq</entry>
         <entry>483</entry>
         <entry>566</entry>
         <entry>2065</entry>
@@ -1458,8 +1457,9 @@
         <entry encoding="base64">JzwsJz4xMjMz</entry>
         <entry>1233</entry>
         <entry>$</entry>
-        <entry>w</entry>
+        <entry>wq</entry>
         <entry>0</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
