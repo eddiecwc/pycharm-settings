@@ -684,11 +684,12 @@
         <mark key="^" line="40" column="0" />
         <mark key="." line="62" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/nlb/event-watcher/watcher.py" timestamp="1563724831811">
-        <mark key="[" line="74" column="0" />
-        <mark key="]" line="74" column="0" />
-        <mark key="." line="74" column="0" />
-        <mark key="^" line="70" column="31" />
+      <file name="$USER_HOME$/projects/nlb/event-watcher/watcher.py" timestamp="1563733229984">
+        <mark key="'" line="40" column="18" />
+        <mark key="[" line="93" column="98" />
+        <mark key="]" line="94" column="51" />
+        <mark key="." line="94" column="51" />
+        <mark key="^" line="94" column="51" />
       </file>
       <file name="$USER_HOME$/Sites/flask_movie/templates/security/login_user.html" timestamp="1513935903494">
         <mark key="[" line="16" column="44" />
@@ -1265,7 +1266,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="149" column="8" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/helper_functions.py" />
       <jump line="52" column="20" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/srx-licu.py" />
       <jump line="453" column="10" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/srx-licu.py" />
       <jump line="550" column="6" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/srx-licu.py" />
@@ -1365,55 +1365,56 @@
       <jump line="59" column="24" filename="$USER_HOME$/projects/nlb/event-watcher/watcher.py" />
       <jump line="3713" column="39" filename="$USER_HOME$/projects/nlb/event-watcher/vm.log" />
       <jump line="4025" column="19" filename="$USER_HOME$/projects/nlb/event-watcher/vm.log" />
+      <jump line="40" column="18" filename="$USER_HOME$/projects/nlb/event-watcher/watcher.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="-" type="4">
-        <text>]</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>is_a_template': False</text>
+        <text>logger</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">ICAgICAgICAjICMgaWYgdGhlIHRva2VuIHBhcmFtZXRlciBpcyBzZXQgdG8gYW4gZW1wdHkgc3RyaW5nLCB0aGUgcmV0dXJuIGZyb20gZXZlbnRfZnJvbSB3aWxsIGNvbnRhaW4gYWxsCiAgICAgICAgIyAjIGV2ZW50cyB0aGF0IGhhdmUgb2NjdXJyZWQsIHlvdSBwcm9iYWJseSB3YW50IHRvIHVzZSB0aGlzIHRoZSBmaXJzdCB0aW1lIHlvdSB1c2UgZXZlbnRfZnJvbQogICAgICAgICMgdG9rZW5fZnJvbSA9ICcnCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAnc25hcHNob3RfdGltZScK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIF0K</text>
+        <text encoding="base64">ICAgIHBhc3MK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAnc25hcHNob3QnCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAncmVmJzogZXZlbnRbJ3JlZiddLAo=</text>
+        <text encoding="base64">ZGVmIGlzX2Ffc25hcHNob3QoZXZlbnQpOgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAnb3BlcmF0aW9uJzogZXZlbnRbJ29wZXJhdGlvbiddLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAnaWQnOiBldmVudFsnaWQnXSwK</text>
+        <text encoding="base64">ICAgICAgICAnc25hcHNob3RfdGltZScK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHZtX2RpY3RfZXZlbnQgPSBbCg==</text>
+        <text encoding="base64">ICAgIF0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIG5hbWVfbGFiZWwgPSBldmVudAo=</text>
+        <text encoding="base64">ICAgICAgICAnc25hcHNob3QnCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>is_a_template': False</last-search>
+      <last-search>logger</last-search>
       <last-offset />
-      <last-pattern>is_a_template': False</last-pattern>
+      <last-pattern>logger</last-pattern>
       <last-replace>CodeSimpleSchema</last-replace>
       <last-substitute>CodeSchema</last-substitute>
       <last-dir>1</last-dir>
@@ -1421,7 +1422,6 @@
     </search>
     <history>
       <history-search>
-        <entry>licu_node0_primary_downgrade</entry>
         <entry>node1_downgrade</entry>
         <entry>xml</entry>
         <entry>manual</entry>
@@ -1441,9 +1441,9 @@
         <entry>print</entry>
         <entry>is_template</entry>
         <entry>is_a_template': False</entry>
+        <entry>logger</entry>
       </history-search>
       <history-cmd>
-        <entry>1691</entry>
         <entry>668</entry>
         <entry>we</entry>
         <entry>q</entry>
@@ -1461,6 +1461,7 @@
         <entry>1233</entry>
         <entry>$</entry>
         <entry>wq</entry>
+        <entry>76</entry>
         <entry>0</entry>
         <entry>w</entry>
       </history-cmd>
