@@ -684,12 +684,12 @@
         <mark key="^" line="40" column="0" />
         <mark key="." line="62" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/nlb/event-watcher/watcher.py" timestamp="1563733229984">
-        <mark key="'" line="40" column="18" />
-        <mark key="[" line="93" column="98" />
-        <mark key="]" line="94" column="51" />
-        <mark key="." line="94" column="51" />
-        <mark key="^" line="94" column="51" />
+      <file name="$USER_HOME$/projects/nlb/event-watcher/watcher.py" timestamp="1563734670237">
+        <mark key="'" line="51" column="16" />
+        <mark key="[" line="19" column="37" />
+        <mark key="]" line="20" column="3" />
+        <mark key="." line="20" column="3" />
+        <mark key="^" line="20" column="3" />
       </file>
       <file name="$USER_HOME$/Sites/flask_movie/templates/security/login_user.html" timestamp="1513935903494">
         <mark key="[" line="16" column="44" />
@@ -1266,10 +1266,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="52" column="20" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/srx-licu.py" />
-      <jump line="453" column="10" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/srx-licu.py" />
-      <jump line="550" column="6" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/srx-licu.py" />
-      <jump line="651" column="6" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/srx-licu.py" />
       <jump line="869" column="6" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/srx-licu.py" />
       <jump line="30" column="29" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/srx-licu.py" />
       <jump line="31" column="29" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/srx-licu.py" />
@@ -1360,61 +1356,65 @@
       <jump line="1562" column="22" filename="/System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/xmlrpclib.py" />
       <jump line="1563" column="18" filename="/System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/xmlrpclib.py" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/nlb/event-watcher/watcher.py" />
-      <jump line="3" column="20" filename="$USER_HOME$/projects/nlb/event-watcher/watcher.py" />
       <jump line="48" column="21" filename="$USER_HOME$/projects/nlb/event-watcher/watcher.py" />
       <jump line="59" column="24" filename="$USER_HOME$/projects/nlb/event-watcher/watcher.py" />
       <jump line="3713" column="39" filename="$USER_HOME$/projects/nlb/event-watcher/vm.log" />
       <jump line="4025" column="19" filename="$USER_HOME$/projects/nlb/event-watcher/vm.log" />
       <jump line="40" column="18" filename="$USER_HOME$/projects/nlb/event-watcher/watcher.py" />
+      <jump line="73" column="28" filename="$USER_HOME$/projects/nlb/event-watcher/watcher.py" />
+      <jump line="88" column="15" filename="$USER_HOME$/projects/nlb/event-watcher/watcher.py" />
+      <jump line="110" column="8" filename="$USER_HOME$/projects/nlb/event-watcher/watcher.py" />
+      <jump line="3" column="29" filename="$USER_HOME$/projects/nlb/event-watcher/watcher.py" />
+      <jump line="43" column="16" filename="$USER_HOME$/projects/nlb/event-watcher/watcher.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGZpbGVfZm9ybWF0dGVyID0gbG9nZ2luZy5Gb3JtYXR0ZXIoZm10PSclKGFzY3RpbWUpLTE1cyAlKG1lc3NhZ2UpcycpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>logger</text>
+        <text>print</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">ICAgICAgICAjICMgaWYgdGhlIHRva2VuIHBhcmFtZXRlciBpcyBzZXQgdG8gYW4gZW1wdHkgc3RyaW5nLCB0aGUgcmV0dXJuIGZyb20gZXZlbnRfZnJvbSB3aWxsIGNvbnRhaW4gYWxsCiAgICAgICAgIyAjIGV2ZW50cyB0aGF0IGhhdmUgb2NjdXJyZWQsIHlvdSBwcm9iYWJseSB3YW50IHRvIHVzZSB0aGlzIHRoZSBmaXJzdCB0aW1lIHlvdSB1c2UgZXZlbnRfZnJvbQogICAgICAgICMgdG9rZW5fZnJvbSA9ICcnCg==</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIGZpbGVfZm9ybWF0dGVyID0gbG9nZ2luZy5Gb3JtYXR0ZXIoZm10PSclKGFzY3RpbWUpLTE1cyAlKG1lc3NhZ2UpcycpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGZpbGVfZm9ybWF0dGVyID0gbG9nZ2luZy5Gb3JtYXR0ZXIoZm10PSclKGFzY3RpbWUpLTE1cyAlKG1lc3NhZ2UpcycpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGZoLnNldEZvcm1hdHRlcihmaWxlX2Zvcm1hdHRlcikK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHBhc3MK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgbG9nZ2VyLmRlYnVnKHBmb3JtYXQoZXZlbnQpKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHBwcmludChldmVudCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZGVmIGlzX2Ffc25hcHNob3QoZXZlbnQpOgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcHJpbnQoIlZNIGV2ZW50IikK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcHJpbnQoIk1lc3NhZ2UgZXZlbnQiKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAnc25hcHNob3RfdGltZScK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIF0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAnc25hcHNob3QnCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>logger</last-search>
+      <last-search>print</last-search>
       <last-offset />
-      <last-pattern>logger</last-pattern>
+      <last-pattern>print</last-pattern>
       <last-replace>CodeSimpleSchema</last-replace>
       <last-substitute>CodeSchema</last-substitute>
       <last-dir>1</last-dir>
@@ -1438,10 +1438,10 @@
         <entry>XenAPI</entry>
         <entry>url</entry>
         <entry>uri</entry>
-        <entry>print</entry>
         <entry>is_template</entry>
         <entry>is_a_template': False</entry>
         <entry>logger</entry>
+        <entry>print</entry>
       </history-search>
       <history-cmd>
         <entry>668</entry>
@@ -1459,9 +1459,9 @@
         <entry>881</entry>
         <entry encoding="base64">JzwsJz4xMjMz</entry>
         <entry>1233</entry>
-        <entry>$</entry>
         <entry>wq</entry>
         <entry>76</entry>
+        <entry>$</entry>
         <entry>0</entry>
         <entry>w</entry>
       </history-cmd>
