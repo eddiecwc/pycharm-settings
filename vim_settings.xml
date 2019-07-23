@@ -569,10 +569,10 @@
         <mark key="." line="4" column="12" />
         <mark key="^" line="4" column="12" />
       </file>
-      <file name="$USER_HOME$/projects/nlb/event-watcher/event_listener/config.py" timestamp="1563922797949">
-        <mark key="[" line="6" column="26" />
-        <mark key="]" line="6" column="27" />
-        <mark key="." line="6" column="27" />
+      <file name="$USER_HOME$/projects/nlb/event-watcher/event_listener/config.py" timestamp="1563923972239">
+        <mark key="[" line="9" column="20" />
+        <mark key="]" line="9" column="20" />
+        <mark key="." line="9" column="20" />
       </file>
       <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/schemas/scan_command_schema.py" timestamp="1527009613804">
         <mark key="[" line="5" column="0" />
@@ -1400,10 +1400,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>g</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>g</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>logger</text>
