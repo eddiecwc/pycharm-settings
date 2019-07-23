@@ -684,12 +684,12 @@
         <mark key="^" line="40" column="0" />
         <mark key="." line="62" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/nlb/event-watcher/watcher.py" timestamp="1563896624863">
-        <mark key="'" line="135" column="32" />
-        <mark key="[" line="35" column="0" />
-        <mark key="]" line="36" column="0" />
-        <mark key="." line="36" column="0" />
-        <mark key="^" line="36" column="0" />
+      <file name="$USER_HOME$/projects/nlb/event-watcher/watcher.py" timestamp="1563900066828">
+        <mark key="'" line="28" column="13" />
+        <mark key="[" line="37" column="8" />
+        <mark key="]" line="37" column="8" />
+        <mark key="." line="37" column="8" />
+        <mark key="^" line="37" column="13" />
       </file>
       <file name="$USER_HOME$/Sites/flask_movie/templates/security/login_user.html" timestamp="1513935903494">
         <mark key="[" line="16" column="44" />
@@ -1266,29 +1266,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="31" column="29" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/srx-licu.py" />
-      <jump line="96" column="13" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/srx-licu.py" />
-      <jump line="97" column="10" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/srx-licu.py" />
-      <jump line="188" column="10" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/srx-licu.py" />
-      <jump line="221" column="20" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/srx-licu.py" />
-      <jump line="309" column="8" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/srx-licu.py" />
-      <jump line="369" column="4" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/srx-licu.py" />
-      <jump line="377" column="13" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/srx-licu.py" />
-      <jump line="429" column="13" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/srx-licu.py" />
-      <jump line="432" column="13" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/srx-licu.py" />
-      <jump line="1034" column="4" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/srx-licu.py" />
-      <jump line="1621" column="17" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/srx-licu.py" />
-      <jump line="1888" column="22" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/srx-licu.py" />
-      <jump line="2016" column="22" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/srx-licu.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/srx-licu.py" />
-      <jump line="4" column="30" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/srx-licu.py" />
-      <jump line="20" column="26" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/srx-licu.py" />
-      <jump line="88" column="36" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/srx-licu.py" />
-      <jump line="89" column="36" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/srx-licu.py" />
-      <jump line="177" column="9" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/srx-licu.py" />
-      <jump line="184" column="22" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/srx-licu.py" />
-      <jump line="211" column="31" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/srx-licu.py" />
-      <jump line="212" column="22" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/srx-licu.py" />
       <jump line="255" column="19" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/srx-licu.py" />
       <jump line="284" column="25" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/srx-licu.py" />
       <jump line="2369" column="0" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/srx-licu.py" />
@@ -1353,12 +1330,8 @@
       <jump line="1558" column="24" filename="/System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/xmlrpclib.py" />
       <jump line="1562" column="22" filename="/System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/xmlrpclib.py" />
       <jump line="1563" column="18" filename="/System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/xmlrpclib.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/projects/nlb/event-watcher/watcher.py" />
-      <jump line="48" column="21" filename="$USER_HOME$/projects/nlb/event-watcher/watcher.py" />
-      <jump line="59" column="24" filename="$USER_HOME$/projects/nlb/event-watcher/watcher.py" />
       <jump line="3713" column="39" filename="$USER_HOME$/projects/nlb/event-watcher/vm.log" />
       <jump line="4025" column="19" filename="$USER_HOME$/projects/nlb/event-watcher/vm.log" />
-      <jump line="40" column="18" filename="$USER_HOME$/projects/nlb/event-watcher/watcher.py" />
       <jump line="73" column="28" filename="$USER_HOME$/projects/nlb/event-watcher/watcher.py" />
       <jump line="88" column="15" filename="$USER_HOME$/projects/nlb/event-watcher/watcher.py" />
       <jump line="110" column="8" filename="$USER_HOME$/projects/nlb/event-watcher/watcher.py" />
@@ -1366,55 +1339,82 @@
       <jump line="43" column="16" filename="$USER_HOME$/projects/nlb/event-watcher/watcher.py" />
       <jump line="101" column="26" filename="$USER_HOME$/projects/nlb/event-watcher/watcher.py" />
       <jump line="134" column="32" filename="$USER_HOME$/projects/nlb/event-watcher/watcher.py" />
+      <jump line="37" column="29" filename="$USER_HOME$/projects/nlb/event-watcher/watcher.py" />
+      <jump line="47" column="10" filename="$USER_HOME$/projects/nlb/event-watcher/watcher.py" />
+      <jump line="53" column="12" filename="$USER_HOME$/projects/nlb/event-watcher/watcher.py" />
+      <jump line="55" column="69" filename="$USER_HOME$/projects/nlb/event-watcher/watcher.py" />
+      <jump line="59" column="12" filename="$USER_HOME$/projects/nlb/event-watcher/watcher.py" />
+      <jump line="94" column="4" filename="$USER_HOME$/projects/nlb/event-watcher/watcher.py" />
+      <jump line="98" column="29" filename="$USER_HOME$/projects/nlb/event-watcher/watcher.py" />
+      <jump line="40" column="40" filename="$USER_HOME$/projects/nlb/event-watcher/watcher.py" />
+      <jump line="45" column="0" filename="$USER_HOME$/projects/nlb/event-watcher/watcher.py" />
+      <jump line="46" column="19" filename="$USER_HOME$/projects/nlb/event-watcher/watcher.py" />
+      <jump line="48" column="10" filename="$USER_HOME$/projects/nlb/event-watcher/watcher.py" />
+      <jump line="52" column="23" filename="$USER_HOME$/projects/nlb/event-watcher/watcher.py" />
+      <jump line="44" column="57" filename="$USER_HOME$/projects/nlb/event-watcher/watcher.py" />
+      <jump line="26" column="11" filename="$USER_HOME$/projects/nlb/event-watcher/watcher.py" />
+      <jump line="27" column="4" filename="$USER_HOME$/projects/nlb/event-watcher/watcher.py" />
+      <jump line="31" column="11" filename="$USER_HOME$/projects/nlb/event-watcher/watcher.py" />
+      <jump line="68" column="3" filename="$USER_HOME$/projects/nlb/event-watcher/watcher.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/nlb/event-watcher/watcher.py" />
+      <jump line="7" column="10" filename="$USER_HOME$/projects/nlb/event-watcher/watcher.py" />
+      <jump line="8" column="8" filename="$USER_HOME$/projects/nlb/event-watcher/watcher.py" />
+      <jump line="9" column="8" filename="$USER_HOME$/projects/nlb/event-watcher/watcher.py" />
+      <jump line="21" column="8" filename="$USER_HOME$/projects/nlb/event-watcher/watcher.py" />
+      <jump line="22" column="8" filename="$USER_HOME$/projects/nlb/event-watcher/watcher.py" />
+      <jump line="23" column="15" filename="$USER_HOME$/projects/nlb/event-watcher/watcher.py" />
+      <jump line="56" column="11" filename="$USER_HOME$/projects/nlb/event-watcher/watcher.py" />
+      <jump line="60" column="16" filename="$USER_HOME$/projects/nlb/event-watcher/watcher.py" />
+      <jump line="28" column="13" filename="$USER_HOME$/projects/nlb/event-watcher/watcher.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="&quot;" type="4">
+        <text>throw</text>
       </register>
       <register name="-" type="4">
-        <text>t</text>
+        <text>throw</text>
       </register>
       <register name="/" type="4">
-        <text>session</text>
+        <text>fmt</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGZpbGVfZm9ybWF0dGVyID0gbG9nZ2luZy5Gb3JtYXR0ZXIoZm10PSclKGFzY3RpbWUpLTE1cyAlKG1lc3NhZ2UpcycpCg==</text>
+        <text encoding="base64">ICAgIGxvZ2dlciA9IGdldF9sb2dnZXIoY29uZmlnWydsb2dfZmlsZV9uYW1lJ10pCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZm10ID0gIiU4cyAgJTIwcyAgJTVzICAlcyIK</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">ICAgICAgICBnbG9iYWwgZXZlbnRfdHlwZXMKICAgICAgICBnbG9iYWwgdG9rZW5fZnJvbQogICAgICAgIGdsb2JhbCBFVkVOVF9GUk9NX1RJTUVPVVQKCiAgICAgICAgIyAjIGlmIHRoZSB0b2tlbiBwYXJhbWV0ZXIgaXMgc2V0IHRvIGFuIGVtcHR5IHN0cmluZywgdGhlIHJldHVybiBmcm9tIGV2ZW50X2Zyb20gd2lsbCBjb250YWluIGFsbAogICAgICAgICMgIyBldmVudHMgdGhhdCBoYXZlIG9jY3VycmVkLCB5b3UgcHJvYmFibHkgd2FudCB0byB1c2UgdGhpcyB0aGUgZmlyc3QgdGltZSB5b3UgdXNlIGV2ZW50X2Zyb20KICAgICAgICAjIHRva2VuX2Zyb20gPSAnJwoKICAgICAgICB3aGlsZSBUcnVlOgoKICAgICAgICAgICAgZm9yIGV2ZW50X3R5cGUgaW4gZXZlbnRfdHlwZXM6CiAgICAgICAgICAgICAgICBwcmludCgiRXZlbnQgVHlwZSA9IHt9Ii5mb3JtYXQoZXZlbnRfdHlwZSkpCiAgICAgICAgICAgICAgICAjICMgaWYgdGhlIHRva2VuIHBhcmFtZXRlciBpcyBzZXQgdG8gYW4gZW1wdHkgc3RyaW5nLCB0aGUgcmV0dXJuIGZyb20gZXZlbnRfZnJvbSB3aWxsIGNvbnRhaW4gYWxsCiAgICAgICAgICAgICAgICAjICMgZXZlbnRzIHRoYXQgaGF2ZSBvY2N1cnJlZCwgeW91IHByb2JhYmx5IHdhbnQgdG8gdXNlIHRoaXMgdGhlIGZpcnN0IHRpbWUgeW91IHVzZSBldmVudF9mcm9tCiAgICAgICAgICAgICAgICB0b2tlbl9mcm9tID0gJycKICAgICAgICAgICAgICAgIGxvZ2dlciA9IGdldF9sb2dnZXIoInt9LmxvZyIuZm9ybWF0KGV2ZW50X3R5cGUpKQoKICAgICAgICAgICAgICAgIGV2ZW50X2Zyb21fcmV0ID0gc2Vzc2lvbi54ZW5hcGkuZXZlbnRfZnJvbShbZXZlbnRfdHlwZV0sIHRva2VuX2Zyb20sIEVWRU5UX0ZST01fVElNRU9VVCkKCiAgICAgICAgICAgICAgICByZXRfdG9rZW4gPSBldmVudF9mcm9tX3JldFsndG9rZW4nXQogICAgICAgICAgICAgICAgZXZlbnRzID0gZXZlbnRfZnJvbV9yZXRbJ2V2ZW50cyddCiAgICAgICAgICAgICAgICB0b2tlbl9mcm9tID0gcmV0X3Rva2VuCgogICAgICAgICAgICAgICAgIyBwcmludCBudW1iZXIgb2YgZXZlbnRzCiAgICAgICAgICAgICAgICBsb2dnZXIuaW5mbygiTnVtYmVyIG9mIGV2ZW50czogIiArIHJlcHIobGVuKGV2ZW50cykpKQoKICAgICAgICAgICAgICAgICMgUHJpbnQgdGhlIGV2ZW50cyBvdXQgaW4gYSBuaWNlIGZvcm1hdDoKICAgICAgICAgICAgICAgIGZtdCA9ICIlOHMgICUyMHMgICU1cyAgJXMiCiAgICAgICAgICAgICAgICBoZHIgPSBmbXQgJSAoImlkIiwgImNsYXNzIiwgInR5cGUiLCAibmFtZSBvZiBvYmplY3QgKGlmIGF2YWlsYWJsZSkiKQogICAgICAgICAgICAgICAgbG9nZ2VyLmluZm8oIi0iICogKGxlbihoZHIpKSkKICAgICAgICAgICAgICAgIGxvZ2dlci5pbmZvKGhkcikKICAgICAgICAgICAgICAgIGxvZ2dlci5pbmZvKCItIiAqIChsZW4oaGRyKSkpCgogICAgICAgICAgICAgICAgZm9yIGV2ZW50IGluIGV2ZW50czoKICAgICAgICAgICAgICAgICAgICBldmVudF9jbGFzcyA9IGV2ZW50WydjbGFzcyddCgogICAgICAgICAgICAgICAgICAgIGlmIGV2ZW50X2NsYXNzID09ICd2bSc6CiAgICAgICAgICAgICAgICAgICAgICAgIGlmIGV2ZW50WydzbmFwc2hvdCddWydpc19hX3RlbXBsYXRlJ10gb3IgZXZlbnRbJ3NuYXBzaG90J11bJ2lzX2Ffc25hcHNob3QnXToKICAgICAgICAgICAgICAgICAgICAgICAgICAgICMgZG9uJ3QgY2FyZSBhYm91dCB0ZW1wbGF0ZSBvciBzbmFwc2hvdCBldmVudHMKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGxvZ2dlci5kZWJ1ZygiU2tpcHBpbmcgdGVtcGxhdGUgb3Igc25hcHNob3QgZXZlbnQiKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgY29udGludWUKICAgICAgICAgICAgICAgICAgICAgICAgZXZlbnQgPSBwcm9jZXNzX3ZtX2V2ZW50cyhldmVudCkKCiAgICAgICAgICAgICAgICAgICAgZWxpZiBldmVudF9jbGFzcyA9PSAnbWVzc2FnZSc6CiAgICAgICAgICAgICAgICAgICAgICAgIGV2ZW50ID0gcHJvY2Vzc19tc2dfZXZlbnRzKGV2ZW50KQoKICAgICAgICAgICAgICAgICAgICBuYW1lID0gIih1bmtub3duIG9iamVjdCBuYW1lKSIKICAgICAgICAgICAgICAgICAgICBpZiAic25hcHNob3QiIGluIGV2ZW50LmtleXMoKToKICAgICAgICAgICAgICAgICAgICAgICAgc25hcHNob3QgPSBldmVudFsnc25hcHNob3QnXQogICAgICAgICAgICAgICAgICAgICAgICBpZiAibmFtZV9sYWJlbCIgaW4gc25hcHNob3Qua2V5cygpOgogICAgICAgICAgICAgICAgICAgICAgICAgICAgbmFtZSA9IHNuYXBzaG90WyduYW1lX2xhYmVsJ10KICAgICAgICAgICAgICAgICAgICBsb2dnZXIuaW5mbyhmbXQgJSAoZXZlbnRbJ2lkJ10sIGV2ZW50WydjbGFzcyddLCBldmVudFsnb3BlcmF0aW9uJ10sIG5hbWUpKQogICAgICAgICAgICAgICAgICAgIGxvZ2dlci5kZWJ1ZyhwZm9ybWF0KGV2ZW50KSkKCiAgICAgICAgICAgIGJyZWFrCiAgICAgICAgICAgICMgb25seSBwb2xsIGV2ZXJ5IDUgbWludXRlcyA9IDMwMCBzZWNvbmRzCiAgICAgICAgICAgIHByaW50ICJTbGVlcGluZyBmb3IgNSBtaW51dGVzIgogICAgICAgICAgICB0aW1lLnNsZWVwKDMwMCkKICAgIGZpbmFsbHk6CiAgICAgICAgc2Vzc2lvbi54ZW5hcGkuc2Vzc2lvbi5sb2dvdXQoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG5hbWUgPSAiKHVua25vd24gb2JqZWN0IG5hbWUpIgogICAgICAgICAgICAgICAgaWYgInNuYXBzaG90IiBpbiBldmVudC5rZXlzKCk6CiAgICAgICAgICAgICAgICAgICAgc25hcHNob3QgPSBldmVudFsnc25hcHNob3QnXQogICAgICAgICAgICAgICAgICAgIGlmICJuYW1lX2xhYmVsIiBpbiBzbmFwc2hvdC5rZXlzKCk6CiAgICAgICAgICAgICAgICAgICAgICAgIG5hbWUgPSBzbmFwc2hvdFsnbmFtZV9sYWJlbCddCiAgICAgICAgICAgICAgICBsb2dnZXIuaW5mbyhmbXQgJSAoZXZlbnRbJ2lkJ10sIGV2ZW50WydjbGFzcyddLCBldmVudFsnb3BlcmF0aW9uJ10sIG5hbWUpKQogICAgICAgICAgICAgICAgbG9nZ2VyLmRlYnVnKHBmb3JtYXQoZXZlbnQpKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGZpbGVfZm9ybWF0dGVyID0gbG9nZ2luZy5Gb3JtYXR0ZXIoZm10PSclKGFzY3RpbWUpLTE1cyAlKG1lc3NhZ2UpcycpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGZoLnNldEZvcm1hdHRlcihmaWxlX2Zvcm1hdHRlcikK</text>
+        <text encoding="base64">ICAgIHBhc3MK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgbG9nZ2VyLmRlYnVnKHBmb3JtYXQoZXZlbnQpKQo=</text>
+        <text encoding="base64">ICAgIGNvbmZpZyA9IGdldF9jb25maWcoKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHBwcmludChldmVudCkK</text>
+        <text encoding="base64">ICAgICAgICBjb250aW51ZQo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcHJpbnQoIlZNIGV2ZW50IikK</text>
+      <register name="8" type="4">
+        <text encoding="base64">Y29uZmlnID0gZ2V0X2NvbmZpZygpCmxvZ2dlciA9IGdldF9sb2dnZXIoY29uZmlnWydsb2dfZmlsZV9uYW1lJ10pCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcHJpbnQoIk1lc3NhZ2UgZXZlbnQiKQo=</text>
+        <text encoding="base64">ICAgIGxvZ2dlciA9IGdldF9sb2dnZXIoY29uZmlnWydsb2dfZmlsZV9uYW1lJ10pCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>session</last-search>
+      <last-search>fmt</last-search>
       <last-offset />
-      <last-pattern>session</last-pattern>
+      <last-pattern>fmt</last-pattern>
       <last-replace>CodeSimpleSchema</last-replace>
       <last-substitute>CodeSchema</last-substitute>
       <last-dir>1</last-dir>
@@ -1422,13 +1422,6 @@
     </search>
     <history>
       <history-search>
-        <entry>xml</entry>
-        <entry>manual</entry>
-        <entry>node0_downgrade</entry>
-        <entry>br0</entry>
-        <entry>post-upgrade</entry>
-        <entry>post-upgrade-node-</entry>
-        <entry>random</entry>
         <entry>POST</entry>
         <entry>GRE Conversion I</entry>
         <entry>VMName</entry>
@@ -1439,9 +1432,16 @@
         <entry>uri</entry>
         <entry>is_template</entry>
         <entry>is_a_template': False</entry>
-        <entry>logger</entry>
         <entry>print</entry>
         <entry>session</entry>
+        <entry>token_from</entry>
+        <entry>wait</entry>
+        <entry>event_types</entry>
+        <entry>token</entry>
+        <entry>EVENT_FROM_TIMEOUT</entry>
+        <entry>config</entry>
+        <entry>logger</entry>
+        <entry>fmt</entry>
       </history-search>
       <history-cmd>
         <entry>668</entry>
