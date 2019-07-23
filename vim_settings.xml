@@ -726,6 +726,9 @@
         <mark key="^" line="70" column="41" />
         <mark key="." line="70" column="33" />
       </file>
+      <file name="$USER_HOME$/projects/nlb/event-watcher/message.log" timestamp="1563924379903">
+        <mark key="'" line="9" column="48" />
+      </file>
       <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/templates/ess/code_list.html" timestamp="1522211505335">
         <mark key="[" line="48" column="50" />
         <mark key="]" line="48" column="50" />
@@ -860,11 +863,12 @@
         <mark key="^" line="24" column="36" />
         <mark key="." line="24" column="36" />
       </file>
-      <file name="$USER_HOME$/projects/nlb/event-watcher/event_listener/watcher.py" timestamp="1563922922761">
-        <mark key="[" line="78" column="68" />
-        <mark key="]" line="78" column="68" />
-        <mark key="." line="78" column="68" />
-        <mark key="^" line="78" column="68" />
+      <file name="$USER_HOME$/projects/nlb/event-watcher/event_listener/watcher.py" timestamp="1563924565303">
+        <mark key="'" line="90" column="0" />
+        <mark key="[" line="161" column="3" />
+        <mark key="]" line="178" column="0" />
+        <mark key="." line="178" column="0" />
+        <mark key="^" line="178" column="0" />
       </file>
       <file name="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/pkg_install.sh" timestamp="1561088896507">
         <mark key="'" line="3" column="41" />
@@ -1297,9 +1301,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="884" column="6" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/srx-licu.py" />
-      <jump line="1182" column="8" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/srx-licu.py" />
-      <jump line="294" column="46" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/vsrx_rollback.py" />
       <jump line="306" column="60" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/vsrx_rollback.py" />
       <jump line="848" column="47" filename="$USER_HOME$/projects/gateway/Gateway-services/docs/PagerDuty/README.md" />
       <jump line="871" column="27" filename="$USER_HOME$/projects/gateway/Gateway-services/docs/PagerDuty/README.md" />
@@ -1397,16 +1398,19 @@
       <jump line="37" column="23" filename="$USER_HOME$/projects/nlb/event-watcher/watcher.py" />
       <jump line="12" column="5" filename="$USER_HOME$/projects/nlb/event-watcher/logger.py" />
       <jump line="23" column="4" filename="$USER_HOME$/projects/nlb/event-watcher/logger.py" />
+      <jump line="62" column="39" filename="$USER_HOME$/projects/nlb/event-watcher/event_listener/watcher.py" />
+      <jump line="86" column="0" filename="$USER_HOME$/projects/nlb/event-watcher/event_listener/watcher.py" />
+      <jump line="9" column="48" filename="$USER_HOME$/projects/nlb/event-watcher/message.log" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>msg_event</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>msg_event</text>
       </register>
       <register name="/" type="4">
-        <text>logger</text>
+        <text>VM</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ZGVmIHJlZ2lzdGVyX2xpc3RlbmVyKHVybD0iaHR0cDovLzE2OS42MC4yMzYuMjQ0IiwgdXNlcm5hbWU9InJvb3QiLCBwYXNzd29yZD0iSkI3UGdYQlEiKToK</text>
@@ -1443,9 +1447,9 @@
       </register>
     </registers>
     <search>
-      <last-search>logger</last-search>
+      <last-search>VM</last-search>
       <last-offset />
-      <last-pattern>logger</last-pattern>
+      <last-pattern>VM</last-pattern>
       <last-replace>CodeSimpleSchema</last-replace>
       <last-substitute>CodeSchema</last-substitute>
       <last-dir>1</last-dir>
@@ -1453,7 +1457,6 @@
     </search>
     <history>
       <history-search>
-        <entry>VMName</entry>
         <entry>interface_mapping</entry>
         <entry>computeClient</entry>
         <entry>XenAPI</entry>
@@ -1473,6 +1476,7 @@
         <entry>event_type</entry>
         <entry>config</entry>
         <entry>logger</entry>
+        <entry>VM</entry>
       </history-search>
       <history-cmd>
         <entry>668</entry>
