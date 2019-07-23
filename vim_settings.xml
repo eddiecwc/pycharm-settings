@@ -684,12 +684,12 @@
         <mark key="^" line="40" column="0" />
         <mark key="." line="62" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/nlb/event-watcher/watcher.py" timestamp="1563909854668">
-        <mark key="'" line="83" column="19" />
-        <mark key="[" line="143" column="87" />
-        <mark key="]" line="143" column="87" />
-        <mark key="." line="143" column="87" />
-        <mark key="^" line="143" column="8" />
+      <file name="$USER_HOME$/projects/nlb/event-watcher/watcher.py" timestamp="1563920379476">
+        <mark key="'" line="37" column="23" />
+        <mark key="[" line="76" column="10" />
+        <mark key="]" line="2" column="18" />
+        <mark key="." line="2" column="18" />
+        <mark key="^" line="2" column="18" />
       </file>
       <file name="$USER_HOME$/Sites/flask_movie/templates/security/login_user.html" timestamp="1513935903494">
         <mark key="[" line="16" column="44" />
@@ -743,6 +743,12 @@
       </file>
       <file name="/System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/xmlrpclib.py" timestamp="1563574852365">
         <mark key="'" line="1563" column="18" />
+      </file>
+      <file name="$USER_HOME$/projects/nlb/event-watcher/logger.py" timestamp="1563920612466">
+        <mark key="[" line="5" column="4" />
+        <mark key="]" line="5" column="6" />
+        <mark key="." line="5" column="6" />
+        <mark key="^" line="5" column="6" />
       </file>
       <file name="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/common.py" timestamp="1560792606383">
         <mark key="'" line="73" column="24" />
@@ -1266,19 +1272,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="32" column="24" filename="$USER_HOME$/projects/gateway/Gateway-services/docs/PagerDuty/README.md" />
-      <jump line="2" column="20" filename="$USER_HOME$/projects/gateway/Gateway-services/docs/PagerDuty/README.md" />
-      <jump line="1172" column="14" filename="$USER_HOME$/projects/gateway/Gateway-services/docs/PagerDuty/README.md" />
-      <jump line="1162" column="49" filename="$USER_HOME$/projects/gateway/Gateway-services/docs/PagerDuty/README.md" />
-      <jump line="788" column="25" filename="$USER_HOME$/projects/gateway/Gateway-services/docs/PagerDuty/README.md" />
-      <jump line="1189" column="23" filename="$USER_HOME$/projects/gateway/Gateway-services/docs/PagerDuty/README.md" />
-      <jump line="741" column="63" filename="$USER_HOME$/projects/gateway/Gateway-services/docs/PagerDuty/README.md" />
-      <jump line="813" column="126" filename="$USER_HOME$/projects/gateway/Gateway-services/docs/PagerDuty/README.md" />
-      <jump line="1124" column="54" filename="$USER_HOME$/projects/gateway/Gateway-services/docs/PagerDuty/README.md" />
-      <jump line="739" column="111" filename="$USER_HOME$/projects/gateway/Gateway-services/docs/PagerDuty/README.md" />
-      <jump line="864" column="0" filename="$USER_HOME$/projects/gateway/Gateway-services/docs/PagerDuty/README.md" />
-      <jump line="803" column="0" filename="$USER_HOME$/projects/gateway/Gateway-services/docs/PagerDuty/README.md" />
-      <jump line="2211" column="7" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/srx-licu.py" />
       <jump line="2296" column="16" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/srx-licu.py" />
       <jump line="662" column="16" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/srx-licu.py" />
       <jump line="884" column="6" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/srx-licu.py" />
@@ -1336,7 +1329,6 @@
       <jump line="43" column="16" filename="$USER_HOME$/projects/nlb/event-watcher/watcher.py" />
       <jump line="101" column="26" filename="$USER_HOME$/projects/nlb/event-watcher/watcher.py" />
       <jump line="134" column="32" filename="$USER_HOME$/projects/nlb/event-watcher/watcher.py" />
-      <jump line="37" column="29" filename="$USER_HOME$/projects/nlb/event-watcher/watcher.py" />
       <jump line="47" column="10" filename="$USER_HOME$/projects/nlb/event-watcher/watcher.py" />
       <jump line="53" column="12" filename="$USER_HOME$/projects/nlb/event-watcher/watcher.py" />
       <jump line="55" column="69" filename="$USER_HOME$/projects/nlb/event-watcher/watcher.py" />
@@ -1347,13 +1339,9 @@
       <jump line="45" column="0" filename="$USER_HOME$/projects/nlb/event-watcher/watcher.py" />
       <jump line="46" column="19" filename="$USER_HOME$/projects/nlb/event-watcher/watcher.py" />
       <jump line="48" column="10" filename="$USER_HOME$/projects/nlb/event-watcher/watcher.py" />
-      <jump line="52" column="23" filename="$USER_HOME$/projects/nlb/event-watcher/watcher.py" />
       <jump line="44" column="57" filename="$USER_HOME$/projects/nlb/event-watcher/watcher.py" />
-      <jump line="26" column="11" filename="$USER_HOME$/projects/nlb/event-watcher/watcher.py" />
-      <jump line="27" column="4" filename="$USER_HOME$/projects/nlb/event-watcher/watcher.py" />
       <jump line="31" column="11" filename="$USER_HOME$/projects/nlb/event-watcher/watcher.py" />
       <jump line="68" column="3" filename="$USER_HOME$/projects/nlb/event-watcher/watcher.py" />
-      <jump line="7" column="10" filename="$USER_HOME$/projects/nlb/event-watcher/watcher.py" />
       <jump line="8" column="8" filename="$USER_HOME$/projects/nlb/event-watcher/watcher.py" />
       <jump line="9" column="8" filename="$USER_HOME$/projects/nlb/event-watcher/watcher.py" />
       <jump line="21" column="8" filename="$USER_HOME$/projects/nlb/event-watcher/watcher.py" />
@@ -1366,55 +1354,73 @@
       <jump line="18" column="41" filename="$USER_HOME$/projects/nlb/event-watcher/watcher.py" />
       <jump line="28" column="12" filename="$USER_HOME$/projects/nlb/event-watcher/watcher.py" />
       <jump line="83" column="19" filename="$USER_HOME$/projects/nlb/event-watcher/watcher.py" />
+      <jump line="35" column="38" filename="$USER_HOME$/projects/nlb/event-watcher/watcher.py" />
+      <jump line="52" column="8" filename="$USER_HOME$/projects/nlb/event-watcher/watcher.py" />
+      <jump line="7" column="0" filename="$USER_HOME$/projects/nlb/event-watcher/watcher.py" />
+      <jump line="105" column="11" filename="$USER_HOME$/projects/nlb/event-watcher/watcher.py" />
+      <jump line="108" column="18" filename="$USER_HOME$/projects/nlb/event-watcher/watcher.py" />
+      <jump line="145" column="0" filename="$USER_HOME$/projects/nlb/event-watcher/watcher.py" />
+      <jump line="151" column="24" filename="$USER_HOME$/projects/nlb/event-watcher/watcher.py" />
+      <jump line="150" column="51" filename="$USER_HOME$/projects/nlb/event-watcher/watcher.py" />
+      <jump line="38" column="25" filename="$USER_HOME$/projects/nlb/event-watcher/watcher.py" />
+      <jump line="39" column="23" filename="$USER_HOME$/projects/nlb/event-watcher/watcher.py" />
+      <jump line="41" column="56" filename="$USER_HOME$/projects/nlb/event-watcher/watcher.py" />
+      <jump line="82" column="18" filename="$USER_HOME$/projects/nlb/event-watcher/watcher.py" />
+      <jump line="124" column="34" filename="$USER_HOME$/projects/nlb/event-watcher/watcher.py" />
+      <jump line="127" column="23" filename="$USER_HOME$/projects/nlb/event-watcher/watcher.py" />
+      <jump line="153" column="32" filename="$USER_HOME$/projects/nlb/event-watcher/watcher.py" />
+      <jump line="26" column="12" filename="$USER_HOME$/projects/nlb/event-watcher/watcher.py" />
+      <jump line="27" column="12" filename="$USER_HOME$/projects/nlb/event-watcher/watcher.py" />
+      <jump line="37" column="23" filename="$USER_HOME$/projects/nlb/event-watcher/watcher.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>&quot;</text>
+        <text>t</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text>t</text>
       </register>
       <register name="/" type="4">
-        <text>fmt</text>
+        <text>config</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHBhc3N3b3JkID0gIkpCN1BnWEJRIgo=</text>
+        <text encoding="base64">ZGVmIHJlZ2lzdGVyX2xpc3RlbmVyKHVybD0iaHR0cDovLzE2OS42MC4yMzYuMjQ0IiwgdXNlcm5hbWU9InJvb3QiLCBwYXNzd29yZD0iSkI3UGdYQlEiKToK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHhhcGlfc2Vzc2lvbiA9IFhlbkFQSS5TZXNzaW9uKHVybCkK</text>
+        <text encoding="base64">aW1wb3J0IFhlbkFQSSwgdGltZQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ZnJvbSBwcHJpbnQgaW1wb3J0IHBmb3JtYXQK</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">ICAgICMgdXJsID0gc3lzLmFyZ3ZbMV0KICAgICMgdXNlcm5hbWUgPSBzeXMuYXJndlsyXQogICAgIyBwYXNzd29yZCA9IHN5cy5hcmd2WzNdCiAgICB1c2VybmFtZSA9ICJyb290IgogICAgcGFzc3dvcmQgPSAiSkI3UGdYQlEiCiAgICB1cmwgPSAiaHR0cDovLzE2OS42MC4yMzYuMjQ0IgogICAgIyBGaXJzdCBhY3F1aXJlIGEgdmFsaWQgc2Vzc2lvbiBieSBsb2dnaW5nIGluOgogICAgeGFwaV9zZXNzaW9uID0gWGVuQVBJLlNlc3Npb24odXJsKQogICAgIyB4YXBpX3Nlc3Npb24gPSBYZW5BUEkueGFwaV9sb2NhbCgpCiAgICB4YXBpX3Nlc3Npb24ueGVuYXBpLmxvZ2luX3dpdGhfcGFzc3dvcmQodXNlcm5hbWUsIHBhc3N3b3JkKQogICAgbWFpbih4YXBpX3Nlc3Npb24p</text>
+        <text encoding="base64">CgpkZWYgcHJvY2Vzc192bV9ldmVudHMoZXZlbnQpOgoKICAgIHNzID0gZXZlbnRbJ3NuYXBzaG90J10KICAgIHNuYXBzaG90ID0gewogICAgICAgICdjaGlsZHJlbic6IHNzWydjaGlsZHJlbiddLAogICAgICAgICdjdXJyZW50X29wZXJhdGlvbnMnOiBzc1snY3VycmVudF9vcGVyYXRpb25zJ10sCiAgICAgICAgJ2RvbWlkJzogc3NbJ2RvbWlkJ10sCiAgICAgICAgJ25hbWVfZGVzY3JpcHRpb24nOiBzc1snbmFtZV9kZXNjcmlwdGlvbiddLAogICAgICAgICduYW1lX2xhYmVsJzogc3NbJ25hbWVfbGFiZWwnXSwKICAgICAgICAncG93ZXJfc3RhdGUnOiBzc1sncG93ZXJfc3RhdGUnXSwKICAgICAgICAncmVzaWRlbnRfb24nOiBzc1sncmVzaWRlbnRfb24nXSwKICAgICAgICAnc25hcHNob3RfdGltZSc6IHNzWydzbmFwc2hvdF90aW1lJ10sCiAgICAgICAgJ3RhZ3MnOiBzc1sndGFncyddLAogICAgICAgICd1dWlkJzogc3NbJ3V1aWQnXSwKICAgIH0KICAgIGV2ZW50WydzbmFwc2hvdCddID0gc25hcHNob3QKICAgIHByaW50X2V2ZW50KGV2ZW50KQogICAgcmV0dXJuIGV2ZW50CgoKZGVmIHByb2Nlc3NfbXNnX2V2ZW50cyhldmVudCk6CiAgICAjIFRPRE8gY29kZSBmb3IgZXh0cmFjdGluZyByZWxldmFudCBpbmZvIGZyb20gbXNnIGV2ZW50cyBhbmQgY2xhc3NpZnlpbmcgdGhlbQogICAgcmV0dXJuIGV2ZW50CgoKaWYgX19uYW1lX18gPT0gIl9fbWFpbl9fIjoKICAgIHJlZ2lzdGVyX2xpc3RlbmVyKCkK</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIGxvZ2dlciA9IGdldF9sb2dnZXIoY29uZmlnWydsb2dfZmlsZV9uYW1lJ10pCg==</text>
+      <register name="5" type="4">
+        <text encoding="base64">ZGVmIGdldF9sYXRlc3RfdG9rZW4oKToKICAgICIiIgogICAgUmV0dXJucyBldmVudCBib29rbWFyayB0b2tlbiB0aGF0IG1hcmtzIHRoZSBsYXN0IGFscmVhZHkgcmVjZWl2ZWQgZXZlbnQKICAgIDpyZXR1cm46IHRva2VuOiBldmVudCBib29rbWFyayB0b2tlbiwgb3IgJycgaWYgdGhlcmUgaXMgbm8gZXhpc3RpbmcgdG9rZW4KICAgICIiIgogICAgIyBUT0RPIGFjdHVhbCBjb2RlIGZvciByZXRyaWV2aW5nIHRva2VuIG9uIHBlcnNpc3RlbnQgc3RvcmFnZQogICAgdHJ5OgogICAgICAgIHdpdGggb3BlbigndG9rZW5fZmlsZS50eHQnLCAncicpIGFzIGZoOgogICAgICAgICAgICBjdXJyZW50X3Rva2VuID0gZmgucmVhZCgpCiAgICBleGNlcHQgSU9FcnJvcjoKICAgICAgICBsb2dnZXIuaW5mbygiVG9rZW4gZmlsZSB7fSBub3QgZm91bmQuIEluaXRpYWxpemluZyB0b2tlbi4iLmZvcm1hdCgndG9rZW5fZmlsZS50eHQnKSkKICAgICAgICByZXR1cm4gJycKICAgIHJldHVybiBjdXJyZW50X3Rva2VuIGlmIGN1cnJlbnRfdG9rZW4gZWxzZSAnJwoKCmRlZiB1cGRhdGVfdG9rZW4odG9rZW4pOgogICAgIiIiCiAgICBVcGRhdGVzIGV2ZW50IGJvb2ttYXJrIHRva2VuCiAgICA6cmV0dXJuOiBUcnVlIGZvciBzdWNjZXNzLCBGYWxzZSBmb3IgZXJyb3IKICAgICIiIgogICAgIyBUT0RPIGNvZGUgZm9yIHVwZGF0aW5nIHRva2VuIG9uIHBlcnNpc3RlbnQgc3RvcmFnZQogICAgdHJ5OgogICAgICAgIHdpdGggb3BlbigndG9rZW5fZmlsZS50eHQnLCAndycpIGFzIGZoOgogICAgICAgICAgICBmaC53cml0ZSh0b2tlbikKICAgIGV4Y2VwdCBJT0Vycm9yIGFzIGU6CiAgICAgICAgbG9nZ2VyLmluZm8oZSkKICAgICAgICByZXR1cm4gRmFsc2UKCiAgICByZXR1cm4gVHJ1ZQoKCmRlZiBwcmludF9ldmVudChldmVudCk6CiAgICBsb2dnZXIgPSBnZXRfbG9nZ2VyKCkKICAgIG5hbWUgPSAiKHVua25vd24gb2JqZWN0IG5hbWUpIgogICAgaWYgInNuYXBzaG90IiBpbiBldmVudC5rZXlzKCk6CiAgICAgICAgc25hcHNob3QgPSBldmVudFsnc25hcHNob3QnXQogICAgICAgIGlmICJuYW1lX2xhYmVsIiBpbiBzbmFwc2hvdC5rZXlzKCk6CiAgICAgICAgICAgIG5hbWUgPSBzbmFwc2hvdFsnbmFtZV9sYWJlbCddCiAgICBmbXQgPSBnZXRfY29uZmlnKCdmbXQnKQogICAgbG9nZ2VyLmluZm8oZm10ICUgKGV2ZW50WydpZCddLCBldmVudFsnY2xhc3MnXSwgZXZlbnRbJ29wZXJhdGlvbiddLCBuYW1lKSkKICAgIGxvZ2dlci5kZWJ1ZyhwZm9ybWF0KGV2ZW50KSkKCgpkZWYgdm1fZXZlbnRfaGFuZGxlcih2bV9ldmVudCk6CiAgICBnbG9iYWwgbG9nZ2VyCgogICAgaWYgdm1fZXZlbnRbJ3NuYXBzaG90J11bJ2lzX2FfdGVtcGxhdGUnXSBvciB2bV9ldmVudFsnc25hcHNob3QnXVsnaXNfYV9zbmFwc2hvdCddOgogICAgICAgICMgZG9uJ3QgY2FyZSBhYm91dCB0ZW1wbGF0ZSBvciBzbmFwc2hvdCBldmVudHMKICAgICAgICBsb2dnZXIuZGVidWcoIlNraXBwaW5nIHRlbXBsYXRlIG9yIHNuYXBzaG90IGV2ZW50IikKICAgICAgICByZXR1cm4KCiAgICBwcm9jZXNzX3ZtX2V2ZW50cyh2bV9ldmVudCkKCgpkZWYgbWVzc2FnZV9ldmVudF9oYW5kbGVyKG1zZ19ldmVudCk6CiAgICBnbG9iYWwgbG9nZ2VyCiAgICAjIFRPRE8gY29kZSBmb3IgZmlsdGVyaW5nIG1zZyBldmVudHMKICAgIHByb2Nlc3NfbXNnX2V2ZW50cyhtc2dfZXZlbnQpCgoKZGVmIHdhaXRfZm9yX2V2ZW50cyhzZXNzaW9uKToKICAgIGdsb2JhbCBsb2dnZXIKCiAgICBldmVudF90eXBlcyA9IGdldF9jb25maWcoJ2V2ZW50X3R5cGVzJykKICAgIHRyeToKICAgICAgICB3aGlsZSBUcnVlOgogICAgICAgICAgICB0b2tlbl9mcm9tID0gZ2V0X2xhdGVzdF90b2tlbigpCiAgICAgICAgICAgIHRpbWVvdXQgPSBnZXRfY29uZmlnKCdldmVudF9mcm9tX3RpbWVvdXQnKQogICAgICAgICAgICAjIGlmIHRoZSB0b2tlbiBwYXJhbWV0ZXIgaXMgc2V0IHRvIGFuIGVtcHR5IHN0cmluZywgdGhlIHJldHVybiBmcm9tIGV2ZW50X2Zyb20gd2lsbCBjb250YWluIGFsbAogICAgICAgICAgICAjIGV2ZW50cyB0aGF0IGhhdmUgb2NjdXJyZWQsIHlvdSBwcm9iYWJseSB3YW50IHRvIHVzZSB0aGlzIHRoZSBmaXJzdCB0aW1lIHlvdSB1c2UgZXZlbnRfZnJvbQogICAgICAgICAgICBsb2dnZXIuZGVidWcoIlJldHJpZXZpbmcgbmV3IGV2ZW50cy4uLiIpCiAgICAgICAgICAgIGV2ZW50X2Zyb21fcmV0ID0gc2Vzc2lvbi54ZW5hcGkuZXZlbnRfZnJvbShldmVudF90eXBlcywKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHRva2VuX2Zyb20sCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB0aW1lb3V0KQoKICAgICAgICAgICAgdG9rZW5fZnJvbSA9IGV2ZW50X2Zyb21fcmV0Wyd0b2tlbiddCiAgICAgICAgICAgIGV2ZW50cyA9IGV2ZW50X2Zyb21fcmV0WydldmVudHMnXQogICAgICAgICAgICB1cGRhdGVfdG9rZW4odG9rZW5fZnJvbSkKCiAgICAgICAgICAgICMgcHJpbnQgbnVtYmVyIG9mIGV2ZW50cwogICAgICAgICAgICBsb2dnZXIuaW5mbygiTnVtYmVyIG9mIGV2ZW50czogIiArIHJlcHIobGVuKGV2ZW50cykpKQoKICAgICAgICAgICAgIyBQcmludCB0aGUgZXZlbnRzIG91dCBpbiBhIG5pY2UgZm9ybWF0OgogICAgICAgICAgICBoZHIgPSBnZXRfY29uZmlnKCdmbXQnKSAlICgiaWQiLCAiY2xhc3MiLCAidHlwZSIsICJuYW1lIG9mIG9iamVjdCAoaWYgYXZhaWxhYmxlKSIpCiAgICAgICAgICAgIGxvZ2dlci5pbmZvKCItIiAqIChsZW4oaGRyKSkpCiAgICAgICAgICAgIGxvZ2dlci5pbmZvKGhkcikKICAgICAgICAgICAgbG9nZ2VyLmluZm8oIi0iICogKGxlbihoZHIpKSkKCiAgICAgICAgICAgIGZvciBldmVudCBpbiBldmVudHM6CiAgICAgICAgICAgICAgICBldmVudF9jbGFzcyA9IGV2ZW50WydjbGFzcyddCiAgICAgICAgICAgICAgICBwcmludCgiRXZlbnQgVHlwZSA9IHt9Ii5mb3JtYXQoZXZlbnRfY2xhc3MpKQoKICAgICAgICAgICAgICAgIGlmIGV2ZW50X2NsYXNzID09ICd2bSc6CiAgICAgICAgICAgICAgICAgICAgdm1fZXZlbnRfaGFuZGxlcihldmVudCkKICAgICAgICAgICAgICAgIGVsaWYgZXZlbnRfY2xhc3MgPT0gJ21lc3NhZ2UnOgogICAgICAgICAgICAgICAgICAgIG1lc3NhZ2VfZXZlbnRfaGFuZGxlcihldmVudCkKCiAgICAgICAgICAgIGxvZ2dlci5kZWJ1ZygiU2xlZXBpbmcgZm9yIDEwIHNlY29uZHMiKQogICAgICAgICAgICB0aW1lLnNsZWVwKDEwKQoKICAgIGZpbmFsbHk6CiAgICAgICAgc2Vzc2lvbi54ZW5hcGkuc2Vzc2lvbi5sb2dvdXQoKQoK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAgIGNvbmZpZyA9IGdldF9jb25maWcoKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICMgdXJsID0gc3lzLmFyZ3ZbMV0K</text>
+        <text encoding="base64">ICAgIGdsb2JhbCBjb25maWcK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICMgdXNlcm5hbWUgPSBzeXMuYXJndlsyXQo=</text>
+        <text encoding="base64">ICAgIGdsb2JhbCBjb25maWcK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICMgcGFzc3dvcmQgPSBzeXMuYXJndlszXQo=</text>
+        <text encoding="base64">ICAgIGNvbmZpZyA9IGdldF9jb25maWcoKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>fmt</last-search>
+      <last-search>config</last-search>
       <last-offset />
-      <last-pattern>fmt</last-pattern>
+      <last-pattern>config</last-pattern>
       <last-replace>CodeSimpleSchema</last-replace>
       <last-substitute>CodeSchema</last-substitute>
       <last-dir>1</last-dir>
@@ -1422,8 +1428,6 @@
     </search>
     <history>
       <history-search>
-        <entry>POST</entry>
-        <entry>GRE Conversion I</entry>
         <entry>VMName</entry>
         <entry>interface_mapping</entry>
         <entry>computeClient</entry>
@@ -1439,9 +1443,11 @@
         <entry>event_types</entry>
         <entry>token</entry>
         <entry>EVENT_FROM_TIMEOUT</entry>
-        <entry>config</entry>
         <entry>logger</entry>
         <entry>fmt</entry>
+        <entry>=</entry>
+        <entry>event_type</entry>
+        <entry>config</entry>
       </history-search>
       <history-cmd>
         <entry>668</entry>
@@ -1462,8 +1468,8 @@
         <entry>wq</entry>
         <entry>76</entry>
         <entry>$</entry>
-        <entry>0</entry>
         <entry>w</entry>
+        <entry>0</entry>
       </history-cmd>
       <history-expr />
       <history-input />
