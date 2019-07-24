@@ -541,12 +541,8 @@
         <mark key="^" line="25" column="4" />
         <mark key="." line="25" column="4" />
       </file>
-      <file name="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/srx-licu.py" timestamp="1562658464552">
-        <mark key="'" line="904" column="4" />
-        <mark key="[" line="2144" column="19" />
-        <mark key="]" line="125" column="20" />
-        <mark key="." line="2144" column="19" />
-        <mark key="^" line="125" column="20" />
+      <file name="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/srx-licu.py" timestamp="1563999623136">
+        <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/templates/ess/code_table_headers.html" timestamp="1520814619754">
         <mark key="[" line="4" column="8" />
@@ -1281,7 +1277,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="218" column="16" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_on_KVM/Build_vSRX.py" />
       <jump line="212" column="8" filename="$USER_HOME$/projects/nlb/regional-compute/pkg/compute/server.go" />
       <jump line="2703" column="12" filename="$USER_HOME$/projects/nlb/regional-compute/pkg/compute/server.go" />
       <jump line="0" column="0" filename="$USER_HOME$/nlb/event-watcher/watcher.py" />
@@ -1381,6 +1376,7 @@
       <jump line="35850" column="40" filename="$USER_HOME$/projects/nlb/event-watcher/watcher.log.study" />
       <jump line="35891" column="74" filename="$USER_HOME$/projects/nlb/event-watcher/watcher.log.study" />
       <jump line="35900" column="37" filename="$USER_HOME$/projects/nlb/event-watcher/watcher.log.study" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/srx-licu.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1390,7 +1386,7 @@
         <text>M</text>
       </register>
       <register name="/" type="4">
-        <text>eddie</text>
+        <text>def stage_disabled</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICMgcmVnaXN0ZXJfc2lnbmFscygpCg==</text>
@@ -1427,9 +1423,9 @@
       </register>
     </registers>
     <search>
-      <last-search>eddie</last-search>
+      <last-search>def stage_disabled</last-search>
       <last-offset />
-      <last-pattern>eddie</last-pattern>
+      <last-pattern>def stage_disabled</last-pattern>
       <last-replace>CodeSimpleSchema</last-replace>
       <last-substitute>CodeSchema</last-substitute>
       <last-dir>1</last-dir>
@@ -1437,7 +1433,6 @@
     </search>
     <history>
       <history-search>
-        <entry>is_template</entry>
         <entry>is_a_template': False</entry>
         <entry>print</entry>
         <entry>session</entry>
@@ -1457,6 +1452,7 @@
         <entry>logout</entry>
         <entry>register_signals</entry>
         <entry>eddie</entry>
+        <entry>def stage_disabled</entry>
       </history-search>
       <history-cmd>
         <entry>we</entry>
