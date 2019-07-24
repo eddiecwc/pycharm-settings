@@ -300,11 +300,11 @@
         <mark key="]" line="7" column="19" />
         <mark key="." line="7" column="19" />
       </file>
-      <file name="$USER_HOME$/projects/nlb/event-watcher/event_listener/xen.py" timestamp="1563952858667">
-        <mark key="[" line="84" column="55" />
-        <mark key="]" line="84" column="67" />
-        <mark key="^" line="84" column="67" />
-        <mark key="." line="84" column="67" />
+      <file name="$USER_HOME$/projects/nlb/event-watcher/event_listener/xen.py" timestamp="1563981949746">
+        <mark key="[" line="103" column="25" />
+        <mark key="]" line="104" column="16" />
+        <mark key="." line="104" column="16" />
+        <mark key="^" line="104" column="16" />
       </file>
       <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/templates/macros/macros.html" timestamp="1523829150130">
         <mark key="[" line="1" column="36" />
@@ -870,10 +870,10 @@
         <mark key="^" line="24" column="36" />
         <mark key="." line="24" column="36" />
       </file>
-      <file name="$USER_HOME$/projects/nlb/event-watcher/event_listener/watcher.py" timestamp="1563953707485">
-        <mark key="'" line="13" column="12" />
-        <mark key="[" line="65" column="0" />
-        <mark key="]" line="65" column="0" />
+      <file name="$USER_HOME$/projects/nlb/event-watcher/event_listener/watcher.py" timestamp="1563982344238">
+        <mark key="'" line="16" column="9" />
+        <mark key="[" line="117" column="0" />
+        <mark key="]" line="117" column="24" />
         <mark key="." line="65" column="0" />
         <mark key="^" line="44" column="31" />
       </file>
@@ -1308,7 +1308,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="148" column="0" filename="$USER_HOME$/projects/gateway/Gateway-services/docs/PagerDuty/README.md" />
       <jump line="27" column="42" filename="$USER_HOME$/projects/gateway/Gateway-services/docs/PagerDuty/README.md" />
       <jump line="34" column="6" filename="$USER_HOME$/projects/gateway/Gateway-services/docs/PagerDuty/README.md" />
       <jump line="728" column="57" filename="$USER_HOME$/projects/gateway/Gateway-services/docs/PagerDuty/README.md" />
@@ -1408,55 +1407,56 @@
       <jump line="80" column="0" filename="$USER_HOME$/projects/nlb/event-watcher/event_listener/xen.py" />
       <jump line="81" column="8" filename="$USER_HOME$/projects/nlb/event-watcher/event_listener/xen.py" />
       <jump line="83" column="36" filename="$USER_HOME$/projects/nlb/event-watcher/event_listener/xen.py" />
+      <jump line="16" column="9" filename="$USER_HOME$/projects/nlb/event-watcher/event_listener/watcher.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBldmVudAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="-" type="4">
-        <text>]</text>
+        <text encoding="base64">IyA=</text>
       </register>
       <register name="/" type="4">
-        <text>logout</text>
+        <text>register_signals</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dnZXIuZGVidWcoIlhlblNlc3Npb246IExvZ2dpbmcgb3V0IG9mIHNlc3Npb24iKQo=</text>
+        <text encoding="base64">ICAgICMgcmVnaXN0ZXJfc2lnbmFscygpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBldmVudAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHMK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHJldHVybiBldmVudAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBldmVudAo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBldmVudAo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIHJldHVybiBldmVudAo=</text>
+      </register>
       <register name="7" type="2">
+        <text encoding="base64">ICAgIHJldHVybiBldmVudAo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="9" type="2">
         <text encoding="base64">ICAgIHNzID0gZXZlbnRbJ3NuYXBzaG90J10K</text>
-      </register>
-      <register name="8" type="4">
-        <text encoding="base64">CgoKCmRlZiBwcm9jZXNzX3ZtX2V2ZW50cyhldmVudCk6Cg==</text>
-      </register>
-      <register name="9" type="4">
-        <text encoding="base64">CiAgICBpZiBldmVudFsnc25hcHNob3QnXVsnaXNfYV90ZW1wbGF0ZSddIG9yIGV2ZW50WydzbmFwc2hvdCddWydpc19hX3NuYXBzaG90J106CiAgICAgICAgIyBkb24ndCBjYXJlIGFib3V0IHRlbXBsYXRlIG9yIHNuYXBzaG90IGV2ZW50cwogICAgICAgIGxvZ2dlci5kZWJ1ZygiU2tpcHBpbmcgdGVtcGxhdGUgb3Igc25hcHNob3QgZXZlbnQiKQogICAgICAgIHJldHVybgoKICAgIGxvZ2dlci5kZWJ1ZygiT3JpZ2luYWwgRXZlbnQgRGF0YToiKQogICAgbG9nZ2VyLmRlYnVnKHBmb3JtYXQoZXZlbnQpKQ==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>logout</last-search>
+      <last-search>register_signals</last-search>
       <last-offset />
-      <last-pattern>logout</last-pattern>
+      <last-pattern>register_signals</last-pattern>
       <last-replace>CodeSimpleSchema</last-replace>
       <last-substitute>CodeSchema</last-substitute>
       <last-dir>1</last-dir>
@@ -1464,7 +1464,6 @@
     </search>
     <history>
       <history-search>
-        <entry>url</entry>
         <entry>uri</entry>
         <entry>is_template</entry>
         <entry>is_a_template': False</entry>
@@ -1484,6 +1483,7 @@
         <entry>token</entry>
         <entry>Logging</entry>
         <entry>logout</entry>
+        <entry>register_signals</entry>
       </history-search>
       <history-cmd>
         <entry>we</entry>
