@@ -300,11 +300,11 @@
         <mark key="]" line="7" column="19" />
         <mark key="." line="7" column="19" />
       </file>
-      <file name="$USER_HOME$/projects/nlb/event-watcher/event_listener/xen.py" timestamp="1563949254118">
-        <mark key="[" line="29" column="17" />
-        <mark key="]" line="29" column="16" />
-        <mark key="^" line="29" column="16" />
-        <mark key="." line="29" column="16" />
+      <file name="$USER_HOME$/projects/nlb/event-watcher/event_listener/xen.py" timestamp="1563952858667">
+        <mark key="[" line="84" column="55" />
+        <mark key="]" line="84" column="67" />
+        <mark key="^" line="84" column="67" />
+        <mark key="." line="84" column="67" />
       </file>
       <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/templates/macros/macros.html" timestamp="1523829150130">
         <mark key="[" line="1" column="36" />
@@ -575,11 +575,11 @@
         <mark key="." line="4" column="12" />
         <mark key="^" line="4" column="12" />
       </file>
-      <file name="$USER_HOME$/projects/nlb/event-watcher/event_listener/config.py" timestamp="1563946554985">
-        <mark key="[" line="9" column="29" />
-        <mark key="]" line="9" column="34" />
-        <mark key="." line="9" column="34" />
-        <mark key="^" line="9" column="34" />
+      <file name="$USER_HOME$/projects/nlb/event-watcher/event_listener/config.py" timestamp="1563950223672">
+        <mark key="[" line="10" column="29" />
+        <mark key="]" line="10" column="28" />
+        <mark key="." line="10" column="28" />
+        <mark key="^" line="10" column="28" />
       </file>
       <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/schemas/scan_command_schema.py" timestamp="1527009613804">
         <mark key="[" line="5" column="0" />
@@ -870,12 +870,12 @@
         <mark key="^" line="24" column="36" />
         <mark key="." line="24" column="36" />
       </file>
-      <file name="$USER_HOME$/projects/nlb/event-watcher/event_listener/watcher.py" timestamp="1563947778400">
-        <mark key="'" line="52" column="52" />
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="5" column="8" />
-        <mark key="^" line="5" column="8" />
-        <mark key="." line="5" column="8" />
+      <file name="$USER_HOME$/projects/nlb/event-watcher/event_listener/watcher.py" timestamp="1563952917889">
+        <mark key="'" line="13" column="12" />
+        <mark key="[" line="73" column="64" />
+        <mark key="]" line="74" column="20" />
+        <mark key="." line="74" column="20" />
+        <mark key="^" line="74" column="20" />
       </file>
       <file name="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/pkg_install.sh" timestamp="1561088896507">
         <mark key="'" line="3" column="41" />
@@ -1308,18 +1308,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="786" column="131" filename="$USER_HOME$/projects/gateway/Gateway-services/docs/PagerDuty/README.md" />
-      <jump line="799" column="64" filename="$USER_HOME$/projects/gateway/Gateway-services/docs/PagerDuty/README.md" />
-      <jump line="802" column="81" filename="$USER_HOME$/projects/gateway/Gateway-services/docs/PagerDuty/README.md" />
-      <jump line="815" column="88" filename="$USER_HOME$/projects/gateway/Gateway-services/docs/PagerDuty/README.md" />
-      <jump line="0" column="0" filename="$USER_HOME$/projects/gateway/Gateway-services/docs/PagerDuty/README.md" />
-      <jump line="48" column="44" filename="$USER_HOME$/projects/gateway/Gateway-services/docs/PagerDuty/README.md" />
-      <jump line="49" column="58" filename="$USER_HOME$/projects/gateway/Gateway-services/docs/PagerDuty/README.md" />
-      <jump line="50" column="52" filename="$USER_HOME$/projects/gateway/Gateway-services/docs/PagerDuty/README.md" />
-      <jump line="86" column="0" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/error_generator.py" />
-      <jump line="26" column="34" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/error_generator.py" />
-      <jump line="38" column="17" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/error_generator.py" />
-      <jump line="6" column="5" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/error_generator.py" />
       <jump line="148" column="0" filename="$USER_HOME$/projects/gateway/Gateway-services/docs/PagerDuty/README.md" />
       <jump line="27" column="42" filename="$USER_HOME$/projects/gateway/Gateway-services/docs/PagerDuty/README.md" />
       <jump line="34" column="6" filename="$USER_HOME$/projects/gateway/Gateway-services/docs/PagerDuty/README.md" />
@@ -1400,7 +1388,6 @@
       <jump line="88" column="0" filename="$USER_HOME$/projects/nlb/event-watcher/event_listener/watcher.py" />
       <jump line="44" column="3" filename="$USER_HOME$/projects/nlb/event-watcher/event_listener/watcher.py" />
       <jump line="46" column="18" filename="$USER_HOME$/projects/nlb/event-watcher/event_listener/watcher.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/projects/nlb/event-watcher/event_listener/watcher.py" />
       <jump line="11" column="70" filename="$USER_HOME$/projects/nlb/event-watcher/event_listener/watcher.py" />
       <jump line="12" column="20" filename="$USER_HOME$/projects/nlb/event-watcher/event_listener/watcher.py" />
       <jump line="26" column="12" filename="$USER_HOME$/projects/nlb/event-watcher/event_listener/watcher.py" />
@@ -1408,55 +1395,68 @@
       <jump line="42" column="21" filename="$USER_HOME$/projects/nlb/event-watcher/event_listener/watcher.py" />
       <jump line="43" column="19" filename="$USER_HOME$/projects/nlb/event-watcher/event_listener/watcher.py" />
       <jump line="47" column="52" filename="$USER_HOME$/projects/nlb/event-watcher/event_listener/watcher.py" />
+      <jump line="45" column="32" filename="$USER_HOME$/projects/nlb/event-watcher/event_listener/xen.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/nlb/event-watcher/event_listener/watcher.py" />
+      <jump line="73" column="38" filename="$USER_HOME$/projects/nlb/event-watcher/event_listener/watcher.py" />
+      <jump line="74" column="18" filename="$USER_HOME$/projects/nlb/event-watcher/event_listener/watcher.py" />
+      <jump line="10" column="19" filename="$USER_HOME$/projects/nlb/event-watcher/event_listener/watcher.py" />
+      <jump line="13" column="12" filename="$USER_HOME$/projects/nlb/event-watcher/event_listener/watcher.py" />
+      <jump line="69" column="17" filename="$USER_HOME$/projects/nlb/event-watcher/event_listener/xen.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/nlb/event-watcher/event_listener/xen.py" />
+      <jump line="68" column="8" filename="$USER_HOME$/projects/nlb/event-watcher/event_listener/xen.py" />
+      <jump line="82" column="10" filename="$USER_HOME$/projects/nlb/event-watcher/event_listener/xen.py" />
+      <jump line="80" column="0" filename="$USER_HOME$/projects/nlb/event-watcher/event_listener/xen.py" />
+      <jump line="81" column="8" filename="$USER_HOME$/projects/nlb/event-watcher/event_listener/xen.py" />
+      <jump line="83" column="36" filename="$USER_HOME$/projects/nlb/event-watcher/event_listener/xen.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBGYWxzZQo=</text>
+      <register name="&quot;" type="4">
+        <text>session</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIA==</text>
+        <text>session</text>
       </register>
       <register name="/" type="4">
-        <text>event</text>
+        <text>logout</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGxvZ2dlci5kZWJ1ZygiT3JpZ2luYWwgRXZlbnQgRGF0YToiKQogICAgbG9nZ2VyLmRlYnVnKHBmb3JtYXQoZXZlbnQpKQo=</text>
+        <text encoding="base64">ICAgICAgICBsb2dnZXIuZGVidWcoIlhlblNlc3Npb246IExvZ2dpbmcgb3V0IG9mIHNlc3Npb24iKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBGYWxzZQo=</text>
+        <text encoding="base64">ICAgICAgICBsb2dnZXIuZGVidWcoIlhlblNlc3Npb246IExvZ2dpbmcgb3V0IG9mIHNlc3Npb24iKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBGYWxzZQo=</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBkZWYgcmVnaXN0ZXJfbGlzdGVuZXIodXJsPSJsb2NhbGhvc3QiLCB1c2VybmFtZT0iIiwgcGFzc3dvcmQ9IiIpOgo=</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICB0cnk6Cg==</text>
+      </register>
+      <register name="4" type="4">
+        <text encoding="base64">CiAgICAgICAgZXhjZXB0IEV4Y2VwdGlvbiBhcyBlOgogICAgICAgICAgICBsb2dnZXIuaW5mbyhlKQogICAgICAgICAgICBzZWxmLmxvZ291dCgp</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnVybCA9IAo=</text>
+        <text encoding="base64">ICAgICAgICBzaWduYWwuU0lHS0lMTCwK</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">CgpkZWYgc2lnbmFsX2hhbmRsZXIoc2lnbnVtLCBmcmFtZSk6CiAgICBsb2dnZXIuZGVidWcoIlNpZ25hbCB7fSBkZXRlY3RlZC4iKQoK</text>
+      <register name="6" type="2">
+        <text encoding="base64">aW1wb3J0IG9zCg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGxvZ2dlci5kZWJ1ZygiT3JpZ2luYWwgRXZlbnQgRGF0YToiKQogICAgICAgICAgICAgICAgbG9nZ2VyLmRlYnVnKHBmb3JtYXQoZXZlbnQpKQo=</text>
+      <register name="7" type="4">
+        <text encoding="base64">ICAgIHNpZ25hbC5zaWduYWwoc2lnbmFsLlNJR0FCUlQsIHNpZ25hbF9oYW5kbGVyKQogICAgc2lnbmFsLnNpZ25hbChzaWduYWwuU0lHSU5ULCBzaWduYWxfaGFuZGxlcikKICAgIHNpZ25hbC5zaWduYWwoc2lnbmFsLlNJR0tJTEwsIHNpZ25hbF9oYW5kbGVyKQogICAgc2lnbmFsLnNpZ25hbChzaWduYWwuU0lHVEVSTSwgc2lnbmFsX2hhbmRsZXIpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGxvZ2dlci5kZWJ1ZygiT3JpZ2luYWwgRXZlbnQgRGF0YToiKQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGxvZ2dlci5kZWJ1ZyhwZm9ybWF0KGV2ZW50KSkK</text>
+        <text encoding="base64">ICAgIHdhdGNoZXIubG9nCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>event</last-search>
+      <last-search>logout</last-search>
       <last-offset />
-      <last-pattern>event</last-pattern>
+      <last-pattern>logout</last-pattern>
       <last-replace>CodeSimpleSchema</last-replace>
       <last-substitute>CodeSchema</last-substitute>
       <last-dir>1</last-dir>
@@ -1464,8 +1464,6 @@
     </search>
     <history>
       <history-search>
-        <entry>computeClient</entry>
-        <entry>XenAPI</entry>
         <entry>url</entry>
         <entry>uri</entry>
         <entry>is_template</entry>
@@ -1475,7 +1473,6 @@
         <entry>token_from</entry>
         <entry>wait</entry>
         <entry>event_types</entry>
-        <entry>token</entry>
         <entry>EVENT_FROM_TIMEOUT</entry>
         <entry>=</entry>
         <entry>event_type</entry>
@@ -1484,9 +1481,11 @@
         <entry>VM</entry>
         <entry>fmt</entry>
         <entry>event</entry>
+        <entry>token</entry>
+        <entry>Logging</entry>
+        <entry>logout</entry>
       </history-search>
       <history-cmd>
-        <entry>668</entry>
         <entry>we</entry>
         <entry>q</entry>
         <entry>483</entry>
@@ -1503,6 +1502,7 @@
         <entry>1233</entry>
         <entry>wq</entry>
         <entry>76</entry>
+        <entry>91</entry>
         <entry>$</entry>
         <entry>0</entry>
         <entry>w</entry>
