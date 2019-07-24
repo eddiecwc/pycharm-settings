@@ -845,12 +845,12 @@
         <mark key="^" line="24" column="36" />
         <mark key="." line="24" column="36" />
       </file>
-      <file name="$USER_HOME$/projects/nlb/event-watcher/event_listener/watcher.py" timestamp="1564007062434">
+      <file name="$USER_HOME$/projects/nlb/event-watcher/event_listener/watcher.py" timestamp="1564007716869">
         <mark key="'" line="16" column="9" />
-        <mark key="[" line="62" column="4" />
-        <mark key="]" line="62" column="5" />
-        <mark key="." line="62" column="5" />
-        <mark key="^" line="62" column="5" />
+        <mark key="[" line="68" column="0" />
+        <mark key="]" line="68" column="0" />
+        <mark key="." line="68" column="0" />
+        <mark key="^" line="69" column="3" />
       </file>
       <file name="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/pkg_install.sh" timestamp="1561088896507">
         <mark key="'" line="3" column="41" />
@@ -1380,7 +1380,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>snapshot</text>
@@ -1392,31 +1392,31 @@
         <text encoding="base64">ICAgICMgcmVnaXN0ZXJfc2lnbmFscygpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaW50X2V2ZW50KGV2ZW50KQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">ICAgIHByaW50X2V2ZW50KGV2ZW50KQo=</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text encoding="base64">ICAgIHNuYXBzaG90ID0gewogICAgICAgICdjaGlsZHJlbic6IHNzWydjaGlsZHJlbiddLAogICAgICAgICdjdXJyZW50X29wZXJhdGlvbnMnOiBzc1snY3VycmVudF9vcGVyYXRpb25zJ10sCiAgICAgICAgJ2RvbWlkJzogc3NbJ2RvbWlkJ10sCiAgICAgICAgJ25hbWVfZGVzY3JpcHRpb24nOiBzc1snbmFtZV9kZXNjcmlwdGlvbiddLAogICAgICAgICduYW1lX2xhYmVsJzogc3NbJ25hbWVfbGFiZWwnXSwKICAgICAgICAncG93ZXJfc3RhdGUnOiBzc1sncG93ZXJfc3RhdGUnXSwKICAgICAgICAncmVzaWRlbnRfb24nOiBzc1sncmVzaWRlbnRfb24nXSwKICAgICAgICAnc25hcHNob3RfdGltZSc6IHNzWydzbmFwc2hvdF90aW1lJ10sCiAgICAgICAgJ3RhZ3MnOiBzc1sndGFncyddLAogICAgICAgICd1dWlkJzogc3NbJ3V1aWQnXSwKICAgIH0=</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICByZWdpc3Rlcl9zaWduYWxzKCkK</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text encoding="base64">CgpkZWYgc2lnbmFsX2hhbmRsZXIoc2lnbnVtLCBmcmFtZSk6CiAgICBsb2dnZXIuaW5mbygiU2lnbmFsIHt9IGRldGVjdGVkLiBMb2dnaW5nIG91dCBzZXNzaW9uIi5mb3JtYXQoc2lnbnVtKSkKICAgIGxvZ2dlci5kZWJ1ZyhmcmFtZSkKICAgIHNlc3Npb24ubG9nb3V0KCkKCgpkZWYgcmVnaXN0ZXJfc2lnbmFscygpOgogICAgc2lnbmFsX2xpc3QgPSBbCiAgICAgICAgc2lnbmFsLlNJR0FCUlQsCiAgICAgICAgc2lnbmFsLlNJR0lOVCwKICAgICAgICBzaWduYWwuU0lHVEVSTQogICAgXQoKICAgIGZvciBjdXJyX3NpZ25hbCBpbiBzaWduYWxfbGlzdDoKICAgICAgICBsb2dnZXIuZGVidWcoIlJlZ2lzdGVyaW5nIGhhbmRsZXIgZm9yIHNpZ25hbCB7fSIuZm9ybWF0KGN1cnJfc2lnbmFsKSkKICAgICAgICBzaWduYWwuc2lnbmFsKGN1cnJfc2lnbmFsLCBzaWduYWxfaGFuZGxlcikK</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IHNpZ25hbAo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHRyeToK</text>
+        <text encoding="base64">aW1wb3J0IHNpZ25hbAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
