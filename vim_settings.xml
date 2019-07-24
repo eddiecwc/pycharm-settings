@@ -870,12 +870,12 @@
         <mark key="^" line="24" column="36" />
         <mark key="." line="24" column="36" />
       </file>
-      <file name="$USER_HOME$/projects/nlb/event-watcher/event_listener/watcher.py" timestamp="1563952917889">
+      <file name="$USER_HOME$/projects/nlb/event-watcher/event_listener/watcher.py" timestamp="1563953707485">
         <mark key="'" line="13" column="12" />
-        <mark key="[" line="73" column="64" />
-        <mark key="]" line="74" column="20" />
-        <mark key="." line="74" column="20" />
-        <mark key="^" line="74" column="20" />
+        <mark key="[" line="65" column="0" />
+        <mark key="]" line="65" column="0" />
+        <mark key="." line="65" column="0" />
+        <mark key="^" line="44" column="31" />
       </file>
       <file name="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/pkg_install.sh" timestamp="1561088896507">
         <mark key="'" line="3" column="41" />
@@ -1410,11 +1410,11 @@
       <jump line="83" column="36" filename="$USER_HOME$/projects/nlb/event-watcher/event_listener/xen.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>session</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHJldHVybiBldmVudAo=</text>
       </register>
       <register name="-" type="4">
-        <text>session</text>
+        <text>]</text>
       </register>
       <register name="/" type="4">
         <text>logout</text>
@@ -1423,31 +1423,31 @@
         <text encoding="base64">ICAgICAgICBsb2dnZXIuZGVidWcoIlhlblNlc3Npb246IExvZ2dpbmcgb3V0IG9mIHNlc3Npb24iKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dnZXIuZGVidWcoIlhlblNlc3Npb246IExvZ2dpbmcgb3V0IG9mIHNlc3Npb24iKQo=</text>
+        <text encoding="base64">ICAgIHJldHVybiBldmVudAo=</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB0cnk6Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">CiAgICAgICAgZXhjZXB0IEV4Y2VwdGlvbiBhcyBlOgogICAgICAgICAgICBsb2dnZXIuaW5mbyhlKQogICAgICAgICAgICBzZWxmLmxvZ291dCgp</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIHJldHVybiBldmVudAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBzaWduYWwuU0lHS0lMTCwK</text>
+        <text encoding="base64">ICAgIHJldHVybiBldmVudAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IG9zCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">ICAgIHNpZ25hbC5zaWduYWwoc2lnbmFsLlNJR0FCUlQsIHNpZ25hbF9oYW5kbGVyKQogICAgc2lnbmFsLnNpZ25hbChzaWduYWwuU0lHSU5ULCBzaWduYWxfaGFuZGxlcikKICAgIHNpZ25hbC5zaWduYWwoc2lnbmFsLlNJR0tJTEwsIHNpZ25hbF9oYW5kbGVyKQogICAgc2lnbmFsLnNpZ25hbChzaWduYWwuU0lHVEVSTSwgc2lnbmFsX2hhbmRsZXIpCg==</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIHNzID0gZXZlbnRbJ3NuYXBzaG90J10K</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="8" type="4">
+        <text encoding="base64">CgoKCmRlZiBwcm9jZXNzX3ZtX2V2ZW50cyhldmVudCk6Cg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIHdhdGNoZXIubG9nCg==</text>
+      <register name="9" type="4">
+        <text encoding="base64">CiAgICBpZiBldmVudFsnc25hcHNob3QnXVsnaXNfYV90ZW1wbGF0ZSddIG9yIGV2ZW50WydzbmFwc2hvdCddWydpc19hX3NuYXBzaG90J106CiAgICAgICAgIyBkb24ndCBjYXJlIGFib3V0IHRlbXBsYXRlIG9yIHNuYXBzaG90IGV2ZW50cwogICAgICAgIGxvZ2dlci5kZWJ1ZygiU2tpcHBpbmcgdGVtcGxhdGUgb3Igc25hcHNob3QgZXZlbnQiKQogICAgICAgIHJldHVybgoKICAgIGxvZ2dlci5kZWJ1ZygiT3JpZ2luYWwgRXZlbnQgRGF0YToiKQogICAgbG9nZ2VyLmRlYnVnKHBmb3JtYXQoZXZlbnQpKQ==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
