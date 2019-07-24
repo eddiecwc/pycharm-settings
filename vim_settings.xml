@@ -1386,7 +1386,7 @@
         <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>handler</text>
+        <text>ALARM</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGVsaWYgZXZlbnRfbmFtZSA9PSAiVk1fU0hVVERPV04iOgogICAgICAgIHZtX3NodXRkb3duX2hhbmRsZXIoZXZlbnQpCg==</text>
@@ -1423,9 +1423,9 @@
       </register>
     </registers>
     <search>
-      <last-search>handler</last-search>
+      <last-search>ALARM</last-search>
       <last-offset />
-      <last-pattern>handler</last-pattern>
+      <last-pattern>ALARM</last-pattern>
       <last-replace>CodeSimpleSchema</last-replace>
       <last-substitute>CodeSchema</last-substitute>
       <last-dir>1</last-dir>
@@ -1433,7 +1433,6 @@
     </search>
     <history>
       <history-search>
-        <entry>session</entry>
         <entry>token_from</entry>
         <entry>wait</entry>
         <entry>event_types</entry>
@@ -1453,6 +1452,7 @@
         <entry>def stage_disabled</entry>
         <entry>VM_START</entry>
         <entry>handler</entry>
+        <entry>ALARM</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
