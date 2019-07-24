@@ -845,12 +845,12 @@
         <mark key="^" line="24" column="36" />
         <mark key="." line="24" column="36" />
       </file>
-      <file name="$USER_HOME$/projects/nlb/event-watcher/event_listener/watcher.py" timestamp="1564007716869">
-        <mark key="'" line="16" column="9" />
-        <mark key="[" line="68" column="0" />
-        <mark key="]" line="68" column="0" />
-        <mark key="." line="68" column="0" />
-        <mark key="^" line="69" column="3" />
+      <file name="$USER_HOME$/projects/nlb/event-watcher/event_listener/watcher.py" timestamp="1564009675119">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="61" column="46" />
+        <mark key="]" line="61" column="46" />
+        <mark key="." line="61" column="46" />
+        <mark key="^" line="61" column="49" />
       </file>
       <file name="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/pkg_install.sh" timestamp="1561088896507">
         <mark key="'" line="3" column="41" />
@@ -1277,7 +1277,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="212" column="8" filename="$USER_HOME$/projects/nlb/regional-compute/pkg/compute/server.go" />
       <jump line="2703" column="12" filename="$USER_HOME$/projects/nlb/regional-compute/pkg/compute/server.go" />
       <jump line="0" column="0" filename="$USER_HOME$/nlb/event-watcher/watcher.py" />
       <jump line="34" column="0" filename="$USER_HOME$/nlb/event-watcher/watcher.py" />
@@ -1355,7 +1354,6 @@
       <jump line="43" column="19" filename="$USER_HOME$/projects/nlb/event-watcher/event_listener/watcher.py" />
       <jump line="47" column="52" filename="$USER_HOME$/projects/nlb/event-watcher/event_listener/watcher.py" />
       <jump line="45" column="32" filename="$USER_HOME$/projects/nlb/event-watcher/event_listener/xen.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/projects/nlb/event-watcher/event_listener/watcher.py" />
       <jump line="73" column="38" filename="$USER_HOME$/projects/nlb/event-watcher/event_listener/watcher.py" />
       <jump line="74" column="18" filename="$USER_HOME$/projects/nlb/event-watcher/event_listener/watcher.py" />
       <jump line="10" column="19" filename="$USER_HOME$/projects/nlb/event-watcher/event_listener/watcher.py" />
@@ -1377,55 +1375,57 @@
       <jump line="35891" column="74" filename="$USER_HOME$/projects/nlb/event-watcher/watcher.log.study" />
       <jump line="35900" column="37" filename="$USER_HOME$/projects/nlb/event-watcher/watcher.log.study" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/srx-licu.py" />
+      <jump line="3109" column="28" filename="$USER_HOME$/projects/nlb/event-watcher/watcher.log" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/nlb/event-watcher/event_listener/watcher.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>snapshot</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>def stage_disabled</text>
+        <text>handler</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICMgcmVnaXN0ZXJfc2lnbmFscygpCg==</text>
+        <text encoding="base64">ICAgIGVsaWYgZXZlbnRfbmFtZSA9PSAiVk1fU0hVVERPV04iOgogICAgICAgIHZtX3NodXRkb3duX2hhbmRsZXIoZXZlbnQpCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaW50X2V2ZW50KGV2ZW50KQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICMgbG9nZ2VyLmRlYnVnKHBmb3JtYXQoZXZlbnQpKQo=</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">ICAgIHNuYXBzaG90ID0gewogICAgICAgICdjaGlsZHJlbic6IHNzWydjaGlsZHJlbiddLAogICAgICAgICdjdXJyZW50X29wZXJhdGlvbnMnOiBzc1snY3VycmVudF9vcGVyYXRpb25zJ10sCiAgICAgICAgJ2RvbWlkJzogc3NbJ2RvbWlkJ10sCiAgICAgICAgJ25hbWVfZGVzY3JpcHRpb24nOiBzc1snbmFtZV9kZXNjcmlwdGlvbiddLAogICAgICAgICduYW1lX2xhYmVsJzogc3NbJ25hbWVfbGFiZWwnXSwKICAgICAgICAncG93ZXJfc3RhdGUnOiBzc1sncG93ZXJfc3RhdGUnXSwKICAgICAgICAncmVzaWRlbnRfb24nOiBzc1sncmVzaWRlbnRfb24nXSwKICAgICAgICAnc25hcHNob3RfdGltZSc6IHNzWydzbmFwc2hvdF90aW1lJ10sCiAgICAgICAgJ3RhZ3MnOiBzc1sndGFncyddLAogICAgICAgICd1dWlkJzogc3NbJ3V1aWQnXSwKICAgIH0=</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICMgbG9nZ2VyLmRlYnVnKCJFdmVudCBEYXRhOiIpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICByZWdpc3Rlcl9zaWduYWxzKCkK</text>
+        <text encoding="base64">ICAgIHRpbWVzdGFtcCA9IGV2ZW50WydzbmFwc2hvdCddWyd0aW1lc3RhbXAnXQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGJvZHkgPSAiUG93ZXIgU3RhdGU6IHt9Ii5mb3JtYXQoc25hcHNob3RbJ3Bvd2VyX3N0YXRlJ10pCg==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">CgpkZWYgc2lnbmFsX2hhbmRsZXIoc2lnbnVtLCBmcmFtZSk6CiAgICBsb2dnZXIuaW5mbygiU2lnbmFsIHt9IGRldGVjdGVkLiBMb2dnaW5nIG91dCBzZXNzaW9uIi5mb3JtYXQoc2lnbnVtKSkKICAgIGxvZ2dlci5kZWJ1ZyhmcmFtZSkKICAgIHNlc3Npb24ubG9nb3V0KCkKCgpkZWYgcmVnaXN0ZXJfc2lnbmFscygpOgogICAgc2lnbmFsX2xpc3QgPSBbCiAgICAgICAgc2lnbmFsLlNJR0FCUlQsCiAgICAgICAgc2lnbmFsLlNJR0lOVCwKICAgICAgICBzaWduYWwuU0lHVEVSTQogICAgXQoKICAgIGZvciBjdXJyX3NpZ25hbCBpbiBzaWduYWxfbGlzdDoKICAgICAgICBsb2dnZXIuZGVidWcoIlJlZ2lzdGVyaW5nIGhhbmRsZXIgZm9yIHNpZ25hbCB7fSIuZm9ybWF0KGN1cnJfc2lnbmFsKSkKICAgICAgICBzaWduYWwuc2lnbmFsKGN1cnJfc2lnbmFsLCBzaWduYWxfaGFuZGxlcikK</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIHRpbWVzdGFtcCA9IGV2ZW50Wyd0aW1lc3RhbXAnXQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IHNpZ25hbAo=</text>
+        <text encoding="base64">ICAgcGFzcwo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>85</text>
       </register>
     </registers>
     <search>
-      <last-search>def stage_disabled</last-search>
+      <last-search>handler</last-search>
       <last-offset />
-      <last-pattern>def stage_disabled</last-pattern>
+      <last-pattern>handler</last-pattern>
       <last-replace>CodeSimpleSchema</last-replace>
       <last-substitute>CodeSchema</last-substitute>
       <last-dir>1</last-dir>
@@ -1433,8 +1433,6 @@
     </search>
     <history>
       <history-search>
-        <entry>is_a_template': False</entry>
-        <entry>print</entry>
         <entry>session</entry>
         <entry>token_from</entry>
         <entry>wait</entry>
@@ -1453,9 +1451,10 @@
         <entry>register_signals</entry>
         <entry>eddie</entry>
         <entry>def stage_disabled</entry>
+        <entry>VM_START</entry>
+        <entry>handler</entry>
       </history-search>
       <history-cmd>
-        <entry>we</entry>
         <entry>q</entry>
         <entry>483</entry>
         <entry>566</entry>
@@ -1473,8 +1472,9 @@
         <entry>76</entry>
         <entry>91</entry>
         <entry>$</entry>
-        <entry>0</entry>
         <entry>w</entry>
+        <entry>85</entry>
+        <entry>0</entry>
       </history-cmd>
       <history-expr />
       <history-input />
