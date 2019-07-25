@@ -15,6 +15,9 @@
         <mark key="^" line="5" column="53" />
         <mark key="." line="5" column="53" />
       </file>
+      <file name="/a.dummy" timestamp="1564079312715">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" timestamp="1527607428576">
         <mark key="'" line="33" column="7" />
         <mark key="[" line="431" column="68" />
@@ -346,11 +349,11 @@
         <mark key="." line="29" column="90" />
         <mark key="^" line="29" column="90" />
       </file>
-      <file name="$USER_HOME$/projects/nlb/event-watcher/test.py" timestamp="1564074497116">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="2" />
-        <mark key="." line="14" column="2" />
-        <mark key="^" line="14" column="2" />
+      <file name="$USER_HOME$/projects/nlb/event-watcher/test.py" timestamp="1564079410021">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+        <mark key="^" line="16" column="1" />
       </file>
       <file name="$USER_HOME$/Sites/ESS-Monitor/.gitignore" timestamp="1520957551392">
         <mark key="[" line="6" column="9" />
@@ -1384,11 +1387,11 @@
       <jump line="35927" column="27" filename="$USER_HOME$/projects/nlb/event-watcher/watcher.log.study" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IApsaXN0ZW5lcg==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">IyBmcm9tIGV2ZW50X2xpc3RlbmVyIGltcG9ydCByZWdpc3Rlcl9saXN0ZW5lcgo=</text>
       </register>
       <register name="-" type="4">
-        <text>del</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text>mod</text>
@@ -1396,32 +1399,32 @@
       <register name="0" type="2">
         <text encoding="base64">bGlzdGVuZXIucmVnaXN0ZXJfaG5kbGVyKCdkZWwnLCBmdW5jMikK</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">IApsaXN0ZW5lcg==</text>
+      <register name="1" type="2">
+        <text encoding="base64">IyBmcm9tIGV2ZW50X2xpc3RlbmVyIGltcG9ydCByZWdpc3Rlcl9saXN0ZW5lcgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBmdW5jKGV2ZW50KQo=</text>
+        <text encoding="base64">IiIiCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBsb2dnZXIuZGVidWcocGZvcm1hdChldmVudCkpCg==</text>
+        <text encoding="base64">LnJlZ2lzdGVyX2huZGxlcignYWRkJywgZnVuYzEpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBsb2dnZXIuZGVidWcocGZvcm1hdChldmVudCkpCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBsb2dnZXIuZGVidWcocGZvcm1hdChldmVudCkpCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICMgbG9nZ2VyLmRlYnVnKCJPcmlnaW5hbCBFdmVudCBEYXRhOiIpCg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IHNpZ25hbAo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ZGVmIGZ1bmMyCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIGprZmVsamZlCg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIGZqZWtsZmpla2xmamVmCg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAjIGxvZ2dlci5kZWJ1ZygiRXZlbnQgVHlwZSA9IHt9Ii5mb3JtYXQoZXZlbnRfY2xhc3MpKQo=</text>
+        <text encoding="base64">ZGVmIGZ1bmMxCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
