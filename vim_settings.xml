@@ -80,8 +80,12 @@
         <mark key="^" line="46" column="24" />
         <mark key="." line="46" column="24" />
       </file>
-      <file name="$USER_HOME$/projects/nlb/event-watcher/watcher.log.study" timestamp="1563988356370">
-        <mark key="'" line="35900" column="37" />
+      <file name="$USER_HOME$/projects/nlb/event-watcher/watcher.log.study" timestamp="1564032398437">
+        <mark key="'" line="1" column="30" />
+        <mark key="[" line="36180" column="52" />
+        <mark key="]" line="36180" column="53" />
+        <mark key="." line="36180" column="53" />
+        <mark key="^" line="36180" column="53" />
       </file>
       <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/mod_support/commands.py" timestamp="1516526116232">
         <mark key="[" line="46" column="25" />
@@ -799,6 +803,9 @@
         <mark key="." line="35" column="2" />
         <mark key="^" line="35" column="2" />
       </file>
+      <file name="/Clipboard.txt" timestamp="1564032375564">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/mixin.py" timestamp="1526022095999">
         <mark key="'" line="147" column="0" />
         <mark key="[" line="7" column="0" />
@@ -1277,8 +1284,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2703" column="12" filename="$USER_HOME$/projects/nlb/regional-compute/pkg/compute/server.go" />
-      <jump line="0" column="0" filename="$USER_HOME$/nlb/event-watcher/watcher.py" />
       <jump line="34" column="0" filename="$USER_HOME$/nlb/event-watcher/watcher.py" />
       <jump line="46" column="66" filename="$USER_HOME$/nlb/event-watcher/watcher.py" />
       <jump line="112" column="47" filename="$USER_HOME$/projects/nlb/event-watcher/lib/python2.7/site-packages/XenAPI.py" />
@@ -1367,7 +1372,6 @@
       <jump line="83" column="36" filename="$USER_HOME$/projects/nlb/event-watcher/event_listener/xen.py" />
       <jump line="16" column="9" filename="$USER_HOME$/projects/nlb/event-watcher/event_listener/watcher.py" />
       <jump line="37013" column="26" filename="$USER_HOME$/projects/nlb/event-watcher/watcher.log.study" />
-      <jump line="0" column="0" filename="$USER_HOME$/projects/nlb/event-watcher/watcher.log.study" />
       <jump line="35696" column="39" filename="$USER_HOME$/projects/nlb/event-watcher/watcher.log.study" />
       <jump line="35704" column="119" filename="$USER_HOME$/projects/nlb/event-watcher/watcher.log.study" />
       <jump line="35841" column="296" filename="$USER_HOME$/projects/nlb/event-watcher/watcher.log.study" />
@@ -1377,16 +1381,19 @@
       <jump line="0" column="0" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/srx-licu.py" />
       <jump line="3109" column="28" filename="$USER_HOME$/projects/nlb/event-watcher/watcher.log" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/nlb/event-watcher/event_listener/watcher.py" />
+      <jump line="36134" column="47" filename="$USER_HOME$/projects/nlb/event-watcher/watcher.log.study" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/nlb/event-watcher/watcher.log.study" />
+      <jump line="1" column="30" filename="$USER_HOME$/projects/nlb/event-watcher/watcher.log.study" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>)</text>
+        <text encoding="base64">dm0gICAgYWRkIA==</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text encoding="base64">dm0gICAgYWRkIA==</text>
       </register>
       <register name="/" type="4">
-        <text>ALARM</text>
+        <text>vm    add</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGVsaWYgZXZlbnRfbmFtZSA9PSAiVk1fU0hVVERPV04iOgogICAgICAgIHZtX3NodXRkb3duX2hhbmRsZXIoZXZlbnQpCg==</text>
@@ -1423,9 +1430,9 @@
       </register>
     </registers>
     <search>
-      <last-search>ALARM</last-search>
+      <last-search>vm    add</last-search>
       <last-offset />
-      <last-pattern>ALARM</last-pattern>
+      <last-pattern>vm    add</last-pattern>
       <last-replace>CodeSimpleSchema</last-replace>
       <last-substitute>CodeSchema</last-substitute>
       <last-dir>1</last-dir>
@@ -1433,9 +1440,6 @@
     </search>
     <history>
       <history-search>
-        <entry>token_from</entry>
-        <entry>wait</entry>
-        <entry>event_types</entry>
         <entry>EVENT_FROM_TIMEOUT</entry>
         <entry>=</entry>
         <entry>event_type</entry>
@@ -1453,6 +1457,9 @@
         <entry>VM_START</entry>
         <entry>handler</entry>
         <entry>ALARM</entry>
+        <entry>add</entry>
+        <entry>v</entry>
+        <entry>vm    add</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
