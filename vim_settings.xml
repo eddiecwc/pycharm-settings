@@ -436,6 +436,9 @@
         <mark key="^" line="53" column="0" />
         <mark key="." line="52" column="35" />
       </file>
+      <file name="$USER_HOME$/projects/nlb/event-watcher/watcher.log" timestamp="1564091740906">
+        <mark key="'" line="79" column="34" />
+      </file>
       <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/mod_support/code.py" timestamp="1516214397620">
         <mark key="'" line="61" column="48" />
         <mark key="[" line="117" column="0" />
@@ -1292,8 +1295,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="3" column="29" filename="$USER_HOME$/projects/nlb/event-watcher/watcher.py" />
-      <jump line="43" column="16" filename="$USER_HOME$/projects/nlb/event-watcher/watcher.py" />
       <jump line="101" column="26" filename="$USER_HOME$/projects/nlb/event-watcher/watcher.py" />
       <jump line="134" column="32" filename="$USER_HOME$/projects/nlb/event-watcher/watcher.py" />
       <jump line="47" column="10" filename="$USER_HOME$/projects/nlb/event-watcher/watcher.py" />
@@ -1392,6 +1393,8 @@
       <jump line="35927" column="27" filename="$USER_HOME$/projects/nlb/event-watcher/watcher.log.study" />
       <jump line="56" column="0" filename="$USER_HOME$/projects/nlb/event-watcher/event_listener/event_listener.py" />
       <jump line="123" column="29" filename="$USER_HOME$/projects/nlb/event-watcher/event_listener/event_listener.py" />
+      <jump line="4161" column="48" filename="$USER_HOME$/projects/nlb/event-watcher/watcher.log" />
+      <jump line="79" column="34" filename="$USER_HOME$/projects/nlb/event-watcher/watcher.log" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1401,7 +1404,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>vm_del_hand</text>
+        <text>eddie-test</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">bGlzdGVuZXIucmVnaXN0ZXJfaG5kbGVyKCdkZWwnLCBmdW5jMikK</text>
@@ -1438,9 +1441,9 @@
       </register>
     </registers>
     <search>
-      <last-search>vm_del_hand</last-search>
+      <last-search>eddie-test</last-search>
       <last-offset />
-      <last-pattern>vm_del_hand</last-pattern>
+      <last-pattern>eddie-test</last-pattern>
       <last-replace>CodeSimpleSchema</last-replace>
       <last-substitute>CodeSchema</last-substitute>
       <last-dir>1</last-dir>
@@ -1448,7 +1451,6 @@
     </search>
     <history>
       <history-search>
-        <entry>fmt</entry>
         <entry>event</entry>
         <entry>token</entry>
         <entry>Logging</entry>
@@ -1468,6 +1470,7 @@
         <entry>print_event</entry>
         <entry>mod</entry>
         <entry>vm_del_hand</entry>
+        <entry>eddie-test</entry>
       </history-search>
       <history-cmd>
         <entry>483</entry>
