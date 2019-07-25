@@ -346,11 +346,11 @@
         <mark key="." line="29" column="90" />
         <mark key="^" line="29" column="90" />
       </file>
-      <file name="$USER_HOME$/projects/nlb/event-watcher/test.py" timestamp="1563922697221">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="^" line="9" column="0" />
-        <mark key="." line="3" column="0" />
+      <file name="$USER_HOME$/projects/nlb/event-watcher/test.py" timestamp="1564074497116">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="2" />
+        <mark key="." line="14" column="2" />
+        <mark key="^" line="14" column="2" />
       </file>
       <file name="$USER_HOME$/Sites/ESS-Monitor/.gitignore" timestamp="1520957551392">
         <mark key="[" line="6" column="9" />
@@ -852,11 +852,10 @@
         <mark key="^" line="24" column="36" />
         <mark key="." line="24" column="36" />
       </file>
-      <file name="$USER_HOME$/projects/nlb/event-watcher/event_listener/watcher.py" timestamp="1564072696583">
-        <mark key="[" line="44" column="37" />
-        <mark key="]" line="44" column="69" />
-        <mark key="^" line="44" column="69" />
-        <mark key="." line="44" column="69" />
+      <file name="$USER_HOME$/projects/nlb/event-watcher/event_listener/watcher.py" timestamp="1564074297219">
+        <mark key="[" line="38" column="0" />
+        <mark key="]" line="38" column="0" />
+        <mark key="." line="38" column="0" />
       </file>
       <file name="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/pkg_install.sh" timestamp="1561088896507">
         <mark key="'" line="3" column="41" />
@@ -1386,43 +1385,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">IApsaXN0ZW5lcg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>del</text>
       </register>
       <register name="/" type="4">
         <text>mod</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICMgVE9ETyAtIHBsYWNlaG9sZGVyIGhhbmRsZXIuIEp1c3QgbG9nZ2luZyBldmVudCBmb3Igbm93Cg==</text>
+        <text encoding="base64">bGlzdGVuZXIucmVnaXN0ZXJfaG5kbGVyKCdkZWwnLCBmdW5jMikK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBsb2dnZXIuZGVidWcocGZvcm1hdChldmVudCkpCg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">IApsaXN0ZW5lcg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBsb2dnZXIuZGVidWcocGZvcm1hdChldmVudCkpCg==</text>
+        <text encoding="base64">ICAgICAgICBmdW5jKGV2ZW50KQo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBsb2dnZXIuZGVidWcocGZvcm1hdChldmVudCkpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICMgbG9nZ2VyLmRlYnVnKCJPcmlnaW5hbCBFdmVudCBEYXRhOiIpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBsb2dnZXIuZGVidWcocGZvcm1hdChldmVudCkpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IHNpZ25hbAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBsb2dnZXIuZGVidWcocGZvcm1hdChldmVudCkpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICMgbG9nZ2VyLmRlYnVnKCJPcmlnaW5hbCBFdmVudCBEYXRhOiIpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAjIGxvZ2dlci5kZWJ1ZygiRXZlbnQgVHlwZSA9IHt9Ii5mb3JtYXQoZXZlbnRfY2xhc3MpKQo=</text>
+        <text encoding="base64">aW1wb3J0IHNpZ25hbAo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICMgcmVnaXN0ZXJfc2lnbmFscygpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAjIGxvZ2dlci5kZWJ1ZygiRXZlbnQgVHlwZSA9IHt9Ii5mb3JtYXQoZXZlbnRfY2xhc3MpKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
