@@ -554,10 +554,10 @@
         <mark key="." line="4" column="12" />
         <mark key="^" line="4" column="12" />
       </file>
-      <file name="$USER_HOME$/projects/nlb/event-watcher/event_listener/config.py" timestamp="1563984375077">
-        <mark key="[" line="10" column="29" />
-        <mark key="]" line="10" column="28" />
-        <mark key="." line="10" column="28" />
+      <file name="$USER_HOME$/projects/nlb/event-watcher/event_listener/config.py" timestamp="1564035243140">
+        <mark key="[" line="9" column="20" />
+        <mark key="]" line="9" column="20" />
+        <mark key="." line="9" column="20" />
         <mark key="^" line="10" column="28" />
       </file>
       <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/schemas/scan_command_schema.py" timestamp="1527009613804">
@@ -852,12 +852,12 @@
         <mark key="^" line="24" column="36" />
         <mark key="." line="24" column="36" />
       </file>
-      <file name="$USER_HOME$/projects/nlb/event-watcher/event_listener/watcher.py" timestamp="1564009675119">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="61" column="46" />
-        <mark key="]" line="61" column="46" />
-        <mark key="." line="61" column="46" />
-        <mark key="^" line="61" column="49" />
+      <file name="$USER_HOME$/projects/nlb/event-watcher/event_listener/watcher.py" timestamp="1564035993824">
+        <mark key="'" line="144" column="13" />
+        <mark key="[" line="57" column="97" />
+        <mark key="]" line="57" column="101" />
+        <mark key="." line="57" column="101" />
+        <mark key="^" line="57" column="101" />
       </file>
       <file name="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/pkg_install.sh" timestamp="1561088896507">
         <mark key="'" line="3" column="41" />
@@ -1284,10 +1284,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="34" column="0" filename="$USER_HOME$/nlb/event-watcher/watcher.py" />
-      <jump line="46" column="66" filename="$USER_HOME$/nlb/event-watcher/watcher.py" />
-      <jump line="112" column="47" filename="$USER_HOME$/projects/nlb/event-watcher/lib/python2.7/site-packages/XenAPI.py" />
-      <jump line="110" column="23" filename="$USER_HOME$/projects/nlb/event-watcher/lib/python2.7/site-packages/XenAPI.py" />
       <jump line="1558" column="24" filename="/System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/xmlrpclib.py" />
       <jump line="1562" column="22" filename="/System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/xmlrpclib.py" />
       <jump line="1563" column="18" filename="/System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/xmlrpclib.py" />
@@ -1359,7 +1355,6 @@
       <jump line="43" column="19" filename="$USER_HOME$/projects/nlb/event-watcher/event_listener/watcher.py" />
       <jump line="47" column="52" filename="$USER_HOME$/projects/nlb/event-watcher/event_listener/watcher.py" />
       <jump line="45" column="32" filename="$USER_HOME$/projects/nlb/event-watcher/event_listener/xen.py" />
-      <jump line="73" column="38" filename="$USER_HOME$/projects/nlb/event-watcher/event_listener/watcher.py" />
       <jump line="74" column="18" filename="$USER_HOME$/projects/nlb/event-watcher/event_listener/watcher.py" />
       <jump line="10" column="19" filename="$USER_HOME$/projects/nlb/event-watcher/event_listener/watcher.py" />
       <jump line="13" column="12" filename="$USER_HOME$/projects/nlb/event-watcher/event_listener/watcher.py" />
@@ -1380,59 +1375,64 @@
       <jump line="35900" column="37" filename="$USER_HOME$/projects/nlb/event-watcher/watcher.log.study" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/srx-licu.py" />
       <jump line="3109" column="28" filename="$USER_HOME$/projects/nlb/event-watcher/watcher.log" />
-      <jump line="0" column="0" filename="$USER_HOME$/projects/nlb/event-watcher/event_listener/watcher.py" />
       <jump line="36134" column="47" filename="$USER_HOME$/projects/nlb/event-watcher/watcher.log.study" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/nlb/event-watcher/watcher.log.study" />
       <jump line="1" column="30" filename="$USER_HOME$/projects/nlb/event-watcher/watcher.log.study" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/nlb/event-watcher/event_listener/watcher.py" />
+      <jump line="67" column="10" filename="$USER_HOME$/projects/nlb/event-watcher/event_listener/watcher.py" />
+      <jump line="73" column="38" filename="$USER_HOME$/projects/nlb/event-watcher/event_listener/watcher.py" />
+      <jump line="104" column="40" filename="$USER_HOME$/projects/nlb/event-watcher/event_listener/watcher.py" />
+      <jump line="105" column="20" filename="$USER_HOME$/projects/nlb/event-watcher/event_listener/watcher.py" />
+      <jump line="137" column="13" filename="$USER_HOME$/projects/nlb/event-watcher/event_listener/watcher.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">dm0gICAgYWRkIA==</text>
+        <text>j</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">dm0gICAgYWRkIA==</text>
+        <text>j</text>
       </register>
       <register name="/" type="4">
-        <text>vm    add</text>
+        <text>message</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGVsaWYgZXZlbnRfbmFtZSA9PSAiVk1fU0hVVERPV04iOgogICAgICAgIHZtX3NodXRkb3duX2hhbmRsZXIoZXZlbnQpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByYWlzZQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBsb2dnZXIuZGVidWcocGZvcm1hdChldmVudCkpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICMgbG9nZ2VyLmRlYnVnKHBmb3JtYXQoZXZlbnQpKQo=</text>
+        <text encoding="base64">ICAgICAgICBsb2dnZXIuZGVidWcoIkVycm9yIHByb2Nlc3NpbmcgZXZlbnQiKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICMgbG9nZ2VyLmRlYnVnKCJFdmVudCBEYXRhOiIpCg==</text>
+        <text encoding="base64">ICAgICAgICBsb2dnZXIuZGVidWcoZSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHRpbWVzdGFtcCA9IGV2ZW50WydzbmFwc2hvdCddWyd0aW1lc3RhbXAnXQo=</text>
+        <text encoding="base64">ICAgICAgICBsb2dnZXIuZGVidWcoZSkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGJvZHkgPSAiUG93ZXIgU3RhdGU6IHt9Ii5mb3JtYXQoc25hcHNob3RbJ3Bvd2VyX3N0YXRlJ10pCg==</text>
+        <text encoding="base64">ICAgICAgICBsb2dnZXIuZGVidWcK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHRpbWVzdGFtcCA9IGV2ZW50Wyd0aW1lc3RhbXAnXQo=</text>
+        <text encoding="base64">ICAgICAgICBzZXNzaW9uLmxvZ291dCgpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgcGFzcwo=</text>
+        <text encoding="base64">ICAgIHRyeToK</text>
       </register>
       <register name=":" type="4">
-        <text>85</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>vm    add</last-search>
+      <last-search>message</last-search>
       <last-offset />
-      <last-pattern>vm    add</last-pattern>
+      <last-pattern>message</last-pattern>
       <last-replace>CodeSimpleSchema</last-replace>
       <last-substitute>CodeSchema</last-substitute>
       <last-dir>1</last-dir>
@@ -1440,8 +1440,6 @@
     </search>
     <history>
       <history-search>
-        <entry>EVENT_FROM_TIMEOUT</entry>
-        <entry>=</entry>
         <entry>event_type</entry>
         <entry>config</entry>
         <entry>logger</entry>
@@ -1460,9 +1458,10 @@
         <entry>add</entry>
         <entry>v</entry>
         <entry>vm    add</entry>
+        <entry>event_name</entry>
+        <entry>message</entry>
       </history-search>
       <history-cmd>
-        <entry>q</entry>
         <entry>483</entry>
         <entry>566</entry>
         <entry>2065</entry>
@@ -1479,9 +1478,10 @@
         <entry>76</entry>
         <entry>91</entry>
         <entry>$</entry>
-        <entry>w</entry>
         <entry>85</entry>
+        <entry>87</entry>
         <entry>0</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
