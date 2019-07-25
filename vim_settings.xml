@@ -80,8 +80,8 @@
         <mark key="^" line="46" column="24" />
         <mark key="." line="46" column="24" />
       </file>
-      <file name="$USER_HOME$/projects/nlb/event-watcher/watcher.log.study" timestamp="1564032398437">
-        <mark key="'" line="1" column="30" />
+      <file name="$USER_HOME$/projects/nlb/event-watcher/watcher.log.study" timestamp="1564069060813">
+        <mark key="'" line="35927" column="27" />
         <mark key="[" line="36180" column="52" />
         <mark key="]" line="36180" column="53" />
         <mark key="." line="36180" column="53" />
@@ -554,10 +554,10 @@
         <mark key="." line="4" column="12" />
         <mark key="^" line="4" column="12" />
       </file>
-      <file name="$USER_HOME$/projects/nlb/event-watcher/event_listener/config.py" timestamp="1564067957869">
-        <mark key="[" line="9" column="32" />
-        <mark key="]" line="9" column="38" />
-        <mark key="." line="9" column="38" />
+      <file name="$USER_HOME$/projects/nlb/event-watcher/event_listener/config.py" timestamp="1564069589091">
+        <mark key="[" line="9" column="24" />
+        <mark key="]" line="9" column="24" />
+        <mark key="." line="9" column="24" />
         <mark key="^" line="9" column="38" />
       </file>
       <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/schemas/scan_command_schema.py" timestamp="1527009613804">
@@ -852,11 +852,11 @@
         <mark key="^" line="24" column="36" />
         <mark key="." line="24" column="36" />
       </file>
-      <file name="$USER_HOME$/projects/nlb/event-watcher/event_listener/watcher.py" timestamp="1564067485699">
-        <mark key="[" line="103" column="37" />
-        <mark key="]" line="103" column="37" />
-        <mark key="^" line="103" column="37" />
-        <mark key="." line="103" column="37" />
+      <file name="$USER_HOME$/projects/nlb/event-watcher/event_listener/watcher.py" timestamp="1564069682302">
+        <mark key="[" line="44" column="37" />
+        <mark key="]" line="44" column="69" />
+        <mark key="^" line="44" column="69" />
+        <mark key="." line="44" column="69" />
       </file>
       <file name="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/pkg_install.sh" timestamp="1561088896507">
         <mark key="'" line="3" column="41" />
@@ -1283,7 +1283,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="73" column="28" filename="$USER_HOME$/projects/nlb/event-watcher/watcher.py" />
       <jump line="88" column="15" filename="$USER_HOME$/projects/nlb/event-watcher/watcher.py" />
       <jump line="110" column="8" filename="$USER_HOME$/projects/nlb/event-watcher/watcher.py" />
       <jump line="3" column="29" filename="$USER_HOME$/projects/nlb/event-watcher/watcher.py" />
@@ -1383,16 +1382,17 @@
       <jump line="53" column="87" filename="$USER_HOME$/projects/nlb/event-watcher/event_listener/watcher.py" />
       <jump line="26" column="0" filename="$USER_HOME$/projects/nlb/event-watcher/event_listener/watcher.py" />
       <jump line="28" column="4" filename="$USER_HOME$/projects/nlb/event-watcher/event_listener/watcher.py" />
+      <jump line="35927" column="27" filename="$USER_HOME$/projects/nlb/event-watcher/watcher.log.study" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>'</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>'</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>print_event</text>
+        <text>mod</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICMgVE9ETyAtIHBsYWNlaG9sZGVyIGhhbmRsZXIuIEp1c3QgbG9nZ2luZyBldmVudCBmb3Igbm93Cg==</text>
@@ -1429,9 +1429,9 @@
       </register>
     </registers>
     <search>
-      <last-search>print_event</last-search>
+      <last-search>mod</last-search>
       <last-offset />
-      <last-pattern>print_event</last-pattern>
+      <last-pattern>mod</last-pattern>
       <last-replace>CodeSimpleSchema</last-replace>
       <last-substitute>CodeSchema</last-substitute>
       <last-dir>1</last-dir>
@@ -1439,7 +1439,6 @@
     </search>
     <history>
       <history-search>
-        <entry>logger</entry>
         <entry>VM</entry>
         <entry>fmt</entry>
         <entry>event</entry>
@@ -1459,6 +1458,7 @@
         <entry>message</entry>
         <entry>format</entry>
         <entry>print_event</entry>
+        <entry>mod</entry>
       </history-search>
       <history-cmd>
         <entry>483</entry>
