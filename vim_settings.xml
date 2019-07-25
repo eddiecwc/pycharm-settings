@@ -201,12 +201,12 @@
         <mark key="^" line="190" column="24" />
         <mark key="." line="215" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/nlb/event-watcher/event_listener/event_listener.py" timestamp="1564085155279">
-        <mark key="'" line="161" column="29" />
-        <mark key="[" line="51" column="0" />
-        <mark key="]" line="51" column="0" />
-        <mark key="^" line="48" column="17" />
-        <mark key="." line="51" column="0" />
+      <file name="$USER_HOME$/projects/nlb/event-watcher/event_listener/event_listener.py" timestamp="1564090077130">
+        <mark key="'" line="164" column="29" />
+        <mark key="[" line="143" column="73" />
+        <mark key="]" line="144" column="6" />
+        <mark key="^" line="144" column="6" />
+        <mark key="." line="144" column="6" />
       </file>
       <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/mod_cluster/node.py" timestamp="1516587549245">
         <mark key="'" line="0" column="0" />
@@ -1394,8 +1394,8 @@
       <jump line="123" column="29" filename="$USER_HOME$/projects/nlb/event-watcher/event_listener/event_listener.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
