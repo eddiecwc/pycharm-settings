@@ -852,12 +852,12 @@
         <mark key="^" line="24" column="36" />
         <mark key="." line="24" column="36" />
       </file>
-      <file name="$USER_HOME$/projects/nlb/event-watcher/event_listener/watcher.py" timestamp="1564035993824">
-        <mark key="'" line="144" column="13" />
-        <mark key="[" line="57" column="97" />
-        <mark key="]" line="57" column="101" />
-        <mark key="." line="57" column="101" />
-        <mark key="^" line="57" column="101" />
+      <file name="$USER_HOME$/projects/nlb/event-watcher/event_listener/watcher.py" timestamp="1564041917239">
+        <mark key="'" line="149" column="13" />
+        <mark key="[" line="53" column="91" />
+        <mark key="]" line="53" column="99" />
+        <mark key="^" line="53" column="99" />
+        <mark key="." line="53" column="99" />
       </file>
       <file name="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/pkg_install.sh" timestamp="1561088896507">
         <mark key="'" line="3" column="41" />
@@ -1387,43 +1387,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>j</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>j</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>message</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGVsaWYgZXZlbnRfbmFtZSA9PSAiVk1fU0hVVERPV04iOgogICAgICAgIHZtX3NodXRkb3duX2hhbmRsZXIoZXZlbnQpCg==</text>
+        <text encoding="base64">ICAgICAgICB2bV9yZWYgPSBldmVudFsncmVmJ10KICAgICAgICB2bV91dWlkID0gc25hcHNob3RbJ3V1aWQnXQogICAgICAgIHZtX25hbWUgPSBzbmFwc2hvdFsnbmFtZV9sYWJlbCddCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICByYWlzZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dnZXIuZGVidWcocGZvcm1hdChldmVudCkpCg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">ICAgICAgICB2bV9yZWYgPSBldmVudFsncmVmJ10KICAgICAgICB2bV91dWlkID0gc25hcHNob3RbJ3V1aWQnXQogICAgICAgIHZtX25hbWUgPSBzbmFwc2hvdFsnbmFtZV9sYWJlbCdd</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dnZXIuZGVidWcoIkVycm9yIHByb2Nlc3NpbmcgZXZlbnQiKQo=</text>
+        <text encoding="base64">ICAgICAgICBwb3dlcl9zdGF0ZSA9IHNuYXBzaG90Wydwb3dlcl9zdGF0ZSddCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dnZXIuZGVidWcoZSkK</text>
+        <text encoding="base64">ICAgICAgICBib2R5ID0gIlBvd2VyIFN0YXRlOiB7fSIuZm9ybWF0KHNuYXBzaG90Wydwb3dlcl9zdGF0ZSddKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dnZXIuZGVidWcoZSkK</text>
+        <text encoding="base64">ICAgICAgICBib2R5ID0gImRkUG93ZXIgU3RhdGU6IHt9Ii5mb3JtYXQoc25hcHNob3RbJ3Bvd2VyX3N0YXRlJ10pCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dnZXIuZGVidWcK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBzbmFwc2hvdFsnaXNfYV90ZW1wbGF0ZSddKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBzZXNzaW9uLmxvZ291dCgpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBzbmFwc2hvdFsnaXNfYV9zbmFwc2hvdCddLAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHRyeToK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
