@@ -201,11 +201,11 @@
         <mark key="^" line="190" column="24" />
         <mark key="." line="215" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/nlb/event-watcher/event_listener/event_listener.py" timestamp="1564172563508">
-        <mark key="[" line="149" column="12" />
-        <mark key="]" line="150" column="3" />
-        <mark key="^" line="150" column="3" />
-        <mark key="." line="150" column="3" />
+      <file name="$USER_HOME$/projects/nlb/event-watcher/event_listener/event_listener.py" timestamp="1564184226588">
+        <mark key="[" line="152" column="41" />
+        <mark key="]" line="163" column="56" />
+        <mark key="." line="163" column="56" />
+        <mark key="^" line="163" column="56" />
       </file>
       <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/mod_cluster/node.py" timestamp="1516587549245">
         <mark key="'" line="0" column="0" />
@@ -435,8 +435,8 @@
         <mark key="^" line="53" column="0" />
         <mark key="." line="52" column="35" />
       </file>
-      <file name="$USER_HOME$/projects/nlb/event-watcher/watcher.log" timestamp="1564172251635">
-        <mark key="'" line="5015" column="15" />
+      <file name="$USER_HOME$/projects/nlb/event-watcher/watcher.log" timestamp="1564182835733">
+        <mark key="'" line="101" column="21" />
       </file>
       <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/mod_support/code.py" timestamp="1516214397620">
         <mark key="'" line="61" column="48" />
@@ -1294,8 +1294,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="28" column="12" filename="$USER_HOME$/projects/nlb/event-watcher/watcher.py" />
-      <jump line="83" column="19" filename="$USER_HOME$/projects/nlb/event-watcher/watcher.py" />
       <jump line="35" column="38" filename="$USER_HOME$/projects/nlb/event-watcher/watcher.py" />
       <jump line="52" column="8" filename="$USER_HOME$/projects/nlb/event-watcher/watcher.py" />
       <jump line="7" column="0" filename="$USER_HOME$/projects/nlb/event-watcher/watcher.py" />
@@ -1374,7 +1372,6 @@
       <jump line="24" column="40" filename="$USER_HOME$/projects/nlb/event-watcher/watcher.log" />
       <jump line="25" column="41" filename="$USER_HOME$/projects/nlb/event-watcher/watcher.log" />
       <jump line="51" column="20" filename="$USER_HOME$/projects/nlb/event-watcher/watcher.log" />
-      <jump line="101" column="19" filename="$USER_HOME$/projects/nlb/event-watcher/watcher.log" />
       <jump line="126" column="24" filename="$USER_HOME$/projects/nlb/event-watcher/watcher.log" />
       <jump line="132" column="45" filename="$USER_HOME$/projects/nlb/event-watcher/watcher.log" />
       <jump line="133" column="44" filename="$USER_HOME$/projects/nlb/event-watcher/watcher.log" />
@@ -1394,55 +1391,58 @@
       <jump line="5050" column="40" filename="$USER_HOME$/projects/nlb/event-watcher/watcher.log" />
       <jump line="5044" column="24" filename="$USER_HOME$/projects/nlb/event-watcher/watcher.log" />
       <jump line="5015" column="15" filename="$USER_HOME$/projects/nlb/event-watcher/watcher.log" />
+      <jump line="4" column="15" filename="$USER_HOME$/projects/nlb/event-watcher/watcher.log" />
+      <jump line="94" column="28" filename="$USER_HOME$/projects/nlb/event-watcher/watcher.log" />
+      <jump line="101" column="21" filename="$USER_HOME$/projects/nlb/event-watcher/watcher.log" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAjIAo=</text>
+      <register name="&quot;" type="4">
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>return</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>start</text>
+        <text>'del'</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">bGlzdGVuZXIucmVnaXN0ZXJfaG5kbGVyKCdkZWwnLCBmdW5jMikK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAjIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgb3AgPSBzbmFwc2hvdFsnY3VycmVudF9vcGVyYXRpb25zJ10K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHNuYXBzaG90ID0gZXZlbnRbJ3NuYXBzaG90J10K</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBlbGlmIGV2ZW50X2NsYXNzID09ICd2bScgYW5kIGV2ZW50WydvcGVyYXRpb24nXSA9PSAnZGVsJzoKICAgICAgICAgICAgICAgICAgICAgICAgdm1fZGVsX2hhbmRsZXIoZXZlbnQpCg==</text>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgc25hcHNob3QgPSBldmVudFsnc25hcHNob3QnXQogICAgICAgICAgICAgICAgICAgICAgICBpZiBzbmFwc2hvdFsnaXNfYV90ZW1wbGF0ZSddIG9yIHNuYXBzaG90Wydpc19hX3NuYXBzaG90J106CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAjIGRvbid0IGNhcmUgYWJvdXQgdGVtcGxhdGUgb3Igc25hcHNob3QgZXZlbnRzCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBjb250aW51ZQoKICAgICAgICAgICAgICAgICAgICAgICAgdm1fYWRkX2hhbmRsZXIoZXZlbnQpCg==</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIGlmIGV2ZW50WydvcGVyYXRpb24nXSA9PSAnbW9kJzoK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdHJ5Ogo=</text>
+        <text encoding="base64">ICAgIGVsaWYgZXZlbnRbJ29wZXJhdGlvbiddID09ICdtb2QnIGFuZCA6Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGV2ZW50WydvcGVyYXRpb24nXSA9PSAnYWRkJzoK</text>
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGV4Y2VwdCBLZXlFcnJvcjoK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHRyeToK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>start</last-search>
+      <last-search>'del'</last-search>
       <last-offset />
-      <last-pattern>start</last-pattern>
+      <last-pattern>'del'</last-pattern>
       <last-replace>CodeSimpleSchema</last-replace>
       <last-substitute>CodeSchema</last-substitute>
       <last-dir>1</last-dir>
@@ -1450,8 +1450,6 @@
     </search>
     <history>
       <history-search>
-        <entry>token</entry>
-        <entry>Logging</entry>
         <entry>logout</entry>
         <entry>register_signals</entry>
         <entry>eddie</entry>
@@ -1470,6 +1468,8 @@
         <entry>vm_del_hand</entry>
         <entry>eddie-test</entry>
         <entry>start</entry>
+        <entry>del</entry>
+        <entry>'del'</entry>
       </history-search>
       <history-cmd>
         <entry>483</entry>
@@ -1489,8 +1489,8 @@
         <entry>91</entry>
         <entry>85</entry>
         <entry>87</entry>
-        <entry>0</entry>
         <entry>$</entry>
+        <entry>0</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
