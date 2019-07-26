@@ -201,12 +201,12 @@
         <mark key="^" line="190" column="24" />
         <mark key="." line="215" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/nlb/event-watcher/event_listener/event_listener.py" timestamp="1564090077130">
+      <file name="$USER_HOME$/projects/nlb/event-watcher/event_listener/event_listener.py" timestamp="1564102984807">
         <mark key="'" line="164" column="29" />
-        <mark key="[" line="143" column="73" />
-        <mark key="]" line="144" column="6" />
-        <mark key="^" line="144" column="6" />
-        <mark key="." line="144" column="6" />
+        <mark key="[" line="19" column="1" />
+        <mark key="]" line="19" column="1" />
+        <mark key="^" line="19" column="0" />
+        <mark key="." line="19" column="1" />
       </file>
       <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/mod_cluster/node.py" timestamp="1516587549245">
         <mark key="'" line="0" column="0" />
@@ -435,9 +435,6 @@
         <mark key="]" line="52" column="35" />
         <mark key="^" line="53" column="0" />
         <mark key="." line="52" column="35" />
-      </file>
-      <file name="$USER_HOME$/projects/nlb/event-watcher/watcher.log" timestamp="1564091740906">
-        <mark key="'" line="79" column="34" />
       </file>
       <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/mod_support/code.py" timestamp="1516214397620">
         <mark key="'" line="61" column="48" />
