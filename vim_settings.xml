@@ -201,11 +201,12 @@
         <mark key="^" line="190" column="24" />
         <mark key="." line="215" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/nlb/event-watcher/event_listener/event_listener.py" timestamp="1564198468898">
-        <mark key="[" line="92" column="18" />
-        <mark key="]" line="92" column="55" />
-        <mark key="." line="92" column="55" />
-        <mark key="^" line="92" column="55" />
+      <file name="$USER_HOME$/projects/nlb/event-watcher/event_listener/event_listener.py" timestamp="1564260662177">
+        <mark key="'" line="70" column="0" />
+        <mark key="[" line="136" column="20" />
+        <mark key="]" line="136" column="21" />
+        <mark key="." line="136" column="21" />
+        <mark key="^" line="136" column="21" />
       </file>
       <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/mod_cluster/node.py" timestamp="1516587549245">
         <mark key="'" line="0" column="0" />
@@ -434,9 +435,6 @@
         <mark key="]" line="52" column="35" />
         <mark key="^" line="53" column="0" />
         <mark key="." line="52" column="35" />
-      </file>
-      <file name="$USER_HOME$/projects/nlb/event-watcher/watcher.log" timestamp="1564182835733">
-        <mark key="'" line="101" column="21" />
       </file>
       <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/mod_support/code.py" timestamp="1516214397620">
         <mark key="'" line="61" column="48" />
@@ -1294,7 +1292,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="35" column="38" filename="$USER_HOME$/projects/nlb/event-watcher/watcher.py" />
       <jump line="52" column="8" filename="$USER_HOME$/projects/nlb/event-watcher/watcher.py" />
       <jump line="7" column="0" filename="$USER_HOME$/projects/nlb/event-watcher/watcher.py" />
       <jump line="105" column="11" filename="$USER_HOME$/projects/nlb/event-watcher/watcher.py" />
@@ -1394,6 +1391,7 @@
       <jump line="4" column="15" filename="$USER_HOME$/projects/nlb/event-watcher/watcher.log" />
       <jump line="94" column="28" filename="$USER_HOME$/projects/nlb/event-watcher/watcher.log" />
       <jump line="101" column="21" filename="$USER_HOME$/projects/nlb/event-watcher/watcher.log" />
+      <jump line="70" column="0" filename="$USER_HOME$/projects/nlb/event-watcher/event_listener/event_listener.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1403,7 +1401,7 @@
         <text>triggered</text>
       </register>
       <register name="/" type="4">
-        <text>'del'</text>
+        <text>pformat</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGxvZ2dlci5kZWJ1ZygiVk0gT3BlcmF0aW9uIHt9IGNhbGxiYWNrIHRyaWdnZXJlZC4iLmZvcm1hdChvcCkpCg==</text>
@@ -1440,9 +1438,9 @@
       </register>
     </registers>
     <search>
-      <last-search>'del'</last-search>
+      <last-search>pformat</last-search>
       <last-offset />
-      <last-pattern>'del'</last-pattern>
+      <last-pattern>pformat</last-pattern>
       <last-replace>CodeSimpleSchema</last-replace>
       <last-substitute>CodeSchema</last-substitute>
       <last-dir>1</last-dir>
@@ -1450,7 +1448,6 @@
     </search>
     <history>
       <history-search>
-        <entry>logout</entry>
         <entry>register_signals</entry>
         <entry>eddie</entry>
         <entry>def stage_disabled</entry>
@@ -1470,6 +1467,7 @@
         <entry>start</entry>
         <entry>del</entry>
         <entry>'del'</entry>
+        <entry>pformat</entry>
       </history-search>
       <history-cmd>
         <entry>483</entry>
