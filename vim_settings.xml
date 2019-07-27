@@ -201,12 +201,12 @@
         <mark key="^" line="190" column="24" />
         <mark key="." line="215" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/nlb/event-watcher/event_listener/event_listener.py" timestamp="1564260662177">
-        <mark key="'" line="70" column="0" />
-        <mark key="[" line="136" column="20" />
-        <mark key="]" line="136" column="21" />
-        <mark key="." line="136" column="21" />
-        <mark key="^" line="136" column="21" />
+      <file name="$USER_HOME$/projects/nlb/event-watcher/event_listener/event_listener.py" timestamp="1564262437798">
+        <mark key="'" line="38" column="0" />
+        <mark key="[" line="132" column="39" />
+        <mark key="]" line="132" column="44" />
+        <mark key="." line="132" column="44" />
+        <mark key="^" line="132" column="44" />
       </file>
       <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/mod_cluster/node.py" timestamp="1516587549245">
         <mark key="'" line="0" column="0" />
@@ -1292,11 +1292,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="52" column="8" filename="$USER_HOME$/projects/nlb/event-watcher/watcher.py" />
-      <jump line="7" column="0" filename="$USER_HOME$/projects/nlb/event-watcher/watcher.py" />
-      <jump line="105" column="11" filename="$USER_HOME$/projects/nlb/event-watcher/watcher.py" />
-      <jump line="108" column="18" filename="$USER_HOME$/projects/nlb/event-watcher/watcher.py" />
-      <jump line="145" column="0" filename="$USER_HOME$/projects/nlb/event-watcher/watcher.py" />
       <jump line="151" column="24" filename="$USER_HOME$/projects/nlb/event-watcher/watcher.py" />
       <jump line="150" column="51" filename="$USER_HOME$/projects/nlb/event-watcher/watcher.py" />
       <jump line="38" column="25" filename="$USER_HOME$/projects/nlb/event-watcher/watcher.py" />
@@ -1392,55 +1387,60 @@
       <jump line="94" column="28" filename="$USER_HOME$/projects/nlb/event-watcher/watcher.log" />
       <jump line="101" column="21" filename="$USER_HOME$/projects/nlb/event-watcher/watcher.log" />
       <jump line="70" column="0" filename="$USER_HOME$/projects/nlb/event-watcher/event_listener/event_listener.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/nlb/event-watcher/event_listener/event_listener.py" />
+      <jump line="4" column="9" filename="$USER_HOME$/projects/nlb/event-watcher/event_listener/event_listener.py" />
+      <jump line="23" column="0" filename="$USER_HOME$/projects/nlb/event-watcher/event_listener/event_listener.py" />
+      <jump line="11" column="4" filename="$USER_HOME$/projects/nlb/event-watcher/event_listener/event_listener.py" />
+      <jump line="33" column="0" filename="$USER_HOME$/projects/nlb/event-watcher/event_listener/event_listener.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>triggered</text>
+        <text>shutdown</text>
       </register>
       <register name="-" type="4">
-        <text>triggered</text>
+        <text>shutdown</text>
       </register>
       <register name="/" type="4">
-        <text>pformat</text>
+        <text>print_event</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGxvZ2dlci5kZWJ1ZygiVk0gT3BlcmF0aW9uIHt9IGNhbGxiYWNrIHRyaWdnZXJlZC4iLmZvcm1hdChvcCkpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZWxpZiBbb3AgZm9yIG9wIGluIG9wcyBpZiAnc2h1dGRvd24nIGluIG9wXToK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZWxpZiAncmVib290JyBpbiBvcHM6Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGJvZHkgPSAgICAgCg==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">ZGVmIHZtX2FkZF9oYW5kbGVyKGV2ZW50LCB2bV9hZGRfYWN0aW9uPU5vbmUpOgogICAgbG9nZ2VyLmRlYnVnKCJWTSBhZGQgaGFuZGxlciB0cmlnZ2VyZWQuIikKICAgIGlmIHZtX2FkZF9hY3Rpb246CiAgICAgICAgdm1fYWRkX2FjdGlvbihldmVudCkKCgpkZWYgdm1fc3RhcnRfaGFuZGxlcihldmVudCwgdm1fc3RhcnRfYWN0aW9uPU5vbmUpOgogICAgbG9nZ2VyLmRlYnVnKCJWTSBzdGFydCBoYW5kbGVyIHRyaWdnZXJlZC4iKQogICAgaWYgdm1fc3RhcnRfYWN0aW9uOgogICAgICAgIHZtX3N0YXJ0X2FjdGlvbihldmVudCkKCgpkZWYgdm1fc2h1dGRvd25faGFuZGxlcihldmVudCk6CiAgICBwYXNzCgoKZGVmIHZtX3JlYm9vdF9oYW5kbGVyKGV2ZW50KToKICAgIHBhc3MKCgpkZWYgdm1fZGVsZXRlX2hhbmRsZXIoZXZlbnQpOgoKICAgICMgVE9ETyAtIFZNIGRlbGV0ZSBldmVudCBkb2VzIG5vdCBpbmNsdWRlIGFueXRoaW5nIG90aGVyIHRoYW4gT3BhcXVlUmVmLgogICAgIyAgICAgICAgTmVlZCB0byBmaW5kIGEgd2F5IHRvIG1hcCBpdCB0byBhY3R1YWwgVk0KCiAgICAjIFRPRE8gLSBwbGFjZWhvbGRlciBoYW5kbGVyLiBKdXN0IGxvZ2dpbmcgZXZlbnQgZm9yIG5vdwoKICAgICMgVE9ETyAtIG1heSBvciBtYXkgbm90IHJldHVybiB2bS1tb2QgY3VycmVudF9vcGVyYXRpb249PSdkZXN0cm95JyBldmVudAoKCgogICAgdHJ5OgogICAgICAgIGxvZ2dlci5pbmZvKCJWaXJ0dWFsIE1hY2hpbmUgcmVmOnt9IGRlbGV0ZWQuIi5mb3JtYXQoZXZlbnRbJ3JlZiddKSkKICAgIGV4Y2VwdCBFeGNlcHRpb24gYXMgZToKICAgICAgICBsb2dnZXIuaW5mbygiRXJyb3IgcHJvY2Vzc2luZyBldmVudC4iKQogICAgICAgIGxvZ2dlci5kZWJ1ZyhldmVudCkKICAgICAgICBsb2dnZXIuZGVidWcoZSkKICAgICAgICAjIHNraXAgdGhlIGV2ZW50IGluc3RlYWQgb2YgY3Jhc2hpbmcKICAgICAgICByZXR1cm4K</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIGJvZHkgPSAie30gY3VycmVudCBvcGVyYXRpb24ge30gcG93ZXIgc3RhdGUge30iLmZvcm1hdCgpICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHBvd2VyX3N0YXRlID0gIiIK</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">ICAgIHZtX2luZm8gPSB7CiAgICAgICAgJ3ZtX3JlZic6IGV2ZW50WydyZWYnXSwKICAgICAgICAndm1fdXVpZCc6IGV2ZW50WydzbmFwc2hvdCddWyd1dWlkJ10sCiAgICAgICAgJ3ZtX25hbWUnOiBldmVudFsnc25hcHNob3QnXVsnbmFtZV9sYWJlbCddCiAgICB9</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIG5hbWVfbGFiZWwgPSAiIgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGxvZ2dlci5kZWJ1ZygiVmlydHVhbCBNYWNoaW5lIHt2bV9uYW1lfSBzaHV0ZG93bjogdXVpZD17dm1fdXVpZH0sIHJlZj17dm1fcmVmfSIuZm9ybWF0KCoqdm1faW5mbykpCg==</text>
+        <text encoding="base64">ICAgIGN1cnJlbnRfb3BzID0gIiIK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGxvZ2dlci5kZWJ1ZygiIikK</text>
+        <text encoding="base64">ICAgIGJvZHkgPSAiIiAgICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZGVmIHZtX2V2ZW50Xwo=</text>
+        <text encoding="base64">ICAgICAgICBib2R5ID0gIiIK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>pformat</last-search>
+      <last-search>print_event</last-search>
       <last-offset />
-      <last-pattern>pformat</last-pattern>
+      <last-pattern>print_event</last-pattern>
       <last-replace>CodeSimpleSchema</last-replace>
       <last-substitute>CodeSchema</last-substitute>
       <last-dir>1</last-dir>
@@ -1448,8 +1448,6 @@
     </search>
     <history>
       <history-search>
-        <entry>register_signals</entry>
-        <entry>eddie</entry>
         <entry>def stage_disabled</entry>
         <entry>VM_START</entry>
         <entry>handler</entry>
@@ -1460,7 +1458,6 @@
         <entry>event_name</entry>
         <entry>message</entry>
         <entry>format</entry>
-        <entry>print_event</entry>
         <entry>mod</entry>
         <entry>vm_del_hand</entry>
         <entry>eddie-test</entry>
@@ -1468,6 +1465,9 @@
         <entry>del</entry>
         <entry>'del'</entry>
         <entry>pformat</entry>
+        <entry>print</entry>
+        <entry>print_event_brief</entry>
+        <entry>print_event</entry>
       </history-search>
       <history-cmd>
         <entry>483</entry>
