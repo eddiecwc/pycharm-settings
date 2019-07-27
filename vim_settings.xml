@@ -201,11 +201,11 @@
         <mark key="^" line="190" column="24" />
         <mark key="." line="215" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/nlb/event-watcher/event_listener/event_listener.py" timestamp="1564184226588">
-        <mark key="[" line="152" column="41" />
-        <mark key="]" line="163" column="56" />
-        <mark key="." line="163" column="56" />
-        <mark key="^" line="163" column="56" />
+      <file name="$USER_HOME$/projects/nlb/event-watcher/event_listener/event_listener.py" timestamp="1564185214503">
+        <mark key="[" line="9" column="34" />
+        <mark key="]" line="9" column="51" />
+        <mark key="." line="9" column="51" />
+        <mark key="^" line="9" column="51" />
       </file>
       <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/mod_cluster/node.py" timestamp="1516587549245">
         <mark key="'" line="0" column="0" />
@@ -1396,11 +1396,11 @@
       <jump line="101" column="21" filename="$USER_HOME$/projects/nlb/event-watcher/watcher.log" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ZGVmIHZtX2FkZAo=</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>function</text>
       </register>
       <register name="/" type="4">
         <text>'del'</text>
@@ -1409,10 +1409,10 @@
         <text encoding="base64">bGlzdGVuZXIucmVnaXN0ZXJfaG5kbGVyKCdkZWwnLCBmdW5jMikK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgb3AgPSBzbmFwc2hvdFsnY3VycmVudF9vcGVyYXRpb25zJ10K</text>
+        <text encoding="base64">ZGVmIHZtX2FkZAo=</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">dm1fYWRkX2FjdGlvbiA9IE5vbmUKdm1fZGVsZXRlX2FjdGlvbiA9IE5vbmUKdm1fcmVib290X2FjdGlvbiA9IE5vbmUKdm1fc2h1dGRvd25fYWN0aW9uID0gTm9uZQoK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
@@ -1420,20 +1420,20 @@
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIGlmIGV2ZW50WydvcGVyYXRpb24nXSA9PSAnbW9kJzoK</text>
+      <register name="5" type="4">
+        <text encoding="base64">ICAgICIiIgogICAgb24gVk0gYWRkOgoKICAgIHZtLWFkZDogY3VycmVudF9vcGVyYXRpb24tcHJvdmlzaW9uCiAgICB2bS1tb2Q6IGN1cnJlbnRfb3BlcmF0aW9uLXt9IGlzX2FfdGVtcGxhdGU9VHJ1ZQoqICAgdm0tbW9kOiBjdXJyZW50X29wZXJhdGlvbi1zdGFydCBwb3dlcl9zdGF0ZT1oYWx0CiogICB2bS1tb2Q6IGN1cnJlbnRfb3BlcmF0aW9uLXt9IHBvd2VyX3N0YXRlPXJ1bm5pbmcKCgogICAgb24gVk0gc2h1dGRvd246CgoqICAgdm0tbW9kOiBjdXJyZW50X29wZXJhdGlvbjogc2h1dGRvd24vaGFyZF9zaHV0ZG93biwgcG93ZXJfc3RhdGU9cnVubmluZwogICAgdm0tbW9kOiBjdXJyZW50X29wZXJhdGlvbjoge30sIHBvd2VyX3N0YXRlPWhhbHRlZAoKICAgIG9uIFZNIHN0YXJ0OgoKICAgIHZtLW1vZDogY3VycmVudF9vcGVyYXRpb246IHN0YXJ0LCBwb3dlcl9zdGF0ZT1oYWx0ZWQKKiAgIHZtLW1vZDogY3VycmVudF9vcGVyYXRpb246IHt9LCBwb3dlcl9zdGF0ZT1ydW5uaW5nCgogICAgb24gVk0gcGF1c2U6CgogICAgdm0tbW9kOiBjdXJyZW50X29wZXJhdGlvbjoge30sIHBvd2VyX3N0YXRlPVBhdXNlZAoKICAgIG9uIFZNIHVucGF1c2U6CgogICAgdm0tbW9kOiBjdXJyZW50X29wZXJhdGlvbjoge30sIHBvd2VyX3N0YXRlPXJ1bm5pbmcKCiAgICBvbiBWTSByZWJvb3Q6CgogICAgdm0tbW9kOiBjdXJyZW50X29wZXJhdGlvbnMgLSBoYXJkX3JlYm9vdC9yZWJvb3QgcG93ZXJfc3RhdGU9cnVubmluZwoqICAgdm0tbW9kOiBjdXJyZW50X29wZXJhdGlvbnMge30sIHBvd2VyX3N0YXRlPXJ1bm5pbmcKCiAgICA/Pz8gc3VzcGVuZD8/PwoKICAgID8/PyBtaWdyYXRlPz8/CgogICAgb24gVk0gZGVsZXRlOgoKICAgICIiIg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGVsaWYgZXZlbnRbJ29wZXJhdGlvbiddID09ICdtb2QnIGFuZCA6Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+        <text encoding="base64">ICAgICMgVE9ETyAtIHBsYWNlaG9sZGVyIGhhbmRsZXIuIEp1c3QgbG9nZ2luZyBldmVudCBmb3Igbm93Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGV4Y2VwdCBLZXlFcnJvcjoK</text>
+        <text encoding="base64">ICAgICMgVE9ETyAtIG1heSBuZWVkIHRvIGxvZyBib3RoIHV1aWQgYW5kIHJlZiwgc2luY2UgZGVsZXRlIGV2ZW50cyBvbmx5IGNvbnRhaW4gdm0gcmVmCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHRyeToK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
