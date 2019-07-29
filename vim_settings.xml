@@ -674,12 +674,12 @@
         <mark key="." line="56" column="29" />
         <mark key="^" line="56" column="29" />
       </file>
-      <file name="$USER_HOME$/projects/nlb/nlb-dsr-agent/var/local/nlb/event_listener.py" timestamp="1564433527524">
+      <file name="$USER_HOME$/projects/nlb/nlb-dsr-agent/var/local/nlb/event_listener.py" timestamp="1564435435624">
         <mark key="'" line="42" column="51" />
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="^" line="52" column="22" />
-        <mark key="." line="7" column="0" />
+        <mark key="[" line="4" column="33" />
+        <mark key="]" line="4" column="42" />
+        <mark key="^" line="4" column="42" />
+        <mark key="." line="4" column="42" />
       </file>
       <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/templates/ess/product_list.html" timestamp="1522211599811">
         <mark key="'" line="9" column="0" />
@@ -1068,11 +1068,7 @@
         <mark key="^" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/nlb/nlb-dsr-agent/var/local/nlb/logger.py" timestamp="1564433288725">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
-      </file>
+      <file name="$USER_HOME$/projects/nlb/nlb-dsr-agent/var/local/nlb/logger.py" timestamp="1564435185313" />
       <file name="$USER_HOME$/projects/gateway/Juniper_vSRX_on_KVM/net_interfaces_routebr1by.j2" timestamp="1553532112076">
         <mark key="[" line="58" column="0" />
         <mark key="]" line="59" column="0" />
@@ -1428,17 +1424,17 @@
       <jump line="43" column="51" filename="$USER_HOME$/projects/nlb/nlb-dsr-agent/var/local/nlb/event_listener.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IHNpZ25hbAo=</text>
+      <register name="&quot;" type="4">
+        <text>r</text>
       </register>
       <register name="-" type="4">
-        <text>og_file_name</text>
+        <text>r</text>
       </register>
       <register name="/" type="4">
         <text>start</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHZtX2luZm8gPSBYZW5TZXNzaW9uLmdldF92bV9pbmZvKGV2ZW50KQo=</text>
+        <text encoding="base64">bGlzdGVuZXJsb2dnZXIgPSBsb2dnaW5nLmdldExvZ2dlcigie30ue30iLmZvcm1hdChfX25hbWVfXywgZmlsZW5hbWUpKQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">aW1wb3J0IHNpZ25hbAo=</text>
