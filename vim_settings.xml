@@ -96,11 +96,11 @@
         <mark key="^" line="46" column="31" />
         <mark key="." line="46" column="31" />
       </file>
-      <file name="$USER_HOME$/projects/nlb/nlb-dsr-agent/var/local/nlb/test.py" timestamp="1564414244350">
-        <mark key="[" line="38" column="28" />
-        <mark key="]" line="38" column="33" />
-        <mark key="^" line="38" column="33" />
-        <mark key="." line="38" column="33" />
+      <file name="$USER_HOME$/projects/nlb/nlb-dsr-agent/var/local/nlb/test.py" timestamp="1564425621255">
+        <mark key="[" line="52" column="15" />
+        <mark key="]" line="52" column="16" />
+        <mark key="^" line="52" column="16" />
+        <mark key="." line="52" column="16" />
       </file>
       <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/models/product.py" timestamp="1525322951627">
         <mark key="[" line="48" column="44" />
@@ -668,12 +668,11 @@
         <mark key="." line="56" column="29" />
         <mark key="^" line="56" column="29" />
       </file>
-      <file name="$USER_HOME$/projects/nlb/nlb-dsr-agent/var/local/nlb/event_listener.py" timestamp="1564414321498">
-        <mark key="'" line="75" column="36" />
-        <mark key="[" line="133" column="26" />
-        <mark key="]" line="133" column="26" />
-        <mark key="^" line="133" column="28" />
-        <mark key="." line="133" column="26" />
+      <file name="$USER_HOME$/projects/nlb/nlb-dsr-agent/var/local/nlb/event_listener.py" timestamp="1564425545875">
+        <mark key="'" line="69" column="36" />
+        <mark key="[" line="143" column="0" />
+        <mark key="]" line="143" column="0" />
+        <mark key="." line="143" column="0" />
       </file>
       <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/templates/ess/product_list.html" timestamp="1522211599811">
         <mark key="'" line="9" column="0" />
@@ -734,6 +733,11 @@
         <mark key="]" line="70" column="33" />
         <mark key="^" line="70" column="41" />
         <mark key="." line="70" column="33" />
+      </file>
+      <file name="$USER_HOME$/projects/nlb/nlb-dsr-agent/var/local/nlb/event-notes.txt" timestamp="1564425528282">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/nlb/event-watcher/message.log" timestamp="1563924379903">
         <mark key="'" line="9" column="48" />
@@ -1408,10 +1412,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>0</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text>print</text>
@@ -1420,31 +1424,31 @@
         <text encoding="base64">QGxpc3RlbmVyLnJlZ2lzdGVyX2hhbmRsZXIoJ3NodXRkb3duJykK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">QGxpc3RlbmVyLnJlZ2lzdGVyX2xpc3RlbmVyKCdkZWxldGUnKQo=</text>
+        <text encoding="base64">IiIK</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">QGxpc3RlbmVyLnJlZ2lzdGVyX2xpc3RlbmVyKCdzaHV0ZG93bicpCg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">CiIiIgpyZWdpc3Rlcl9oYW5kbGVyKCdhZGQnLCBmdW5jMSkKcmVnaXN0ZXJfaGFuZGxlcignZGVsJywgZnVuYzIpCnJlZ2lzdGVyX2hhbmRsZXIoJ3JlYm9vdCcsIGZ1bmMzKQoKIg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">QGxpc3RlbmVyLnJlZ2lzdGVyX2xpc3RlbmVyKCdzdGFydCcpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">QGxpc3RlbmVyLnJlZ2lzdGVyX2xpc3RlbmVyKCdhZGQnKQo=</text>
+        <text encoding="base64">IyB2bV9saXN0ID0gLi4uCg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICdkZWxldGUnOiB2bV9kZWxldGVfZnVuY3Rpb24K</text>
+      <register name="7" type="4">
+        <text encoding="base64">CgoKCgoKCgoKIiIiCiAgICBvbiBWTSBhZGQ6CgogICAgdm0tYWRkOiBjdXJyZW50X29wZXJhdGlvbi1wcm92aXNpb24KICAgIHZtLW1vZDogY3VycmVudF9vcGVyYXRpb24te30gaXNfYV90ZW1wbGF0ZT1UcnVlCiogICB2bS1tb2Q6IGN1cnJlbnRfb3BlcmF0aW9uLXN0YXJ0IHBvd2VyX3N0YXRlPWhhbHQKKiAgIHZtLW1vZDogY3VycmVudF9vcGVyYXRpb24te30gcG93ZXJfc3RhdGU9cnVubmluZwoKCiAgICBvbiBWTSBzaHV0ZG93bjoKCiogICB2bS1tb2Q6IGN1cnJlbnRfb3BlcmF0aW9uOiBzaHV0ZG93bi9oYXJkX3NodXRkb3duLCBwb3dlcl9zdGF0ZT1ydW5uaW5nCiAgICB2bS1tb2Q6IGN1cnJlbnRfb3BlcmF0aW9uOiB7fSwgcG93ZXJfc3RhdGU9aGFsdGVkCgogICAgb24gVk0gc3RhcnQ6CgogICAgdm0tbW9kOiBjdXJyZW50X29wZXJhdGlvbjogc3RhcnQsIHBvd2VyX3N0YXRlPWhhbHRlZAoqICAgdm0tbW9kOiBjdXJyZW50X29wZXJhdGlvbjoge30sIHBvd2VyX3N0YXRlPXJ1bm5pbmcKCiAgICBvbiBWTSBwYXVzZToKCiAgICB2bS1tb2Q6IGN1cnJlbnRfb3BlcmF0aW9uOiB7fSwgcG93ZXJfc3RhdGU9UGF1c2VkCgogICAgb24gVk0gdW5wYXVzZToKCiAgICB2bS1tb2Q6IGN1cnJlbnRfb3BlcmF0aW9uOiB7fSwgcG93ZXJfc3RhdGU9cnVubmluZwoKICAgIG9uIFZNIHJlYm9vdDoKCiAgICB2bS1tb2Q6IGN1cnJlbnRfb3BlcmF0aW9ucyAtIGhhcmRfcmVib290L3JlYm9vdCBwb3dlcl9zdGF0ZT1ydW5uaW5nCiogICB2bS1tb2Q6IGN1cnJlbnRfb3BlcmF0aW9ucyB7fSwgcG93ZXJfc3RhdGU9cnVubmluZwoKICAgID8/PyBzdXNwZW5kPz8/CgogICAgPz8/IG1pZ3JhdGU/Pz8KCiAgICBvbiBWTSBkZWxldGU6CgoiIiI=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICdzaHV0ZG93bic6IHZtX3NodXRkb3duX2Z1bmN0aW9uLAo=</text>
+        <text encoding="base64">IiIiCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICdzdGFydCc6IHZtX3N0YXJ0X2Z1bmN0aW9uLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -1500,8 +1504,8 @@
         <entry>91</entry>
         <entry>85</entry>
         <entry>87</entry>
-        <entry>$</entry>
         <entry>0</entry>
+        <entry>$</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
