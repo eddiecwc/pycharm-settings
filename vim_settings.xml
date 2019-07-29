@@ -96,11 +96,11 @@
         <mark key="^" line="46" column="31" />
         <mark key="." line="46" column="31" />
       </file>
-      <file name="$USER_HOME$/projects/nlb/nlb-dsr-agent/var/local/nlb/test.py" timestamp="1564427562045">
-        <mark key="[" line="52" column="15" />
-        <mark key="]" line="52" column="16" />
-        <mark key="^" line="52" column="16" />
-        <mark key="." line="52" column="16" />
+      <file name="$USER_HOME$/projects/nlb/nlb-dsr-agent/var/local/nlb/test.py" timestamp="1564433135394">
+        <mark key="[" line="43" column="0" />
+        <mark key="]" line="43" column="0" />
+        <mark key="^" line="31" column="68" />
+        <mark key="." line="43" column="0" />
       </file>
       <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/models/product.py" timestamp="1525322951627">
         <mark key="[" line="48" column="44" />
@@ -555,11 +555,11 @@
         <mark key="." line="13" column="11" />
         <mark key="^" line="13" column="11" />
       </file>
-      <file name="$USER_HOME$/projects/nlb/nlb-dsr-agent/var/local/nlb/config.py" timestamp="1564429152389">
-        <mark key="[" line="7" column="5" />
-        <mark key="]" line="7" column="12" />
-        <mark key="^" line="7" column="12" />
-        <mark key="." line="7" column="12" />
+      <file name="$USER_HOME$/projects/nlb/nlb-dsr-agent/var/local/nlb/config.py" timestamp="1564433205858">
+        <mark key="[" line="7" column="26" />
+        <mark key="]" line="7" column="33" />
+        <mark key="." line="7" column="33" />
+        <mark key="^" line="7" column="33" />
       </file>
       <file name="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/README-GRE.MD" timestamp="1556689336807">
         <mark key="[" line="25" column="4" />
@@ -674,11 +674,12 @@
         <mark key="." line="56" column="29" />
         <mark key="^" line="56" column="29" />
       </file>
-      <file name="$USER_HOME$/projects/nlb/nlb-dsr-agent/var/local/nlb/event_listener.py" timestamp="1564425545875">
-        <mark key="'" line="69" column="36" />
-        <mark key="[" line="143" column="0" />
-        <mark key="]" line="143" column="0" />
-        <mark key="." line="143" column="0" />
+      <file name="$USER_HOME$/projects/nlb/nlb-dsr-agent/var/local/nlb/event_listener.py" timestamp="1564433527524">
+        <mark key="'" line="42" column="51" />
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="^" line="52" column="22" />
+        <mark key="." line="7" column="0" />
       </file>
       <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/templates/ess/product_list.html" timestamp="1522211599811">
         <mark key="'" line="9" column="0" />
@@ -997,6 +998,11 @@
         <mark key="." line="2" column="0" />
         <mark key="^" line="2" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/nlb/nlb-dsr-agent/var/local/nlb/xen.py" timestamp="1564433120056">
+        <mark key="[" line="111" column="0" />
+        <mark key="]" line="111" column="0" />
+        <mark key="." line="111" column="0" />
+      </file>
       <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/schemas/__init__.py" timestamp="1525932487574">
         <mark key="[" line="6" column="41" />
         <mark key="]" line="6" column="59" />
@@ -1062,11 +1068,10 @@
         <mark key="^" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/nlb/nlb-dsr-agent/var/local/nlb/logger.py" timestamp="1564431587910">
-        <mark key="[" line="6" column="52" />
-        <mark key="]" line="7" column="0" />
-        <mark key="^" line="7" column="0" />
-        <mark key="." line="7" column="0" />
+      <file name="$USER_HOME$/projects/nlb/nlb-dsr-agent/var/local/nlb/logger.py" timestamp="1564433288725">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
       </file>
       <file name="$USER_HOME$/projects/gateway/Juniper_vSRX_on_KVM/net_interfaces_routebr1by.j2" timestamp="1553532112076">
         <mark key="[" line="58" column="0" />
@@ -1321,9 +1326,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="124" column="34" filename="$USER_HOME$/projects/nlb/event-watcher/watcher.py" />
-      <jump line="127" column="23" filename="$USER_HOME$/projects/nlb/event-watcher/watcher.py" />
-      <jump line="153" column="32" filename="$USER_HOME$/projects/nlb/event-watcher/watcher.py" />
       <jump line="26" column="12" filename="$USER_HOME$/projects/nlb/event-watcher/watcher.py" />
       <jump line="27" column="12" filename="$USER_HOME$/projects/nlb/event-watcher/watcher.py" />
       <jump line="37" column="23" filename="$USER_HOME$/projects/nlb/event-watcher/watcher.py" />
@@ -1421,43 +1423,46 @@
       <jump line="133" column="31" filename="$USER_HOME$/projects/nlb/nlb-dsr-agent/var/local/nlb/event_listener.py" />
       <jump line="31" column="24" filename="$USER_HOME$/projects/nlb/nlb-dsr-agent/var/local/nlb/event_listener.py" />
       <jump line="75" column="36" filename="$USER_HOME$/projects/nlb/nlb-dsr-agent/var/local/nlb/event_listener.py" />
+      <jump line="24" column="0" filename="$USER_HOME$/projects/nlb/nlb-dsr-agent/var/local/nlb/event_listener.py" />
+      <jump line="36" column="33" filename="$USER_HOME$/projects/nlb/nlb-dsr-agent/var/local/nlb/event_listener.py" />
+      <jump line="43" column="51" filename="$USER_HOME$/projects/nlb/nlb-dsr-agent/var/local/nlb/event_listener.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0IHNpZ25hbAo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>og_file_name</text>
       </register>
       <register name="/" type="4">
-        <text>print</text>
+        <text>start</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">QGxpc3RlbmVyLnJlZ2lzdGVyX2hhbmRsZXIoJ3NodXRkb3duJykK</text>
+        <text encoding="base64">ICAgIHZtX2luZm8gPSBYZW5TZXNzaW9uLmdldF92bV9pbmZvKGV2ZW50KQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">IiIK</text>
+        <text encoding="base64">aW1wb3J0IHNpZ25hbAo=</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">CiIiIgpyZWdpc3Rlcl9oYW5kbGVyKCdhZGQnLCBmdW5jMSkKcmVnaXN0ZXJfaGFuZGxlcignZGVsJywgZnVuYzIpCnJlZ2lzdGVyX2hhbmRsZXIoJ3JlYm9vdCcsIGZ1bmMzKQoKIg==</text>
+      <register name="2" type="2">
+        <text encoding="base64">ZGVmIGdldExvZ2dlcigpCg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">IyB2bV9saXN0ID0gLi4uCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">CgoKCgoKCgoKIiIiCiAgICBvbiBWTSBhZGQ6CgogICAgdm0tYWRkOiBjdXJyZW50X29wZXJhdGlvbi1wcm92aXNpb24KICAgIHZtLW1vZDogY3VycmVudF9vcGVyYXRpb24te30gaXNfYV90ZW1wbGF0ZT1UcnVlCiogICB2bS1tb2Q6IGN1cnJlbnRfb3BlcmF0aW9uLXN0YXJ0IHBvd2VyX3N0YXRlPWhhbHQKKiAgIHZtLW1vZDogY3VycmVudF9vcGVyYXRpb24te30gcG93ZXJfc3RhdGU9cnVubmluZwoKCiAgICBvbiBWTSBzaHV0ZG93bjoKCiogICB2bS1tb2Q6IGN1cnJlbnRfb3BlcmF0aW9uOiBzaHV0ZG93bi9oYXJkX3NodXRkb3duLCBwb3dlcl9zdGF0ZT1ydW5uaW5nCiAgICB2bS1tb2Q6IGN1cnJlbnRfb3BlcmF0aW9uOiB7fSwgcG93ZXJfc3RhdGU9aGFsdGVkCgogICAgb24gVk0gc3RhcnQ6CgogICAgdm0tbW9kOiBjdXJyZW50X29wZXJhdGlvbjogc3RhcnQsIHBvd2VyX3N0YXRlPWhhbHRlZAoqICAgdm0tbW9kOiBjdXJyZW50X29wZXJhdGlvbjoge30sIHBvd2VyX3N0YXRlPXJ1bm5pbmcKCiAgICBvbiBWTSBwYXVzZToKCiAgICB2bS1tb2Q6IGN1cnJlbnRfb3BlcmF0aW9uOiB7fSwgcG93ZXJfc3RhdGU9UGF1c2VkCgogICAgb24gVk0gdW5wYXVzZToKCiAgICB2bS1tb2Q6IGN1cnJlbnRfb3BlcmF0aW9uOiB7fSwgcG93ZXJfc3RhdGU9cnVubmluZwoKICAgIG9uIFZNIHJlYm9vdDoKCiAgICB2bS1tb2Q6IGN1cnJlbnRfb3BlcmF0aW9ucyAtIGhhcmRfcmVib290L3JlYm9vdCBwb3dlcl9zdGF0ZT1ydW5uaW5nCiogICB2bS1tb2Q6IGN1cnJlbnRfb3BlcmF0aW9ucyB7fSwgcG93ZXJfc3RhdGU9cnVubmluZwoKICAgID8/PyBzdXNwZW5kPz8/CgogICAgPz8/IG1pZ3JhdGU/Pz8KCiAgICBvbiBWTSBkZWxldGU6CgoiIiI=</text>
+        <text encoding="base64">ICAgIHZtX2luZm8gPSB7CiAgICAgICAgJ3ZtX3JlZic6IGV2ZW50WydyZWYnXSwKICAgICAgICAndm1fdXVpZCc6IGV2ZW50WydzbmFwc2hvdCddWyd1dWlkJ10sCiAgICAgICAgJ3ZtX25hbWUnOiBldmVudFsnc25hcHNob3QnXVsnbmFtZV9sYWJlbCddCiAgICB9</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">IiIiCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
@@ -1467,9 +1472,9 @@
       </register>
     </registers>
     <search>
-      <last-search>print</last-search>
+      <last-search>start</last-search>
       <last-offset />
-      <last-pattern>print</last-pattern>
+      <last-pattern>start</last-pattern>
       <last-replace>CodeSimpleSchema</last-replace>
       <last-substitute>CodeSchema</last-substitute>
       <last-dir>1</last-dir>
@@ -1489,7 +1494,6 @@
         <entry>mod</entry>
         <entry>vm_del_hand</entry>
         <entry>eddie-test</entry>
-        <entry>start</entry>
         <entry>del</entry>
         <entry>'del'</entry>
         <entry>pformat</entry>
@@ -1497,6 +1501,7 @@
         <entry>vm_actions</entry>
         <entry>print_event_brief</entry>
         <entry>print</entry>
+        <entry>start</entry>
       </history-search>
       <history-cmd>
         <entry>483</entry>
@@ -1516,8 +1521,8 @@
         <entry>91</entry>
         <entry>85</entry>
         <entry>87</entry>
-        <entry>0</entry>
         <entry>$</entry>
+        <entry>0</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
