@@ -96,11 +96,11 @@
         <mark key="^" line="46" column="31" />
         <mark key="." line="46" column="31" />
       </file>
-      <file name="$USER_HOME$/projects/nlb/nlb-dsr-agent/var/local/nlb/test.py" timestamp="1564413346617">
-        <mark key="[" line="49" column="0" />
-        <mark key="]" line="49" column="0" />
-        <mark key="^" line="49" column="1" />
-        <mark key="." line="49" column="0" />
+      <file name="$USER_HOME$/projects/nlb/nlb-dsr-agent/var/local/nlb/test.py" timestamp="1564414244350">
+        <mark key="[" line="38" column="28" />
+        <mark key="]" line="38" column="33" />
+        <mark key="^" line="38" column="33" />
+        <mark key="." line="38" column="33" />
       </file>
       <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/models/product.py" timestamp="1525322951627">
         <mark key="[" line="48" column="44" />
@@ -668,12 +668,12 @@
         <mark key="." line="56" column="29" />
         <mark key="^" line="56" column="29" />
       </file>
-      <file name="$USER_HOME$/projects/nlb/nlb-dsr-agent/var/local/nlb/event_listener.py" timestamp="1564413243537">
-        <mark key="'" line="133" column="31" />
-        <mark key="[" line="31" column="24" />
-        <mark key="]" line="31" column="24" />
-        <mark key="^" line="132" column="16" />
-        <mark key="." line="31" column="24" />
+      <file name="$USER_HOME$/projects/nlb/nlb-dsr-agent/var/local/nlb/event_listener.py" timestamp="1564414321498">
+        <mark key="'" line="75" column="36" />
+        <mark key="[" line="133" column="26" />
+        <mark key="]" line="133" column="26" />
+        <mark key="^" line="133" column="28" />
+        <mark key="." line="133" column="26" />
       </file>
       <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/templates/ess/product_list.html" timestamp="1522211599811">
         <mark key="'" line="9" column="0" />
@@ -1305,8 +1305,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="41" column="56" filename="$USER_HOME$/projects/nlb/event-watcher/watcher.py" />
-      <jump line="82" column="18" filename="$USER_HOME$/projects/nlb/event-watcher/watcher.py" />
       <jump line="124" column="34" filename="$USER_HOME$/projects/nlb/event-watcher/watcher.py" />
       <jump line="127" column="23" filename="$USER_HOME$/projects/nlb/event-watcher/watcher.py" />
       <jump line="153" column="32" filename="$USER_HOME$/projects/nlb/event-watcher/watcher.py" />
@@ -1405,55 +1403,57 @@
       <jump line="32" column="25" filename="$USER_HOME$/projects/nlb/nlb-dsr-agent/var/local/nlb/event_listener.py" />
       <jump line="132" column="0" filename="$USER_HOME$/projects/nlb/nlb-dsr-agent/var/local/nlb/event_listener.py" />
       <jump line="133" column="31" filename="$USER_HOME$/projects/nlb/nlb-dsr-agent/var/local/nlb/event_listener.py" />
+      <jump line="31" column="24" filename="$USER_HOME$/projects/nlb/nlb-dsr-agent/var/local/nlb/event_listener.py" />
+      <jump line="75" column="36" filename="$USER_HOME$/projects/nlb/nlb-dsr-agent/var/local/nlb/event_listener.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>:</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>:</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>print_event_brief</text>
+        <text>print</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">QGxpc3RlbmVyLnJlZ2lzdGVyX2xpc3RlbmVyKCdzaHV0ZG93bicpCg==</text>
+        <text encoding="base64">QGxpc3RlbmVyLnJlZ2lzdGVyX2hhbmRsZXIoJ3NodXRkb3duJykK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">QGxpc3RlbmVyLnJlZ2lzdGVyX2xpc3RlbmVyKCdkZWxldGUnKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">QGxpc3RlbmVyLnJlZ2lzdGVyX2xpc3RlbmVyKCdzaHV0ZG93bicpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICdkZWxldGUnOiB2bV9kZWxldGVfZnVuY3Rpb24K</text>
+        <text encoding="base64">QGxpc3RlbmVyLnJlZ2lzdGVyX2xpc3RlbmVyKCdzdGFydCcpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICdzaHV0ZG93bic6IHZtX3NodXRkb3duX2Z1bmN0aW9uLAo=</text>
+        <text encoding="base64">QGxpc3RlbmVyLnJlZ2lzdGVyX2xpc3RlbmVyKCdhZGQnKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICdzdGFydCc6IHZtX3N0YXJ0X2Z1bmN0aW9uLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICdhZGQnOiB2bV9hZGRfZnVuY3Rpb24sCg==</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">dm1faGFuZGxlcnMgPSB7Cg==</text>
+        <text encoding="base64">ICAgICdkZWxldGUnOiB2bV9kZWxldGVfZnVuY3Rpb24K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICdzaHV0ZG93bic6IHZtX3NodXRkb3duX2Z1bmN0aW9uLAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICdzdGFydCc6IHZtX3N0YXJ0X2Z1bmN0aW9uLAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>print_event_brief</last-search>
+      <last-search>print</last-search>
       <last-offset />
-      <last-pattern>print_event_brief</last-pattern>
+      <last-pattern>print</last-pattern>
       <last-replace>CodeSimpleSchema</last-replace>
       <last-substitute>CodeSchema</last-substitute>
       <last-dir>1</last-dir>
@@ -1477,10 +1477,10 @@
         <entry>del</entry>
         <entry>'del'</entry>
         <entry>pformat</entry>
-        <entry>print</entry>
         <entry>print_event</entry>
         <entry>vm_actions</entry>
         <entry>print_event_brief</entry>
+        <entry>print</entry>
       </history-search>
       <history-cmd>
         <entry>483</entry>
