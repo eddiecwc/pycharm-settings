@@ -96,11 +96,11 @@
         <mark key="^" line="46" column="31" />
         <mark key="." line="46" column="31" />
       </file>
-      <file name="$USER_HOME$/projects/nlb/nlb-dsr-agent/var/local/nlb/test.py" timestamp="1564387413593">
-        <mark key="[" line="52" column="62" />
-        <mark key="]" line="52" column="92" />
-        <mark key="^" line="52" column="92" />
-        <mark key="." line="52" column="92" />
+      <file name="$USER_HOME$/projects/nlb/nlb-dsr-agent/var/local/nlb/test.py" timestamp="1564413346617">
+        <mark key="[" line="49" column="0" />
+        <mark key="]" line="49" column="0" />
+        <mark key="^" line="49" column="1" />
+        <mark key="." line="49" column="0" />
       </file>
       <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/models/product.py" timestamp="1525322951627">
         <mark key="[" line="48" column="44" />
@@ -668,12 +668,12 @@
         <mark key="." line="56" column="29" />
         <mark key="^" line="56" column="29" />
       </file>
-      <file name="$USER_HOME$/projects/nlb/nlb-dsr-agent/var/local/nlb/event_listener.py" timestamp="1564412032304">
-        <mark key="'" line="39" column="25" />
-        <mark key="[" line="40" column="0" />
-        <mark key="]" line="40" column="80" />
-        <mark key="." line="40" column="80" />
-        <mark key="^" line="40" column="80" />
+      <file name="$USER_HOME$/projects/nlb/nlb-dsr-agent/var/local/nlb/event_listener.py" timestamp="1564413243537">
+        <mark key="'" line="133" column="31" />
+        <mark key="[" line="31" column="24" />
+        <mark key="]" line="31" column="24" />
+        <mark key="^" line="132" column="16" />
+        <mark key="." line="31" column="24" />
       </file>
       <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/templates/ess/product_list.html" timestamp="1522211599811">
         <mark key="'" line="9" column="0" />
@@ -1305,8 +1305,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="38" column="25" filename="$USER_HOME$/projects/nlb/event-watcher/watcher.py" />
-      <jump line="39" column="23" filename="$USER_HOME$/projects/nlb/event-watcher/watcher.py" />
       <jump line="41" column="56" filename="$USER_HOME$/projects/nlb/event-watcher/watcher.py" />
       <jump line="82" column="18" filename="$USER_HOME$/projects/nlb/event-watcher/watcher.py" />
       <jump line="124" column="34" filename="$USER_HOME$/projects/nlb/event-watcher/watcher.py" />
@@ -1405,77 +1403,42 @@
       <jump line="33" column="0" filename="$USER_HOME$/projects/nlb/event-watcher/event_listener/event_listener.py" />
       <jump line="22" column="18" filename="$USER_HOME$/projects/nlb/nlb-dsr-agent/var/local/nlb/event_listener.py" />
       <jump line="32" column="25" filename="$USER_HOME$/projects/nlb/nlb-dsr-agent/var/local/nlb/event_listener.py" />
+      <jump line="132" column="0" filename="$USER_HOME$/projects/nlb/nlb-dsr-agent/var/local/nlb/event_listener.py" />
+      <jump line="133" column="31" filename="$USER_HOME$/projects/nlb/nlb-dsr-agent/var/local/nlb/event_listener.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+      <register name="&quot;" type="4">
+        <text>:</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>:</text>
       </register>
       <register name="/" type="4">
-        <text>vm_actions</text>
+        <text>print_event_brief</text>
       </register>
-      <register name="0" type="4">
-        <text>vm_actions = {
-    'add': vm_add_function,
-    'start': vm_start_function,
-    'shutdown': vm_shutdown_function,
-    'reboot': None,
-    'delete': vm_delete_function
-}</text>
+      <register name="0" type="2">
+        <text encoding="base64">QGxpc3RlbmVyLnJlZ2lzdGVyX2xpc3RlbmVyKCdzaHV0ZG93bicpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
-      </register>
-      <register name="2" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICBhZGQ9Tm9uZSwKICAgICAgICAgICAgICAgICAgICAgICAgICBzdGFydD1Ob25lLAogICAgICAgICAgICAgICAgICAgICAgICAgIHNodXRkb3duPU5vbmUsCiAgICAgICAgICAgICAgICAgICAgICAgICAgcmVib290PU5vbmUsCiA=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBpZiB2bV9ldmVudF9oYW5kbGVyczoK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY2FsbGJhY2soZXZlbnQpCg==</text>
-      </register>
-      <register name="5" type="4">
-        <text encoding="base64">ZGVmIGNhbGxfdm1fZXZlbnRfYWN0aW9uKGV2ZW50LCBvcCk6CiAgICBsb2dnZXIuZGVidWcoIlZNIE9wZXJhdGlvbiB7fSBjYWxsYmFjayB0cmlnZ2VyZWQuIi5mb3JtYXQob3ApKQogICAgaWYgb3AgaW4gdm1fYWN0aW9ucy5rZXlzKCkgYW5kIHZtX2FjdGlvbnNbb3BdOgogICAgICAgIGNhbGxiYWNrID0gdm1fYWN0aW9uc1tvcF0KICAgICAgICBjYWxsYmFjayhldmVudCkKICAgICAgICByZXR1cm4KCiAgICBsb2dnZXIuZGVidWcoIkV2ZW50IHt9IGNhbGxiYWNrIG5vdCBhdmFpbGFibGUuIE5vLW9wLiIuZm9ybWF0KG9wKSkKCgpkZWYgY2xhc3NpZnlfdm1fZXZlbnQoZXZlbnQpOgoKICAgIGlmICdzbmFwc2hvdCcgaW4gZXZlbnQua2V5cygpOgogICAgICAgIHNuYXBzaG90ID0gZXZlbnRbJ3NuYXBzaG90J10KICAgICAgICBpZiBzbmFwc2hvdFsnaXNfYV90ZW1wbGF0ZSddIG9yIHNuYXBzaG90Wydpc19hX3NuYXBzaG90J106CiAgICAgICAgICAgICMgZG9uJ3QgY2FyZSBhYm91dCB0ZW1wbGF0ZSBvciBzbmFwc2hvdCBldmVudHMKICAgICAgICAgICAgcmV0dXJuCgogICAgICAgIGlmIGV2ZW50WydvcGVyYXRpb24nXSA9PSAnYWRkJzoKICAgICAgICAgICAgY2FsbF92bV9ldmVudF9hY3Rpb24oZXZlbnQsICdhZGQnKQoKICAgICAgICBlbGlmIGV2ZW50WydvcGVyYXRpb24nXSA9PSAnbW9kJzoKICAgICAgICAgICAgIyBsb29rIGZvciBzdGFydCBhbmQgc2h1dGRvd24gZXZlbnRzCiAgICAgICAgICAgIG9wcyA9IHNuYXBzaG90WydjdXJyZW50X29wZXJhdGlvbnMnXS52YWx1ZXMoKQogICAgICAgICAgICBpZiBbb3AgZm9yIG9wIGluIG9wcyBpZiAnc3RhcnQnIGluIG9wXToKICAgICAgICAgICAgICAgIGNhbGxfdm1fZXZlbnRfYWN0aW9uKGV2ZW50LCAnc3RhcnQnKQogICAgICAgICAgICBlbGlmIFtvcCBmb3Igb3AgaW4gb3BzIGlmICdzaHV0ZG93bicgaW4gb3BdOgogICAgICAgICAgICAgICAgIyBoYXJkX3NodXRkb3duIG9yIGNsZWFuX3NodXRkb3duCiAgICAgICAgICAgICAgICBjYWxsX3ZtX2V2ZW50X2FjdGlvbihldmVudCwgJ3NodXRkb3duJykKICAgICAgICAgICAgZWxpZiBbb3AgZm9yIG9wIGluIG9wcyBpZiAncmVib290JyBpbiBvcF06CiAgICAgICAgICAgICAgICAjIGhhcmRfcmVib290IG9yIGNsZWFuX3JlYm9vdAogICAgICAgICAgICAgICAgY2FsbF92bV9ldmVudF9hY3Rpb24oZXZlbnQsICdyZWJvb3QnKQoKICAgIGVsc2U6CiAgICAgICAgIyBWTSBkZWxldGUgZXZlbnRzIGhhdmUgbm8gc25hcHNob3QuIERvbid0IGNhcmUgYWJvdXQgb3RoZXJzCiAgICAgICAgaWYgZXZlbnRbJ29wZXJhdGlvbiddID09ICdkZWwnOgogICAgICAgICAgICBjYWxsX3ZtX2V2ZW50X2FjdGlvbihldmVudCwgJ2RlbGV0ZScpCgo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text>def wait_for_events():
-    # TODO on initial startup, get all events that already exist and the latest
-    #  bookmark token, assume that pre-existing events have already been
-    #  processed and reflected in the etcd server data
-
-    event_types = config['event_types']
-    try:
-        while True:
-            try:
-                events = session.get_events(event_types)
-
-                for event in events:
-                    # logger.debug(pformat(event))
-                    print_event_brief(event)
-                    event_class = event['class']
-                    if event_class == 'vm':
-                        classify_vm_event(event)
-
-            #     logger.debug(&quot;Sleeping for 5 seconds&quot;)
-            #     time.sleep(5)
-            except Exception as e:
-                # log error and move on. Don't need to crash for trouble getting/processing events
-                # TODO maybe re-establish session?
-                logger.info(&quot;Error while listening for events.&quot;)
-                logger.debug(e)
-
-    finally:
-        # always logout
-        # TODO logout here may throw exception. Research on if it is okay to ignore
-
-        logger.debug(&quot;wait_for_events: Logging out of session.&quot;)
-        session.logout()</text>
+      <register name="2" type="2">
+        <text encoding="base64">fQo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICdkZWxldGUnOiB2bV9kZWxldGVfZnVuY3Rpb24K</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICdzaHV0ZG93bic6IHZtX3NodXRkb3duX2Z1bmN0aW9uLAo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICdzdGFydCc6IHZtX3N0YXJ0X2Z1bmN0aW9uLAo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICdhZGQnOiB2bV9hZGRfZnVuY3Rpb24sCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">dm1faGFuZGxlcnMgPSB7Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
@@ -1488,9 +1451,9 @@
       </register>
     </registers>
     <search>
-      <last-search>vm_actions</last-search>
+      <last-search>print_event_brief</last-search>
       <last-offset />
-      <last-pattern>vm_actions</last-pattern>
+      <last-pattern>print_event_brief</last-pattern>
       <last-replace>CodeSimpleSchema</last-replace>
       <last-substitute>CodeSchema</last-substitute>
       <last-dir>1</last-dir>
@@ -1515,9 +1478,9 @@
         <entry>'del'</entry>
         <entry>pformat</entry>
         <entry>print</entry>
-        <entry>print_event_brief</entry>
         <entry>print_event</entry>
         <entry>vm_actions</entry>
+        <entry>print_event_brief</entry>
       </history-search>
       <history-cmd>
         <entry>483</entry>
