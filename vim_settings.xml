@@ -1222,6 +1222,12 @@
         <mark key="^" line="4" column="11" />
         <mark key="." line="266" column="34" />
       </file>
+      <file name="$USER_HOME$/projects/gateway/Gateway-Design-and-Process/onboarding/Gateway-Debug.md" timestamp="1564500938612">
+        <mark key="[" line="414" column="1" />
+        <mark key="]" line="414" column="0" />
+        <mark key="^" line="414" column="12" />
+        <mark key="." line="414" column="0" />
+      </file>
       <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/ess_systems/forms.py" timestamp="1517306442552">
         <mark key="'" line="28" column="71" />
         <mark key="[" line="37" column="95" />
@@ -1424,11 +1430,11 @@
       <jump line="43" column="51" filename="$USER_HOME$/projects/nlb/nlb-dsr-agent/var/local/nlb/event_listener.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">NS4gCg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">ICAgICAgICAgICAg</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">LiAg</text>
+        <text encoding="base64">ICAgICAgICAgICAg</text>
       </register>
       <register name="/" type="4">
         <text>start</text>
@@ -1437,31 +1443,31 @@
         <text encoding="base64">bGlzdGVuZXJsb2dnZXIgPSBsb2dnaW5nLmdldExvZ2dlcigie30ue30iLmZvcm1hdChfX25hbWVfXywgZmlsZW5hbWUpKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">NS4gCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">NS4gCg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">VHJhbnNhY3Rpb246IGh0dHBzOi8vaW50ZXJuYWwuc29mdGxheWVyLmNvbS9IYXJkd2FyZVRyYW5zYWN0aW9uL3ZpZXdUcmFuc2FjdGlvbkRldGFpbHMvMTM1MDUzOTg5Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">RXNjYWxhdGlvbjogaHR0cHM6Ly9pbnRlcm5hbC5zb2Z0bGF5ZXIuY29tL0VzY2FsYXRpb24vbWFuYWdlLzMyNjI5ODcK</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">VHJhbnNhY3Rpb246IGh0dHBzOi8vaW50ZXJuYWwuc29mdGxheWVyLmNvbS9IYXJkd2FyZVRyYW5zYWN0aW9uL3ZpZXdUcmFuc2FjdGlvbkRldGFpbHMvMTM1MDUzOTg5Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">RXNjYWxhdGlvbjogaHR0cHM6Ly9pbnRlcm5hbC5zb2Z0bGF5ZXIuY29tL0VzY2FsYXRpb24vbWFuYWdlLzMyNjI5ODcK</text>
+      </register>
       <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">IyMjIyBFeGFtcGxlOgo=</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text encoding="base64">CgpgYGAKTm9kZSAgIFByaW9yaXR5IFN0YXR1cyAgICAgICAgICAgICAgIFByZWVtcHQgTWFudWFsICAgTW9uaXRvci1mYWlsdXJlcwoKUmVkdW5kYW5jeSBncm91cDogMCAsIEZhaWxvdmVyIGNvdW50OiAxCm5vZGUwICAxMDAgICAgICBwcmltYXJ5ICAgICAgICAgICAgICBubyAgICAgIG5vICAgICAgIE5vbmUgICAgICAgICAgIApub2RlMSAgMSAgICAgICAgZGlzYWJsZWQgICAgICAgICAgICAgbm8gICAgICBubyAgICAgICBOb25lICAgICAgICAgICAKClJlZHVuZGFuY3kgZ3JvdXA6IDEgLCBGYWlsb3ZlciBjb3VudDogMQpub2RlMCAgMTAwICAgICAgcHJpbWFyeSAgICAgICAgICAgICAgeWVzICAgICBubyAgICAgICBOb25lICAgICAgICAgICAKbm9kZTEgIDEgICAgICAgIGRpc2FibGVkICAgICAgICAgICAgIHllcyAgICAgbm8gICAgICAgTm9uZSAgCgp7ZGlzYWJsZWQ6bm9kZTF9CmBgYA==</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">QW5hbHlzaXMgb2YgdnNyeCBsb2dzIHNob3dzIHBvc3QtcHJvdmlzaW9uaW5nIGhlYWx0aCBjaGVjayBmYWlsZWQuIFRoZSBHVyB0cmFuc2FjdGlvbiBpcyBodW5nIGluIE5FVFdPUktfR0FURVdBWV9JTlNUQUxMIGFuZCB0aGUgc2Vjb25kYXJ5IG5vZGUgc2hvd3MgYXMgImRpc2FibGVkIjoK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
