@@ -96,11 +96,11 @@
         <mark key="^" line="46" column="31" />
         <mark key="." line="46" column="31" />
       </file>
-      <file name="$USER_HOME$/projects/nlb/nlb-dsr-agent/var/local/nlb/test.py" timestamp="1564433135394">
-        <mark key="[" line="43" column="0" />
-        <mark key="]" line="43" column="0" />
-        <mark key="^" line="31" column="68" />
-        <mark key="." line="43" column="0" />
+      <file name="$USER_HOME$/projects/nlb/nlb-dsr-agent/var/local/nlb/test.py" timestamp="1564592947268">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="^" line="40" column="8" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/models/product.py" timestamp="1525322951627">
         <mark key="[" line="48" column="44" />
@@ -555,11 +555,11 @@
         <mark key="." line="13" column="11" />
         <mark key="^" line="13" column="11" />
       </file>
-      <file name="$USER_HOME$/projects/nlb/nlb-dsr-agent/var/local/nlb/config.py" timestamp="1564588953510">
-        <mark key="[" line="7" column="38" />
-        <mark key="]" line="7" column="38" />
-        <mark key="." line="7" column="38" />
-        <mark key="^" line="7" column="38" />
+      <file name="$USER_HOME$/projects/nlb/nlb-dsr-agent/var/local/nlb/config.py" timestamp="1564593261729">
+        <mark key="[" line="8" column="23" />
+        <mark key="]" line="8" column="25" />
+        <mark key="^" line="8" column="25" />
+        <mark key="." line="8" column="25" />
       </file>
       <file name="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/README-GRE.MD" timestamp="1556689336807">
         <mark key="[" line="25" column="4" />
@@ -998,12 +998,12 @@
         <mark key="." line="2" column="0" />
         <mark key="^" line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/nlb/nlb-dsr-agent/var/local/nlb/xen.py" timestamp="1564589211697">
-        <mark key="'" line="31" column="16" />
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
-        <mark key="^" line="8" column="0" />
+      <file name="$USER_HOME$/projects/nlb/nlb-dsr-agent/var/local/nlb/xen.py" timestamp="1564593403427">
+        <mark key="'" line="6" column="13" />
+        <mark key="[" line="42" column="57" />
+        <mark key="]" line="42" column="63" />
+        <mark key="." line="42" column="63" />
+        <mark key="^" line="42" column="63" />
       </file>
       <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/schemas/__init__.py" timestamp="1525932487574">
         <mark key="[" line="6" column="41" />
@@ -1335,18 +1335,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="12" column="5" filename="$USER_HOME$/projects/nlb/event-watcher/logger.py" />
-      <jump line="23" column="4" filename="$USER_HOME$/projects/nlb/event-watcher/logger.py" />
-      <jump line="62" column="39" filename="$USER_HOME$/projects/nlb/event-watcher/event_listener/watcher.py" />
-      <jump line="86" column="0" filename="$USER_HOME$/projects/nlb/event-watcher/event_listener/watcher.py" />
-      <jump line="9" column="48" filename="$USER_HOME$/projects/nlb/event-watcher/message.log" />
-      <jump line="88" column="0" filename="$USER_HOME$/projects/nlb/event-watcher/event_listener/watcher.py" />
-      <jump line="44" column="3" filename="$USER_HOME$/projects/nlb/event-watcher/event_listener/watcher.py" />
-      <jump line="46" column="18" filename="$USER_HOME$/projects/nlb/event-watcher/event_listener/watcher.py" />
-      <jump line="12" column="20" filename="$USER_HOME$/projects/nlb/event-watcher/event_listener/watcher.py" />
-      <jump line="40" column="16" filename="$USER_HOME$/projects/nlb/event-watcher/event_listener/watcher.py" />
-      <jump line="42" column="21" filename="$USER_HOME$/projects/nlb/event-watcher/event_listener/watcher.py" />
-      <jump line="43" column="19" filename="$USER_HOME$/projects/nlb/event-watcher/event_listener/watcher.py" />
       <jump line="47" column="52" filename="$USER_HOME$/projects/nlb/event-watcher/event_listener/watcher.py" />
       <jump line="45" column="32" filename="$USER_HOME$/projects/nlb/event-watcher/event_listener/xen.py" />
       <jump line="74" column="18" filename="$USER_HOME$/projects/nlb/event-watcher/event_listener/watcher.py" />
@@ -1435,52 +1423,58 @@
       <jump line="9" column="25" filename="$USER_HOME$/projects/nlb/nlb-dsr-agent/var/local/nlb/logger.py" />
       <jump line="24" column="32" filename="$USER_HOME$/projects/nlb/nlb-dsr-agent/var/local/nlb/xen.py" />
       <jump line="31" column="16" filename="$USER_HOME$/projects/nlb/nlb-dsr-agent/var/local/nlb/xen.py" />
+      <jump line="48" column="32" filename="$USER_HOME$/projects/nlb/nlb-dsr-agent/var/local/nlb/xen.py" />
+      <jump line="61" column="21" filename="$USER_HOME$/projects/nlb/nlb-dsr-agent/var/local/nlb/xen.py" />
+      <jump line="62" column="21" filename="$USER_HOME$/projects/nlb/nlb-dsr-agent/var/local/nlb/xen.py" />
+      <jump line="66" column="17" filename="$USER_HOME$/projects/nlb/nlb-dsr-agent/var/local/nlb/xen.py" />
+      <jump line="80" column="17" filename="$USER_HOME$/projects/nlb/nlb-dsr-agent/var/local/nlb/xen.py" />
+      <jump line="85" column="17" filename="$USER_HOME$/projects/nlb/nlb-dsr-agent/var/local/nlb/xen.py" />
+      <jump line="90" column="17" filename="$USER_HOME$/projects/nlb/nlb-dsr-agent/var/local/nlb/xen.py" />
+      <jump line="91" column="17" filename="$USER_HOME$/projects/nlb/nlb-dsr-agent/var/local/nlb/xen.py" />
+      <jump line="96" column="13" filename="$USER_HOME$/projects/nlb/nlb-dsr-agent/var/local/nlb/xen.py" />
+      <jump line="98" column="13" filename="$USER_HOME$/projects/nlb/nlb-dsr-agent/var/local/nlb/xen.py" />
+      <jump line="3" column="23" filename="$USER_HOME$/projects/nlb/nlb-dsr-agent/var/local/nlb/xen.py" />
+      <jump line="6" column="13" filename="$USER_HOME$/projects/nlb/nlb-dsr-agent/var/local/nlb/xen.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>logger</text>
+        <text encoding="base64">cGFyZW50IA==</text>
       </register>
       <register name="-" type="4">
-        <text>logger</text>
+        <text encoding="base64">cGFyZW50IA==</text>
       </register>
       <register name="/" type="4">
         <text>logger</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">bG9nZ2VyID0gZ2V0X2xvZ2dlcihjb25maWdbJ2xpc3RlbmVyX2xvZ19uYW1lJ10pCg==</text>
+        <text encoding="base64">ICAgICd4ZW5fbG9nX25hbWUnOiAnbmxiX3hlbi5sb2cnLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBDcmVhdGVzIGxvZ2dlciBvYmplY3QK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICdmbXQnOiAnJThzICAlMjBzICAlNXMgICVzJywK</text>
+        <text encoding="base64">ICAgICd4ZW5fbG9nX25hbWUnOiAnbmxiX3hlbi5sb2cnLAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBzaCA9IHNlbGYuZ2V0X3N0cmVhbV9oYW5kbGVyKCkK</text>
+        <text encoding="base64">ZnJvbSBsb2dnZXIgaW1wb3J0IGdldF9sb2dnZXIK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICdsaXN0ZW5lcl9sb2dfbmFtZSc6ICdubGJfbGlzdGVuZXIubG9nJywK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBDcmVhdGVzIGxvZ2dlciBvYmplY3QK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="8" type="4">
-        <text>sh = logging.StreamHandler()
-sh.setLevel(level)
-stream_formatter = logging.Formatter(fmt='%(message)s')
-sh.setFormatter(stream_formatter)
-
-logger.addHandler(fh)
-logger.addHandler(sh)</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICdmbXQnOiAnJThzICAlMjBzICAlNXMgICVzJywK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">IyBhbmQgdG8gc3RyZWFtCg==</text>
+        <text encoding="base64">ICAgICAgICBzaCA9IHNlbGYuZ2V0X3N0cmVhbV9oYW5kbGVyKCkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -1536,8 +1530,8 @@ logger.addHandler(sh)</text>
         <entry>91</entry>
         <entry>85</entry>
         <entry>87</entry>
-        <entry>0</entry>
         <entry>$</entry>
+        <entry>0</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
