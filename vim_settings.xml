@@ -555,11 +555,11 @@
         <mark key="." line="13" column="11" />
         <mark key="^" line="13" column="11" />
       </file>
-      <file name="$USER_HOME$/projects/nlb/nlb-dsr-agent/var/local/nlb/config.py" timestamp="1564593261729">
-        <mark key="[" line="8" column="23" />
-        <mark key="]" line="8" column="25" />
-        <mark key="^" line="8" column="25" />
-        <mark key="." line="8" column="25" />
+      <file name="$USER_HOME$/projects/nlb/nlb-dsr-agent/var/local/nlb/config.py" timestamp="1564756473586">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="^" line="17" column="0" />
+        <mark key="." line="19" column="0" />
       </file>
       <file name="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/README-GRE.MD" timestamp="1556689336807">
         <mark key="[" line="25" column="4" />
@@ -872,6 +872,12 @@
         <mark key="]" line="9" column="0" />
         <mark key="^" line="9" column="0" />
         <mark key="." line="9" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/nlb/nlb-dsr-agent/var/local/nlb/config.ini" timestamp="1564756587509">
+        <mark key="[" line="15" column="20" />
+        <mark key="]" line="17" column="0" />
+        <mark key="^" line="13" column="16" />
+        <mark key="." line="17" column="0" />
       </file>
       <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/models.py" timestamp="1524859461779">
         <mark key="'" line="184" column="22" />
@@ -1437,44 +1443,44 @@
       <jump line="6" column="13" filename="$USER_HOME$/projects/nlb/nlb-dsr-agent/var/local/nlb/xen.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">cGFyZW50IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">cGFyZW50IA==</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text>logger</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICd4ZW5fbG9nX25hbWUnOiAnbmxiX3hlbi5sb2cnLAo=</text>
+        <text encoding="base64">ICAgICdsaXN0ZW5lcl9sb2dfbmFtZSc6ICdubGJfbGlzdGVuZXIubG9nJywKICAgICd4ZW5fbG9nX25hbWUnOiAnbmxiX3hlbi5sb2cnLAogICAgJ2xvZ19sZXZlbCc6IGxvZ2dpbmcuREVCVUcsCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICd4ZW5fbG9nX25hbWUnOiAnbmxiX3hlbi5sb2cnLAo=</text>
+        <text encoding="base64">aW1wb3J0IGxvZ2dpbmcK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZnJvbSBsb2dnZXIgaW1wb3J0IGdldF9sb2dnZXIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICdsaXN0ZW5lcl9sb2dfbmFtZSc6ICdubGJfbGlzdGVuZXIubG9nJywK</text>
+        <text encoding="base64">IyEvdXNyL2Jpbi9lbnYgcHl0aG9uCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBDcmVhdGVzIGxvZ2dlciBvYmplY3QK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICdmbXQnOiAnJThzICAlMjBzICAlNXMgICVzJywK</text>
+        <text encoding="base64">ICAgICd4ZW5fbG9nX25hbWUnOiAnbmxiX3hlbi5sb2cnLAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBzaCA9IHNlbGYuZ2V0X3N0cmVhbV9oYW5kbGVyKCkK</text>
+        <text encoding="base64">ZnJvbSBsb2dnZXIgaW1wb3J0IGdldF9sb2dnZXIK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
