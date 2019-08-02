@@ -873,11 +873,11 @@
         <mark key="^" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/nlb/nlb-dsr-agent/var/local/nlb/config.ini" timestamp="1564756587509">
-        <mark key="[" line="15" column="20" />
-        <mark key="]" line="17" column="0" />
-        <mark key="^" line="13" column="16" />
-        <mark key="." line="17" column="0" />
+      <file name="$USER_HOME$/projects/nlb/nlb-dsr-agent/var/local/nlb/config.ini" timestamp="1564757624344">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="^" line="13" column="10" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/models.py" timestamp="1524859461779">
         <mark key="'" line="184" column="22" />
@@ -1444,10 +1444,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICdsb2dfbGV2ZWwnOiBsb2dnaW5nLkRFQlVHLAo=</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>:</text>
       </register>
       <register name="/" type="4">
         <text>logger</text>
@@ -1456,31 +1456,31 @@
         <text encoding="base64">ICAgICdsaXN0ZW5lcl9sb2dfbmFtZSc6ICdubGJfbGlzdGVuZXIubG9nJywKICAgICd4ZW5fbG9nX25hbWUnOiAnbmxiX3hlbi5sb2cnLAogICAgJ2xvZ19sZXZlbCc6IGxvZ2dpbmcuREVCVUcsCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICdsb2dfbGV2ZWwnOiBsb2dnaW5nLkRFQlVHLAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGxvZ2dpbmcK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">IyEvdXNyL2Jpbi9lbnYgcHl0aG9uCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICAgICd4ZW5fbG9nX25hbWUnOiAnbmxiX3hlbi5sb2cnLAo=</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICdsaXN0ZW5lcl9sb2dfbmFtZSc6ICdubGJfbGlzdGVuZXIubG9nJywK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICdsb2dfZGlyZWN0b3J5JzogJy90bXAnLAo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICdsb2dfc3RyZWFtX2Zvcm1hdCc6ICclKG1lc3NhZ2UpcycsCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICdsb2dfZmlsZV9mb3JtYXQnOiAnJShhc2N0aW1lKS0xNXMgJShuYW1lKS0xMHMgJShtZXNzYWdlKXMnLAo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ZnJvbSBsb2dnZXIgaW1wb3J0IGdldF9sb2dnZXIK</text>
+        <text encoding="base64">aW1wb3J0IGxvZ2dpbmcK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
