@@ -665,12 +665,12 @@
         <mark key="." line="56" column="29" />
         <mark key="^" line="56" column="29" />
       </file>
-      <file name="$USER_HOME$/projects/nlb/nlb-dsr-agent/var/local/nlb/event_listener.py" timestamp="1564908146436">
-        <mark key="'" line="47" column="51" />
-        <mark key="[" line="12" column="8" />
-        <mark key="]" line="12" column="26" />
-        <mark key="^" line="12" column="26" />
-        <mark key="." line="12" column="26" />
+      <file name="$USER_HOME$/projects/nlb/nlb-dsr-agent/var/local/nlb/event_listener.py" timestamp="1564908878012">
+        <mark key="'" line="46" column="51" />
+        <mark key="[" line="24" column="64" />
+        <mark key="]" line="25" column="55" />
+        <mark key="." line="25" column="55" />
+        <mark key="^" line="25" column="55" />
       </file>
       <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/templates/ess/product_list.html" timestamp="1522211599811">
         <mark key="'" line="9" column="0" />
@@ -1058,11 +1058,11 @@
         <mark key="^" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/nlb/nlb-dsr-agent/var/local/nlb/logger.py" timestamp="1564589103783">
-        <mark key="[" line="50" column="24" />
-        <mark key="]" line="50" column="24" />
-        <mark key="." line="50" column="24" />
-        <mark key="^" line="50" column="24" />
+      <file name="$USER_HOME$/projects/nlb/nlb-dsr-agent/var/local/nlb/logger.py" timestamp="1564908820177">
+        <mark key="[" line="16" column="32" />
+        <mark key="]" line="16" column="31" />
+        <mark key="." line="16" column="31" />
+        <mark key="^" line="16" column="31" />
       </file>
       <file name="$USER_HOME$/projects/gateway/Juniper_vSRX_on_KVM/net_interfaces_routebr1by.j2" timestamp="1553532112076">
         <mark key="[" line="58" column="0" />
@@ -1425,11 +1425,11 @@
       <jump line="12" column="44" filename="$USER_HOME$/projects/nlb/nlb-dsr-agent/var/local/nlb/config.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>single_nic_deployment</text>
@@ -1438,31 +1438,31 @@
         <text encoding="base64">YSA9IENvbmZpZy5nZXRfY29uZmlnKCdMb2dnZXInKQpwcmludChhKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBsb2dfZmlsZSA9IAo=</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">CgoKCmEgPSBDb25maWcuZ2V0X2NvbmZpZygpCnByaW50KGEpCmEgPSBDb25maWcuZ2V0X2NvbmZpZygnTG9nZ2VyJywgY29uZmlnX2ZpbGU9J2ZqbGtlZmUnKQpwcmludChhKQoKYSA9IENvbmZpZy5nZXRfY29uZmlnKCdqZmtlZmUnKQpwcmludChhKQ==</text>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoInJldHVybmluZyB7fSIuKQo=</text>
+        <text encoding="base64">bG9nZ2VyID0gZ2V0X2xvZ2dlcihjb25maWdbJ2xpc3RlbmVyX2xvZ19uYW1lJ10pCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">cHJpbnQoYSkK</text>
+        <text encoding="base64">Y29uZmlnID0gQ29uZmlnLmdldF9jb25maWcoJycpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">YSA9IENvbmZpZy5nZXRfY29uZmlnKCdMb2dnZXInKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">cHJpbnQoYS5nZXRfY29uZmlnKCdmZWYnKSkK</text>
+        <text encoding="base64">Y29uZmlnID0gQ29uZmlnLmdldF9jb25maWcoKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">cHJpbnQoYS5nZXRfY29uZmlnKCdMb2dnZXInKSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">cHJpbnQoYSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -1518,8 +1518,8 @@
         <entry>85</entry>
         <entry>87</entry>
         <entry>.w</entry>
-        <entry>$</entry>
         <entry>0</entry>
+        <entry>$</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
