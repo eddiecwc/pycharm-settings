@@ -549,11 +549,11 @@
         <mark key="." line="13" column="11" />
         <mark key="^" line="13" column="11" />
       </file>
-      <file name="$USER_HOME$/projects/nlb/nlb-dsr-agent/var/local/nlb/config.py" timestamp="1564899008047">
-        <mark key="[" line="30" column="33" />
-        <mark key="]" line="30" column="28" />
-        <mark key="." line="30" column="28" />
-        <mark key="^" line="30" column="27" />
+      <file name="$USER_HOME$/projects/nlb/nlb-dsr-agent/var/local/nlb/config.py" timestamp="1564899091191">
+        <mark key="[" line="30" column="30" />
+        <mark key="]" line="30" column="24" />
+        <mark key="." line="30" column="24" />
+        <mark key="^" line="30" column="24" />
       </file>
       <file name="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/README-GRE.MD" timestamp="1556689336807">
         <mark key="[" line="25" column="4" />
@@ -1427,10 +1427,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>.</text>
+        <text encoding="base64">RXJyb3Ig</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text encoding="base64">RXJyb3Ig</text>
       </register>
       <register name="/" type="4">
         <text>single_nic_deployment</text>
