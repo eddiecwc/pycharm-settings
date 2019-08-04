@@ -186,8 +186,12 @@
         <mark key="." line="68" column="47" />
         <mark key="^" line="68" column="47" />
       </file>
-      <file name="$USER_HOME$/projects/gateway/Juniper_vSRX_on_KVM/Build_vSRX.py" timestamp="1564883395068">
+      <file name="$USER_HOME$/projects/gateway/Juniper_vSRX_on_KVM/Build_vSRX.py" timestamp="1564884347458">
         <mark key="'" line="217" column="49" />
+        <mark key="[" line="507" column="43" />
+        <mark key="]" line="508" column="8" />
+        <mark key="^" line="508" column="8" />
+        <mark key="." line="508" column="8" />
       </file>
       <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/utilities.py" timestamp="1526022588142">
         <mark key="'" line="39" column="65" />
@@ -370,9 +374,6 @@
         <mark key="^" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/nlb/regional-compute/pkg/compute/server.go" timestamp="1563572246077">
-        <mark key="'" line="2703" column="12" />
-      </file>
       <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/templates/ess/code_add.html" timestamp="1520814433598">
         <mark key="[" line="27" column="0" />
         <mark key="]" line="27" column="0" />
@@ -415,9 +416,6 @@
         <mark key="]" line="6" column="21" />
         <mark key="." line="5" column="17" />
         <mark key="^" line="5" column="17" />
-      </file>
-      <file name="$USER_HOME$/projects/nlb/event-watcher/vm.log" timestamp="1563724418291">
-        <mark key="'" line="4025" column="19" />
       </file>
       <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/conf/machine-types.py" timestamp="1521365201467">
         <mark key="[" line="26" column="19" />
@@ -563,9 +561,6 @@
         <mark key="^" line="25" column="4" />
         <mark key="." line="25" column="4" />
       </file>
-      <file name="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/srx-licu.py" timestamp="1564006273425">
-        <mark key="'" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/templates/ess/code_table_headers.html" timestamp="1520814619754">
         <mark key="[" line="4" column="8" />
         <mark key="]" line="4" column="12" />
@@ -698,9 +693,6 @@
         <mark key="." line="233" column="37" />
         <mark key="^" line="233" column="37" />
       </file>
-      <file name="$USER_HOME$/projects/nlb/event-watcher/lib/python2.7/site-packages/XenAPI.py" timestamp="1563574840575">
-        <mark key="'" line="110" column="23" />
-      </file>
       <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/mod_support/__init__.py" timestamp="1516526135969">
         <mark key="[" line="4" column="33" />
         <mark key="]" line="4" column="33" />
@@ -743,9 +735,6 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/nlb/event-watcher/message.log" timestamp="1563924379903">
-        <mark key="'" line="9" column="48" />
-      </file>
       <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/templates/ess/code_list.html" timestamp="1522211505335">
         <mark key="[" line="48" column="50" />
         <mark key="]" line="48" column="50" />
@@ -777,9 +766,6 @@
         <mark key="]" line="11" column="0" />
         <mark key="^" line="3" column="34" />
         <mark key="." line="11" column="0" />
-      </file>
-      <file name="/System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/xmlrpclib.py" timestamp="1563574852365">
-        <mark key="'" line="1563" column="18" />
       </file>
       <file name="$USER_HOME$/projects/nlb/event-watcher/logger.py" timestamp="1563920816839">
         <mark key="'" line="23" column="4" />
@@ -1043,9 +1029,6 @@
         <mark key="]" line="5" column="18" />
         <mark key="." line="5" column="18" />
         <mark key="^" line="5" column="18" />
-      </file>
-      <file name="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/vsrx_rollback.py" timestamp="1562657895694">
-        <mark key="'" line="306" column="60" />
       </file>
       <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/tasks.py" timestamp="1526022842174">
         <mark key="'" line="0" column="0" />
@@ -1439,11 +1422,11 @@
       <jump line="217" column="49" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_on_KVM/Build_vSRX.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ZAo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>single_nic_deployment</text>
