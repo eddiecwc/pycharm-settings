@@ -186,12 +186,8 @@
         <mark key="." line="68" column="47" />
         <mark key="^" line="68" column="47" />
       </file>
-      <file name="$USER_HOME$/projects/gateway/Juniper_vSRX_on_KVM/Build_vSRX.py" timestamp="1563402982752">
-        <mark key="'" line="218" column="16" />
-        <mark key="[" line="213" column="53" />
-        <mark key="]" line="214" column="12" />
-        <mark key="." line="213" column="52" />
-        <mark key="^" line="214" column="12" />
+      <file name="$USER_HOME$/projects/gateway/Juniper_vSRX_on_KVM/Build_vSRX.py" timestamp="1564883395068">
+        <mark key="'" line="217" column="49" />
       </file>
       <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/utilities.py" timestamp="1526022588142">
         <mark key="'" line="39" column="65" />
@@ -1341,9 +1337,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="47" column="52" filename="$USER_HOME$/projects/nlb/event-watcher/event_listener/watcher.py" />
-      <jump line="45" column="32" filename="$USER_HOME$/projects/nlb/event-watcher/event_listener/xen.py" />
-      <jump line="74" column="18" filename="$USER_HOME$/projects/nlb/event-watcher/event_listener/watcher.py" />
       <jump line="10" column="19" filename="$USER_HOME$/projects/nlb/event-watcher/event_listener/watcher.py" />
       <jump line="13" column="12" filename="$USER_HOME$/projects/nlb/event-watcher/event_listener/watcher.py" />
       <jump line="69" column="17" filename="$USER_HOME$/projects/nlb/event-watcher/event_listener/xen.py" />
@@ -1441,6 +1434,9 @@
       <jump line="98" column="13" filename="$USER_HOME$/projects/nlb/nlb-dsr-agent/var/local/nlb/xen.py" />
       <jump line="3" column="23" filename="$USER_HOME$/projects/nlb/nlb-dsr-agent/var/local/nlb/xen.py" />
       <jump line="6" column="13" filename="$USER_HOME$/projects/nlb/nlb-dsr-agent/var/local/nlb/xen.py" />
+      <jump line="808" column="32" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_on_KVM/Build_vSRX.py" />
+      <jump line="213" column="72" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_on_KVM/Build_vSRX.py" />
+      <jump line="217" column="49" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_on_KVM/Build_vSRX.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -1450,7 +1446,7 @@
         <text />
       </register>
       <register name="/" type="4">
-        <text>logger</text>
+        <text>single_nic_deployment</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">ICAgICdldmVudF9mcm9tX3RpbWVvdXQnOiA2MCwKICAgICdldmVudF90eXBlcyc6IFsndm0nXSwKICAgICd0b2tlbl9maWxlJzogJ3Rva2VuLnR4dCc=</text>
@@ -1487,9 +1483,9 @@
       </register>
     </registers>
     <search>
-      <last-search>logger</last-search>
+      <last-search>single_nic_deployment</last-search>
       <last-offset />
-      <last-pattern>logger</last-pattern>
+      <last-pattern>single_nic_deployment</last-pattern>
       <last-replace>CodeSimpleSchema</last-replace>
       <last-substitute>CodeSchema</last-substitute>
       <last-dir>1</last-dir>
@@ -1497,8 +1493,6 @@
     </search>
     <history>
       <history-search>
-        <entry>handler</entry>
-        <entry>ALARM</entry>
         <entry>add</entry>
         <entry>v</entry>
         <entry>vm    add</entry>
@@ -1517,6 +1511,8 @@
         <entry>print</entry>
         <entry>start</entry>
         <entry>logger</entry>
+        <entry encoding="base64">c2luZ2xlIA==</entry>
+        <entry>single_nic_deployment</entry>
       </history-search>
       <history-cmd>
         <entry>483</entry>
