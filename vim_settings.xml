@@ -186,12 +186,12 @@
         <mark key="." line="68" column="47" />
         <mark key="^" line="68" column="47" />
       </file>
-      <file name="$USER_HOME$/projects/gateway/Juniper_vSRX_on_KVM/Build_vSRX.py" timestamp="1564884347458">
+      <file name="$USER_HOME$/projects/gateway/Juniper_vSRX_on_KVM/Build_vSRX.py" timestamp="1564885896142">
         <mark key="'" line="217" column="49" />
-        <mark key="[" line="507" column="43" />
-        <mark key="]" line="508" column="8" />
-        <mark key="^" line="508" column="8" />
-        <mark key="." line="508" column="8" />
+        <mark key="[" line="516" column="38" />
+        <mark key="]" line="516" column="38" />
+        <mark key="." line="516" column="38" />
+        <mark key="^" line="530" column="28" />
       </file>
       <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/utilities.py" timestamp="1526022588142">
         <mark key="'" line="39" column="65" />
@@ -1435,31 +1435,31 @@
         <text encoding="base64">ICAgICdldmVudF9mcm9tX3RpbWVvdXQnOiA2MCwKICAgICdldmVudF90eXBlcyc6IFsndm0nXSwKICAgICd0b2tlbl9maWxlJzogJ3Rva2VuLnR4dCc=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAgICMgRmlyc3QgY2hlY2sgcHJpdmF0ZSBib25kCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICd0b2tlbl9maWxlJzogJ3Rva2VuLnR4dCcK</text>
+        <text encoding="base64">ZAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICdldmVudF90eXBlcyc6IFsndm0nXSwK</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICdldmVudF9mcm9tX3RpbWVvdXQnOiA2MCwK</text>
+        <text encoding="base64">ICAgICd0b2tlbl9maWxlJzogJ3Rva2VuLnR4dCcK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Y29uZmlnID0gewo=</text>
+        <text encoding="base64">ICAgICdldmVudF90eXBlcyc6IFsndm0nXSwK</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">CgpbREVGQVVMVF0KU2VydmVyQWxpdmVJbnRlcnZhbCA9IDQ1CkNvbXByZXNzaW9uID0geWVzCkNvbXByZXNzaW9uTGV2ZWwgPSA5CkZvcndhcmRYMTEgPSB5ZXMKCltiaXRidWNrZXQub3JnXQpVc2VyID0gaGcKClt0b3BzZWNyZXQuc2VydmVyLmNvbV0KUG9ydCA9IDUwMDIyCkZvcndhcmRYMTEgPSBu</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICdldmVudF9mcm9tX3RpbWVvdXQnOiA2MCwK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">bmxiX2Rzcl9hZ2VudC5sb2cK</text>
+        <text encoding="base64">Y29uZmlnID0gewo=</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="9" type="4">
+        <text encoding="base64">CgpbREVGQVVMVF0KU2VydmVyQWxpdmVJbnRlcnZhbCA9IDQ1CkNvbXByZXNzaW9uID0geWVzCkNvbXByZXNzaW9uTGV2ZWwgPSA5CkZvcndhcmRYMTEgPSB5ZXMKCltiaXRidWNrZXQub3JnXQpVc2VyID0gaGcKClt0b3BzZWNyZXQuc2VydmVyLmNvbV0KUG9ydCA9IDUwMDIyCkZvcndhcmRYMTEgPSBu</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
