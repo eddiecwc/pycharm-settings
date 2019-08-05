@@ -1301,10 +1301,10 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/nlb/nlb-dsr-agent/var/local/nlb/xen_event_listener.py" timestamp="1565021501472">
-        <mark key="[" line="16" column="73" />
-        <mark key="]" line="18" column="0" />
-        <mark key="." line="18" column="0" />
+      <file name="$USER_HOME$/projects/nlb/nlb-dsr-agent/var/local/nlb/xen_event_listener.py" timestamp="1565023471053">
+        <mark key="[" line="43" column="25" />
+        <mark key="]" line="43" column="25" />
+        <mark key="." line="43" column="25" />
         <mark key="^" line="18" column="0" />
       </file>
       <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/templates/header.html" timestamp="1524258428723">
@@ -1446,10 +1446,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IyA=</text>
+        <text>:</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IyA=</text>
+        <text>:</text>
       </register>
       <register name="/" type="4">
         <text>config</text>
