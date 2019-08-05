@@ -561,12 +561,12 @@
         <mark key="." line="13" column="11" />
         <mark key="^" line="13" column="11" />
       </file>
-      <file name="$USER_HOME$/projects/nlb/nlb-dsr-agent/var/local/nlb/config.py" timestamp="1564966803267">
-        <mark key="'" line="43" column="31" />
-        <mark key="[" line="22" column="48" />
-        <mark key="]" line="22" column="54" />
-        <mark key="." line="22" column="54" />
-        <mark key="^" line="22" column="54" />
+      <file name="$USER_HOME$/projects/nlb/nlb-dsr-agent/var/local/nlb/config.py" timestamp="1564976218330">
+        <mark key="'" line="51" column="31" />
+        <mark key="[" line="52" column="0" />
+        <mark key="]" line="53" column="26" />
+        <mark key="." line="53" column="26" />
+        <mark key="^" line="53" column="26" />
       </file>
       <file name="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/README-GRE.MD" timestamp="1556689336807">
         <mark key="[" line="25" column="4" />
@@ -1439,46 +1439,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">ZXh0cmEg</text>
+        <text>config_file</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ZXh0cmEg</text>
+        <text>config_file</text>
       </register>
       <register name="/" type="4">
         <text>ConverterMapping</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBiYXNlX3BhcnNlciA9IHNlbGYucmVhZF9jb25maWcoREVGQVVMVF9DT05GSUcpCg==</text>
+        <text encoding="base64">ICAgICAgICA6cGFyYW0gY29uZmlnX2ZpbGU6IGNvbmZpZyBmaWxlIHBhdGgK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoImZvdW5kIG5hbWUiKQo=</text>
+        <text encoding="base64">ICAgICAgICB0cnk6Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoIm5vIG5hbWUiKQo=</text>
+        <text encoding="base64">ICAgICAgICA6cGFyYW0gY29uZmlnX2RpY3Q6IGNvbmZpZyBkaWN0aW9uYXJ5IHdpdGggdG9wIGxldmVsIGtleSA9IHNlY3Rpb24gYW5kIHZhbHVlID0gZGljdCBvZiBvcHRpb24vdmFsIHBhaXIK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoImZvdW5kIG5hbWUiKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzZWxmLmNvbmZpZ1tzZWN0aW9uXS51cGRhdGUoZXh0cmFfY29uZmlnW3NlY3Rpb25dKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoIm5vIG5hbWUiKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGVsc2U6Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzZWxmLmNvbmZpZ1tzZWN0aW9uXSA9IGV4dHJhX2NvbmZpZ1tzZWN0aW9uXQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzZWxmLmNvbmZpZ1tzZWN0aW9uXS51cGRhdGUoZXh0cmFfY29uZmlnW3NlY3Rpb25dKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIHNlY3Rpb24gbm90IGluIHNlbGYuY29uZmlnLmtleXMoKToK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGVsc2U6Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzZWxmLmNvbmZpZ1tzZWN0aW9uXSA9IGV4dHJhX2NvbmZpZ1tzZWN0aW9uXQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGV4Y2VwdAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIHNlY3Rpb24gbm90IGluIHNlbGYuY29uZmlnLmtleXMoKToK</text>
       </register>
       <register name=":" type="4">
-        <text>$</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -1531,9 +1531,9 @@
         <entry>85</entry>
         <entry>87</entry>
         <entry>.w</entry>
-        <entry>w</entry>
         <entry>$</entry>
         <entry>0</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
