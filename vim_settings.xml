@@ -96,12 +96,8 @@
         <mark key="." line="68" column="47" />
         <mark key="^" line="68" column="47" />
       </file>
-      <file name="$USER_HOME$/projects/gateway/Juniper_vSRX_on_KVM/Build_vSRX.py" timestamp="1565125240914">
-        <mark key="'" line="1153" column="57" />
-        <mark key="[" line="516" column="38" />
-        <mark key="]" line="516" column="38" />
-        <mark key="." line="516" column="38" />
-        <mark key="^" line="530" column="28" />
+      <file name="$USER_HOME$/projects/gateway/Juniper_vSRX_on_KVM/Build_vSRX.py" timestamp="1565125963561">
+        <mark key="'" line="2093" column="11" />
       </file>
       <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/utilities.py" timestamp="1526022588142">
         <mark key="'" line="39" column="65" />
@@ -206,12 +202,18 @@
         <mark key="." line="48" column="0" />
         <mark key="^" line="49" column="88" />
       </file>
+      <file name="$USER_HOME$/projects/nlb/regional-compute/pkg/compute/server.go" timestamp="1563572246077">
+        <mark key="'" line="2703" column="12" />
+      </file>
       <file name="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/modified_vsrx_upgrade.py" timestamp="1558884676034">
         <mark key="'" line="557" column="21" />
         <mark key="[" line="557" column="31" />
         <mark key="]" line="557" column="32" />
         <mark key="^" line="557" column="34" />
         <mark key="." line="557" column="32" />
+      </file>
+      <file name="$USER_HOME$/projects/nlb/event-watcher/vm.log" timestamp="1563724418291">
+        <mark key="'" line="4025" column="19" />
       </file>
       <file name="$USER_HOME$/projects/gateway/Juniper_vSRX_on_KVM/Delete_vSRX.py" timestamp="1551592894721">
         <mark key="'" line="38" column="4" />
@@ -371,6 +373,9 @@
         <mark key="." line="233" column="37" />
         <mark key="^" line="233" column="37" />
       </file>
+      <file name="$USER_HOME$/projects/nlb/event-watcher/lib/python2.7/site-packages/XenAPI.py" timestamp="1563574840575">
+        <mark key="'" line="110" column="23" />
+      </file>
       <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/ess_systems/schemas.py" timestamp="1516866995648">
         <mark key="'" line="84" column="27" />
         <mark key="[" line="62" column="0" />
@@ -395,6 +400,9 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/nlb/event-watcher/message.log" timestamp="1563924379903">
+        <mark key="'" line="9" column="48" />
+      </file>
       <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/app.py" timestamp="1526004576322">
         <mark key="'" line="102" column="52" />
         <mark key="[" line="46" column="27" />
@@ -408,6 +416,9 @@
         <mark key="]" line="200" column="0" />
         <mark key="^" line="32" column="12" />
         <mark key="." line="200" column="0" />
+      </file>
+      <file name="/System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/xmlrpclib.py" timestamp="1563574852365">
+        <mark key="'" line="1563" column="18" />
       </file>
       <file name="$USER_HOME$/projects/nlb/event-watcher/logger.py" timestamp="1563920816839">
         <mark key="'" line="23" column="4" />
@@ -537,6 +548,9 @@
         <mark key="]" line="12" column="5" />
         <mark key="." line="12" column="5" />
         <mark key="^" line="9" column="5" />
+      </file>
+      <file name="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/vsrx_rollback.py" timestamp="1562657895694">
+        <mark key="'" line="306" column="60" />
       </file>
       <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/tasks.py" timestamp="1526022842174">
         <mark key="'" line="0" column="0" />
@@ -696,10 +710,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="51" column="20" filename="$USER_HOME$/projects/nlb/event-watcher/watcher.log" />
-      <jump line="126" column="24" filename="$USER_HOME$/projects/nlb/event-watcher/watcher.log" />
-      <jump line="132" column="45" filename="$USER_HOME$/projects/nlb/event-watcher/watcher.log" />
-      <jump line="133" column="44" filename="$USER_HOME$/projects/nlb/event-watcher/watcher.log" />
       <jump line="157" column="25" filename="$USER_HOME$/projects/nlb/event-watcher/watcher.log" />
       <jump line="8424" column="0" filename="$USER_HOME$/projects/nlb/event-watcher/watcher.log" />
       <jump line="5245" column="15" filename="$USER_HOME$/projects/nlb/event-watcher/watcher.log" />
@@ -796,6 +806,10 @@
       <jump line="0" column="0" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/srx-licu.py" />
       <jump line="877" column="40" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_on_KVM/Build_vSRX.py" />
       <jump line="1153" column="57" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_on_KVM/Build_vSRX.py" />
+      <jump line="31" column="13" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_on_KVM/Build_vSRX.py" />
+      <jump line="2067" column="4" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_on_KVM/Build_vSRX.py" />
+      <jump line="2082" column="7" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_on_KVM/Build_vSRX.py" />
+      <jump line="2093" column="11" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_on_KVM/Build_vSRX.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -805,7 +819,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>map</text>
+        <text>interface_mapping</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICA6cGFyYW0gY29uZmlnX2ZpbGU6IGNvbmZpZyBmaWxlIHBhdGgK</text>
@@ -842,9 +856,9 @@
       </register>
     </registers>
     <search>
-      <last-search>map</last-search>
+      <last-search>interface_mapping</last-search>
       <last-offset />
-      <last-pattern>map</last-pattern>
+      <last-pattern>interface_mapping</last-pattern>
       <last-replace>CodeSimpleSchema</last-replace>
       <last-substitute>CodeSchema</last-substitute>
       <last-dir>1</last-dir>
@@ -852,8 +866,6 @@
     </search>
     <history>
       <history-search>
-        <entry>print_event_brief</entry>
-        <entry>print</entry>
         <entry>start</entry>
         <entry>logger</entry>
         <entry encoding="base64">c2luZ2xlIA==</entry>
@@ -872,6 +884,8 @@
         <entry>check_interface</entry>
         <entry>remap</entry>
         <entry>map</entry>
+        <entry>remap_ints</entry>
+        <entry>interface_mapping</entry>
       </history-search>
       <history-cmd>
         <entry>2238</entry>
