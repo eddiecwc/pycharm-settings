@@ -574,6 +574,13 @@
         <mark key="^" line="25" column="4" />
         <mark key="." line="25" column="4" />
       </file>
+      <file name="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/srx-licu.py" timestamp="1565121049448">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="310" column="0" />
+        <mark key="]" line="310" column="0" />
+        <mark key="^" line="309" column="62" />
+        <mark key="." line="310" column="0" />
+      </file>
       <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/templates/ess/code_table_headers.html" timestamp="1520814619754">
         <mark key="[" line="4" column="8" />
         <mark key="]" line="4" column="12" />
@@ -1343,7 +1350,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="18" column="31" filename="$USER_HOME$/projects/nlb/event-watcher/watcher.log" />
       <jump line="24" column="40" filename="$USER_HOME$/projects/nlb/event-watcher/watcher.log" />
       <jump line="25" column="41" filename="$USER_HOME$/projects/nlb/event-watcher/watcher.log" />
       <jump line="51" column="20" filename="$USER_HOME$/projects/nlb/event-watcher/watcher.log" />
@@ -1443,55 +1449,56 @@
       <jump line="424" column="33" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_on_KVM/Build_vSRX.py" />
       <jump line="466" column="28" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_on_KVM/Build_vSRX.py" />
       <jump line="481" column="23" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_on_KVM/Build_vSRX.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/srx-licu.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>:</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBhbmQgaW50ZXJmYWNlLmZpbmQoJy4vb3Blci1zdGF0dXMnKS50ZXh0ID09IHN0YXR1czoK</text>
       </register>
       <register name="-" type="4">
-        <text>:</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>check_</text>
+        <text>check_interface</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICA6cGFyYW0gY29uZmlnX2ZpbGU6IGNvbmZpZyBmaWxlIHBhdGgK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIEAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBhbmQgaW50ZXJmYWNlLmZpbmQoJy4vb3Blci1zdGF0dXMnKS50ZXh0ID09IHN0YXR1czoK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9nX2ZpbGUgPQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBhbmQgaW50ZXJmYWNlLmZpbmQoJy4vb3Blci1zdGF0dXMnKS50ZXh0ID09IHN0YXR1czoK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBub3QgbG9nX2ZpbGU6Cg==</text>
+        <text encoding="base64">ICAgIEAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbG9nX2ZpbGUgPQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">bG9nX2RpcmVjdG9yeSA9IC90bXAK</text>
+        <text encoding="base64">ICAgICAgICBpZiBub3QgbG9nX2ZpbGU6Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">eGVuX2xvZ19uYW1lID0gJShsb2dfZGlyZWN0b3J5KXMvbmxiX3hlbi5sb2cK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZHNyX2FnZW50X2xvZ19uYW1lID0gJShsb2dfZGlyZWN0b3J5KXMvbmxiX2Rzcl9hZ2VudC5sb2cK</text>
+        <text encoding="base64">bG9nX2RpcmVjdG9yeSA9IC90bXAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">bGlzdGVuZXJfbG9nX25hbWUgPSAlKGxvZ19kaXJlY3Rvcnkpcy9ubGJfbGlzdGVuZXIubG9nCg==</text>
+        <text encoding="base64">eGVuX2xvZ19uYW1lID0gJShsb2dfZGlyZWN0b3J5KXMvbmxiX3hlbi5sb2cK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLkRFRkFVTFRfQ09ORklHID0gJ2NvbmZpZy5pbmknCg==</text>
+        <text encoding="base64">ZHNyX2FnZW50X2xvZ19uYW1lID0gJShsb2dfZGlyZWN0b3J5KXMvbmxiX2Rzcl9hZ2VudC5sb2cK</text>
       </register>
       <register name=":" type="4">
-        <text>q</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>check_</last-search>
+      <last-search>check_interface</last-search>
       <last-offset />
-      <last-pattern>check_</last-pattern>
+      <last-pattern>check_interface</last-pattern>
       <last-replace>CodeSimpleSchema</last-replace>
       <last-substitute>CodeSchema</last-substitute>
       <last-dir>1</last-dir>
@@ -1499,7 +1506,6 @@
     </search>
     <history>
       <history-search>
-        <entry>pformat</entry>
         <entry>print_event</entry>
         <entry>vm_actions</entry>
         <entry>print_event_brief</entry>
@@ -1519,6 +1525,7 @@
         <entry>config</entry>
         <entry>check_interfaces</entry>
         <entry>check_</entry>
+        <entry>check_interface</entry>
       </history-search>
       <history-cmd>
         <entry>2238</entry>
@@ -1530,7 +1537,6 @@
         <entry>881</entry>
         <entry encoding="base64">JzwsJz4xMjMz</entry>
         <entry>1233</entry>
-        <entry>wq</entry>
         <entry>76</entry>
         <entry>91</entry>
         <entry>85</entry>
@@ -1538,9 +1544,10 @@
         <entry>.w</entry>
         <entry>$</entry>
         <entry>we</entry>
-        <entry>w</entry>
-        <entry>0</entry>
         <entry>q</entry>
+        <entry>0</entry>
+        <entry>wq</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
