@@ -186,8 +186,8 @@
         <mark key="." line="68" column="47" />
         <mark key="^" line="68" column="47" />
       </file>
-      <file name="$USER_HOME$/projects/gateway/Juniper_vSRX_on_KVM/Build_vSRX.py" timestamp="1564885896142">
-        <mark key="'" line="217" column="49" />
+      <file name="$USER_HOME$/projects/gateway/Juniper_vSRX_on_KVM/Build_vSRX.py" timestamp="1565120848436">
+        <mark key="'" line="481" column="23" />
         <mark key="[" line="516" column="38" />
         <mark key="]" line="516" column="38" />
         <mark key="." line="516" column="38" />
@@ -1343,10 +1343,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="123" column="29" filename="$USER_HOME$/projects/nlb/event-watcher/event_listener/event_listener.py" />
-      <jump line="4161" column="48" filename="$USER_HOME$/projects/nlb/event-watcher/watcher.log" />
-      <jump line="79" column="34" filename="$USER_HOME$/projects/nlb/event-watcher/watcher.log" />
-      <jump line="0" column="0" filename="$USER_HOME$/projects/nlb/event-watcher/watcher.log" />
       <jump line="18" column="31" filename="$USER_HOME$/projects/nlb/event-watcher/watcher.log" />
       <jump line="24" column="40" filename="$USER_HOME$/projects/nlb/event-watcher/watcher.log" />
       <jump line="25" column="41" filename="$USER_HOME$/projects/nlb/event-watcher/watcher.log" />
@@ -1443,6 +1439,10 @@
       <jump line="606" column="36" filename="$USER_HOME$/projects/nlb/venv/lib/python2.7/site-packages/backports/configparser/__init__.py" />
       <jump line="608" column="27" filename="$USER_HOME$/projects/nlb/venv/lib/python2.7/site-packages/backports/configparser/__init__.py" />
       <jump line="33" column="10" filename="$USER_HOME$/projects/nlb/nlb-dsr-agent/var/local/nlb/event_listener.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_on_KVM/Build_vSRX.py" />
+      <jump line="424" column="33" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_on_KVM/Build_vSRX.py" />
+      <jump line="466" column="28" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_on_KVM/Build_vSRX.py" />
+      <jump line="481" column="23" filename="$USER_HOME$/projects/gateway/Juniper_vSRX_on_KVM/Build_vSRX.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1452,7 +1452,7 @@
         <text>:</text>
       </register>
       <register name="/" type="4">
-        <text>config</text>
+        <text>check_</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICA6cGFyYW0gY29uZmlnX2ZpbGU6IGNvbmZpZyBmaWxlIHBhdGgK</text>
@@ -1485,13 +1485,13 @@
         <text encoding="base64">ICAgICAgICBzZWxmLkRFRkFVTFRfQ09ORklHID0gJ2NvbmZpZy5pbmknCg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
-      <last-search>config</last-search>
+      <last-search>check_</last-search>
       <last-offset />
-      <last-pattern>config</last-pattern>
+      <last-pattern>check_</last-pattern>
       <last-replace>CodeSimpleSchema</last-replace>
       <last-substitute>CodeSchema</last-substitute>
       <last-dir>1</last-dir>
@@ -1499,8 +1499,6 @@
     </search>
     <history>
       <history-search>
-        <entry>del</entry>
-        <entry>'del'</entry>
         <entry>pformat</entry>
         <entry>print_event</entry>
         <entry>vm_actions</entry>
@@ -1519,9 +1517,10 @@
         <entry>BasicInter</entry>
         <entry>ConverterMapping</entry>
         <entry>config</entry>
+        <entry>check_interfaces</entry>
+        <entry>check_</entry>
       </history-search>
       <history-cmd>
-        <entry>2065</entry>
         <entry>2238</entry>
         <entry>q!</entry>
         <entry>1622</entry>
@@ -1538,9 +1537,10 @@
         <entry>87</entry>
         <entry>.w</entry>
         <entry>$</entry>
-        <entry>0</entry>
         <entry>we</entry>
         <entry>w</entry>
+        <entry>0</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
