@@ -1459,7 +1459,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>check_interface</text>
+        <text>remap</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICA6cGFyYW0gY29uZmlnX2ZpbGU6IGNvbmZpZyBmaWxlIHBhdGgK</text>
@@ -1496,9 +1496,9 @@
       </register>
     </registers>
     <search>
-      <last-search>check_interface</last-search>
+      <last-search>remap</last-search>
       <last-offset />
-      <last-pattern>check_interface</last-pattern>
+      <last-pattern>remap</last-pattern>
       <last-replace>CodeSimpleSchema</last-replace>
       <last-substitute>CodeSchema</last-substitute>
       <last-dir>1</last-dir>
@@ -1506,7 +1506,6 @@
     </search>
     <history>
       <history-search>
-        <entry>print_event</entry>
         <entry>vm_actions</entry>
         <entry>print_event_brief</entry>
         <entry>print</entry>
@@ -1526,6 +1525,7 @@
         <entry>check_interfaces</entry>
         <entry>check_</entry>
         <entry>check_interface</entry>
+        <entry>remap</entry>
       </history-search>
       <history-cmd>
         <entry>2238</entry>
