@@ -170,11 +170,11 @@
         <mark key="^" line="17" column="10" />
         <mark key="." line="17" column="10" />
       </file>
-      <file name="$USER_HOME$/projects/nlb/nlb-dsr-agent/var/local/nlb/xen/__init__.py" timestamp="1565197298449">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="1" column="25" />
-        <mark key="." line="1" column="25" />
-        <mark key="^" line="1" column="25" />
+      <file name="$USER_HOME$/projects/nlb/nlb-dsr-agent/var/local/nlb/xen/__init__.py" timestamp="1565213485573">
+        <mark key="[" line="3" column="30" />
+        <mark key="]" line="3" column="41" />
+        <mark key="." line="3" column="41" />
+        <mark key="^" line="3" column="41" />
       </file>
       <file name="$USER_HOME$/projects/nlb/nlb-dsr-agent/var/local/nlb/logger_test_class.py" timestamp="1565211470642">
         <mark key="[" line="4" column="18" />
@@ -573,12 +573,12 @@
         <mark key="." line="13" column="11" />
         <mark key="^" line="13" column="11" />
       </file>
-      <file name="$USER_HOME$/projects/nlb/nlb-dsr-agent/var/local/nlb/config.py" timestamp="1565212309350">
+      <file name="$USER_HOME$/projects/nlb/nlb-dsr-agent/var/local/nlb/config.py" timestamp="1565213802007">
         <mark key="'" line="16" column="0" />
-        <mark key="[" line="74" column="0" />
-        <mark key="]" line="74" column="0" />
-        <mark key="^" line="53" column="40" />
-        <mark key="." line="74" column="0" />
+        <mark key="[" line="75" column="0" />
+        <mark key="]" line="75" column="0" />
+        <mark key="." line="75" column="0" />
+        <mark key="^" line="40" column="81" />
       </file>
       <file name="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/README-GRE.MD" timestamp="1556689336807">
         <mark key="[" line="25" column="4" />
@@ -679,12 +679,7 @@
         <mark key="^" line="55" column="17" />
         <mark key="." line="55" column="17" />
       </file>
-      <file name="$USER_HOME$/projects/nlb/nlb-dsr-agent/var/local/nlb/dsr_agent.py" timestamp="1565209126712">
-        <mark key="[" line="11" column="27" />
-        <mark key="]" line="11" column="26" />
-        <mark key="^" line="11" column="26" />
-        <mark key="." line="11" column="26" />
-      </file>
+      <file name="$USER_HOME$/projects/nlb/nlb-dsr-agent/var/local/nlb/dsr_agent.py" timestamp="1565209126712" />
       <file name="$USER_HOME$/projects/nlb/nlb-dsr-agent/var/local/nlb/logger_test_module.py" timestamp="1565211432591">
         <mark key="'" line="7" column="8" />
         <mark key="[" line="7" column="7" />
@@ -699,12 +694,12 @@
         <mark key="." line="229" column="74" />
         <mark key="^" line="229" column="74" />
       </file>
-      <file name="$USER_HOME$/projects/nlb/nlb-dsr-agent/var/local/nlb/xen/xen_event_listener.py" timestamp="1565208893713">
-        <mark key="'" line="67" column="53" />
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="^" line="8" column="0" />
-        <mark key="." line="8" column="0" />
+      <file name="$USER_HOME$/projects/nlb/nlb-dsr-agent/var/local/nlb/xen/xen_event_listener.py" timestamp="1565213349204">
+        <mark key="'" line="65" column="53" />
+        <mark key="[" line="28" column="23" />
+        <mark key="]" line="28" column="23" />
+        <mark key="^" line="28" column="11" />
+        <mark key="." line="28" column="23" />
       </file>
       <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/mod_tester/tester.py" timestamp="1515837619326">
         <mark key="[" line="55" column="0" />
@@ -865,12 +860,6 @@
         <mark key="." line="7" column="1" />
         <mark key="^" line="7" column="1" />
       </file>
-      <file name="$USER_HOME$/projects/nlb/nlb-dsr-agent/var/local/nlb/dsr_xen.py" timestamp="1565209051897">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="3" column="18" />
-        <mark key="^" line="3" column="18" />
-        <mark key="." line="3" column="18" />
-      </file>
       <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/mod_support/product_number.py" timestamp="1516348109317">
         <mark key="'" line="47" column="10" />
         <mark key="[" line="58" column="50" />
@@ -897,12 +886,7 @@
         <mark key="^" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/nlb/nlb-dsr-agent/var/local/nlb/config.ini" timestamp="1565212508582">
-        <mark key="[" line="5" column="45" />
-        <mark key="]" line="5" column="45" />
-        <mark key="^" line="5" column="45" />
-        <mark key="." line="5" column="45" />
-      </file>
+      <file name="$USER_HOME$/projects/nlb/nlb-dsr-agent/var/local/nlb/config.ini" timestamp="1565212508582" />
       <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/models.py" timestamp="1524859461779">
         <mark key="'" line="184" column="22" />
         <mark key="[" line="217" column="0" />
@@ -1095,13 +1079,6 @@
         <mark key="^" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/nlb/nlb-dsr-agent/var/local/nlb/logger.py" timestamp="1565212297375">
-        <mark key="'" line="21" column="8" />
-        <mark key="[" line="21" column="49" />
-        <mark key="]" line="21" column="54" />
-        <mark key="." line="21" column="54" />
-        <mark key="^" line="21" column="54" />
-      </file>
       <file name="$USER_HOME$/projects/gateway/Juniper_vSRX_on_KVM/net_interfaces_routebr1by.j2" timestamp="1553532112076">
         <mark key="[" line="58" column="0" />
         <mark key="]" line="59" column="0" />
@@ -1178,11 +1155,11 @@
         <mark key="^" line="31" column="38" />
         <mark key="." line="31" column="38" />
       </file>
-      <file name="$USER_HOME$/projects/nlb/nlb-dsr-agent/var/local/nlb/xen/xen_token.py" timestamp="1565202820687">
-        <mark key="[" line="6" column="6" />
-        <mark key="]" line="6" column="8" />
-        <mark key="." line="6" column="8" />
-        <mark key="^" line="6" column="8" />
+      <file name="$USER_HOME$/projects/nlb/nlb-dsr-agent/var/local/nlb/xen/xen_token.py" timestamp="1565213398298">
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="33" column="0" />
+        <mark key="." line="33" column="0" />
+        <mark key="^" line="33" column="7" />
       </file>
       <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/mod_device/__init__.py" timestamp="1516526037517">
         <mark key="[" line="1" column="0" />
@@ -1480,7 +1457,7 @@
         <text encoding="base64">ICAgICAgICBwcmludCgibmFtZSA9IHt9LCBjb25maWdfZmlsZSA9IHt9Ii5mb3JtYXQobmFtZSwgY29uZmlnX2ZpbGUpKQo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">bmFtZSA=</text>
+        <text>MyClass</text>
       </register>
       <register name="/" type="4">
         <text>print</text>
@@ -1492,28 +1469,28 @@
         <text encoding="base64">ICAgICAgICBwcmludCgibmFtZSA9IHt9LCBjb25maWdfZmlsZSA9IHt9Ii5mb3JtYXQobmFtZSwgY29uZmlnX2ZpbGUpKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICBwcmludCgiY29uZmlnOiBjb25maWdfZmlsZSA9IHt9Ii5mb3JtYXQoY29uZmlnX2ZpbGUpKQo=</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLgo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgibmFtZSA9IHt9LCBjb25maWdfZmlsZSA9IHt9Ii5mb3JtYXQobmFtZSwgY29uZmlnX2ZpbGUpKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">bG9nX2ZpbGUgPSAlKGxvZ19kaXJlY3Rvcnkpcy9ubGJfdG9rZW4ubG9nCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">bG9nX2ZpbGUgPSAlKGxvZ19kaXJlY3Rvcnkpcy9ubGJfeGVuLmxvZwo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgiY29uZmlnOiBjb25maWdfZmlsZSA9IHt9Ii5mb3JtYXQoY29uZmlnX2ZpbGUpKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">bG9nX2ZpbGUgPSAlKGxvZ19kaXJlY3Rvcnkpcy9ubGJfZHNyX2FnZW50LmxvZwo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">bG9nX2ZpbGUgPSAlKGxvZ19kaXJlY3Rvcnkpcy9ubGJfZHNyX2FnZW50LmxvZwoK</text>
+        <text encoding="base64">bG9nX2ZpbGUgPSAlKGxvZ19kaXJlY3Rvcnkpcy9ubGJfdG9rZW4ubG9nCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">bG9nX2ZpbGUgPSAlKGxvZ19kaXJlY3Rvcnkpcy9ubGJfbGlzdGVuZXIubG9nCg==</text>
+        <text encoding="base64">bG9nX2ZpbGUgPSAlKGxvZ19kaXJlY3Rvcnkpcy9ubGJfeGVuLmxvZwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -1552,7 +1529,6 @@
         <entry>print</entry>
       </history-search>
       <history-cmd>
-        <entry>q!</entry>
         <entry>1622</entry>
         <entry>471</entry>
         <entry>348</entry>
@@ -1565,11 +1541,12 @@
         <entry>85</entry>
         <entry>87</entry>
         <entry>.w</entry>
-        <entry>$</entry>
         <entry>we</entry>
         <entry>q</entry>
         <entry>wq</entry>
         <entry>33</entry>
+        <entry>29</entry>
+        <entry>$</entry>
         <entry>0</entry>
         <entry>w</entry>
       </history-cmd>
