@@ -15,9 +15,6 @@
         <mark key="^" line="5" column="53" />
         <mark key="." line="5" column="53" />
       </file>
-      <file name="/a.dummy" timestamp="1564079312715">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/routes.py" timestamp="1527607428576">
         <mark key="'" line="33" column="7" />
         <mark key="[" line="431" column="68" />
@@ -178,6 +175,12 @@
         <mark key="]" line="1" column="25" />
         <mark key="." line="1" column="25" />
         <mark key="^" line="1" column="25" />
+      </file>
+      <file name="$USER_HOME$/projects/nlb/nlb-dsr-agent/var/local/nlb/logger_test_class.py" timestamp="1565211470642">
+        <mark key="[" line="4" column="18" />
+        <mark key="]" line="6" column="53" />
+        <mark key="^" line="6" column="53" />
+        <mark key="." line="6" column="53" />
       </file>
       <file name="$USER_HOME$/projects/gateway/118-port-cpu-alloc/vSRX_xml_template_ha_SRIOV.j2" timestamp="1550880215533">
         <mark key="[" line="9" column="70" />
@@ -564,24 +567,18 @@
         <mark key="." line="4" column="13" />
         <mark key="^" line="4" column="13" />
       </file>
-      <file name="$USER_HOME$/projects/nlb/venv/lib/python2.7/site-packages/backports/configparser/__init__.py" timestamp="1564975315080">
-        <mark key="'" line="608" column="27" />
-        <mark key="[" line="1235" column="40" />
-        <mark key="]" line="1235" column="40" />
-        <mark key="." line="1235" column="40" />
-      </file>
       <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/mod_ess/EssNode.py" timestamp="1515145664892">
         <mark key="[" line="13" column="5" />
         <mark key="]" line="13" column="11" />
         <mark key="." line="13" column="11" />
         <mark key="^" line="13" column="11" />
       </file>
-      <file name="$USER_HOME$/projects/nlb/nlb-dsr-agent/var/local/nlb/config.py" timestamp="1565021527557">
-        <mark key="'" line="40" column="31" />
-        <mark key="[" line="55" column="40" />
-        <mark key="]" line="55" column="40" />
-        <mark key="^" line="55" column="40" />
-        <mark key="." line="55" column="40" />
+      <file name="$USER_HOME$/projects/nlb/nlb-dsr-agent/var/local/nlb/config.py" timestamp="1565212309350">
+        <mark key="'" line="16" column="0" />
+        <mark key="[" line="74" column="0" />
+        <mark key="]" line="74" column="0" />
+        <mark key="^" line="53" column="40" />
+        <mark key="." line="74" column="0" />
       </file>
       <file name="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/README-GRE.MD" timestamp="1556689336807">
         <mark key="[" line="25" column="4" />
@@ -682,6 +679,19 @@
         <mark key="^" line="55" column="17" />
         <mark key="." line="55" column="17" />
       </file>
+      <file name="$USER_HOME$/projects/nlb/nlb-dsr-agent/var/local/nlb/dsr_agent.py" timestamp="1565209126712">
+        <mark key="[" line="11" column="27" />
+        <mark key="]" line="11" column="26" />
+        <mark key="^" line="11" column="26" />
+        <mark key="." line="11" column="26" />
+      </file>
+      <file name="$USER_HOME$/projects/nlb/nlb-dsr-agent/var/local/nlb/logger_test_module.py" timestamp="1565211432591">
+        <mark key="'" line="7" column="8" />
+        <mark key="[" line="7" column="7" />
+        <mark key="]" line="7" column="8" />
+        <mark key="^" line="7" column="8" />
+        <mark key="." line="7" column="8" />
+      </file>
       <file name="$USER_HOME$/projects/gateway/Juniper_vSRX_Upgrade/run_upgrade.py" timestamp="1562011320240">
         <mark key="'" line="302" column="52" />
         <mark key="[" line="229" column="65" />
@@ -689,25 +699,18 @@
         <mark key="." line="229" column="74" />
         <mark key="^" line="229" column="74" />
       </file>
-      <file name="$USER_HOME$/projects/nlb/nlb-dsr-agent/var/local/nlb/xen/xen_event_listener.py" timestamp="1565203596809">
-        <mark key="'" line="65" column="53" />
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="6" column="10" />
-        <mark key="^" line="6" column="10" />
-        <mark key="." line="6" column="10" />
+      <file name="$USER_HOME$/projects/nlb/nlb-dsr-agent/var/local/nlb/xen/xen_event_listener.py" timestamp="1565208893713">
+        <mark key="'" line="67" column="53" />
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="^" line="8" column="0" />
+        <mark key="." line="8" column="0" />
       </file>
       <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/mod_tester/tester.py" timestamp="1515837619326">
         <mark key="[" line="55" column="0" />
         <mark key="]" line="56" column="29" />
         <mark key="." line="56" column="29" />
         <mark key="^" line="56" column="29" />
-      </file>
-      <file name="$USER_HOME$/projects/nlb/nlb-dsr-agent/var/local/nlb/event_listener.py" timestamp="1564978114601">
-        <mark key="'" line="33" column="10" />
-        <mark key="[" line="158" column="8" />
-        <mark key="]" line="158" column="12" />
-        <mark key="." line="158" column="12" />
-        <mark key="^" line="158" column="12" />
       </file>
       <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/templates/ess/product_list.html" timestamp="1522211599811">
         <mark key="'" line="9" column="0" />
@@ -855,9 +858,6 @@
         <mark key="." line="35" column="2" />
         <mark key="^" line="35" column="2" />
       </file>
-      <file name="/Clipboard.txt" timestamp="1564032375564">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/mixin.py" timestamp="1526022095999">
         <mark key="'" line="147" column="0" />
         <mark key="[" line="7" column="0" />
@@ -865,8 +865,11 @@
         <mark key="." line="7" column="1" />
         <mark key="^" line="7" column="1" />
       </file>
-      <file name="/Python Console" timestamp="1564896032493">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/projects/nlb/nlb-dsr-agent/var/local/nlb/dsr_xen.py" timestamp="1565209051897">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="3" column="18" />
+        <mark key="^" line="3" column="18" />
+        <mark key="." line="3" column="18" />
       </file>
       <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/mod_support/product_number.py" timestamp="1516348109317">
         <mark key="'" line="47" column="10" />
@@ -894,10 +897,11 @@
         <mark key="^" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/nlb/nlb-dsr-agent/var/local/nlb/config.ini" timestamp="1565203891898">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="23" />
-        <mark key="." line="16" column="0" />
+      <file name="$USER_HOME$/projects/nlb/nlb-dsr-agent/var/local/nlb/config.ini" timestamp="1565212508582">
+        <mark key="[" line="5" column="45" />
+        <mark key="]" line="5" column="45" />
+        <mark key="^" line="5" column="45" />
+        <mark key="." line="5" column="45" />
       </file>
       <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/models.py" timestamp="1524859461779">
         <mark key="'" line="184" column="22" />
@@ -1091,11 +1095,12 @@
         <mark key="^" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/nlb/nlb-dsr-agent/var/local/nlb/logger.py" timestamp="1565202879757">
-        <mark key="[" line="39" column="49" />
-        <mark key="]" line="39" column="53" />
-        <mark key="." line="39" column="53" />
-        <mark key="^" line="39" column="53" />
+      <file name="$USER_HOME$/projects/nlb/nlb-dsr-agent/var/local/nlb/logger.py" timestamp="1565212297375">
+        <mark key="'" line="21" column="8" />
+        <mark key="[" line="21" column="49" />
+        <mark key="]" line="21" column="54" />
+        <mark key="." line="21" column="54" />
+        <mark key="^" line="21" column="54" />
       </file>
       <file name="$USER_HOME$/projects/gateway/Juniper_vSRX_on_KVM/net_interfaces_routebr1by.j2" timestamp="1553532112076">
         <mark key="[" line="58" column="0" />
@@ -1288,6 +1293,12 @@
         <mark key="." line="49" column="22" />
         <mark key="^" line="49" column="22" />
       </file>
+      <file name="$USER_HOME$/projects/nlb/nlb-dsr-agent/var/local/nlb/logger_test.py" timestamp="1565211992035">
+        <mark key="[" line="8" column="5" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
+        <mark key="^" line="12" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/gateway/vsrx_cluster_gre_tunnel_implementation-master/gre_change_prep_script.py" timestamp="1556306956563">
         <mark key="'" line="235" column="0" />
         <mark key="[" line="153" column="0" />
@@ -1363,15 +1374,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="5128" column="15" filename="$USER_HOME$/projects/nlb/event-watcher/watcher.log" />
-      <jump line="5088" column="228" filename="$USER_HOME$/projects/nlb/event-watcher/watcher.log" />
-      <jump line="5077" column="20" filename="$USER_HOME$/projects/nlb/event-watcher/watcher.log" />
-      <jump line="5071" column="88" filename="$USER_HOME$/projects/nlb/event-watcher/watcher.log" />
-      <jump line="5051" column="41" filename="$USER_HOME$/projects/nlb/event-watcher/watcher.log" />
-      <jump line="5050" column="40" filename="$USER_HOME$/projects/nlb/event-watcher/watcher.log" />
-      <jump line="5044" column="24" filename="$USER_HOME$/projects/nlb/event-watcher/watcher.log" />
-      <jump line="5015" column="15" filename="$USER_HOME$/projects/nlb/event-watcher/watcher.log" />
-      <jump line="4" column="15" filename="$USER_HOME$/projects/nlb/event-watcher/watcher.log" />
       <jump line="94" column="28" filename="$USER_HOME$/projects/nlb/event-watcher/watcher.log" />
       <jump line="101" column="21" filename="$USER_HOME$/projects/nlb/event-watcher/watcher.log" />
       <jump line="70" column="0" filename="$USER_HOME$/projects/nlb/event-watcher/event_listener/event_listener.py" />
@@ -1463,55 +1465,64 @@
       <jump line="45" column="25" filename="$USER_HOME$/projects/nlb/nlb-dsr-agent/var/local/nlb/xen/xen.py" />
       <jump line="48" column="15" filename="$USER_HOME$/projects/nlb/nlb-dsr-agent/var/local/nlb/xen/xen.py" />
       <jump line="57" column="54" filename="$USER_HOME$/projects/nlb/nlb-dsr-agent/var/local/nlb/xen/xen.py" />
+      <jump line="7" column="8" filename="$USER_HOME$/projects/nlb/nlb-dsr-agent/var/local/nlb/logger_test_module.py" />
+      <jump line="10" column="102" filename="$USER_HOME$/projects/nlb/nlb-dsr-agent/var/local/nlb/logger.py" />
+      <jump line="13" column="57" filename="$USER_HOME$/projects/nlb/nlb-dsr-agent/var/local/nlb/logger.py" />
+      <jump line="14" column="11" filename="$USER_HOME$/projects/nlb/nlb-dsr-agent/var/local/nlb/logger.py" />
+      <jump line="23" column="48" filename="$USER_HOME$/projects/nlb/nlb-dsr-agent/var/local/nlb/logger.py" />
+      <jump line="21" column="8" filename="$USER_HOME$/projects/nlb/nlb-dsr-agent/var/local/nlb/logger.py" />
+      <jump line="19" column="31" filename="$USER_HOME$/projects/nlb/nlb-dsr-agent/var/local/nlb/config.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/nlb/nlb-dsr-agent/var/local/nlb/config.py" />
+      <jump line="16" column="0" filename="$USER_HOME$/projects/nlb/nlb-dsr-agent/var/local/nlb/config.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">bWFraW5nIA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBwcmludCgibmFtZSA9IHt9LCBjb25maWdfZmlsZSA9IHt9Ii5mb3JtYXQobmFtZSwgY29uZmlnX2ZpbGUpKQo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">bWFraW5nIA==</text>
+        <text encoding="base64">bmFtZSA=</text>
       </register>
       <register name="/" type="4">
-        <text>event_type</text>
+        <text>print</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgc2VsZi5sb2dnZXIuZGVidWcoImxvZ2dlZCBpbiBvbiBsb2NhbCIpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgibmFtZSA9IHt9LCBjb25maWdfZmlsZSA9IHt9Ii5mb3JtYXQobmFtZSwgY29uZmlnX2ZpbGUpKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZXZlbnRfZnJvbV90aW1lb3V0ID0gNjAK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">W1hlbl0K</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBwcmludCgiY29uZmlnOiBjb25maWdfZmlsZSA9IHt9Ii5mb3JtYXQoY29uZmlnX2ZpbGUpKQo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBzZWxmLgo=</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">IyBUT0RPIC0gdXNlIGRpcmVjdG9yeSBsZXZlbHMgLSBNYXliZSB2YXIvbG9jYWwvbmxiL3hlbi9ldmVudF9saXN0ZW5lci5weQo=</text>
+        <text encoding="base64">bG9nX2ZpbGUgPSAlKGxvZ19kaXJlY3Rvcnkpcy9ubGJfdG9rZW4ubG9nCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZnJvbSAubG9nZ2VyIGltcG9ydCBMb2dnZXIK</text>
+        <text encoding="base64">bG9nX2ZpbGUgPSAlKGxvZ19kaXJlY3Rvcnkpcy9ubGJfeGVuLmxvZwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZnJvbSB4ZW4gaW1wb3J0IFhlbkV2ZW50TGlzdGVuZXIK</text>
+        <text encoding="base64">bG9nX2ZpbGUgPSAlKGxvZ19kaXJlY3Rvcnkpcy9ubGJfZHNyX2FnZW50LmxvZwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">bQo=</text>
+        <text encoding="base64">bG9nX2ZpbGUgPSAlKGxvZ19kaXJlY3Rvcnkpcy9ubGJfZHNyX2FnZW50LmxvZwoK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">bSAK</text>
+        <text encoding="base64">bG9nX2ZpbGUgPSAlKGxvZ19kaXJlY3Rvcnkpcy9ubGJfbGlzdGVuZXIubG9nCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>event_type</last-search>
+      <last-search>print</last-search>
       <last-offset />
-      <last-pattern>event_type</last-pattern>
+      <last-pattern>print</last-pattern>
       <last-replace>CodeSimpleSchema</last-replace>
       <last-substitute>CodeSchema</last-substitute>
       <last-dir>1</last-dir>
@@ -1519,9 +1530,6 @@
     </search>
     <history>
       <history-search>
-        <entry>_UNSET</entry>
-        <entry>DEFAULT_INTER</entry>
-        <entry>Interpolation</entry>
         <entry>BasicInter</entry>
         <entry>ConverterMapping</entry>
         <entry>config</entry>
@@ -1539,6 +1547,9 @@
         <entry>Error while listening</entry>
         <entry>event_from</entry>
         <entry>event_type</entry>
+        <entry>name</entry>
+        <entry>filename</entry>
+        <entry>print</entry>
       </history-search>
       <history-cmd>
         <entry>q!</entry>
