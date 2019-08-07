@@ -249,6 +249,12 @@
         <mark key="^" line="1" column="24" />
         <mark key="." line="1" column="24" />
       </file>
+      <file name="$USER_HOME$/projects/nlb/nlb-dsr-agent/component_structure.md" timestamp="1565206242978">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
+        <mark key="^" line="15" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/gateway/licu/config/node.list" timestamp="1550642214334">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
@@ -1459,11 +1465,11 @@
       <jump line="57" column="54" filename="$USER_HOME$/projects/nlb/nlb-dsr-agent/var/local/nlb/xen/xen.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ZXZlbnRfZnJvbV90aW1lb3V0ID0gNjAK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">bWFraW5nIA==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">bWFraW5nIA==</text>
       </register>
       <register name="/" type="4">
         <text>event_type</text>
@@ -1472,31 +1478,31 @@
         <text encoding="base64">ICAgICAgICAgICAgc2VsZi5sb2dnZXIuZGVidWcoImxvZ2dlZCBpbiBvbiBsb2NhbCIpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZXZlbnRfZnJvbV90aW1lb3V0ID0gNjAK</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">W1hlbl0K</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ZXZlbnRfZnJvbV90aW1lb3V0ID0gNjAK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">W1hlbl0K</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">IyBUT0RPIC0gdXNlIGRpcmVjdG9yeSBsZXZlbHMgLSBNYXliZSB2YXIvbG9jYWwvbmxiL3hlbi9ldmVudF9saXN0ZW5lci5weQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZnJvbSAubG9nZ2VyIGltcG9ydCBMb2dnZXIK</text>
+        <text encoding="base64">IyBUT0RPIC0gdXNlIGRpcmVjdG9yeSBsZXZlbHMgLSBNYXliZSB2YXIvbG9jYWwvbmxiL3hlbi9ldmVudF9saXN0ZW5lci5weQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZnJvbSB4ZW4gaW1wb3J0IFhlbkV2ZW50TGlzdGVuZXIK</text>
+        <text encoding="base64">ZnJvbSAubG9nZ2VyIGltcG9ydCBMb2dnZXIK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">bQo=</text>
+        <text encoding="base64">ZnJvbSB4ZW4gaW1wb3J0IFhlbkV2ZW50TGlzdGVuZXIK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">bSAK</text>
+        <text encoding="base64">bQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">IyBUT0RPIC0gc3RvcmUgc3RyaW5nIHZhbHVlcyBhcyBjb25zdGFudHMK</text>
+        <text encoding="base64">bSAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
