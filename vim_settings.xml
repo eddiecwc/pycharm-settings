@@ -499,11 +499,11 @@
         <mark key="^" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/nlb/nlb-dsr-agent/var/local/nlb/config.ini" timestamp="1565278142229">
-        <mark key="[" line="5" column="20" />
-        <mark key="]" line="5" column="24" />
-        <mark key="." line="5" column="24" />
-        <mark key="^" line="5" column="24" />
+      <file name="$USER_HOME$/projects/nlb/nlb-dsr-agent/var/local/nlb/config.ini" timestamp="1565285867349">
+        <mark key="[" line="7" column="16" />
+        <mark key="]" line="7" column="23" />
+        <mark key="." line="7" column="23" />
+        <mark key="^" line="7" column="23" />
       </file>
       <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/ess/schemas/dump_schema.py" timestamp="1525932253395">
         <mark key="[" line="24" column="36" />
@@ -903,11 +903,11 @@
       <jump line="51" column="28" filename="$USER_HOME$/projects/nlb/nlb-dsr-agent/var/local/nlb/logger.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICA6cGFyYW0gc3RyZWFtOiBXaGV0aGVyIHRvIGVuYWJsZSBzdHJlYW0gaGFuZGxlciBmb3IgdGhlIGxvZ2dlcgo=</text>
+      <register name="&quot;" type="4">
+        <text>p</text>
       </register>
       <register name="-" type="4">
-        <text>False</text>
+        <text>p</text>
       </register>
       <register name="/" type="4">
         <text>stream</text>
