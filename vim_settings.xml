@@ -764,8 +764,8 @@
         <mark key="." line="221" column="12" />
         <mark key="^" line="221" column="12" />
       </file>
-      <file name="$USER_HOME$/projects/vpn/vpn/vpnaas/lib/db/session.py" timestamp="1593806618323">
-        <mark key="'" line="203" column="19" />
+      <file name="$USER_HOME$/projects/vpn/vpn/vpnaas/lib/db/session.py" timestamp="1593811186924">
+        <mark key="'" line="405" column="32" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/playground/first.py" timestamp="1510732076473">
         <mark key="[" line="66" column="71" />
@@ -886,6 +886,8 @@
       <jump line="52" column="22" filename="$USER_HOME$/projects/vpn/vpn/vpnaas/lib/db/base.py" />
       <jump line="53" column="11" filename="$USER_HOME$/projects/vpn/vpn/vpnaas/lib/db/base.py" />
       <jump line="54" column="28" filename="$USER_HOME$/projects/vpn/vpn/vpnaas/lib/db/base.py" />
+      <jump line="390" column="29" filename="$USER_HOME$/projects/vpn/vpn/vpnaas/lib/db/session.py" />
+      <jump line="405" column="32" filename="$USER_HOME$/projects/vpn/vpn/vpnaas/lib/db/session.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -895,7 +897,7 @@
         <text>f</text>
       </register>
       <register name="/" type="4">
-        <text>orm</text>
+        <text>execute</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgLSBbU2NhbiBDbHVzdGVyXSgjc2Nhbi1jbHVzdGVyKQo=</text>
@@ -932,9 +934,9 @@
       </register>
     </registers>
     <search>
-      <last-search>orm</last-search>
+      <last-search>execute</last-search>
       <last-offset />
-      <last-pattern>orm</last-pattern>
+      <last-pattern>execute</last-pattern>
       <last-replace>CodeSimpleSchema</last-replace>
       <last-substitute>CodeSchema</last-substitute>
       <last-dir>1</last-dir>
@@ -942,7 +944,6 @@
     </search>
     <history>
       <history-search>
-        <entry>timestamp</entry>
         <entry>utcnow</entry>
         <entry>format_datetime</entry>
         <entry>format_time</entry>
@@ -962,6 +963,7 @@
         <entry>ping_connection</entry>
         <entry>db_function</entry>
         <entry>orm</entry>
+        <entry>execute</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5nL25vZGVfZGlzcGxheS9kZXZpY2VfZGlzcGxheS9n</entry>
