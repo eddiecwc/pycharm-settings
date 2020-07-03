@@ -1,4 +1,9 @@
 <application>
+  <component name="GithubAccounts">
+    <account id="c8f452e5-ebdd-481a-a991-102ec280dae9" name="cwchen">
+      <server host="github.ibm.com" />
+    </account>
+  </component>
   <component name="GithubSettings">
     <option name="HOST" value="github.ibm.com" />
     <option name="AUTH_TYPE" value="TOKEN" />
