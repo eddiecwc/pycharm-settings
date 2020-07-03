@@ -246,7 +246,7 @@
         <mark key="." line="68" column="47" />
         <mark key="^" line="68" column="47" />
       </file>
-      <file name="$USER_HOME$/projects/vpn/vpn/vpnaas/lib/db/base.py" timestamp="1593797571609">
+      <file name="$USER_HOME$/projects/vpn/vpn/vpnaas/lib/db/base.py" timestamp="1593807118999">
         <mark key="'" line="0" column="2" />
       </file>
       <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/utilities.py" timestamp="1526022588142">
@@ -764,8 +764,8 @@
         <mark key="." line="221" column="12" />
         <mark key="^" line="221" column="12" />
       </file>
-      <file name="$USER_HOME$/projects/vpn/vpn/vpnaas/lib/db/session.py" timestamp="1593806002591">
-        <mark key="'" line="45" column="8" />
+      <file name="$USER_HOME$/projects/vpn/vpn/vpnaas/lib/db/session.py" timestamp="1593806618323">
+        <mark key="'" line="203" column="19" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/playground/first.py" timestamp="1510732076473">
         <mark key="[" line="66" column="71" />
@@ -875,6 +875,9 @@
       <jump line="0" column="2" filename="$USER_HOME$/projects/vpn/vpn/vpnaas/lib/db/base.py" />
       <jump line="29" column="0" filename="$USER_HOME$/projects/vpn/vpn/vpnaas/lib/db/session.py" />
       <jump line="45" column="8" filename="$USER_HOME$/projects/vpn/vpn/vpnaas/lib/db/session.py" />
+      <jump line="8" column="25" filename="$USER_HOME$/projects/vpn/vpn/vpnaas/lib/db/session.py" />
+      <jump line="191" column="49" filename="$USER_HOME$/projects/vpn/vpn/vpnaas/lib/db/session.py" />
+      <jump line="203" column="19" filename="$USER_HOME$/projects/vpn/vpn/vpnaas/lib/db/session.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -884,7 +887,7 @@
         <text>f</text>
       </register>
       <register name="/" type="4">
-        <text>ping_connection</text>
+        <text>db_function</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgLSBbU2NhbiBDbHVzdGVyXSgjc2Nhbi1jbHVzdGVyKQo=</text>
@@ -921,9 +924,9 @@
       </register>
     </registers>
     <search>
-      <last-search>ping_connection</last-search>
+      <last-search>db_function</last-search>
       <last-offset />
-      <last-pattern>ping_connection</last-pattern>
+      <last-pattern>db_function</last-pattern>
       <last-replace>CodeSimpleSchema</last-replace>
       <last-substitute>CodeSchema</last-substitute>
       <last-dir>1</last-dir>
@@ -931,7 +934,6 @@
     </search>
     <history>
       <history-search>
-        <entry>updated_at</entry>
         <entry>utili</entry>
         <entry>timestamp</entry>
         <entry>utcnow</entry>
@@ -951,6 +953,7 @@
         <entry>base</entry>
         <entry>Base</entry>
         <entry>ping_connection</entry>
+        <entry>db_function</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5nL25vZGVfZGlzcGxheS9kZXZpY2VfZGlzcGxheS9n</entry>
