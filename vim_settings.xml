@@ -145,11 +145,6 @@
         <mark key="." line="18" column="39" />
         <mark key="^" line="18" column="39" />
       </file>
-      <file name="$USER_HOME$/Sites/ESS-Monitor/README.md" timestamp="1531888218735">
-        <mark key="[" line="63" column="0" />
-        <mark key="]" line="63" column="0" />
-        <mark key="." line="63" column="0" />
-      </file>
       <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/templates/ess/code_list.html" timestamp="1522211505335">
         <mark key="[" line="48" column="50" />
         <mark key="]" line="48" column="50" />
@@ -270,6 +265,7 @@
         <mark key="^" line="190" column="24" />
         <mark key="." line="215" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/vpn/vpn/vpnaas/utils/datautils/quota.py" timestamp="1594911921075" />
       <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/mod_support/product_number.py" timestamp="1516348109317">
         <mark key="'" line="47" column="10" />
         <mark key="[" line="58" column="50" />
@@ -625,9 +621,6 @@
         <mark key="]" line="133" column="7" />
         <mark key="^" line="133" column="7" />
         <mark key="." line="133" column="7" />
-      </file>
-      <file name="$USER_HOME$/projects/vpn/vpn/vpnaas/service/vpn_gateway.py" timestamp="1594784730057">
-        <mark key="'" line="95" column="36" />
       </file>
       <file name="$USER_HOME$/projects/vpn/vpn/vpnaas/utils/message_manager.py" timestamp="1593903683435">
         <mark key="'" line="123" column="47" />
