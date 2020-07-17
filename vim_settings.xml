@@ -626,6 +626,9 @@
         <mark key="^" line="133" column="7" />
         <mark key="." line="133" column="7" />
       </file>
+      <file name="$USER_HOME$/projects/vpn/vpn/vpnaas/service/vpn_gateway.py" timestamp="1594968764373">
+        <mark key="'" line="25" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/vpn/vpn/vpnaas/utils/message_manager.py" timestamp="1593903683435">
         <mark key="'" line="123" column="47" />
       </file>
@@ -922,6 +925,7 @@
       <jump line="77" column="8" filename="$USER_HOME$/projects/vpn/vpn/vpnaas/service/client/rias.py" />
       <jump line="78" column="45" filename="$USER_HOME$/projects/vpn/vpn/vpnaas/service/client/rias.py" />
       <jump line="538" column="13" filename="$USER_HOME$/projects/vpn/vpn/vpnaas/service/client/rias.py" />
+      <jump line="25" column="0" filename="$USER_HOME$/projects/vpn/vpn/vpnaas/service/vpn_gateway.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -931,7 +935,7 @@
         <text>f</text>
       </register>
       <register name="/" type="4">
-        <text>api-key</text>
+        <text>refresh</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgLSBbU2NhbiBDbHVzdGVyXSgjc2Nhbi1jbHVzdGVyKQo=</text>
@@ -968,9 +972,9 @@
       </register>
     </registers>
     <search>
-      <last-search>api-key</last-search>
+      <last-search>refresh</last-search>
       <last-offset />
-      <last-pattern>api-key</last-pattern>
+      <last-pattern>refresh</last-pattern>
       <last-replace>CodeSimpleSchema</last-replace>
       <last-substitute>CodeSchema</last-substitute>
       <last-dir>1</last-dir>
@@ -978,8 +982,6 @@
     </search>
     <history>
       <history-search>
-        <entry>list-cluster-nodes</entry>
-        <entry>base</entry>
         <entry>Base</entry>
         <entry>ping_connection</entry>
         <entry>db_function</entry>
@@ -998,6 +1000,8 @@
         <entry>associate_fip</entry>
         <entry>header</entry>
         <entry>api-key</entry>
+        <entry>update</entry>
+        <entry>refresh</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5nL25vZGVfZGlzcGxheS9kZXZpY2VfZGlzcGxheS9n</entry>
