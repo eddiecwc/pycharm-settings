@@ -3,12 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/projects/vpn/vpnaas-provisioning-tests/acceptancetests/features/environment.py" timestamp="1595719508464">
+      <file name="$USER_HOME$/projects/vpn/vpnaas-provisioning-tests/acceptancetests/features/environment.py" timestamp="1595722147516">
         <mark key="'" line="16" column="0" />
-        <mark key="[" line="18" column="8" />
-        <mark key="]" line="18" column="8" />
-        <mark key="." line="18" column="8" />
-        <mark key="^" line="18" column="8" />
+        <mark key="[" line="22" column="71" />
+        <mark key="]" line="22" column="79" />
+        <mark key="." line="22" column="79" />
+        <mark key="^" line="22" column="79" />
       </file>
       <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/templates/ess/product_list.html" timestamp="1522211599811">
         <mark key="'" line="9" column="0" />
@@ -584,11 +584,11 @@
         <mark key="^" line="26" column="21" />
         <mark key="." line="26" column="21" />
       </file>
-      <file name="$USER_HOME$/projects/vpn/vpnaas-provisioning-tests/acceptancetests/behave.ini" timestamp="1595719992866">
-        <mark key="[" line="6" column="82" />
-        <mark key="]" line="6" column="82" />
+      <file name="$USER_HOME$/projects/vpn/vpnaas-provisioning-tests/acceptancetests/behave.ini" timestamp="1595721774769">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
         <mark key="^" line="6" column="0" />
-        <mark key="." line="6" column="82" />
+        <mark key="." line="6" column="0" />
       </file>
       <file name="$USER_HOME$/Sites/ESS-Monitor/monitor/templates/errors/404.html" timestamp="1516871560493">
         <mark key="[" line="2" column="9" />
@@ -784,12 +784,12 @@
         <mark key="." line="13" column="11" />
         <mark key="^" line="13" column="11" />
       </file>
-      <file name="$USER_HOME$/projects/vpn/vpnaas-provisioning-tests/acceptancetests/common_utilities/http_client.py" timestamp="1595720173107">
+      <file name="$USER_HOME$/projects/vpn/vpnaas-provisioning-tests/acceptancetests/common_utilities/http_client.py" timestamp="1595721405861">
         <mark key="'" line="8" column="39" />
         <mark key="[" line="46" column="8" />
-        <mark key="]" line="46" column="12" />
-        <mark key="." line="46" column="12" />
-        <mark key="^" line="46" column="12" />
+        <mark key="]" line="46" column="19" />
+        <mark key="." line="46" column="19" />
+        <mark key="^" line="46" column="19" />
       </file>
       <file name="$USER_HOME$/Sites/FlaskApp/__init__.py" timestamp="1517010013941">
         <mark key="'" line="7" column="29" />
@@ -1058,10 +1058,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>debug</text>
+        <text>]</text>
       </register>
       <register name="-" type="4">
-        <text>debug</text>
+        <text>]</text>
       </register>
       <register name="/" type="4">
         <text>logger</text>
@@ -1070,31 +1070,31 @@
         <text encoding="base64">ICAgICAgICBwcmludCgiZnVuYzoge30sIHVybDoge30sIFJJQVNfUVVFUllfUEFSQU1TOiB7fSwgbXlfaGVhZGVycyA9IHt9LCBkYXRhOiA9IHt9LCBwYXJhbXM6IHt9LCB0aW1lb3V0OiB7fSIuZm9ybWF0KGZ1bmMsIHVybCwgUklBU19RVUVSWV9QQVJBTVMsIG15X2hlYWRlcnMsIGRhdGEsIHRpbWVvdXQpKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">QGNhcHR1cmUK</text>
+        <text encoding="base64">ICAgIHByaW50KGxvZ2dlci4pCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnRleHQuY29uZmlnLnNldHVwbG9nZ2luZygpCg==</text>
+        <text encoding="base64">ICAgIGNvbnRleHQuY29uZmlnLgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">QGNhcHR1cmUK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGxvZ2dlci5kZWJ1ZygiUmVzcG9uc2U6IHt9Ii5mb3JtYXQocGZvcm1hdChyZXNwLnRleHQpKSkK</text>
+        <text encoding="base64">ICAgIGNvbnRleHQuY29uZmlnLnNldHVwbG9nZ2luZygpCg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGxvZ2dlci5kZWJ1ZygiUmVzcG9uc2U6IHt9Ii5mb3JtYXQocGZvcm1hdChyZXNwLnRleHQpKSkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">cHJpbnQoImN1cnJlbnQgbG9nZ2luZyBsZXZlbDoge30iLmZvcm1hdChsb2dnZXIuZ2V0RWZmZWN0aXZlTGV2ZWwoKSkpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaW50KCJSZXNwb25zZToge30iLmZvcm1hdChwZm9ybWF0KHJlc3AudGV4dCkpKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHJlc3AgPSBOb25lCg==</text>
+        <text encoding="base64">cHJpbnQoImN1cnJlbnQgbG9nZ2luZyBsZXZlbDoge30iLmZvcm1hdChsb2dnZXIuZ2V0RWZmZWN0aXZlTGV2ZWwoKSkpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
